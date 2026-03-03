@@ -43,8 +43,8 @@
     "description": "Description",
     "keywords": "Related Keywords",
     "useCases": "Use Cases",
-    "openInExpress": "Copy Marketplace Link",
-    "urlCopied": "URL copied — paste in your browser to open",
+    "openInExpress": "Copy Add-on ID",
+    "idCopied": "Add-on ID copied — paste in Express search box",
     "viewDetails": "Details"
   },
   "browse": {

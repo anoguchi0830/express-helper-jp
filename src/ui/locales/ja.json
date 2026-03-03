@@ -43,8 +43,8 @@
     "description": "説明",
     "keywords": "関連キーワード",
     "useCases": "こんな時に便利",
-    "openInExpress": "MarketplaceのURLをコピー",
-    "urlCopied": "URLをコピーしました — ブラウザに貼り付けて開いてください",
+    "openInExpress": "検索用IDをコピー",
+    "idCopied": "アドオンIDをコピーしました — Expressの検索窓に貼り付けてください",
     "viewDetails": "詳細"
   },
   "browse": {

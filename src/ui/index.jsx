@@ -10,8 +10,10 @@ import AddonListItem from './components/AddonListItem';
 import CategoryList from './components/CategoryList';
 import AddonModal from './components/AddonModal';
 import { detectLanguage, t, getLocalizedField, getLocalizedCategory } from './utils/i18n';
-import { getMarketplaceUrl } from './utils/marketplace';
 import { CATEGORY_ICONS } from './utils/constants';
+
+// addOnId が判明しているアドオンのみ使用（不明なものは除外）
+const ADDONS = addonsData.addons.filter(a => a.marketplaceUrl);
 import './styles/styles.css';
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -38,7 +40,7 @@ function searchAddons(query, locale) {
   if (!query.trim()) return [];
   const lowerQuery = query.toLowerCase();
 
-  return addonsData.addons
+  return ADDONS
     .map(addon => ({ addon, score: scoreAddon(addon, lowerQuery, locale) }))
     .filter(({ score }) => score > 0)
     .sort((a, b) => b.score - a.score)   // 関連度降順
@@ -210,17 +212,20 @@ function App() {
     setView('search');
   };
 
-  // Marketplace URL をクリップボードにコピーしてトースト表示
+  // addOnId をクリップボードにコピーしてトースト表示
   const openInExpress = async (addon) => {
-    const url = getMarketplaceUrl(addon);
+    const match = (addon.marketplaceUrl || '').match(/addOnId=([^&]+)/);
+    const addOnId = match ? match[1] : null;
+    if (!addOnId) return;
+
     let copied = false;
     try {
-      await navigator.clipboard.writeText(url);
+      await navigator.clipboard.writeText(addOnId);
       copied = true;
     } catch {
       try {
         const ta = document.createElement('textarea');
-        ta.value = url;
+        ta.value = addOnId;
         ta.style.cssText = 'position:fixed;opacity:0;pointer-events:none';
         document.body.appendChild(ta);
         ta.focus();
@@ -233,22 +238,22 @@ function App() {
     }
     if (copied) {
       if (toastTimerRef.current) clearTimeout(toastTimerRef.current);
-      setToast(t('addon.urlCopied', locale));
+      setToast(t('addon.idCopied', locale));
       toastTimerRef.current = setTimeout(() => setToast(null), 3500);
     }
   };
 
   // 派生データ
   const searchResults   = sortAddons(searchAddons(searchQuery, locale), sortId === 'default' ? 'default' : sortId, locale);
-  const featuredAddons  = addonsData.addons.filter(a => a.featured);
-  const allAddons       = sortAddons(addonsData.addons, sortId, locale);
+  const featuredAddons  = ADDONS.filter(a => a.featured);
+  const allAddons       = sortAddons(ADDONS, sortId, locale);
   const categoryAddons  = sortAddons(
-    selectedCategory ? addonsData.addons.filter(a => a.category === selectedCategory) : [],
+    selectedCategory ? ADDONS.filter(a => a.category === selectedCategory) : [],
     sortId, locale
   );
 
   const categories = Object.keys(addonsData.metadata.categories)
-    .map(id => ({ id, count: addonsData.addons.filter(a => a.category === id).length }))
+    .map(id => ({ id, count: ADDONS.filter(a => a.category === id).length }))
     .filter(c => c.count > 0);
 
   return (
@@ -293,7 +298,7 @@ function App() {
           {/* 全アドオン一覧へのリンク */}
           <div style={styles.viewAllWrap}>
             <button style={styles.viewAllBtn} onClick={handleViewAll}>
-              {t('browse.viewAll', locale, { count: addonsData.addons.length })} →
+              {t('browse.viewAll', locale, { count: ADDONS.length })} →
             </button>
           </div>
 
