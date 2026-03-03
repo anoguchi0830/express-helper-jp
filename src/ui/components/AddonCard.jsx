@@ -27,11 +27,14 @@ export default function AddonCard({ addon, locale, onClick }) {
 const styles = {
   card: {
     backgroundColor: '#FFFFFF',
-    border: '1px solid #E0E0E0',
+    borderWidth: '1px',
+    borderStyle: 'solid',
+    borderColor: '#E0E0E0',
     borderRadius: '10px',
     padding: '14px',
     textAlign: 'center',
     cursor: 'pointer',
+    outline: 'none',
     transition: 'box-shadow 0.18s ease, transform 0.18s ease, border-color 0.18s ease'
   },
   cardHover: {
