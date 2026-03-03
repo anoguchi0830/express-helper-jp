@@ -23,11 +23,13 @@ Adobe Express
 ```
 
 ### UI Runtime（`src/ui/`）
-- React 18 + CSS-in-JS（`styles` オブジェクト）で実装
+- React 18 + CSS-in-JS（`styles` オブジェクト）+ 一部 `styles/styles.css` で実装
 - Adobe Add-on SDK を CDN から読み込み（`addOnUISdk.ready` を待ってから React をマウント）
-- コンポーネントはすべて `index.jsx` に集約されている（モノリシック構成）
-  - `AddonSearchPortal`（メイン）、`AddonCard`、`AddonListItem`、`AddonModal`
+- コンポーネントは `src/ui/components/` に分割済み
+  - `AddonCard`, `AddonListItem`, `AddonModal`, `CategoryList`, `LanguageSwitcher`, `SearchBar`
+- `index.jsx` は App コンポーネント + Toast + `ADDONS` 定数を担当
 - ビュー状態: `'home'` / `'search'`（`view` state で切り替え）
+- 言語: EN / JA / KO（`detectLanguage()` で自動検出、`LanguageSwitcher` で手動切替）
 
 ### Sandbox Runtime（`src/sandbox/code.js`）
 - Express の Document API を操作する
@@ -38,9 +40,19 @@ Adobe Express
 
 | ファイル | 役割 |
 |----------|------|
-| `src/ui/index.jsx` | UI 全体（コンポーネント + スタイル定義） |
-| `src/ui/data/addons_data.json` | アドオンマスターデータ（45件） |
-| `src/sandbox/code.js` | Sandbox API（Express ドキュメント操作） |
+| `src/ui/index.jsx` | UI メイン（App + Toast + `ADDONS` 定数） |
+| `src/ui/data/addons_data.json` | アドオンマスターデータ（424件、表示419件） |
+| `src/ui/components/AddonCard.jsx` | ホーム画面グリッドカード |
+| `src/ui/components/AddonListItem.jsx` | リスト行（詳細ボタン + IDコピーボタン） |
+| `src/ui/components/AddonModal.jsx` | 詳細モーダル（fade/slide、Escape で閉じる） |
+| `src/ui/components/CategoryList.jsx` | カテゴリ一覧 |
+| `src/ui/components/LanguageSwitcher.jsx` | EN/JA/KO 切替 |
+| `src/ui/components/SearchBar.jsx` | 検索バー |
+| `src/ui/utils/i18n.js` | 翻訳ヘルパー（t, getLocalizedField, detectLanguage） |
+| `src/ui/utils/constants.js` | `CATEGORY_ICONS` マップ |
+| `src/ui/styles/styles.css` | パネルレイアウト + アニメーション定義 |
+| `src/ui/locales/en.json` / `ja.json` / `ko.json` | 多言語テキスト |
+| `src/sandbox/code.js` | Sandbox API（テンプレートのまま） |
 | `manifest.json` | Add-on メタデータ（testId, entryPoints） |
 | `webpack.config.js` | ビルド設定（2エントリーポイント: index + code） |
 
@@ -51,43 +63,134 @@ Adobe Express
 ```json
 {
   "id": "addon-id",
+  "addOnId": "marketplace-addon-id",
   "nameEn": "English Name",
   "nameJa": "日本語名",
+  "nameKo": "한국어 이름",
   "category": "category-key",
   "categoryJa": "カテゴリ名",
-  "description": "日本語説明文",
-  "keywords": ["キーワード1", "キーワード2"],
+  "description": "英語説明文",
+  "descriptionJa": "日本語説明文（手動翻訳）",
+  "descriptionKo": "한국어 설명（手動翻訳）",
+  "keywords": ["keyword1", "keyword2"],
+  "keywordsJa": ["キーワード1", "キーワード2"],
+  "keywordsKo": ["키워드1", "키워드2"],
   "featured": true,
-  "marketplaceUrl": "https://...",
+  "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=xxxxx",
   "rating": 4.5,
   "userCount": "10K+"
 }
 ```
 
-### カテゴリ一覧（8カテゴリ）
+- `marketplaceUrl` 形式: `https://new.express.adobe.com/add-ons?addOnId=<addOnId>`
+- `addOnId` なし（空文字）のエントリは `ADDONS` 定数でフィルター除外される（5件）
 
-| id | 日本語名 |
-|----|----------|
-| design-assets | デザイン素材 |
+### カテゴリ一覧（23カテゴリ）
+
+| id | 概要 |
+|----|------|
 | accessibility | アクセシビリティ |
-| ai | AI・音声/動画 |
+| advertising | 広告 |
+| ai | AI |
+| ai-audio | AI音声 |
+| ai-video | AI動画 |
+| audio | オーディオ |
+| audio-social | 音声SNS |
+| brand | ブランド |
+| dam | デジタルアセット管理 |
+| design | デザイン |
+| design-assets | デザイン素材 |
+| design-text | テキストデザイン |
+| enterprise-dam | エンタープライズDAM |
+| form | フォーム |
+| i18n | 国際化 |
+| marketing | マーケティング |
+| project-mgmt | プロジェクト管理 |
+| publishing | パブリッシング |
+| social | SNS |
+| social-ai | SNS×AI |
 | storage | ストレージ連携 |
-| marketing | SNS・マーケティング |
+| typography | タイポグラフィ |
 | utility | ユーティリティ |
-| audio | 音楽・オーディオ |
-| text | テキスト効果 |
+
+## プロジェクト固有スキル
+
+### i18n ヘルパー（`src/ui/utils/i18n.js`）
+- `t(key, locale)` — ロケールキーから翻訳文字列を取得
+- `getLocalizedField(addon, 'name', locale)` — `nameJa/En/Ko` の優先取得
+- `getLocalizedCategory(category, locale)` — カテゴリキーの翻訳
+- `detectLanguage()` — ブラウザ言語の自動検出
+
+### ADDONS フィルター定数（`index.jsx` モジュールレベル）
+
+```javascript
+const ADDONS = addonsData.addons.filter(a => a.marketplaceUrl);
+```
+
+検索・カテゴリ・全件・ホームのすべてで `ADDONS` を使用（`addonsData.addons` は直接使わない）。
+
+### addOnId の抽出
+
+```javascript
+const match = (addon.marketplaceUrl || '').match(/addOnId=([^&]+)/);
+const addOnId = match ? match[1] : null;
+```
+
+### クリップボードコピー（execCommand フォールバック必須）
+
+`navigator.clipboard.writeText()` が sandbox でブロックされるため、必ず `document.execCommand('copy')` フォールバックを実装する。
+
+### Hover エフェクト
+
+CSS `:hover` は inline style に効かないため、`onMouseEnter` / `onMouseLeave` + `useState` で制御する。
+
+### Border の inline style
+
+CSS transition のため `border` shorthand ではなく `borderWidth` / `borderStyle` / `borderColor` longhand を使う。
+
+## 禁止事項
+
+| # | 禁止 | 理由 |
+|---|------|------|
+| 1 | `manifest.json` の `testId` を変更 | アドオン ID が壊れる |
+| 2 | `window.open()` で外部URL を開く | COOP ヘッダーでブロックされる |
+| 3 | `navigator.clipboard.writeText()` のみ使用 | sandbox でブロック（`execCommand` フォールバック必須） |
+| 4 | `addonsData.addons` を直接参照 | `addOnId` なしエントリが混入する（`ADDONS` 定数を使う） |
+| 5 | `descriptionJa` / `descriptionKo` の自動翻訳 | ユーザーが手動翻訳する方針 |
+| 6 | 外部 CSS ファイルを新たに追加 | CSS-in-JS（`styles` オブジェクト）が方針 |
+| 7 | `claude -p` をスクリプト内から実行 | ネストされた Claude セッションはエラー |
+| 8 | `border` shorthand を inline style に使用 | CSS transition が機能しない（longhand 必須） |
+| 9 | `testId` を URL に使用 | `testId` ≠ `addOnId`（URL に使えるのは `addOnId` のみ） |
 
 ## 既知の技術的負債
 
-- **データ二重管理**: `addons_data.json` が存在するが、`index.jsx` 内にも `sampleAddons` がハードコードされており、JSON ファイルは未使用
-- **モノリシック構成**: UI コンポーネントがすべて `index.jsx` 1ファイルに集約（572行）
-- **未使用ファイル**: `src/ui/components/App.jsx` / `App.css` はテンプレート由来で未使用
+- **未使用ファイル**: `src/ui/components/App.jsx` / `App.css` / `src/ui/utils/marketplace.js` がテンプレート由来で残存
 - **`code.js` の未活用**: Sandbox API は `createRectangle()` のみ（テンプレートのまま）
+- **翻訳未完**: `descriptionJa` / `descriptionKo` は新規382件が未翻訳（手動翻訳を待つ）
+
+## 技術的負債解消ネクストアクション
+
+### フェーズ A: クリーンアップ（完了）
+- [x] `src/ui/components/App.jsx` を削除（テンプレート由来、未使用）
+- [x] `src/ui/components/App.css` を削除（同上）
+- [x] `src/ui/utils/marketplace.js` を削除（未使用）
+
+### フェーズ B: 申請準備
+- [ ] `manifest.json` に多言語メタデータ追加（name/description EN/JA/KO）
+- [ ] アイコン画像 512×512px を作成 → `src/ui/icons/` に配置
+- [ ] スクリーンショット 5 枚（日本語 UI）→ `src/ui/screenshots/` に配置
+
+### フェーズ C: データ補完
+- [ ] 残り5件（`text-gradient-pro`, `undraw`, `tiktok-music`, `mockuuups`, `vcard-generator`）の `marketplaceUrl` を調査・入力
+  - Adobe Marketplace で名前検索 → `addOnId` 取得 → `https://new.express.adobe.com/add-ons?addOnId=xxxxx`
+
+### フェーズ D: 申請
+- [ ] Adobe Developer Console でレビュー申請
 
 ## スタイリング方針
 
-- CSS-in-JS（`const styles = {}` オブジェクト）を使用
-- 外部 CSS ファイルなし
+- CSS-in-JS（`const styles = {}` オブジェクト）+ `src/ui/styles/styles.css`（レイアウト・アニメーション）
+- 新規スタイルは原則 CSS-in-JS に追加する（外部 CSS ファイルを増やさない）
 - カラーパレット: プライマリ `#0066FF`、背景 `#F5F7FA`、テキスト `#1E1E1E`、サブ `#666`
 - フォント: `"Noto Sans JP", sans-serif`
 - 幅は最大 400px（パネル UI 想定）
