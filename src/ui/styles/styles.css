@@ -1,0 +1,108 @@
+/* ===== 基盤リセット（パネル向け） ===== */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden; /* パネル自体はスクロールさせない */
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Noto Sans JP", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #1E1E1E;
+  background: #FFFFFF;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: inherit;
+}
+
+/* ===== パネルレイアウト ===== */
+#root {
+  height: 100%;
+}
+
+.panel-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  background: #FFFFFF;
+}
+
+/* ヘッダー固定エリア */
+.panel-top {
+  flex-shrink: 0; /* 縮まない */
+}
+
+/* スクロール対象のコンテンツエリア */
+.panel-content {
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+
+.panel-content::-webkit-scrollbar {
+  width: 4px;
+}
+.panel-content::-webkit-scrollbar-thumb {
+  background: #D8D8D8;
+  border-radius: 4px;
+}
+
+/* ===== ローディング画面 ===== */
+.loading-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  gap: 16px;
+  color: #666;
+}
+
+.loading-spinner {
+  width: 32px;
+  height: 32px;
+  border: 3px solid #E0E0E0;
+  border-top-color: #0066FF;
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* ===== セクション切り替えアニメーション ===== */
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.section-animate {
+  animation: fadeSlideIn 0.22s ease-out;
+}
+
+/* ===== リストアイテム stagger フェードイン ===== */
+@keyframes itemFadeIn {
+  from { opacity: 0; transform: translateX(-6px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+
+.result-item {
+  animation: itemFadeIn 0.18s ease-out both;
+}
+
+/* ===== レスポンシブ: 320px未満でグリッドを1列に ===== */
+@media (max-width: 320px) {
+  .addon-grid {
+    grid-template-columns: 1fr !important;
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Express Helper",
+    "subtitle": "Adobe Expressのアドオンを日本語で検索"
+  },
+  "search": {
+    "placeholder": "検索 (例: QRコード、音楽、アイコン)",
+    "resultsCount": "\"{{query}}\" の検索結果 ({{count}}件)",
+    "noResults": "該当するアドオンが見つかりませんでした。別のキーワードで検索してみてください。"
+  },
+  "sections": {
+    "featured": "人気のアドオン",
+    "categories": "カテゴリから探す",
+    "recent": "最近追加されたアドオン"
+  },
+  "categories": {
+    "accessibility": "アクセシビリティ",
+    "advertising": "広告・マーケティング",
+    "ai": "AI",
+    "ai-audio": "AI・音声",
+    "ai-video": "AI・動画",
+    "audio": "音楽・オーディオ",
+    "audio-social": "音楽・SNS",
+    "brand": "ブランド管理",
+    "dam": "アセット管理",
+    "design": "デザイン",
+    "design-assets": "デザイン素材",
+    "design-text": "デザイン・テキスト効果",
+    "enterprise-dam": "エンタープライズアセット管理",
+    "form": "フォーム",
+    "i18n": "多言語",
+    "marketing": "マーケティング",
+    "project-mgmt": "プロジェクト管理",
+    "publishing": "出版",
+    "social": "SNS",
+    "social-ai": "SNS・AI",
+    "storage": "ストレージ連携",
+    "typography": "タイポグラフィ",
+    "utility": "ユーティリティ"
+  },
+  "addon": {
+    "category": "カテゴリ",
+    "description": "説明",
+    "keywords": "関連キーワード",
+    "useCases": "こんな時に便利",
+    "openInExpress": "MarketplaceのURLをコピー",
+    "urlCopied": "URLをコピーしました — ブラウザに貼り付けて開いてください",
+    "viewDetails": "詳細"
+  },
+  "browse": {
+    "allAddons": "すべてのアドオン",
+    "viewAll": "すべて見る ({{count}}件)",
+    "suggestedKeywords": "こちらのキーワードを試してみてください："
+  },
+  "sort": {
+    "default": "デフォルト",
+    "name": "名前順"
+  },
+  "actions": {
+    "close": "✕ 閉じる"
+  }
+}

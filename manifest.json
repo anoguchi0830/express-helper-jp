@@ -1,0 +1,22 @@
+{
+    "testId": "4fb010bf-e327-4fb0-a9cd-2f6b05b5ea97",
+    "name": "Express Helper Jp",
+    "version": "1.0.0",
+    "manifestVersion": 2,
+    "requirements": {
+        "apps": [
+            {
+                "name": "Express",
+                "apiVersion": 1
+            }
+        ]
+    },
+    "entryPoints": [
+        {
+            "type": "panel",
+            "id": "panel1",
+            "main": "index.html",
+            "documentSandbox": "code.js"
+        }
+    ]
+}

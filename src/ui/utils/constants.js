@@ -1,0 +1,26 @@
+// カテゴリIDとそれに対応する絵文字アイコン
+export const CATEGORY_ICONS = {
+  'accessibility':  '♿',
+  'advertising':    '📢',
+  'ai':             '🤖',
+  'ai-audio':       '🎙️',
+  'ai-video':       '🎬',
+  'audio':          '🎵',
+  'audio-social':   '🎶',
+  'brand':          '🏷️',
+  'dam':            '🗄️',
+  'design':         '✏️',
+  'design-assets':  '🎨',
+  'design-text':    '🔤',
+  'enterprise-dam': '🏢',
+  'form':           '📋',
+  'i18n':           '🌐',
+  'marketing':      '🎯',
+  'project-mgmt':   '📊',
+  'publishing':     '📖',
+  'social':         '📱',
+  'social-ai':      '🤳',
+  'storage':        '📦',
+  'typography':     '🖋️',
+  'utility':        '⚙️'
+};

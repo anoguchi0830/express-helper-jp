@@ -1,0 +1,1824 @@
+{
+  "addons": [
+    {
+      "id": "accessify",
+      "nameEn": "Accessify",
+      "nameJa": "アクセシビリティチェッカー",
+      "nameKo": "접근성 검사기",
+      "category": "accessibility",
+      "categoryJa": "アクセシビリティ",
+      "description": "WCAGコンプライアンスチェック、色のコントラスト比分析、アクセシブルな色の提案機能。デザインが誰にでも使いやすいかチェックできます。",
+      "descriptionEn": "Check WCAG compliance, analyze color contrast ratios, and get suggestions for accessible color combinations. Ensure your designs are usable by everyone, including people with visual impairments, directly within Adobe Express.",
+      "descriptionJa": "WCAGコンプライアンスチェック、色のコントラスト比分析、アクセシブルな色の提案機能。デザインが誰にでも使いやすいかチェックできます。",
+      "descriptionKo": "WCAG 준수 여부 확인, 색상 대비 비율 분석, 접근성 높은 색상 제안 기능을 제공합니다. 시각 장애인을 포함한 모든 사람이 사용하기 쉬운 디자인인지 Adobe Express에서 바로 확인할 수 있습니다.",
+      "keywords": [
+        "アクセシビリティ",
+        "WCAG",
+        "色盲",
+        "コントラスト",
+        "バリアフリー",
+        "ユニバーサルデザイン"
+      ],
+      "keywordsEn": [
+        "accessibility",
+        "WCAG",
+        "color blindness",
+        "contrast",
+        "barrier-free",
+        "universal design"
+      ],
+      "keywordsJa": [
+        "アクセシビリティ",
+        "WCAG",
+        "色盲",
+        "コントラスト",
+        "バリアフリー",
+        "ユニバーサルデザイン"
+      ],
+      "keywordsKo": [
+        "접근성",
+        "WCAG",
+        "색맹",
+        "대비",
+        "배리어 프리",
+        "유니버설 디자인"
+      ],
+      "featured": true,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wji52hkm6"
+    },
+    {
+      "id": "amazon-ads",
+      "nameEn": "Amazon Ads",
+      "nameJa": "Amazon広告",
+      "nameKo": "Amazon Ads",
+      "category": "advertising",
+      "categoryJa": "広告・マーケティング",
+      "description": "Amazon広告を直接作成、コンプライアンスチェック、公開まで一貫して実行できます。",
+      "descriptionEn": "Create Amazon Ads directly within Adobe Express, check compliance requirements, and publish your campaigns seamlessly. Streamline your entire Amazon advertising workflow from design to deployment without switching between tools.",
+      "descriptionJa": "Amazon広告を直接作成、コンプライアンスチェック、公開まで一貫して実行できます。",
+      "descriptionKo": "Adobe Express에서 직접 Amazon 광고를 제작하고, 컴플라이언스 요건을 확인하며, 캠페인을 원활하게 게시할 수 있습니다. 도구를 전환하지 않고 디자인부터 게시까지 Amazon 광고 워크플로우 전체를 간소화합니다.",
+      "keywords": [
+        "Amazon",
+        "広告",
+        "マーケティング",
+        "EC",
+        "eコマース",
+        "販促"
+      ],
+      "keywordsEn": [
+        "Amazon",
+        "advertising",
+        "marketing",
+        "EC",
+        "e-commerce",
+        "promotion"
+      ],
+      "keywordsJa": [
+        "Amazon",
+        "広告",
+        "マーケティング",
+        "EC",
+        "eコマース",
+        "販促"
+      ],
+      "keywordsKo": [
+        "Amazon",
+        "광고",
+        "마케팅",
+        "EC",
+        "이커머스",
+        "판촉"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w9mh3klii"
+    },
+    {
+      "id": "attention-insight",
+      "nameEn": "Attention Insight",
+      "nameJa": "注目度分析",
+      "nameKo": "주목도 분석",
+      "category": "marketing",
+      "categoryJa": "マーケティング",
+      "description": "デザインのどこが目を引くか、ユーザーの注目度を分析してマーケティング効果を最大化します。",
+      "descriptionEn": "Analyze where users focus their attention in your designs using AI-powered attention heatmaps. Maximize marketing effectiveness by understanding which elements capture the most visual interest before publishing.",
+      "descriptionJa": "デザインのどこが目を引くか、ユーザーの注目度を分析してマーケティング効果を最大化します。",
+      "descriptionKo": "AI 기반 주목도 히트맵을 사용하여 디자인의 어느 부분에 사용자 시선이 집중되는지 분석합니다. 게시 전에 어떤 요소가 가장 많은 시각적 관심을 끄는지 파악해 마케팅 효과를 극대화하세요.",
+      "keywords": [
+        "マーケティング",
+        "分析",
+        "注目度",
+        "ヒートマップ",
+        "視線追跡"
+      ],
+      "keywordsEn": [
+        "marketing",
+        "analysis",
+        "attention",
+        "heatmap",
+        "eye tracking"
+      ],
+      "keywordsJa": [
+        "マーケティング",
+        "分析",
+        "注目度",
+        "ヒートマップ",
+        "視線追跡"
+      ],
+      "keywordsKo": [
+        "마케팅",
+        "분석",
+        "주목도",
+        "히트맵",
+        "시선 추적"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w24l72ngh"
+    },
+    {
+      "id": "bulk-barcode-generator",
+      "nameEn": "Bulk Barcode Generator",
+      "nameJa": "バーコード一括生成",
+      "nameKo": "바코드 일괄 생성",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "大量のバーコードを一度に生成できます。在庫管理や商品ラベル作成に最適。",
+      "descriptionEn": "Generate large quantities of barcodes in a single operation. Ideal for inventory management, product labeling, and retail workflows where you need to produce hundreds or thousands of unique codes efficiently.",
+      "descriptionJa": "大量のバーコードを一度に生成できます。在庫管理や商品ラベル作成に最適。",
+      "descriptionKo": "한 번의 작업으로 대량의 바코드를 생성할 수 있습니다. 재고 관리, 제품 라벨링, 수백~수천 개의 고유 코드를 효율적으로 생성해야 하는 소매 워크플로우에 이상적입니다.",
+      "keywords": [
+        "バーコード",
+        "一括生成",
+        "在庫管理",
+        "商品",
+        "ラベル",
+        "大量"
+      ],
+      "keywordsEn": [
+        "barcode",
+        "bulk generation",
+        "inventory management",
+        "product",
+        "label",
+        "batch"
+      ],
+      "keywordsJa": [
+        "バーコード",
+        "一括生成",
+        "在庫管理",
+        "商品",
+        "ラベル",
+        "大量"
+      ],
+      "keywordsKo": [
+        "바코드",
+        "일괄 생성",
+        "재고 관리",
+        "상품",
+        "라벨",
+        "대량"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w146nn321"
+    },
+    {
+      "id": "color-blindness-simulator",
+      "nameEn": "Color Blindness Simulator",
+      "nameJa": "色覚異常シミュレーター",
+      "nameKo": "색각 이상 시뮬레이터",
+      "category": "accessibility",
+      "categoryJa": "アクセシビリティ",
+      "description": "色覚異常の方にどう見えるかシミュレーションできます。より多くの人に伝わるデザインを作成。",
+      "descriptionEn": "Simulate how your design appears to people with various types of color blindness. Create more inclusive designs that communicate effectively to a wider audience by previewing multiple color vision deficiency conditions.",
+      "descriptionJa": "色覚異常の方にどう見えるかシミュレーションできます。より多くの人に伝わるデザインを作成。",
+      "descriptionKo": "다양한 유형의 색맹을 가진 사람들에게 디자인이 어떻게 보이는지 시뮬레이션합니다. 여러 색각 이상 조건을 미리 보고 더 넓은 시청자에게 효과적으로 전달되는 포용적인 디자인을 만드세요.",
+      "keywords": [
+        "色覚異常",
+        "色盲",
+        "アクセシビリティ",
+        "シミュレーション",
+        "バリアフリー"
+      ],
+      "keywordsEn": [
+        "color blindness",
+        "color vision deficiency",
+        "accessibility",
+        "simulation",
+        "barrier-free"
+      ],
+      "keywordsJa": [
+        "色覚異常",
+        "色盲",
+        "アクセシビリティ",
+        "シミュレーション",
+        "バリアフリー"
+      ],
+      "keywordsKo": [
+        "색각 이상",
+        "색맹",
+        "접근성",
+        "시뮬레이션",
+        "배리어 프리"
+      ],
+      "featured": true,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3n7k0gni"
+    },
+    {
+      "id": "contrast-checker",
+      "nameEn": "Contrast Checker",
+      "nameJa": "コントラストチェッカー",
+      "nameKo": "대비 검사기",
+      "category": "accessibility",
+      "categoryJa": "アクセシビリティ",
+      "description": "テキストと背景のコントラスト比をチェックし、読みやすさを確保します。",
+      "descriptionEn": "Check the contrast ratio between text and background colors to ensure readability for all users. Instantly verify whether your design meets WCAG AA or AAA accessibility standards for legible, inclusive content.",
+      "descriptionJa": "テキストと背景のコントラスト比をチェックし、読みやすさを確保します。",
+      "descriptionKo": "텍스트와 배경색 간의 대비 비율을 확인하여 모든 사용자가 읽기 쉬운 콘텐츠를 만드세요. 디자인이 WCAG AA 또는 AAA 접근성 기준을 충족하는지 즉시 확인할 수 있습니다.",
+      "keywords": [
+        "コントラスト",
+        "読みやすさ",
+        "アクセシビリティ",
+        "WCAG",
+        "色"
+      ],
+      "keywordsEn": [
+        "contrast",
+        "readability",
+        "accessibility",
+        "WCAG",
+        "color"
+      ],
+      "keywordsJa": [
+        "コントラスト",
+        "読みやすさ",
+        "アクセシビリティ",
+        "WCAG",
+        "色"
+      ],
+      "keywordsKo": [
+        "대비",
+        "가독성",
+        "접근성",
+        "WCAG",
+        "색상"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgg36h116"
+    },
+    {
+      "id": "dropbox",
+      "nameEn": "Dropbox",
+      "nameJa": "Dropbox",
+      "nameKo": "Dropbox",
+      "category": "storage",
+      "categoryJa": "ストレージ連携",
+      "description": "Dropboxからファイルを直接追加したり、作成したデザインを保存できます。",
+      "descriptionEn": "Add files directly from your Dropbox account or save your Adobe Express designs back to Dropbox with ease. Seamlessly bridge your cloud storage and creative workflow without leaving the Express panel.",
+      "descriptionJa": "Dropboxからファイルを直接追加したり、作成したデザインを保存できます。",
+      "descriptionKo": "Dropbox 계정에서 파일을 직접 추가하거나 Adobe Express 디자인을 Dropbox에 손쉽게 저장하세요. Express 패널을 벗어나지 않고 클라우드 스토리지와 크리에이티브 워크플로우를 원활하게 연결합니다.",
+      "keywords": [
+        "Dropbox",
+        "ストレージ",
+        "クラウド",
+        "ファイル",
+        "保存"
+      ],
+      "keywordsEn": [
+        "Dropbox",
+        "storage",
+        "cloud",
+        "file",
+        "save"
+      ],
+      "keywordsJa": [
+        "Dropbox",
+        "ストレージ",
+        "クラウド",
+        "ファイル",
+        "保存"
+      ],
+      "keywordsKo": [
+        "Dropbox",
+        "스토리지",
+        "클라우드",
+        "파일",
+        "저장"
+      ],
+      "featured": true,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wh0nlii37"
+    },
+    {
+      "id": "box",
+      "nameEn": "Box",
+      "nameJa": "Box",
+      "nameKo": "Box",
+      "category": "storage",
+      "categoryJa": "ストレージ連携",
+      "description": "Boxからファイルを直接追加したり、作成したデザインを保存できます。",
+      "descriptionEn": "Access and add files from your Box account directly into Adobe Express, or save your finished designs back to Box for enterprise-grade secure storage. Perfect for teams and businesses using Box for content management.",
+      "descriptionJa": "Boxからファイルを直接追加したり、作成したデザインを保存できます。",
+      "descriptionKo": "Box 계정의 파일을 Adobe Express에 직접 추가하거나, 완성된 디자인을 Box에 저장하여 엔터프라이즈급 보안 스토리지를 활용하세요. 콘텐츠 관리에 Box를 사용하는 팀과 기업에 적합합니다.",
+      "keywords": [
+        "Box",
+        "ストレージ",
+        "クラウド",
+        "ファイル",
+        "保存",
+        "ビジネス"
+      ],
+      "keywordsEn": [
+        "Box",
+        "storage",
+        "cloud",
+        "file",
+        "save",
+        "business"
+      ],
+      "keywordsJa": [
+        "Box",
+        "ストレージ",
+        "クラウド",
+        "ファイル",
+        "保存",
+        "ビジネス"
+      ],
+      "keywordsKo": [
+        "Box",
+        "스토리지",
+        "클라우드",
+        "파일",
+        "저장",
+        "비즈니스"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w22974n3m"
+    },
+    {
+      "id": "google-drive",
+      "nameEn": "Google Drive",
+      "nameJa": "Google ドライブ",
+      "nameKo": "Google Drive",
+      "category": "storage",
+      "categoryJa": "ストレージ連携",
+      "description": "Google Driveからファイルを直接追加したり、作成したデザインを保存できます。",
+      "descriptionEn": "Add files from Google Drive directly into your Adobe Express projects, or save your designs back to Google Drive for easy sharing and collaboration. Integrate your Google workspace seamlessly with your creative process.",
+      "descriptionJa": "Google Driveからファイルを直接追加したり、作成したデザインを保存できます。",
+      "descriptionKo": "Google Drive의 파일을 Adobe Express 프로젝트에 직접 추가하거나, 디자인을 Google Drive에 저장하여 손쉽게 공유하고 협업하세요. Google 워크스페이스와 크리에이티브 프로세스를 원활하게 통합합니다.",
+      "keywords": [
+        "Google Drive",
+        "Googleドライブ",
+        "ストレージ",
+        "クラウド",
+        "ファイル"
+      ],
+      "keywordsEn": [
+        "Google Drive",
+        "Google storage",
+        "cloud",
+        "file",
+        "collaboration"
+      ],
+      "keywordsJa": [
+        "Google Drive",
+        "Googleドライブ",
+        "ストレージ",
+        "クラウド",
+        "ファイル"
+      ],
+      "keywordsKo": [
+        "Google Drive",
+        "구글 드라이브",
+        "스토리지",
+        "클라우드",
+        "파일"
+      ],
+      "featured": true,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wkn4094g6"
+    },
+    {
+      "id": "onedrive",
+      "nameEn": "OneDrive",
+      "nameJa": "OneDrive",
+      "nameKo": "OneDrive",
+      "category": "storage",
+      "categoryJa": "ストレージ連携",
+      "description": "OneDriveからファイルを直接追加したり、作成したデザインを保存できます。",
+      "descriptionEn": "Connect your Microsoft OneDrive account to Adobe Express, add files directly to your projects, and save completed designs back to OneDrive. Ideal for Microsoft 365 users who want seamless integration with their existing workflow.",
+      "descriptionJa": "OneDriveからファイルを直接追加したり、作成したデザインを保存できます。",
+      "descriptionKo": "Microsoft OneDrive 계정을 Adobe Express에 연결하고, 파일을 프로젝트에 직접 추가하며, 완성된 디자인을 OneDrive에 저장하세요. 기존 워크플로우와 원활한 통합을 원하는 Microsoft 365 사용자에게 이상적입니다.",
+      "keywords": [
+        "OneDrive",
+        "ストレージ",
+        "Microsoft",
+        "クラウド",
+        "ファイル"
+      ],
+      "keywordsEn": [
+        "OneDrive",
+        "storage",
+        "Microsoft",
+        "cloud",
+        "file"
+      ],
+      "keywordsJa": [
+        "OneDrive",
+        "ストレージ",
+        "Microsoft",
+        "クラウド",
+        "ファイル"
+      ],
+      "keywordsKo": [
+        "OneDrive",
+        "스토리지",
+        "Microsoft",
+        "클라우드",
+        "파일"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1n2h1lgm"
+    },
+    {
+      "id": "gen-voice",
+      "nameEn": "Gen Voice",
+      "nameJa": "AI音声生成",
+      "nameKo": "AI 음성 생성",
+      "category": "ai-audio",
+      "categoryJa": "AI・音声",
+      "description": "AIでリアルな音声を生成。多言語対応で、自分の声を使った音声作成も可能です。",
+      "descriptionEn": "Generate realistic AI voices for your projects with multilingual support. Create professional narrations, voiceovers, and audio content using your own voice or a variety of AI-generated voice profiles across multiple languages.",
+      "descriptionJa": "AIでリアルな音声を生成。多言語対応で、自分の声を使った音声作成も可能です。",
+      "descriptionKo": "AI로 사실적인 음성을 생성하세요. 다국어 지원으로 여러 언어의 전문적인 나레이션, 보이스오버, 오디오 콘텐츠를 자신의 목소리 또는 다양한 AI 음성 프로필로 만들 수 있습니다.",
+      "keywords": [
+        "AI",
+        "音声",
+        "ボイス",
+        "ナレーション",
+        "多言語",
+        "音声合成"
+      ],
+      "keywordsEn": [
+        "AI",
+        "voice",
+        "narration",
+        "text-to-speech",
+        "multilingual",
+        "voice synthesis"
+      ],
+      "keywordsJa": [
+        "AI",
+        "音声",
+        "ボイス",
+        "ナレーション",
+        "多言語",
+        "音声合成"
+      ],
+      "keywordsKo": [
+        "AI",
+        "음성",
+        "보이스",
+        "나레이션",
+        "다국어",
+        "음성 합성"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wi8i20m8l"
+    },
+    {
+      "id": "soundstripe",
+      "nameEn": "Soundstripe",
+      "nameJa": "Soundstripe",
+      "nameKo": "Soundstripe",
+      "category": "audio",
+      "categoryJa": "音楽・オーディオ",
+      "description": "ロイヤリティフリーの高品質音楽ライブラリ。動画やプレゼンに最適な音楽を簡単に追加。",
+      "descriptionEn": "Access a premium royalty-free music library and easily add the perfect soundtrack to your videos and presentations. Browse thousands of high-quality tracks across multiple genres to elevate your Adobe Express projects.",
+      "descriptionJa": "ロイヤリティフリーの高品質音楽ライブラリ。動画やプレゼンに最適な音楽を簡単に追加。",
+      "descriptionKo": "프리미엄 로열티 프리 음악 라이브러리에 접근하여 동영상과 프레젠테이션에 완벽한 사운드트랙을 손쉽게 추가하세요. 다양한 장르의 수천 개 고품질 트랙을 탐색하여 Adobe Express 프로젝트를 한층 돋보이게 만드세요.",
+      "keywords": [
+        "音楽",
+        "BGM",
+        "ロイヤリティフリー",
+        "サウンド",
+        "動画",
+        "オーディオ"
+      ],
+      "keywordsEn": [
+        "music",
+        "BGM",
+        "royalty-free",
+        "sound",
+        "video",
+        "audio"
+      ],
+      "keywordsJa": [
+        "音楽",
+        "BGM",
+        "ロイヤリティフリー",
+        "サウンド",
+        "動画",
+        "オーディオ"
+      ],
+      "keywordsKo": [
+        "음악",
+        "BGM",
+        "로열티 프리",
+        "사운드",
+        "동영상",
+        "오디오"
+      ],
+      "featured": true,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w627122mg"
+    },
+    {
+      "id": "issuu",
+      "nameEn": "Issuu",
+      "nameJa": "Issuu",
+      "nameKo": "Issuu",
+      "category": "publishing",
+      "categoryJa": "出版",
+      "description": "フリップブック（ページめくり式のデジタル冊子）を作成・配信できます。",
+      "descriptionEn": "Create and distribute interactive flipbooks and digital publications directly from Adobe Express. Transform your designs into page-turning digital brochures, catalogs, and magazines with an engaging reader experience.",
+      "descriptionJa": "フリップブック（ページめくり式のデジタル冊子）を作成・配信できます。",
+      "descriptionKo": "Adobe Express에서 인터랙티브 플립북과 디지털 출판물을 직접 제작하고 배포하세요. 디자인을 페이지를 넘기는 디지털 브로셔, 카탈로그, 잡지로 변환하여 매력적인 독자 경험을 제공합니다.",
+      "keywords": [
+        "フリップブック",
+        "電子書籍",
+        "デジタル冊子",
+        "出版",
+        "カタログ"
+      ],
+      "keywordsEn": [
+        "flipbook",
+        "e-book",
+        "digital publication",
+        "publishing",
+        "catalog"
+      ],
+      "keywordsJa": [
+        "フリップブック",
+        "電子書籍",
+        "デジタル冊子",
+        "出版",
+        "カタログ"
+      ],
+      "keywordsKo": [
+        "플립북",
+        "전자책",
+        "디지털 책자",
+        "출판",
+        "카탈로그"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w6658j05k"
+    },
+    {
+      "id": "text-gradient",
+      "nameEn": "Text Gradient",
+      "nameJa": "テキストグラデーション",
+      "nameKo": "텍스트 그라데이션",
+      "category": "design-text",
+      "categoryJa": "デザイン・テキスト効果",
+      "description": "美しいグラデーションテキスト効果を簡単に作成できます。",
+      "descriptionEn": "Easily apply beautiful gradient effects to your text in Adobe Express. Choose from a wide range of color combinations and directions to create eye-catching typography that elevates your design.",
+      "descriptionJa": "美しいグラデーションテキスト効果を簡単に作成できます。",
+      "descriptionKo": "Adobe Express에서 텍스트에 아름다운 그라데이션 효과를 손쉽게 적용하세요. 다양한 색상 조합과 방향 중에서 선택하여 디자인을 돋보이게 하는 눈길을 끄는 타이포그래피를 만드세요.",
+      "keywords": [
+        "グラデーション",
+        "テキスト",
+        "文字",
+        "エフェクト",
+        "デザイン"
+      ],
+      "keywordsEn": [
+        "gradient",
+        "text",
+        "typography",
+        "effect",
+        "design"
+      ],
+      "keywordsJa": [
+        "グラデーション",
+        "テキスト",
+        "文字",
+        "エフェクト",
+        "デザイン"
+      ],
+      "keywordsKo": [
+        "그라데이션",
+        "텍스트",
+        "문자",
+        "효과",
+        "디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=whlm6i043"
+    },
+    {
+      "id": "text-gradient-pro",
+      "nameEn": "Text Gradient Pro",
+      "nameJa": "テキストグラデーション Pro",
+      "nameKo": "텍스트 그라데이션 Pro",
+      "category": "design-text",
+      "categoryJa": "デザイン・テキスト効果",
+      "description": "より高度なグラデーションテキスト効果を作成できるPro版。",
+      "descriptionEn": "The professional version of Text Gradient with advanced controls for creating stunning gradient text effects. Access more color stops, blending modes, and fine-grained customization options for premium typography results.",
+      "descriptionJa": "より高度なグラデーションテキスト効果を作成できるPro版。",
+      "descriptionKo": "멋진 그라데이션 텍스트 효과를 만들기 위한 고급 컨트롤을 갖춘 Text Gradient의 프로 버전입니다. 더 많은 색상 포인트, 블렌딩 모드, 세밀한 커스터마이징 옵션으로 프리미엄 타이포그래피 결과를 얻으세요.",
+      "keywords": [
+        "グラデーション",
+        "テキスト",
+        "Pro",
+        "エフェクト",
+        "デザイン",
+        "高度"
+      ],
+      "keywordsEn": [
+        "gradient",
+        "text",
+        "Pro",
+        "effect",
+        "design",
+        "advanced"
+      ],
+      "keywordsJa": [
+        "グラデーション",
+        "テキスト",
+        "Pro",
+        "エフェクト",
+        "デザイン",
+        "高度"
+      ],
+      "keywordsKo": [
+        "그라데이션",
+        "텍스트",
+        "Pro",
+        "효과",
+        "디자인",
+        "고급"
+      ],
+      "featured": false,
+      "marketplaceUrl": ""
+    },
+    {
+      "id": "undraw",
+      "nameEn": "UnDraw",
+      "nameJa": "UnDraw",
+      "nameKo": "UnDraw",
+      "category": "design-assets",
+      "categoryJa": "デザイン素材",
+      "description": "オープンソースのイラストライブラリ。多彩なイラストをプロジェクトに追加できます。",
+      "descriptionEn": "Access an open-source library of beautiful, customizable illustrations and add them to your Adobe Express projects. Find the perfect illustration for any topic and customize the primary color to match your brand.",
+      "descriptionJa": "オープンソースのイラストライブラリ。多彩なイラストをプロジェクトに追加できます。",
+      "descriptionKo": "아름답고 커스터마이징 가능한 오픈 소스 일러스트레이션 라이브러리에 접근하여 Adobe Express 프로젝트에 추가하세요. 어떤 주제에도 완벽한 일러스트레이션을 찾고 브랜드에 맞게 주요 색상을 커스터마이징하세요.",
+      "keywords": [
+        "イラスト",
+        "素材",
+        "アイコン",
+        "画像",
+        "デザイン"
+      ],
+      "keywordsEn": [
+        "illustration",
+        "asset",
+        "icon",
+        "image",
+        "design"
+      ],
+      "keywordsJa": [
+        "イラスト",
+        "素材",
+        "アイコン",
+        "画像",
+        "デザイン"
+      ],
+      "keywordsKo": [
+        "일러스트레이션",
+        "소재",
+        "아이콘",
+        "이미지",
+        "디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": ""
+    },
+    {
+      "id": "wannathis",
+      "nameEn": "Wannathis",
+      "nameJa": "Wannathis",
+      "nameKo": "Wannathis",
+      "category": "design-assets",
+      "categoryJa": "デザイン素材",
+      "description": "3Dイラストやアートワークを追加できます。",
+      "descriptionEn": "Add stunning 3D illustrations and artwork to your Adobe Express projects. Enhance your designs with premium three-dimensional visual assets that bring depth and a modern aesthetic to any creative work.",
+      "descriptionJa": "3Dイラストやアートワークを追加できます。",
+      "descriptionKo": "Adobe Express 프로젝트에 멋진 3D 일러스트레이션과 아트워크를 추가하세요. 깊이감과 현대적인 미학을 더하는 프리미엄 3D 시각적 자산으로 디자인을 향상시키세요.",
+      "keywords": [
+        "3D",
+        "イラスト",
+        "素材",
+        "アート",
+        "デザイン"
+      ],
+      "keywordsEn": [
+        "3D",
+        "illustration",
+        "asset",
+        "artwork",
+        "design"
+      ],
+      "keywordsJa": [
+        "3D",
+        "イラスト",
+        "素材",
+        "アート",
+        "デザイン"
+      ],
+      "keywordsKo": [
+        "3D",
+        "일러스트레이션",
+        "소재",
+        "아트",
+        "디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl5796m4n"
+    },
+    {
+      "id": "streamline-icons",
+      "nameEn": "Streamline Icons",
+      "nameJa": "Streamline アイコン",
+      "nameKo": "Streamline 아이콘",
+      "category": "design-assets",
+      "categoryJa": "デザイン素材",
+      "description": "10万点以上の高品質アイコンライブラリ。あらゆるデザインに対応。",
+      "descriptionEn": "Access a library of over 100,000 high-quality icons covering every design need. Browse a vast collection of consistent, professionally crafted icons across numerous categories and styles to enhance any project.",
+      "descriptionJa": "10万点以上の高品質アイコンライブラリ。あらゆるデザインに対応。",
+      "descriptionKo": "모든 디자인 요구를 충족하는 10만 개 이상의 고품질 아이콘 라이브러리에 접근하세요. 수많은 카테고리와 스타일에 걸쳐 일관성 있고 전문적으로 제작된 방대한 아이콘 컬렉션을 탐색하세요.",
+      "keywords": [
+        "アイコン",
+        "素材",
+        "ピクトグラム",
+        "シンボル",
+        "デザイン"
+      ],
+      "keywordsEn": [
+        "icon",
+        "asset",
+        "pictogram",
+        "symbol",
+        "design"
+      ],
+      "keywordsJa": [
+        "アイコン",
+        "素材",
+        "ピクトグラム",
+        "シンボル",
+        "デザイン"
+      ],
+      "keywordsKo": [
+        "아이콘",
+        "소재",
+        "픽토그램",
+        "심볼",
+        "디자인"
+      ],
+      "featured": true,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w165n33k3"
+    },
+    {
+      "id": "iconiverse",
+      "nameEn": "Iconiverse",
+      "nameJa": "Iconiverse",
+      "nameKo": "Iconiverse",
+      "category": "design-assets",
+      "categoryJa": "デザイン素材",
+      "description": "多様なアイコンセットを提供。プロジェクトに合ったアイコンが見つかります。",
+      "descriptionEn": "Discover a diverse universe of icon sets for every project style. Find the perfect icon from a curated collection of vector assets that cover a wide range of themes, industries, and visual styles.",
+      "descriptionJa": "多様なアイコンセットを提供。プロジェクトに合ったアイコンが見つかります。",
+      "descriptionKo": "모든 프로젝트 스타일에 맞는 다양한 아이콘 세트를 발견하세요. 다양한 테마, 산업, 시각적 스타일을 아우르는 엄선된 벡터 에셋 컬렉션에서 완벽한 아이콘을 찾아보세요.",
+      "keywords": [
+        "アイコン",
+        "素材",
+        "ベクター",
+        "デザイン"
+      ],
+      "keywordsEn": [
+        "icon",
+        "asset",
+        "vector",
+        "design"
+      ],
+      "keywordsJa": [
+        "アイコン",
+        "素材",
+        "ベクター",
+        "デザイン"
+      ],
+      "keywordsKo": [
+        "아이콘",
+        "소재",
+        "벡터",
+        "디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w17h72hk6"
+    },
+    {
+      "id": "3d-importer",
+      "nameEn": "3D Importer",
+      "nameJa": "3Dインポーター",
+      "nameKo": "3D 임포터",
+      "category": "design-assets",
+      "categoryJa": "デザイン素材",
+      "description": "3Dアセットをプロジェクトにインポートできます。",
+      "descriptionEn": "Import 3D assets directly into your Adobe Express projects. Bring in three-dimensional models and objects to create visually rich, dynamic designs that stand out with depth and realism.",
+      "descriptionJa": "3Dアセットをプロジェクトにインポートできます。",
+      "descriptionKo": "3D 에셋을 Adobe Express 프로젝트에 직접 임포트하세요. 3D 모델과 오브젝트를 가져와 깊이감과 사실감으로 돋보이는 시각적으로 풍부하고 역동적인 디자인을 만드세요.",
+      "keywords": [
+        "3D",
+        "モデル",
+        "インポート",
+        "素材"
+      ],
+      "keywordsEn": [
+        "3D",
+        "model",
+        "import",
+        "asset"
+      ],
+      "keywordsJa": [
+        "3D",
+        "モデル",
+        "インポート",
+        "素材"
+      ],
+      "keywordsKo": [
+        "3D",
+        "모델",
+        "임포트",
+        "소재"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2kjmjj35"
+    },
+    {
+      "id": "social-previewer",
+      "nameEn": "Social Previewer",
+      "nameJa": "SNSプレビュー",
+      "nameKo": "SNS 미리보기",
+      "category": "social",
+      "categoryJa": "SNS",
+      "description": "SNS投稿がどう表示されるかプレビュー確認できます。",
+      "descriptionEn": "Preview how your designs will appear when posted on various social media platforms including Instagram, Twitter, and Facebook. Ensure your content looks perfect across all channels before publishing.",
+      "descriptionJa": "SNS投稿がどう表示されるかプレビュー確認できます。",
+      "descriptionKo": "Instagram, Twitter, Facebook 등 다양한 소셜 미디어 플랫폼에 게시했을 때 디자인이 어떻게 표시되는지 미리 확인하세요. 게시 전에 모든 채널에서 콘텐츠가 완벽하게 보이도록 확인하세요.",
+      "keywords": [
+        "SNS",
+        "プレビュー",
+        "ソーシャルメディア",
+        "Instagram",
+        "Twitter",
+        "Facebook"
+      ],
+      "keywordsEn": [
+        "social media",
+        "preview",
+        "Instagram",
+        "Twitter",
+        "Facebook",
+        "publishing"
+      ],
+      "keywordsJa": [
+        "SNS",
+        "プレビュー",
+        "ソーシャルメディア",
+        "Instagram",
+        "Twitter",
+        "Facebook"
+      ],
+      "keywordsKo": [
+        "SNS",
+        "미리보기",
+        "소셜 미디어",
+        "Instagram",
+        "Twitter",
+        "Facebook"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1900l47n"
+    },
+    {
+      "id": "tiktok-symphony",
+      "nameEn": "TikTok Symphony Assistant",
+      "nameJa": "TikTok アシスタント",
+      "nameKo": "TikTok 어시스턴트",
+      "category": "social-ai",
+      "categoryJa": "SNS・AI",
+      "description": "TikTokコンテンツ作成をAIがサポート。",
+      "descriptionEn": "Let AI assist you in creating compelling TikTok content within Adobe Express. Get intelligent suggestions for scripts, captions, and visual elements optimized for the TikTok platform and its audience.",
+      "descriptionJa": "TikTokコンテンツ作成をAIがサポート。",
+      "descriptionKo": "Adobe Express에서 AI가 매력적인 TikTok 콘텐츠 제작을 지원합니다. TikTok 플랫폼과 사용자에게 최적화된 스크립트, 캡션, 시각적 요소에 대한 지능적인 제안을 받으세요.",
+      "keywords": [
+        "TikTok",
+        "AI",
+        "動画",
+        "SNS",
+        "コンテンツ作成"
+      ],
+      "keywordsEn": [
+        "TikTok",
+        "AI",
+        "video",
+        "social media",
+        "content creation"
+      ],
+      "keywordsJa": [
+        "TikTok",
+        "AI",
+        "動画",
+        "SNS",
+        "コンテンツ作成"
+      ],
+      "keywordsKo": [
+        "TikTok",
+        "AI",
+        "동영상",
+        "SNS",
+        "콘텐츠 제작"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w4lmk8l67"
+    },
+    {
+      "id": "tiktok-music",
+      "nameEn": "TikTok Commercial Music Library",
+      "nameJa": "TikTok 音楽ライブラリ",
+      "nameKo": "TikTok 음악 라이브러리",
+      "category": "audio-social",
+      "categoryJa": "音楽・SNS",
+      "description": "TikTok用商用音楽ライブラリにアクセスできます。",
+      "descriptionEn": "Access TikTok's commercial music library directly within Adobe Express. Find and add licensed tracks cleared for business use on TikTok, eliminating copyright concerns when creating branded content for the platform.",
+      "descriptionJa": "TikTok用商用音楽ライブラリにアクセスできます。",
+      "descriptionKo": "Adobe Express에서 TikTok 상업용 음악 라이브러리에 직접 접근하세요. TikTok 비즈니스 사용이 허가된 라이선스 트랙을 찾아 추가하여 플랫폼용 브랜드 콘텐츠 제작 시 저작권 문제를 해소하세요.",
+      "keywords": [
+        "TikTok",
+        "音楽",
+        "BGM",
+        "SNS",
+        "ロイヤリティフリー"
+      ],
+      "keywordsEn": [
+        "TikTok",
+        "music",
+        "BGM",
+        "social media",
+        "royalty-free"
+      ],
+      "keywordsJa": [
+        "TikTok",
+        "音楽",
+        "BGM",
+        "SNS",
+        "ロイヤリティフリー"
+      ],
+      "keywordsKo": [
+        "TikTok",
+        "음악",
+        "BGM",
+        "SNS",
+        "로열티 프리"
+      ],
+      "featured": false,
+      "marketplaceUrl": ""
+    },
+    {
+      "id": "mockuuups",
+      "nameEn": "Mockuuups.studio",
+      "nameJa": "Mockuuups",
+      "nameKo": "Mockuuups",
+      "category": "design",
+      "categoryJa": "デザイン",
+      "description": "リアルなモックアップ（実機イメージ）を簡単作成。プレゼンに最適。",
+      "descriptionEn": "Easily create realistic device and product mockups directly in Adobe Express. Showcase your designs in real-world contexts using a wide variety of device frames and scene templates, perfect for client presentations and portfolios.",
+      "descriptionJa": "リアルなモックアップ（実機イメージ）を簡単作成。プレゼンに最適。",
+      "descriptionKo": "Adobe Express에서 직접 사실적인 디바이스 및 제품 목업을 손쉽게 만드세요. 다양한 디바이스 프레임과 장면 템플릿을 사용하여 실제 환경에서 디자인을 선보이세요. 클라이언트 프레젠테이션과 포트폴리오에 완벽합니다.",
+      "keywords": [
+        "モックアップ",
+        "プレビュー",
+        "実機",
+        "プレゼン",
+        "デモ"
+      ],
+      "keywordsEn": [
+        "mockup",
+        "preview",
+        "device",
+        "presentation",
+        "demo"
+      ],
+      "keywordsJa": [
+        "モックアップ",
+        "プレビュー",
+        "実機",
+        "プレゼン",
+        "デモ"
+      ],
+      "keywordsKo": [
+        "목업",
+        "미리보기",
+        "실기기",
+        "프레젠테이션",
+        "데모"
+      ],
+      "featured": false,
+      "marketplaceUrl": ""
+    },
+    {
+      "id": "clipping-mask-pro",
+      "nameEn": "Clipping Mask Pro",
+      "nameJa": "クリッピングマスク Pro",
+      "nameKo": "클리핑 마스크 Pro",
+      "category": "design",
+      "categoryJa": "デザイン",
+      "description": "高度なクリッピングマスク機能で画像を自由に切り抜き。",
+      "descriptionEn": "Apply advanced clipping mask techniques to cut out and shape images with precision in Adobe Express. Create sophisticated composites and masked layouts that go beyond basic cropping for more dynamic visual results.",
+      "descriptionJa": "高度なクリッピングマスク機能で画像を自由に切り抜き。",
+      "descriptionKo": "Adobe Express에서 고급 클리핑 마스크 기법을 적용하여 이미지를 정밀하게 잘라내고 모양을 만드세요. 기본 자르기를 넘어 정교한 합성 및 마스크 레이아웃으로 더욱 역동적인 시각적 결과물을 만드세요.",
+      "keywords": [
+        "クリッピングマスク",
+        "切り抜き",
+        "画像編集",
+        "マスク"
+      ],
+      "keywordsEn": [
+        "clipping mask",
+        "cutout",
+        "image editing",
+        "mask"
+      ],
+      "keywordsJa": [
+        "クリッピングマスク",
+        "切り抜き",
+        "画像編集",
+        "マスク"
+      ],
+      "keywordsKo": [
+        "클리핑 마스크",
+        "오려내기",
+        "이미지 편집",
+        "마스크"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w9m8n0h5l"
+    },
+    {
+      "id": "spacefill",
+      "nameEn": "Spacefill",
+      "nameJa": "Spacefill",
+      "nameKo": "Spacefill",
+      "category": "design",
+      "categoryJa": "デザイン",
+      "description": "スペースを効率的に調整・配置するレイアウトツール。",
+      "descriptionEn": "Efficiently manage spacing, alignment, and layout distribution in Adobe Express. Organize and arrange design elements with precision to achieve clean, balanced compositions without tedious manual adjustments.",
+      "descriptionJa": "スペースを効率的に調整・配置するレイアウトツール。",
+      "descriptionKo": "Adobe Express에서 간격, 정렬, 레이아웃 분포를 효율적으로 관리하세요. 지루한 수동 조정 없이 정밀하게 디자인 요소를 정리하고 배치하여 깔끔하고 균형 잡힌 구성을 만드세요.",
+      "keywords": [
+        "レイアウト",
+        "スペース",
+        "配置",
+        "整列",
+        "デザイン"
+      ],
+      "keywordsEn": [
+        "layout",
+        "spacing",
+        "alignment",
+        "arrangement",
+        "design"
+      ],
+      "keywordsJa": [
+        "レイアウト",
+        "スペース",
+        "配置",
+        "整列",
+        "デザイン"
+      ],
+      "keywordsKo": [
+        "레이아웃",
+        "간격",
+        "배치",
+        "정렬",
+        "디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w466h1l71"
+    },
+    {
+      "id": "brandy",
+      "nameEn": "Brandy",
+      "nameJa": "Brandy",
+      "nameKo": "Brandy",
+      "category": "brand",
+      "categoryJa": "ブランド管理",
+      "description": "ブランドスタイルガイドに簡単アクセス。一貫性のあるデザインを維持。",
+      "descriptionEn": "Quickly access your brand's style guide assets directly in Adobe Express to maintain design consistency across all your work. Manage brand colors, fonts, and logos in one place to ensure every design stays on-brand.",
+      "descriptionJa": "ブランドスタイルガイドに簡単アクセス。一貫性のあるデザインを維持。",
+      "descriptionKo": "Adobe Express에서 브랜드 스타일 가이드 에셋에 빠르게 접근하여 모든 작업에서 디자인 일관성을 유지하세요. 브랜드 색상, 폰트, 로고를 한 곳에서 관리하여 모든 디자인이 브랜드에 맞게 유지되도록 하세요.",
+      "keywords": [
+        "ブランド",
+        "スタイルガイド",
+        "ガイドライン",
+        "デザイン"
+      ],
+      "keywordsEn": [
+        "brand",
+        "style guide",
+        "guidelines",
+        "design"
+      ],
+      "keywordsJa": [
+        "ブランド",
+        "スタイルガイド",
+        "ガイドライン",
+        "デザイン"
+      ],
+      "keywordsKo": [
+        "브랜드",
+        "스타일 가이드",
+        "가이드라인",
+        "디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1l08ml4i"
+    },
+    {
+      "id": "frontify",
+      "nameEn": "Frontify",
+      "nameJa": "Frontify",
+      "nameKo": "Frontify",
+      "category": "brand",
+      "categoryJa": "ブランド管理",
+      "description": "Frontifyブランド資産管理プラットフォームと連携。",
+      "descriptionEn": "Connect Adobe Express with the Frontify brand management platform to access your centralized brand assets, guidelines, and templates. Keep your team aligned and ensure brand consistency across all creative output.",
+      "descriptionJa": "Frontifyブランド資産管理プラットフォームと連携。",
+      "descriptionKo": "Adobe Express를 Frontify 브랜드 관리 플랫폼과 연결하여 중앙화된 브랜드 에셋, 가이드라인, 템플릿에 접근하세요. 팀의 일관성을 유지하고 모든 크리에이티브 산출물에서 브랜드 일관성을 보장하세요.",
+      "keywords": [
+        "ブランド",
+        "資産管理",
+        "DAM",
+        "ガイドライン"
+      ],
+      "keywordsEn": [
+        "brand",
+        "asset management",
+        "DAM",
+        "guidelines"
+      ],
+      "keywordsJa": [
+        "ブランド",
+        "資産管理",
+        "DAM",
+        "ガイドライン"
+      ],
+      "keywordsKo": [
+        "브랜드",
+        "자산 관리",
+        "DAM",
+        "가이드라인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm25hkjlh"
+    },
+    {
+      "id": "bynder",
+      "nameEn": "Bynder Connector",
+      "nameJa": "Bynder コネクター",
+      "nameKo": "Bynder 커넥터",
+      "category": "dam",
+      "categoryJa": "アセット管理",
+      "description": "Bynderデジタルアセット管理システムと連携。",
+      "descriptionEn": "Connect Adobe Express to the Bynder digital asset management system and access your organization's approved media assets directly. Streamline creative workflows by keeping all approved brand assets easily accessible from within Express.",
+      "descriptionJa": "Bynderデジタルアセット管理システムと連携。",
+      "descriptionKo": "Adobe Express를 Bynder 디지털 자산 관리 시스템에 연결하고 조직의 승인된 미디어 에셋에 직접 접근하세요. Express 내에서 승인된 모든 브랜드 에셋에 손쉽게 접근하여 크리에이티브 워크플로우를 간소화하세요.",
+      "keywords": [
+        "DAM",
+        "アセット管理",
+        "Bynder",
+        "デジタル資産"
+      ],
+      "keywordsEn": [
+        "DAM",
+        "asset management",
+        "Bynder",
+        "digital asset"
+      ],
+      "keywordsJa": [
+        "DAM",
+        "アセット管理",
+        "Bynder",
+        "デジタル資産"
+      ],
+      "keywordsKo": [
+        "DAM",
+        "자산 관리",
+        "Bynder",
+        "디지털 자산"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg860lgij"
+    },
+    {
+      "id": "wellsaid",
+      "nameEn": "WellSaid Labs",
+      "nameJa": "WellSaid Labs",
+      "nameKo": "WellSaid Labs",
+      "category": "ai-audio",
+      "categoryJa": "AI・音声",
+      "description": "テキストから高品質なボイスオーバーを生成。",
+      "descriptionEn": "Generate high-quality, studio-grade voiceovers from text using WellSaid Labs' AI voice technology. Choose from a diverse set of realistic voice avatars to create professional narrations for videos, e-learning, and presentations.",
+      "descriptionJa": "テキストから高品質なボイスオーバーを生成。",
+      "descriptionKo": "WellSaid Labs의 AI 음성 기술을 사용하여 텍스트에서 스튜디오급 고품질 보이스오버를 생성하세요. 다양한 사실적인 음성 아바타 중에서 선택하여 동영상, e러닝, 프레젠테이션을 위한 전문 나레이션을 만드세요.",
+      "keywords": [
+        "AI",
+        "音声",
+        "ボイスオーバー",
+        "ナレーション",
+        "テキスト読み上げ"
+      ],
+      "keywordsEn": [
+        "AI",
+        "voice",
+        "voiceover",
+        "narration",
+        "text-to-speech"
+      ],
+      "keywordsJa": [
+        "AI",
+        "音声",
+        "ボイスオーバー",
+        "ナレーション",
+        "テキスト読み上げ"
+      ],
+      "keywordsKo": [
+        "AI",
+        "음성",
+        "보이스오버",
+        "나레이션",
+        "텍스트 음성 변환"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk2mlg1m4"
+    },
+    {
+      "id": "vcard-generator",
+      "nameEn": "vCard Generator",
+      "nameJa": "vCard生成",
+      "nameKo": "vCard 생성기",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "電子名刺（vCard）を簡単に作成。連絡先情報をスマートに共有。",
+      "descriptionEn": "Create digital business cards (vCards) quickly and easily within Adobe Express. Share your contact information smartly by embedding vCard data in QR codes, making it effortless for others to save your details.",
+      "descriptionJa": "電子名刺（vCard）を簡単に作成。連絡先情報をスマートに共有。",
+      "descriptionKo": "Adobe Express에서 디지털 명함(vCard)을 빠르고 쉽게 만드세요. QR코드에 vCard 데이터를 삽입하여 연락처 정보를 스마트하게 공유하고, 상대방이 손쉽게 정보를 저장할 수 있게 하세요.",
+      "keywords": [
+        "vCard",
+        "電子名刺",
+        "連絡先",
+        "名刺",
+        "QRコード"
+      ],
+      "keywordsEn": [
+        "vCard",
+        "digital business card",
+        "contact",
+        "business card",
+        "QR code"
+      ],
+      "keywordsJa": [
+        "vCard",
+        "電子名刺",
+        "連絡先",
+        "名刺",
+        "QRコード"
+      ],
+      "keywordsKo": [
+        "vCard",
+        "디지털 명함",
+        "연락처",
+        "명함",
+        "QR코드"
+      ],
+      "featured": false,
+      "marketplaceUrl": ""
+    },
+    {
+      "id": "rsvp-form",
+      "nameEn": "RSVP Form",
+      "nameJa": "出欠確認フォーム",
+      "nameKo": "참석 확인 폼",
+      "category": "form",
+      "categoryJa": "フォーム",
+      "description": "イベントの出欠確認フォームを作成。招待状に組み込めます。",
+      "descriptionEn": "Create RSVP forms for your events and embed them seamlessly into invitations designed in Adobe Express. Collect attendance responses efficiently and manage your guest list with an integrated, easy-to-use form solution.",
+      "descriptionJa": "イベントの出欠確認フォームを作成。招待状に組み込めます。",
+      "descriptionKo": "이벤트를 위한 참석 확인 폼을 만들어 Adobe Express에서 디자인한 초대장에 원활하게 삽입하세요. 통합된 사용하기 쉬운 폼 솔루션으로 참석 응답을 효율적으로 수집하고 게스트 목록을 관리하세요.",
+      "keywords": [
+        "RSVP",
+        "出欠確認",
+        "フォーム",
+        "イベント",
+        "招待状"
+      ],
+      "keywordsEn": [
+        "RSVP",
+        "attendance confirmation",
+        "form",
+        "event",
+        "invitation"
+      ],
+      "keywordsJa": [
+        "RSVP",
+        "出欠確認",
+        "フォーム",
+        "イベント",
+        "招待状"
+      ],
+      "keywordsKo": [
+        "RSVP",
+        "참석 확인",
+        "폼",
+        "이벤트",
+        "초대장"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=whn11imng"
+    },
+    {
+      "id": "feat-lingo",
+      "nameEn": "Feat Lingo Multi Lang",
+      "nameJa": "多言語対応ツール",
+      "nameKo": "다국어 지원 도구",
+      "category": "i18n",
+      "categoryJa": "多言語",
+      "description": "多言語コンテンツの作成を支援。",
+      "descriptionEn": "Streamline the creation of multilingual content within Adobe Express. Translate and adapt your designs for different languages and regions, enabling you to reach a global audience with localized creative materials.",
+      "descriptionJa": "多言語コンテンツの作成を支援。",
+      "descriptionKo": "Adobe Express에서 다국어 콘텐츠 제작을 간소화하세요. 다양한 언어와 지역에 맞게 디자인을 번역하고 조정하여 현지화된 크리에이티브 자료로 글로벌 시청자에게 도달하세요.",
+      "keywords": [
+        "多言語",
+        "翻訳",
+        "ローカライゼーション",
+        "国際化"
+      ],
+      "keywordsEn": [
+        "multilingual",
+        "translation",
+        "localization",
+        "internationalization"
+      ],
+      "keywordsJa": [
+        "多言語",
+        "翻訳",
+        "ローカライゼーション",
+        "国際化"
+      ],
+      "keywordsKo": [
+        "다국어",
+        "번역",
+        "로컬라이제이션",
+        "국제화"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1li38hi1"
+    },
+    {
+      "id": "design-digitizer",
+      "nameEn": "Design Digitizer",
+      "nameJa": "デザインデジタル化",
+      "nameKo": "디자인 디지털화",
+      "category": "design",
+      "categoryJa": "デザイン",
+      "description": "手描きデザインをデジタル化します。",
+      "descriptionEn": "Convert hand-drawn sketches and analog designs into clean digital artwork within Adobe Express. Bring your physical concepts to life digitally with accurate vectorization and digitization tools.",
+      "descriptionJa": "手描きデザインをデジタル化します。",
+      "descriptionKo": "Adobe Express에서 손으로 그린 스케치와 아날로그 디자인을 깔끔한 디지털 아트워크로 변환하세요. 정확한 벡터화 및 디지털화 도구로 물리적 개념을 디지털로 구현하세요.",
+      "keywords": [
+        "デジタル化",
+        "手描き",
+        "スキャン",
+        "ベクター化"
+      ],
+      "keywordsEn": [
+        "digitization",
+        "hand-drawn",
+        "scan",
+        "vectorization"
+      ],
+      "keywordsJa": [
+        "デジタル化",
+        "手描き",
+        "スキャン",
+        "ベクター化"
+      ],
+      "keywordsKo": [
+        "디지털화",
+        "손그림",
+        "스캔",
+        "벡터화"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w46i99i96"
+    },
+    {
+      "id": "text-behind",
+      "nameEn": "Text Behind",
+      "nameJa": "テキスト背後エフェクト",
+      "nameKo": "텍스트 뒤 효과",
+      "category": "design-text",
+      "categoryJa": "デザイン・テキスト効果",
+      "description": "テキストを画像の背後に配置する効果を作成。",
+      "descriptionEn": "Create the popular effect of placing text behind subjects in images within Adobe Express. Achieve professional depth-layered compositions where text weaves naturally behind foreground elements for striking visual results.",
+      "descriptionJa": "テキストを画像の背後に配置する効果を作成。",
+      "descriptionKo": "Adobe Express에서 이미지의 피사체 뒤에 텍스트를 배치하는 인기 있는 효과를 만드세요. 텍스트가 전경 요소 뒤로 자연스럽게 얽히는 전문적인 깊이감 있는 합성 구성으로 눈에 띄는 시각적 결과물을 만드세요.",
+      "keywords": [
+        "テキスト",
+        "エフェクト",
+        "レイヤー",
+        "合成"
+      ],
+      "keywordsEn": [
+        "text",
+        "effect",
+        "layer",
+        "composite"
+      ],
+      "keywordsJa": [
+        "テキスト",
+        "エフェクト",
+        "レイヤー",
+        "合成"
+      ],
+      "keywordsKo": [
+        "텍스트",
+        "효과",
+        "레이어",
+        "합성"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w03m652kg"
+    },
+    {
+      "id": "type-craft",
+      "nameEn": "Type Craft",
+      "nameJa": "タイポグラフィツール",
+      "nameKo": "타이포그래피 도구",
+      "category": "typography",
+      "categoryJa": "タイポグラフィ",
+      "description": "高度なタイポグラフィツール。美しい文字組みを実現。",
+      "descriptionEn": "A powerful typography tool for Adobe Express that enables advanced text crafting. Achieve beautiful type compositions with fine control over kerning, leading, and other typographic details for polished, professional results.",
+      "descriptionJa": "高度なタイポグラフィツール。美しい文字組みを実現。",
+      "descriptionKo": "Adobe Express를 위한 강력한 타이포그래피 도구로 고급 텍스트 제작을 지원합니다. 커닝, 행간 및 기타 타이포그래피 세부 사항을 세밀하게 제어하여 세련되고 전문적인 결과물을 위한 아름다운 타입 구성을 만드세요.",
+      "keywords": [
+        "タイポグラフィ",
+        "フォント",
+        "文字",
+        "デザイン",
+        "組版"
+      ],
+      "keywordsEn": [
+        "typography",
+        "font",
+        "text",
+        "design",
+        "typesetting"
+      ],
+      "keywordsJa": [
+        "タイポグラフィ",
+        "フォント",
+        "文字",
+        "デザイン",
+        "組版"
+      ],
+      "keywordsKo": [
+        "타이포그래피",
+        "폰트",
+        "문자",
+        "디자인",
+        "조판"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w879m2i11"
+    },
+    {
+      "id": "ai-audio-cleaner",
+      "nameEn": "AI Audio Cleaner",
+      "nameJa": "AI音声クリーニング",
+      "nameKo": "AI 음성 클리닝",
+      "category": "ai-audio",
+      "categoryJa": "AI・音声",
+      "description": "AIでノイズを除去し、音声をクリアに。",
+      "descriptionEn": "Use AI to automatically remove background noise and audio artifacts from your recordings, delivering clean and professional-sounding audio. Ideal for voiceovers, podcasts, and video soundtracks in Adobe Express projects.",
+      "descriptionJa": "AIでノイズを除去し、音声をクリアに。",
+      "descriptionKo": "AI를 사용하여 녹음에서 배경 소음과 오디오 노이즈를 자동으로 제거하여 깔끔하고 전문적인 음질을 제공합니다. Adobe Express 프로젝트의 보이스오버, 팟캐스트, 동영상 사운드트랙에 이상적입니다.",
+      "keywords": [
+        "AI",
+        "音声",
+        "ノイズ除去",
+        "クリーニング",
+        "オーディオ編集"
+      ],
+      "keywordsEn": [
+        "AI",
+        "audio",
+        "noise reduction",
+        "cleaning",
+        "audio editing"
+      ],
+      "keywordsJa": [
+        "AI",
+        "音声",
+        "ノイズ除去",
+        "クリーニング",
+        "オーディオ編集"
+      ],
+      "keywordsKo": [
+        "AI",
+        "음성",
+        "노이즈 제거",
+        "클리닝",
+        "오디오 편집"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3j5ihl2g"
+    },
+    {
+      "id": "ai-video-clipping",
+      "nameEn": "AI Video Clipping",
+      "nameJa": "AI動画クリッピング",
+      "nameKo": "AI 동영상 클리핑",
+      "category": "ai-video",
+      "categoryJa": "AI・動画",
+      "description": "AIで動画の重要シーンを自動抽出。",
+      "descriptionEn": "Automatically extract the most important and engaging scenes from your videos using AI. Save time on manual editing by letting the AI identify highlights and key moments to build compelling short-form content.",
+      "descriptionJa": "AIで動画の重要シーンを自動抽出。",
+      "descriptionKo": "AI를 사용하여 동영상에서 가장 중요하고 흥미로운 장면을 자동으로 추출하세요. AI가 하이라이트와 주요 순간을 식별하여 매력적인 숏폼 콘텐츠를 만드는 데 드는 수동 편집 시간을 절약하세요.",
+      "keywords": [
+        "AI",
+        "動画",
+        "クリッピング",
+        "編集",
+        "自動"
+      ],
+      "keywordsEn": [
+        "AI",
+        "video",
+        "clipping",
+        "editing",
+        "automation"
+      ],
+      "keywordsJa": [
+        "AI",
+        "動画",
+        "クリッピング",
+        "編集",
+        "自動"
+      ],
+      "keywordsKo": [
+        "AI",
+        "동영상",
+        "클리핑",
+        "편집",
+        "자동화"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w14928g17"
+    },
+    {
+      "id": "heygen-avatars",
+      "nameEn": "HeyGen AI Avatars",
+      "nameJa": "HeyGen AIアバター",
+      "nameKo": "HeyGen AI 아바타",
+      "category": "ai-video",
+      "categoryJa": "AI・動画",
+      "description": "AIアバターを生成し、動画コンテンツに活用。",
+      "descriptionEn": "Generate realistic AI avatars and integrate them into your video content with HeyGen's technology. Create engaging spokesperson videos, virtual presentations, and digital human content without the need for on-camera talent.",
+      "descriptionJa": "AIアバターを生成し、動画コンテンツに活用。",
+      "descriptionKo": "HeyGen의 기술로 사실적인 AI 아바타를 생성하고 동영상 콘텐츠에 통합하세요. 카메라 앞 출연자 없이도 매력적인 대변인 동영상, 가상 프레젠테이션, 디지털 휴먼 콘텐츠를 만드세요.",
+      "keywords": [
+        "AI",
+        "アバター",
+        "動画",
+        "バーチャル",
+        "プレゼンテーション"
+      ],
+      "keywordsEn": [
+        "AI",
+        "avatar",
+        "video",
+        "virtual",
+        "presentation"
+      ],
+      "keywordsJa": [
+        "AI",
+        "アバター",
+        "動画",
+        "バーチャル",
+        "プレゼンテーション"
+      ],
+      "keywordsKo": [
+        "AI",
+        "아바타",
+        "동영상",
+        "가상",
+        "프레젠테이션"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1h30103n"
+    },
+    {
+      "id": "akool-ai",
+      "nameEn": "AKOOL AI",
+      "nameJa": "AKOOL AI",
+      "nameKo": "AKOOL AI",
+      "category": "ai",
+      "categoryJa": "AI",
+      "description": "AI機能を提供（詳細は要確認）。",
+      "descriptionEn": "AKOOL AI provides a suite of artificial intelligence features for creative workflows. Leverage AI-powered tools to enhance, generate, and automate various aspects of your design projects in Adobe Express.",
+      "descriptionJa": "AI機能を提供（詳細は要確認）。",
+      "descriptionKo": "AKOOL AI는 크리에이티브 워크플로우를 위한 인공지능 기능 모음을 제공합니다. AI 기반 도구를 활용하여 Adobe Express 디자인 프로젝트의 다양한 측면을 향상, 생성, 자동화하세요.",
+      "keywords": [
+        "AI",
+        "生成",
+        "自動化"
+      ],
+      "keywordsEn": [
+        "AI",
+        "generation",
+        "automation"
+      ],
+      "keywordsJa": [
+        "AI",
+        "生成",
+        "自動化"
+      ],
+      "keywordsKo": [
+        "AI",
+        "생성",
+        "자동화"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w085mgk2i"
+    },
+    {
+      "id": "muzaic-soundtracks",
+      "nameEn": "Muzaic Soundtracks",
+      "nameJa": "Muzaic サウンドトラック",
+      "nameKo": "Muzaic 사운드트랙",
+      "category": "audio",
+      "categoryJa": "音楽・オーディオ",
+      "description": "AIで生成されたカスタムサウンドトラックを提供。",
+      "descriptionEn": "Access AI-generated custom soundtracks tailored to your project's mood and style. Muzaic creates unique, royalty-free music on demand so your Adobe Express videos and presentations always have the perfect audio backdrop.",
+      "descriptionJa": "AIで生成されたカスタムサウンドトラックを提供。",
+      "descriptionKo": "프로젝트의 분위기와 스타일에 맞춰 AI가 생성한 맞춤형 사운드트랙에 접근하세요. Muzaic는 주문형으로 고유한 로열티 프리 음악을 만들어 Adobe Express 동영상과 프레젠테이션에 항상 완벽한 오디오 배경을 제공합니다.",
+      "keywords": [
+        "音楽",
+        "サウンドトラック",
+        "AI",
+        "BGM"
+      ],
+      "keywordsEn": [
+        "music",
+        "soundtrack",
+        "AI",
+        "BGM"
+      ],
+      "keywordsJa": [
+        "音楽",
+        "サウンドトラック",
+        "AI",
+        "BGM"
+      ],
+      "keywordsKo": [
+        "음악",
+        "사운드트랙",
+        "AI",
+        "BGM"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3049ih5m"
+    },
+    {
+      "id": "pageproof",
+      "nameEn": "PageProof",
+      "nameJa": "PageProof",
+      "nameKo": "PageProof",
+      "category": "project-mgmt",
+      "categoryJa": "プロジェクト管理",
+      "description": "デザインのフィードバックと校正プロセスを効率化。",
+      "descriptionEn": "Streamline your design feedback and proofreading process with PageProof. Collect structured comments, track revisions, and manage the approval workflow for your Adobe Express designs all in one collaborative platform.",
+      "descriptionJa": "デザインのフィードバックと校正プロセスを効率化。",
+      "descriptionKo": "PageProof로 디자인 피드백과 교정 프로세스를 간소화하세요. 구조화된 의견을 수집하고, 수정 사항을 추적하며, 하나의 협업 플랫폼에서 Adobe Express 디자인의 승인 워크플로우를 관리하세요.",
+      "keywords": [
+        "校正",
+        "フィードバック",
+        "レビュー",
+        "承認",
+        "プロジェクト管理"
+      ],
+      "keywordsEn": [
+        "proofreading",
+        "feedback",
+        "review",
+        "approval",
+        "project management"
+      ],
+      "keywordsJa": [
+        "校正",
+        "フィードバック",
+        "レビュー",
+        "承認",
+        "プロジェクト管理"
+      ],
+      "keywordsKo": [
+        "교정",
+        "피드백",
+        "리뷰",
+        "승인",
+        "프로젝트 관리"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=whn4jj6i0"
+    },
+    {
+      "id": "aem-assets",
+      "nameEn": "AEM Assets",
+      "nameJa": "Adobe Experience Manager Assets",
+      "nameKo": "Adobe Experience Manager Assets",
+      "category": "enterprise-dam",
+      "categoryJa": "エンタープライズアセット管理",
+      "description": "Adobe Experience Managerのアセットにアクセス。大規模組織向け。",
+      "descriptionEn": "Access and use assets from Adobe Experience Manager directly within Adobe Express. Designed for large organizations, this integration enables enterprise teams to maintain brand consistency using centrally managed, approved assets at scale.",
+      "descriptionJa": "Adobe Experience Managerのアセットにアクセス。大規模組織向け。",
+      "descriptionKo": "Adobe Express에서 직접 Adobe Experience Manager의 에셋에 접근하고 사용하세요. 대규모 조직을 위해 설계된 이 통합으로 엔터프라이즈 팀이 중앙에서 관리하는 승인된 에셋을 사용하여 대규모로 브랜드 일관성을 유지할 수 있습니다.",
+      "keywords": [
+        "AEM",
+        "DAM",
+        "エンタープライズ",
+        "アセット管理",
+        "Adobe"
+      ],
+      "keywordsEn": [
+        "AEM",
+        "DAM",
+        "enterprise",
+        "asset management",
+        "Adobe"
+      ],
+      "keywordsJa": [
+        "AEM",
+        "DAM",
+        "エンタープライズ",
+        "アセット管理",
+        "Adobe"
+      ],
+      "keywordsKo": [
+        "AEM",
+        "DAM",
+        "엔터프라이즈",
+        "자산 관리",
+        "Adobe"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w16lhj029"
+    }
+  ],
+  "metadata": {
+    "totalCount": 45,
+    "lastUpdated": "2026-02-26",
+    "source": "Web research and official documentation",
+    "categories": {
+      "accessibility": "アクセシビリティ",
+      "advertising": "広告・マーケティング",
+      "ai": "AI",
+      "ai-audio": "AI・音声",
+      "ai-video": "AI・動画",
+      "audio": "音楽・オーディオ",
+      "audio-social": "音楽・SNS",
+      "brand": "ブランド管理",
+      "dam": "アセット管理",
+      "design": "デザイン",
+      "design-assets": "デザイン素材",
+      "design-text": "デザイン・テキスト効果",
+      "enterprise-dam": "エンタープライズアセット管理",
+      "form": "フォーム",
+      "i18n": "多言語",
+      "marketing": "マーケティング",
+      "project-mgmt": "プロジェクト管理",
+      "publishing": "出版",
+      "social": "SNS",
+      "social-ai": "SNS・AI",
+      "storage": "ストレージ連携",
+      "typography": "タイポグラフィ",
+      "utility": "ユーティリティ"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "testId": "w52l6j58g",
+    "name": "Express Helper Jp",
+    "version": "1.0.0",
+    "manifestVersion": 2,
+    "requirements": {
+        "apps": [
+            {
+                "name": "Express",
+                "apiVersion": 1
+            }
+        ]
+    },
+    "entryPoints": [
+        {
+            "type": "panel",
+            "id": "panel1",
+            "main": "index.html",
+            "documentSandbox": "code.js",
+            "permissions": {
+                "sandbox": ["allow-downloads"]
+            }
+        }
+    ]
+}

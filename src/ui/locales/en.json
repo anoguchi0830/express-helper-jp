@@ -1,0 +1,62 @@
+{
+  "app": {
+    "title": "Express Helper",
+    "subtitle": "Search Adobe Express add-ons in your language"
+  },
+  "search": {
+    "placeholder": "Search (e.g., QR code, music, icons)",
+    "resultsCount": "{{count}} results for \"{{query}}\"",
+    "noResults": "No add-ons found. Please try different keywords."
+  },
+  "sections": {
+    "featured": "Featured Add-ons",
+    "categories": "Browse by Category",
+    "recent": "Recently Added"
+  },
+  "categories": {
+    "accessibility": "Accessibility",
+    "advertising": "Advertising",
+    "ai": "AI",
+    "ai-audio": "AI & Audio",
+    "ai-video": "AI & Video",
+    "audio": "Music & Audio",
+    "audio-social": "Music & Social",
+    "brand": "Brand Management",
+    "dam": "Asset Management",
+    "design": "Design",
+    "design-assets": "Design Assets",
+    "design-text": "Text Effects",
+    "enterprise-dam": "Enterprise DAM",
+    "form": "Forms",
+    "i18n": "Multilingual",
+    "marketing": "Marketing",
+    "project-mgmt": "Project Management",
+    "publishing": "Publishing",
+    "social": "Social Media",
+    "social-ai": "Social & AI",
+    "storage": "Storage",
+    "typography": "Typography",
+    "utility": "Utilities"
+  },
+  "addon": {
+    "category": "Category",
+    "description": "Description",
+    "keywords": "Related Keywords",
+    "useCases": "Use Cases",
+    "openInExpress": "Copy Marketplace Link",
+    "urlCopied": "URL copied — paste in your browser to open",
+    "viewDetails": "Details"
+  },
+  "browse": {
+    "allAddons": "All Add-ons",
+    "viewAll": "View all ({{count}})",
+    "suggestedKeywords": "Try these keywords:"
+  },
+  "sort": {
+    "default": "Default",
+    "name": "A-Z"
+  },
+  "actions": {
+    "close": "✕ Close"
+  }
+}
