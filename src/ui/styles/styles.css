@@ -30,7 +30,7 @@ button {
   display: flex;
   flex-direction: column;
   height: 100%;
-  max-width: 400px;
+  max-width: 320px;
   margin: 0 auto;
   background: #FFFFFF;
 }
@@ -71,7 +71,7 @@ button {
   width: 32px;
   height: 32px;
   border: 3px solid #E0E0E0;
-  border-top-color: #0066FF;
+  border-top-color: #5258E4;
   border-radius: 50%;
   animation: spin 0.8s linear infinite;
 }

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const languages = [
-  { code: 'en', label: 'EN', flag: '🇬🇧' },
+  { code: 'en', label: 'EN', flag: '🇺🇸' },
   { code: 'ja', label: '日本語', flag: '🇯🇵' },
   { code: 'ko', label: '한국어', flag: '🇰🇷' }
 ];
@@ -48,9 +48,9 @@ const styles = {
     transition: 'all 0.15s'
   },
   btnActive: {
-    background: '#0066FF',
+    background: '#5258E4',
     color: '#FFFFFF',
-    borderColor: '#0066FF'
+    borderColor: '#5258E4'
   },
   flag: {
     fontSize: '14px',

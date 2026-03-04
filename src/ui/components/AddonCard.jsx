@@ -38,9 +38,9 @@ const styles = {
     transition: 'box-shadow 0.18s ease, transform 0.18s ease, border-color 0.18s ease'
   },
   cardHover: {
-    boxShadow: '0 4px 14px rgba(0, 102, 255, 0.12)',
+    boxShadow: '0 4px 14px rgba(82, 88, 228, 0.12)',
     transform: 'translateY(-2px)',
-    borderColor: '#B3CCFF'
+    borderColor: '#C0BDFA'
   },
   icon: {
     fontSize: '28px',

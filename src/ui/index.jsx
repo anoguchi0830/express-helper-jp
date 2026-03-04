@@ -383,7 +383,7 @@ function App() {
 const styles = {
   header: {
     padding: '16px',
-    background: 'linear-gradient(135deg, #0066FF 0%, #0044CC 100%)',
+    background: 'linear-gradient(135deg, #5258E4 0%, #3B3DB4 100%)',
     color: '#FFFFFF',
     textAlign: 'center'
   },
@@ -410,9 +410,9 @@ const styles = {
   viewAllBtn: {
     padding: '7px 14px',
     fontSize: '13px',
-    border: '1px solid #0066FF',
+    border: '1px solid #5258E4',
     backgroundColor: '#FFFFFF',
-    color: '#0066FF',
+    color: '#5258E4',
     borderRadius: '20px',
     cursor: 'pointer',
     fontFamily: 'inherit',
@@ -447,9 +447,9 @@ const uiStyles = {
     transition: 'all 0.15s'
   },
   sortBtnActive: {
-    backgroundColor: '#0066FF',
+    backgroundColor: '#5258E4',
     color: '#FFFFFF',
-    borderColor: '#0066FF'
+    borderColor: '#5258E4'
   },
   noResults: {
     textAlign: 'center',
@@ -474,9 +474,9 @@ const uiStyles = {
   },
   suggestTag: {
     padding: '6px 14px',
-    backgroundColor: '#EEF4FF',
-    color: '#0066FF',
-    border: '1px solid #B3CCFF',
+    backgroundColor: '#EEEAFF',
+    color: '#5258E4',
+    border: '1px solid #C0BDFA',
     borderRadius: '16px',
     fontSize: '13px',
     cursor: 'pointer',

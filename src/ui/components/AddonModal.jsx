@@ -165,10 +165,10 @@ const styles = {
   },
   tag: {
     padding: '4px 10px',
-    backgroundColor: '#EEF4FF',
+    backgroundColor: '#EEEAFF',
     borderRadius: '14px',
     fontSize: '11px',
-    color: '#0066FF'
+    color: '#5258E4'
   },
   footer: {
     padding: '14px 20px',
@@ -179,7 +179,7 @@ const styles = {
     padding: '11px',
     fontSize: '14px',
     border: 'none',
-    backgroundColor: '#0066FF',
+    backgroundColor: '#5258E4',
     color: '#FFFFFF',
     borderRadius: '8px',
     cursor: 'pointer',

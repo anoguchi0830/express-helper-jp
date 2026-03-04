@@ -58,8 +58,8 @@ const styles = {
     transition: 'border-color 0.18s, box-shadow 0.18s'
   },
   inputFocused: {
-    borderColor: '#0066FF',
-    boxShadow: '0 0 0 3px rgba(0, 102, 255, 0.12)'
+    borderColor: '#5258E4',
+    boxShadow: '0 0 0 3px rgba(82, 88, 228, 0.12)'
   },
   clearBtn: {
     position: 'absolute',

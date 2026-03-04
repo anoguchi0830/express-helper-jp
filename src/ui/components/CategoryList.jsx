@@ -67,8 +67,8 @@ const styles = {
     border: '1px solid transparent'
   },
   itemHover: {
-    backgroundColor: '#EEF4FF',
-    border: '1px solid #C8DAFF'
+    backgroundColor: '#EEEAFF',
+    border: '1px solid #C0BDFA'
   },
   icon: {
     fontSize: '18px',
@@ -91,7 +91,7 @@ const styles = {
     display: 'inline-block'
   },
   arrowHover: {
-    color: '#0066FF',
+    color: '#5258E4',
     transform: 'translateX(2px)'
   }
 };
