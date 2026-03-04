@@ -3,7 +3,6 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 
 const isEnvProduction = process.env.NODE_ENV === "production";
-const fs = require('fs'); // ファイルの先頭にこれを追加
 
 module.exports = {
     mode: isEnvProduction ? "production" : "development",
@@ -28,6 +27,13 @@ module.exports = {
         "add-on-sdk-document-sandbox": "add-on-sdk-document-sandbox",
         "express-document-sdk": "express-document-sdk"
     },
+    // パネル Add-on はデータが本体のため 244 KiB 制限は非現実的。
+    // 実態に合わせた上限を設定してビルドノイズを排除する。
+    performance: {
+        hints: isEnvProduction ? "warning" : false,
+        maxAssetSize: 2 * 1024 * 1024,
+        maxEntrypointSize: 2 * 1024 * 1024
+    },
     plugins: [
         new HtmlWebpackPlugin({
             template: "src/index.html",
@@ -35,7 +41,27 @@ module.exports = {
             excludeChunks: ["code"]
         }),
         new CopyWebpackPlugin({
-            patterns: [{ from: "src/*.json", to: "[name][ext]" }]
+            patterns: [
+                { from: "src/*.json", to: "[name][ext]" },
+                {
+                    from: "src/ui/data/addons_data.json",
+                    to: "data/[name][ext]",
+                    // 空フィールドを除去してミニファイ → ファイルサイズを削減
+                    transform(content) {
+                        const data = JSON.parse(content.toString());
+                        data.addons = data.addons.map(addon => {
+                            const out = {};
+                            for (const [k, v] of Object.entries(addon)) {
+                                if (v !== null && v !== "" && !(Array.isArray(v) && v.length === 0)) {
+                                    out[k] = v;
+                                }
+                            }
+                            return out;
+                        });
+                        return JSON.stringify(data);
+                    }
+                }
+            ]
         })
     ],
     module: {

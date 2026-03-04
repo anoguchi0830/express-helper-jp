@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5258E4"/>
+      <stop offset="100%" stop-color="#3B3DB4"/>
+    </linearGradient>
+    <clipPath id="rounded">
+      <rect width="512" height="512" rx="96" ry="96"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background with rounded corners -->
+  <rect width="512" height="512" rx="96" ry="96" fill="url(#bg)"/>
+
+  <!-- Magnifying glass: circle -->
+  <circle cx="216" cy="210" r="112" fill="none" stroke="white" stroke-width="42"/>
+
+  <!-- Magnifying glass: handle -->
+  <line x1="300" y1="296" x2="400" y2="396" stroke="white" stroke-width="42" stroke-linecap="round"/>
+
+  <!-- JP text inside the circle -->
+  <text
+    x="216"
+    y="240"
+    text-anchor="middle"
+    fill="white"
+    font-family="'Arial Black', 'Helvetica Neue', Arial, sans-serif"
+    font-size="100"
+    font-weight="900"
+    letter-spacing="-4"
+  >JP</text>
+</svg>

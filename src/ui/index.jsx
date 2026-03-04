@@ -2,7 +2,6 @@ import React, { useState, useEffect, useRef } from 'react';
 import ReactDOM from 'react-dom/client';
 import addOnUISdk from 'https://new.express.adobe.com/static/add-on-sdk/sdk.js';
 
-import addonsData from './data/addons_data.json';
 import LanguageSwitcher from './components/LanguageSwitcher';
 import SearchBar from './components/SearchBar';
 import AddonCard from './components/AddonCard';
@@ -12,8 +11,6 @@ import AddonModal from './components/AddonModal';
 import { detectLanguage, t, getLocalizedField, getLocalizedCategory } from './utils/i18n';
 import { CATEGORY_ICONS } from './utils/constants';
 
-// addOnId が判明しているアドオンのみ使用（不明なものは除外）
-const ADDONS = addonsData.addons.filter(a => a.marketplaceUrl);
 import './styles/styles.css';
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -36,11 +33,11 @@ function scoreAddon(addon, lowerQuery, locale) {
   return score;
 }
 
-function searchAddons(query, locale) {
+function searchAddons(addons, query, locale) {
   if (!query.trim()) return [];
   const lowerQuery = query.toLowerCase();
 
-  return ADDONS
+  return addons
     .map(addon => ({ addon, score: scoreAddon(addon, lowerQuery, locale) }))
     .filter(({ score }) => score > 0)
     .sort((a, b) => b.score - a.score)   // 関連度降順
@@ -153,7 +150,8 @@ function AddonList({ addons, locale, onSelect, openInExpress }) {
 // メインアプリ
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-function App() {
+function App({ addonsData }) {
+  const ADDONS = addonsData.addons.filter(a => a.marketplaceUrl);
   const [locale, setLocale]                 = useState(detectLanguage());
   const [searchQuery, setSearchQuery]       = useState('');
   const [selectedAddon, setSelectedAddon]   = useState(null);
@@ -244,7 +242,7 @@ function App() {
   };
 
   // 派生データ
-  const searchResults   = sortAddons(searchAddons(searchQuery, locale), sortId === 'default' ? 'default' : sortId, locale);
+  const searchResults   = sortAddons(searchAddons(ADDONS, searchQuery, locale), sortId === 'default' ? 'default' : sortId, locale);
   const featuredAddons  = ADDONS.filter(a => a.featured);
   const allAddons       = sortAddons(ADDONS, sortId, locale);
   const categoryAddons  = sortAddons(
@@ -517,12 +515,19 @@ function LoadingScreen() {
 
 function AppWrapper() {
   const [ready, setReady] = useState(false);
+  const [addonsData, setAddonsData] = useState(null);
 
   useEffect(() => {
-    addOnUISdk.ready.then(() => setReady(true));
+    Promise.all([
+      addOnUISdk.ready,
+      fetch('./data/addons_data.json').then(r => r.json())
+    ]).then(([_, data]) => {
+      setAddonsData(data);
+      setReady(true);
+    });
   }, []);
 
-  return ready ? <App /> : <LoadingScreen />;
+  return ready ? <App addonsData={addonsData} /> : <LoadingScreen />;
 }
 
 // エントリーポイント

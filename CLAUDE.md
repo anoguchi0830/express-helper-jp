@@ -164,7 +164,6 @@ CSS transition のため `border` shorthand ではなく `borderWidth` / `border
 
 ## 既知の技術的負債
 
-- **未使用ファイル**: `src/ui/components/App.jsx` / `App.css` / `src/ui/utils/marketplace.js` がテンプレート由来で残存
 - **`code.js` の未活用**: Sandbox API は `createRectangle()` のみ（テンプレートのまま）
 - **翻訳未完**: `descriptionJa` / `descriptionKo` は新規382件が未翻訳（手動翻訳を待つ）
 
@@ -176,9 +175,11 @@ CSS transition のため `border` shorthand ではなく `borderWidth` / `border
 - [x] `src/ui/utils/marketplace.js` を削除（未使用）
 
 ### フェーズ B: 申請準備
-- [ ] `manifest.json` に多言語メタデータ追加（name/description EN/JA/KO）
-- [ ] アイコン画像 512×512px を作成 → `src/ui/icons/` に配置
-- [ ] スクリーンショット 5 枚（日本語 UI）→ `src/ui/screenshots/` に配置
+- [x] `manifest.json` は現状のまま（Manifest V2 は `name` が単純文字列のみ。多言語名・説明・アイコンは Developer Console でアップロード）
+- [x] アイコン SVG を作成 → `src/ui/icons/icon.svg`（PNG 変換後に Developer Console でアップロード）
+- [ ] `icon.svg` を PNG（512×512 以上）にエクスポート → Developer Console にアップロード
+- [ ] スクリーンショット 5 枚（日本語 UI, 1360×800px）を撮影 → `src/ui/screenshots/` に配置後 Developer Console でアップロード
+  - 手順: `src/ui/screenshots/SCREENSHOTS.md` を参照
 
 ### フェーズ C: データ補完
 - [ ] 残り5件（`text-gradient-pro`, `undraw`, `tiktok-music`, `mockuuups`, `vcard-generator`）の `marketplaceUrl` を調査・入力
