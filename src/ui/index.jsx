@@ -1,6 +1,14 @@
 import React, { useState, useEffect, useRef } from 'react';
 import ReactDOM from 'react-dom/client';
 import addOnUISdk from 'https://new.express.adobe.com/static/add-on-sdk/sdk.js';
+import { Theme } from '@swc-react/theme';
+import '@spectrum-web-components/theme/express/theme-light.js';
+import '@spectrum-web-components/theme/express/scale-medium.js';
+import '@spectrum-web-components/theme/scale-medium.js';
+import '@spectrum-web-components/theme/theme-light.js';
+import { Button } from '@swc-react/button';
+import { ActionButton } from '@swc-react/action-button';
+import { ActionGroup } from '@swc-react/action-group';
 
 import LanguageSwitcher from './components/LanguageSwitcher';
 import SearchBar from './components/SearchBar';
@@ -90,20 +98,22 @@ function SortBar({ sortId, onSortChange, locale }) {
   };
 
   return (
-    <div style={uiStyles.sortBar}>
-      <button
-        style={{ ...uiStyles.sortBtn, ...(sortId === 'default' ? uiStyles.sortBtnActive : {}) }}
+    <ActionGroup style={{ marginBottom: '12px' }}>
+      <ActionButton
+        emphasized
+        selected={sortId === 'default'}
         onClick={() => onSortChange('default')}
       >
         {t('sort.default', locale)}
-      </button>
-      <button
-        style={{ ...uiStyles.sortBtn, ...(nameActive ? uiStyles.sortBtnActive : {}) }}
+      </ActionButton>
+      <ActionButton
+        emphasized
+        selected={nameActive}
         onClick={handleNameClick}
       >
         {t('sort.name', locale)}{sortId === 'name' ? ' ↑' : sortId === 'name-desc' ? ' ↓' : ''}
-      </button>
-    </div>
+      </ActionButton>
+    </ActionGroup>
   );
 }
 
@@ -116,13 +126,12 @@ function NoResults({ locale, onSuggestClick }) {
       <p style={uiStyles.suggestLabel}>{t('browse.suggestedKeywords', locale)}</p>
       <div style={uiStyles.suggestTags}>
         {keywords.map(kw => (
-          <button
+          <ActionButton
             key={kw}
-            style={uiStyles.suggestTag}
             onClick={() => onSuggestClick(kw)}
           >
             {kw}
-          </button>
+          </ActionButton>
         ))}
       </div>
     </div>
@@ -295,9 +304,9 @@ function App({ addonsData }) {
 
           {/* 全アドオン一覧へのリンク */}
           <div style={styles.viewAllWrap}>
-            <button style={styles.viewAllBtn} onClick={handleViewAll}>
+            <Button variant="secondary" treatment="outline" onClick={handleViewAll}>
               {t('browse.viewAll', locale, { count: ADDONS.length })} →
-            </button>
+            </Button>
           </div>
 
           {/* カテゴリ一覧 */}
@@ -330,7 +339,9 @@ function App({ addonsData }) {
       {/* ━━ カテゴリ絞り込み画面 ━━ */}
       {view === 'category' && (
         <section style={styles.section} className="section-animate">
-          <button style={styles.backBtn} onClick={handleBackToHome}>← Back</button>
+          <div style={{ marginBottom: '12px' }}>
+            <Button variant="secondary" treatment="outline" onClick={handleBackToHome}>← Back</Button>
+          </div>
           <h2 style={styles.sectionTitle}>
             {CATEGORY_ICONS[selectedCategory] || '📦'} {getLocalizedCategory(selectedCategory, locale)}
             <span style={styles.count}> ({categoryAddons.length})</span>
@@ -345,7 +356,9 @@ function App({ addonsData }) {
       {/* ━━ 全アドオン一覧画面 ━━ */}
       {view === 'all' && (
         <section style={styles.section} className="section-animate">
-          <button style={styles.backBtn} onClick={handleBackToHome}>← Back</button>
+          <div style={{ marginBottom: '12px' }}>
+            <Button variant="secondary" treatment="outline" onClick={handleBackToHome}>← Back</Button>
+          </div>
           <h2 style={styles.sectionTitle}>
             📋 {t('browse.allAddons', locale)}
             <span style={styles.count}> ({allAddons.length})</span>
@@ -394,8 +407,16 @@ const styles = {
     alignItems: 'center',
     marginBottom: '12px'
   },
-  sectionTitle: { fontSize: '16px', fontWeight: 'bold', color: '#1E1E1E' },
-  count:    { fontSize: '14px', fontWeight: 'normal', color: '#666' },
+  sectionTitle: {
+    fontSize: '16px',
+    fontWeight: 'bold',
+    color: 'var(--spectrum-gray-900, #1E1E1E)'
+  },
+  count: {
+    fontSize: '14px',
+    fontWeight: 'normal',
+    color: 'var(--spectrum-gray-700, #666)'
+  },
   grid: {
     display: 'grid',
     gridTemplateColumns: 'repeat(2, 1fr)',
@@ -404,64 +425,25 @@ const styles = {
   viewAllWrap: {
     padding: '0 16px 8px',
     textAlign: 'right'
-  },
-  viewAllBtn: {
-    padding: '7px 14px',
-    fontSize: '13px',
-    border: '1px solid #5258E4',
-    backgroundColor: '#FFFFFF',
-    color: '#5258E4',
-    borderRadius: '20px',
-    cursor: 'pointer',
-    fontFamily: 'inherit',
-    fontWeight: '500',
-    transition: 'all 0.15s'
-  },
-  backBtn: {
-    padding: '6px 12px',
-    fontSize: '13px',
-    border: '1px solid #E0E0E0',
-    backgroundColor: '#FFFFFF',
-    borderRadius: '6px',
-    cursor: 'pointer',
-    marginBottom: '12px',
-    display: 'block'
   }
 };
 
 // サブコンポーネント用スタイル
 const uiStyles = {
   list: { display: 'flex', flexDirection: 'column', gap: '12px' },
-  sortBar: { display: 'flex', gap: '6px', marginBottom: '12px' },
-  sortBtn: {
-    padding: '5px 12px',
-    fontSize: '12px',
-    border: '1px solid #E0E0E0',
-    backgroundColor: '#FFFFFF',
-    borderRadius: '16px',
-    cursor: 'pointer',
-    fontFamily: 'inherit',
-    color: '#555',
-    transition: 'all 0.15s'
-  },
-  sortBtnActive: {
-    backgroundColor: '#5258E4',
-    color: '#FFFFFF',
-    borderColor: '#5258E4'
-  },
   noResults: {
     textAlign: 'center',
     padding: '28px 16px'
   },
   noResultsText: {
-    color: '#666',
+    color: 'var(--spectrum-gray-700, #666)',
     lineHeight: '1.6',
     fontSize: '14px',
     marginBottom: '20px'
   },
   suggestLabel: {
     fontSize: '12px',
-    color: '#999',
+    color: 'var(--spectrum-gray-600, #999)',
     marginBottom: '10px'
   },
   suggestTags: {
@@ -469,17 +451,6 @@ const uiStyles = {
     flexWrap: 'wrap',
     gap: '8px',
     justifyContent: 'center'
-  },
-  suggestTag: {
-    padding: '6px 14px',
-    backgroundColor: '#EEEAFF',
-    color: '#5258E4',
-    border: '1px solid #C0BDFA',
-    borderRadius: '16px',
-    fontSize: '13px',
-    cursor: 'pointer',
-    fontFamily: 'inherit',
-    transition: 'all 0.15s'
   },
   toast: {
     position: 'fixed',
@@ -508,7 +479,7 @@ function LoadingScreen() {
   return (
     <div className="loading-screen">
       <div className="loading-spinner" />
-      <span style={{ fontSize: '13px', color: '#999' }}>Loading...</span>
+      <span style={{ fontSize: '13px', color: 'var(--spectrum-gray-600, #999)' }}>Loading...</span>
     </div>
   );
 }
@@ -532,6 +503,10 @@ function AppWrapper() {
 
 // エントリーポイント
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<AppWrapper />);
+root.render(
+  <Theme system="express" color="light" scale="medium" style={{ height: '100%', display: 'block' }}>
+    <AppWrapper />
+  </Theme>
+);
 
 export default App;

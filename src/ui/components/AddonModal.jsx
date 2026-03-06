@@ -1,4 +1,6 @@
 import React, { useEffect, useState } from 'react';
+import { Button, CloseButton } from '@swc-react/button';
+import { Badge } from '@swc-react/badge';
 import { CATEGORY_ICONS } from '../utils/constants';
 import { getLocalizedField, getLocalizedCategory, t } from '../utils/i18n';
 
@@ -42,9 +44,11 @@ export default function AddonModal({ addon, locale, onClose, openInExpress }) {
         onClick={(e) => e.stopPropagation()}
       >
         {/* 閉じるボタン */}
-        <button style={styles.closeBtn} onClick={handleClose}>
-          {t('actions.close', locale)}
-        </button>
+        <CloseButton
+          label={t('actions.close', locale)}
+          style={{ position: 'absolute', top: '12px', right: '12px' }}
+          onClick={handleClose}
+        />
 
         {/* ヘッダー */}
         <div style={styles.header}>
@@ -65,7 +69,7 @@ export default function AddonModal({ addon, locale, onClose, openInExpress }) {
               <h3 style={styles.bodyTitle}>🔖 {t('addon.keywords', locale)}</h3>
               <div style={styles.tags}>
                 {keywords.map((kw, i) => (
-                  <span key={i} style={styles.tag}>#{kw}</span>
+                  <Badge key={i} variant="informative">#{kw}</Badge>
                 ))}
               </div>
             </>
@@ -74,12 +78,15 @@ export default function AddonModal({ addon, locale, onClose, openInExpress }) {
 
         {/* フッター */}
         <div style={styles.footer}>
-          <button
-            style={styles.marketplaceBtn}
-            onClick={() => openInExpress(addon)}
-          >
-            {t('addon.openInExpress', locale)}
-          </button>
+          <div style={{ width: '100%' }}>
+            <Button
+              variant="accent"
+              style={{ width: '100%' }}
+              onClick={() => openInExpress(addon)}
+            >
+              {t('addon.openInExpress', locale)}
+            </Button>
+          </div>
         </div>
       </div>
     </div>
@@ -99,7 +106,7 @@ const styles = {
     transition: 'opacity 0.18s ease'
   },
   modal: {
-    backgroundColor: '#FFFFFF',
+    backgroundColor: 'var(--spectrum-gray-50, #FFFFFF)',
     borderRadius: '14px',
     maxWidth: '480px',
     width: '100%',
@@ -109,23 +116,9 @@ const styles = {
     transition: 'transform 0.22s ease, opacity 0.18s ease',
     boxShadow: '0 20px 60px rgba(0,0,0,0.2)'
   },
-  closeBtn: {
-    position: 'absolute',
-    top: '12px',
-    right: '12px',
-    padding: '6px 10px',
-    border: 'none',
-    backgroundColor: '#F5F7FA',
-    borderRadius: '6px',
-    cursor: 'pointer',
-    fontSize: '12px',
-    fontFamily: 'inherit',
-    zIndex: 1,
-    transition: 'background-color 0.15s'
-  },
   header: {
     padding: '20px 20px 14px',
-    borderBottom: '1px solid #E0E0E0'
+    borderBottom: '1px solid var(--spectrum-gray-300, #E0E0E0)'
   },
   icon: {
     display: 'block',
@@ -136,11 +129,12 @@ const styles = {
     fontSize: '18px',
     fontWeight: 'bold',
     marginBottom: '6px',
-    paddingRight: '60px'
+    paddingRight: '60px',
+    color: 'var(--spectrum-gray-900, #1E1E1E)'
   },
   category: {
     fontSize: '13px',
-    color: '#666'
+    color: 'var(--spectrum-gray-700, #666)'
   },
   body: {
     padding: '16px 20px'
@@ -150,11 +144,11 @@ const styles = {
     fontWeight: 'bold',
     marginBottom: '6px',
     marginTop: '14px',
-    color: '#333'
+    color: 'var(--spectrum-gray-800, #333)'
   },
   description: {
     fontSize: '13px',
-    color: '#555',
+    color: 'var(--spectrum-gray-700, #555)',
     lineHeight: '1.6'
   },
   tags: {
@@ -163,27 +157,8 @@ const styles = {
     gap: '6px',
     marginTop: '6px'
   },
-  tag: {
-    padding: '4px 10px',
-    backgroundColor: '#EEEAFF',
-    borderRadius: '14px',
-    fontSize: '11px',
-    color: '#5258E4'
-  },
   footer: {
     padding: '14px 20px',
-    borderTop: '1px solid #E0E0E0'
-  },
-  marketplaceBtn: {
-    width: '100%',
-    padding: '11px',
-    fontSize: '14px',
-    border: 'none',
-    backgroundColor: '#5258E4',
-    color: '#FFFFFF',
-    borderRadius: '8px',
-    cursor: 'pointer',
-    fontFamily: 'inherit',
-    fontWeight: 'bold'
+    borderTop: '1px solid var(--spectrum-gray-300, #E0E0E0)'
   }
 };

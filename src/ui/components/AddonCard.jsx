@@ -26,10 +26,10 @@ export default function AddonCard({ addon, locale, onClick }) {
 
 const styles = {
   card: {
-    backgroundColor: '#FFFFFF',
+    backgroundColor: 'var(--spectrum-gray-50, #FFFFFF)',
     borderWidth: '1px',
     borderStyle: 'solid',
-    borderColor: '#E0E0E0',
+    borderColor: 'var(--spectrum-gray-300, #E0E0E0)',
     borderRadius: '10px',
     padding: '14px',
     textAlign: 'center',
@@ -40,7 +40,7 @@ const styles = {
   cardHover: {
     boxShadow: '0 4px 14px rgba(82, 88, 228, 0.12)',
     transform: 'translateY(-2px)',
-    borderColor: '#C0BDFA'
+    borderColor: 'var(--spectrum-accent-color-400, #C0BDFA)'
   },
   icon: {
     fontSize: '28px',
@@ -50,12 +50,12 @@ const styles = {
     fontSize: '13px',
     fontWeight: 'bold',
     margin: '4px 0',
-    color: '#1E1E1E',
+    color: 'var(--spectrum-gray-900, #1E1E1E)',
     lineHeight: '1.3'
   },
   category: {
     fontSize: '11px',
-    color: '#666',
+    color: 'var(--spectrum-gray-700, #666)',
     margin: '2px 0'
   }
 };

@@ -49,7 +49,7 @@ const styles = {
     fontSize: '16px',
     fontWeight: 'bold',
     marginBottom: '12px',
-    color: '#1E1E1E'
+    color: 'var(--spectrum-gray-900, #1E1E1E)'
   },
   list: {
     display: 'flex',
@@ -58,7 +58,7 @@ const styles = {
   },
   item: {
     padding: '10px 12px',
-    backgroundColor: '#F5F7FA',
+    backgroundColor: 'var(--spectrum-gray-100, #F5F7FA)',
     borderRadius: '8px',
     display: 'flex',
     alignItems: 'center',
@@ -67,8 +67,8 @@ const styles = {
     border: '1px solid transparent'
   },
   itemHover: {
-    backgroundColor: '#EEEAFF',
-    border: '1px solid #C0BDFA'
+    backgroundColor: 'var(--spectrum-accent-color-100, #EEEAFF)',
+    border: '1px solid var(--spectrum-accent-color-400, #C0BDFA)'
   },
   icon: {
     fontSize: '18px',
@@ -81,17 +81,17 @@ const styles = {
   },
   count: {
     fontSize: '11px',
-    color: '#999',
+    color: 'var(--spectrum-gray-600, #999)',
     marginRight: '6px'
   },
   arrow: {
     fontSize: '16px',
-    color: '#CCC',
+    color: 'var(--spectrum-gray-400, #CCC)',
     transition: 'color 0.15s, transform 0.15s',
     display: 'inline-block'
   },
   arrowHover: {
-    color: '#5258E4',
+    color: 'var(--spectrum-accent-color-700, #5258E4)',
     transform: 'translateX(2px)'
   }
 };

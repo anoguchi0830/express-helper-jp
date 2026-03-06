@@ -1,4 +1,5 @@
 import React from 'react';
+import { Button } from '@swc-react/button';
 import { CATEGORY_ICONS } from '../utils/constants';
 import { getLocalizedField, getLocalizedCategory, t } from '../utils/i18n';
 
@@ -21,15 +22,12 @@ export default function AddonListItem({ addon, locale, onClick, openInExpress })
       </div>
 
       <div style={styles.actions}>
-        <button style={styles.detailBtn} onClick={onClick}>
+        <Button variant="secondary" treatment="outline" onClick={onClick}>
           {t('addon.viewDetails', locale)}
-        </button>
-        <button
-          style={styles.marketplaceBtn}
-          onClick={() => openInExpress(addon)}
-        >
+        </Button>
+        <Button variant="accent" onClick={() => openInExpress(addon)}>
           {t('addon.openInExpress', locale)}
-        </button>
+        </Button>
       </div>
     </div>
   );
@@ -37,8 +35,8 @@ export default function AddonListItem({ addon, locale, onClick, openInExpress })
 
 const styles = {
   item: {
-    backgroundColor: '#FFFFFF',
-    border: '1px solid #E0E0E0',
+    backgroundColor: 'var(--spectrum-gray-50, #FFFFFF)',
+    border: '1px solid var(--spectrum-gray-300, #E0E0E0)',
     borderRadius: '10px',
     padding: '14px'
   },
@@ -48,11 +46,12 @@ const styles = {
   title: {
     fontSize: '15px',
     fontWeight: 'bold',
-    margin: 0
+    margin: 0,
+    color: 'var(--spectrum-gray-900, #1E1E1E)'
   },
   description: {
     fontSize: '13px',
-    color: '#555',
+    color: 'var(--spectrum-gray-700, #555)',
     marginBottom: '10px',
     lineHeight: '1.5'
   },
@@ -60,34 +59,11 @@ const styles = {
     display: 'flex',
     gap: '12px',
     fontSize: '11px',
-    color: '#777',
+    color: 'var(--spectrum-gray-600, #777)',
     marginBottom: '10px'
   },
   actions: {
     display: 'flex',
     gap: '8px'
-  },
-  detailBtn: {
-    padding: '7px 14px',
-    fontSize: '13px',
-    border: '1px solid #5258E4',
-    backgroundColor: '#FFFFFF',
-    color: '#5258E4',
-    borderRadius: '6px',
-    cursor: 'pointer',
-    fontFamily: 'inherit',
-    fontWeight: '500'
-  },
-  marketplaceBtn: {
-    padding: '7px 14px',
-    fontSize: '13px',
-    border: 'none',
-    backgroundColor: '#5258E4',
-    color: '#FFFFFF',
-    borderRadius: '6px',
-    cursor: 'pointer',
-    fontFamily: 'inherit',
-    fontWeight: '500',
-    flex: 1
   }
 };
