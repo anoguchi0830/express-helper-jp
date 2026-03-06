@@ -1,7 +1,7 @@
 {
   "app": {
-    "title": "Express AddOn Explorer",
-    "subtitle": "Search Adobe Express add-ons in your language"
+    "title": "Addon Explorer",
+    "subtitle": "Add-on discovery portal for Adobe Express"
   },
   "search": {
     "placeholder": "Search (e.g., QR code, music, icons)",

@@ -1,8 +1,8 @@
-# Express Helper JP - Claude CLI 開発指示書
+# Addon Explorer - Claude CLI 開発指示書
 
 ## プロジェクト概要
 
-**プロダクト名**: Express Helper (多言語対応)  
+**プロダクト名**: Addon Explorer (多言語対応)  
 **目的**: Adobe Expressのアドオンを多言語で検索できるツール  
 **対応言語**: 
 - 🇬🇧 英語（English）- 必須（Adobe審査要件）
@@ -74,7 +74,7 @@ express-helper-jp/
 ```json
 {
   "app": {
-    "title": "Express Helper",
+    "title": "Addon Explorer",
     "subtitle": "Search Adobe Express add-ons in your language"
   },
   "search": {
@@ -118,7 +118,7 @@ express-helper-jp/
 ```json
 {
   "app": {
-    "title": "Express Helper",
+    "title": "Addon Explorer",
     "subtitle": "Adobe Expressのアドオンを日本語で検索"
   },
   "search": {
@@ -162,7 +162,7 @@ express-helper-jp/
 ```json
 {
   "app": {
-    "title": "Express Helper",
+    "title": "Addon Explorer",
     "subtitle": "Adobe Express 애드온을 한국어로 검색"
   },
   "search": {
@@ -768,7 +768,7 @@ Adobe Express Add-onパネル幅: 320px〜400px
 <p>{getLocalizedField(addon, 'description', locale)}</p>
 
 // ❌ 間違い
-<h1>Express Helper JP</h1>
+<h1>Addon Explorer</h1>
 <p>{addon.descriptionJa}</p>
 ```
 

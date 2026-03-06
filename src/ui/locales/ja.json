@@ -1,7 +1,7 @@
 {
   "app": {
-    "title": "Express AddOn Explorer",
-    "subtitle": "Adobe Expressのアドオンを日本語で検索"
+    "title": "Addon Explorer",
+    "subtitle": "Adobe Express 向けアドオン発見ポータル"
   },
   "search": {
     "placeholder": "検索 (例: QRコード、音楽、アイコン)",

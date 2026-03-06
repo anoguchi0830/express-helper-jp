@@ -1,7 +1,7 @@
 # express-helper-jp
 
-Adobe Express 向けの日本語アドオン発見ポータル（Web Add-on）。
-日本ユーザーが Adobe Express のアドオンを日本語で検索・発見できる Panel UI を提供する。
+Adobe Express 向けアドオン発見ポータル「Addon Explorer」（Web Add-on）。
+日本語・韓国語ユーザーが Adobe Express のアドオンを検索・発見できる Panel UI を提供する。
 
 ## 開発コマンド
 
