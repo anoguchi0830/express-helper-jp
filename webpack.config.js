@@ -42,25 +42,7 @@ module.exports = {
         }),
         new CopyWebpackPlugin({
             patterns: [
-                { from: "src/*.json", to: "[name][ext]" },
-                {
-                    from: "src/ui/data/addons_data.json",
-                    to: "data/[name][ext]",
-                    // 空フィールドを除去してミニファイ → ファイルサイズを削減
-                    transform(content) {
-                        const data = JSON.parse(content.toString());
-                        data.addons = data.addons.map(addon => {
-                            const out = {};
-                            for (const [k, v] of Object.entries(addon)) {
-                                if (v !== null && v !== "" && !(Array.isArray(v) && v.length === 0)) {
-                                    out[k] = v;
-                                }
-                            }
-                            return out;
-                        });
-                        return JSON.stringify(data);
-                    }
-                }
+                { from: "src/*.json", to: "[name][ext]" }
             ]
         })
     ],

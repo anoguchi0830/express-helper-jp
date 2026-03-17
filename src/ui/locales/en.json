@@ -58,5 +58,10 @@
   },
   "actions": {
     "close": "✕ Close"
+  },
+  "error": {
+    "networkTitle": "Connection Error",
+    "networkMessage": "Failed to load add-on data. Please check your network connection and try again.",
+    "retry": "Retry"
   }
 }

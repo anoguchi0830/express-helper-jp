@@ -484,6 +484,21 @@ function LoadingScreen() {
   );
 }
 
+function NetworkErrorScreen({ onRetry }) {
+  const locale = detectLanguage();
+  return (
+    <div className="loading-screen">
+      <p style={{ fontSize: '15px', fontWeight: 600, margin: '0 0 8px', color: 'var(--spectrum-gray-800, #333)' }}>
+        {t('error.networkTitle', locale)}
+      </p>
+      <p style={{ fontSize: '13px', color: 'var(--spectrum-gray-600, #666)', margin: '0 0 16px', textAlign: 'center', lineHeight: 1.5 }}>
+        {t('error.networkMessage', locale)}
+      </p>
+      <Button onClick={onRetry}>{t('error.retry', locale)}</Button>
+    </div>
+  );
+}
+
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // アドオンデータ取得（外部 URL + localStorage キャッシュ）
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -516,33 +531,34 @@ async function fetchAddonsData() {
   const cached = getCachedData();
   if (cached) return cached;
 
-  try {
-    const res = await fetch(DATA_URL);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    setCachedData(data);
-    return data;
-  } catch {
-    // GitHub Pages が取得できない場合はバンドル済みデータにフォールバック
-    const res = await fetch('./data/addons_data.json');
-    return res.json();
-  }
+  const res = await fetch(DATA_URL);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const data = await res.json();
+  setCachedData(data);
+  return data;
 }
 
 function AppWrapper() {
   const [ready, setReady] = useState(false);
   const [addonsData, setAddonsData] = useState(null);
+  const [error, setError] = useState(false);
 
-  useEffect(() => {
+  const load = () => {
+    setError(false);
     Promise.all([
       addOnUISdk.ready,
       fetchAddonsData()
     ]).then(([_, data]) => {
       setAddonsData(data);
       setReady(true);
+    }).catch(() => {
+      setError(true);
     });
-  }, []);
+  };
 
+  useEffect(() => { load(); }, []);
+
+  if (error) return <NetworkErrorScreen onRetry={load} />;
   return ready ? <App addonsData={addonsData} /> : <LoadingScreen />;
 }
 

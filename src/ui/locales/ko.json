@@ -58,5 +58,10 @@
   },
   "actions": {
     "close": "✕ 닫기"
+  },
+  "error": {
+    "networkTitle": "연결 오류",
+    "networkMessage": "애드온 데이터를 불러오지 못했습니다. 네트워크 연결을 확인하고 다시 시도해주세요.",
+    "retry": "다시 시도"
   }
 }
