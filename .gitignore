@@ -2,3 +2,8 @@
 dist/
 dist.zip
 node_modules/
+
+# Claude 開発ワークフロー（非公開）
+CLAUDE.md
+CLAUDE_CLI_INSTRUCTIONS.md
+HANDOFF.md

@@ -18,7 +18,8 @@
             "main": "index.html",
             "documentSandbox": "code.js",
             "permissions": {
-                "sandbox": ["allow-downloads"]
+                "sandbox": ["allow-downloads"],
+                "allow": ["https://anoguchi0830.github.io/"]
             }
         }
     ]

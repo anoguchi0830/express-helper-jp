@@ -484,6 +484,51 @@ function LoadingScreen() {
   );
 }
 
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// アドオンデータ取得（外部 URL + localStorage キャッシュ）
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+const DATA_URL = 'https://anoguchi0830.github.io/express-helper-jp/addons_data.json';
+const CACHE_KEY = 'addons_cache';
+const CACHE_TTL = 7 * 24 * 60 * 60 * 1000; // 7日
+
+function getCachedData() {
+  try {
+    const raw = localStorage.getItem(CACHE_KEY);
+    if (!raw) return null;
+    const { data, cachedAt } = JSON.parse(raw);
+    if (Date.now() - cachedAt > CACHE_TTL) return null;
+    return data;
+  } catch {
+    return null;
+  }
+}
+
+function setCachedData(data) {
+  try {
+    localStorage.setItem(CACHE_KEY, JSON.stringify({ data, cachedAt: Date.now() }));
+  } catch {
+    // localStorage が使えない場合は無視
+  }
+}
+
+async function fetchAddonsData() {
+  const cached = getCachedData();
+  if (cached) return cached;
+
+  try {
+    const res = await fetch(DATA_URL);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    setCachedData(data);
+    return data;
+  } catch {
+    // GitHub Pages が取得できない場合はバンドル済みデータにフォールバック
+    const res = await fetch('./data/addons_data.json');
+    return res.json();
+  }
+}
+
 function AppWrapper() {
   const [ready, setReady] = useState(false);
   const [addonsData, setAddonsData] = useState(null);
@@ -491,7 +536,7 @@ function AppWrapper() {
   useEffect(() => {
     Promise.all([
       addOnUISdk.ready,
-      fetch('./data/addons_data.json').then(r => r.json())
+      fetchAddonsData()
     ]).then(([_, data]) => {
       setAddonsData(data);
       setReady(true);
