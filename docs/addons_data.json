@@ -2286,13 +2286,12 @@
       "descriptionJa": "AI インテリア デザインは、AI を活用した部屋の再設計を使用して、数秒で空間を変えることができます。写真やスケッチをアップロードして、現実的なインテリア コンセプトを生成し、部屋を仮想的に演出し、モダン、ミニマリスト、豪華、居心地の良いなどの複数のスタイルを探索します。住宅所有者、不動産、デザイナー、コンテンツ クリエーターに最適なこのツールは、デザイン スキルを必要とせず、夢の空間を素早く、シンプルかつクリエイティブに視覚化できます。",
       "descriptionKo": "AI 인테리어 디자인은 AI 기반 공간 재설계를 통해 몇 초 만에 공간을 변화시킬 수 있도록 도와줍니다. 사진이나 스케치를 업로드하여 사실적인 인테리어 컨셉을 생성하고, 사실상 무대 공간을 만들고, 모던, 미니멀, 럭셔리, 아늑함 등 다양한 스타일을 탐색해 보세요. 주택 소유자, 부동산, 디자이너 및 콘텐츠 제작자에게 완벽한 이 도구를 사용하면 디자인 기술이 필요 없이 꿈의 공간을 빠르고 간단하며 창의적으로 시각화할 수 있습니다.",
       "keywords": [
-        "floor plan design",
-        "home decor",
-        "Virtual room staging",
-        "room ideas",
-        "visualization",
-        "Home design",
-        "home decor"
+        "間取り図デザイン",
+        "ホームデコア",
+        "バーチャルルーム",
+        "部屋のアイデア",
+        "ビジュアライゼーション",
+        "ホームデザイン"
       ],
       "keywordsEn": [
         "floor plan design",
@@ -2304,22 +2303,20 @@
         "home decor"
       ],
       "keywordsJa": [
-        "floor plan design",
-        "home decor",
-        "Virtual room staging",
-        "room ideas",
-        "visualization",
-        "Home design",
-        "home decor"
+        "間取り図デザイン",
+        "ホームデコア",
+        "バーチャルルーム",
+        "部屋のアイデア",
+        "ビジュアライゼーション",
+        "ホームデザイン"
       ],
       "keywordsKo": [
-        "floor plan design",
-        "home decor",
-        "Virtual room staging",
-        "room ideas",
-        "visualization",
-        "Home design",
-        "home decor"
+        "평면도 디자인",
+        "홈 데코",
+        "가상 룸 스테이징",
+        "방 아이디어",
+        "시각화",
+        "홈 디자인"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w63j1n960"
@@ -3906,16 +3903,30 @@
       "descriptionJa": "このツールを使用すると、単純な CSV データからコンテンツを含むデザインを迅速かつ効率的に作成できます。\n個々の認定資格、ブログ投稿、その他のコンテンツを手動で作成するのではなく、既存のデータを一度に複数のデザインに入力できるようになりました。\nこれにより、バッチデザインの作成に必要な時間と労力が大幅に削減されます。",
       "descriptionKo": "이 도구를 사용하면 간단한 csv 데이터의 콘텐츠로 디자인을 빠르고 효율적으로 만들 수 있습니다.\n개별 인증, 블로그 게시물 또는 기타 콘텐츠를 수동으로 작성하는 대신 이제 기존 데이터를 한 번에 여러 디자인에 채울 수 있습니다.\n이를 통해 배치 디자인 생성에 필요한 시간과 노력이 크게 줄어듭니다.",
       "keywords": [
-        "bulk creation; batch; populate; table; batch creation; csv; xlsx"
+        "一括作成",
+        "バッチ",
+        "自動生成",
+        "テーブル",
+        "CSV",
+        "XLSX"
       ],
       "keywordsEn": [
         "bulk creation; batch; populate; table; batch creation; csv; xlsx"
       ],
       "keywordsJa": [
-        "bulk creation; batch; populate; table; batch creation; csv; xlsx"
+        "一括作成",
+        "バッチ",
+        "自動生成",
+        "テーブル",
+        "CSV",
+        "XLSX"
       ],
       "keywordsKo": [
-        "bulk creation; batch; populate; table; batch creation; csv; xlsx"
+        "일괄 생성",
+        "배치",
+        "테이블",
+        "CSV",
+        "XLSX"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk007l40j"
@@ -4282,12 +4293,12 @@
       "descriptionJa": "小さな調整を加えて同じデザインを何度も作成することにうんざりしていませんか? Bulk Designer はあなたの新しい親友です!この Adobe Express の強力なアドオンを使用すると、CSV ファイルのデータを活用して、パーソナライズされた複数のデザイン バリエーションを自動的に生成できます。\n\n特徴:\n\n- データを使用してデザイン内のテキストを簡単にパーソナライズします。\n- データ フィールドを特定のデザイン要素にマッピングして、ターゲットを絞ったパーソナライゼーションを実現します。\n- パーソナライズされたデザインを生成する前にプレビューして、正確さを確認します。\n- パーソナライズされたデザインの大規模なバッチを数秒で生成します。",
       "descriptionKo": "사소한 수정만으로 동일한 디자인을 계속해서 만드는 데 지치셨나요? Bulk Designer는 새로운 가장 친한 친구입니다! Adobe Express용 이 강력한 추가 기능을 사용하면 CSV 파일의 데이터를 활용하여 여러 개인화된 디자인 변형을 자동으로 생성할 수 있습니다.\n\n특징:\n\n- 데이터를 사용하여 디자인의 텍스트를 손쉽게 개인화하세요.\n- 타겟 개인화를 위해 데이터 필드를 특정 디자인 요소에 매핑합니다.\n- 정확성을 보장하기 위해 생성 전에 개인화된 디자인을 미리 봅니다.\n- 단 몇 초 만에 대량의 맞춤형 디자인을 생성할 수 있습니다.",
       "keywords": [
-        "bulk design",
-        "personalization",
-        "automation",
-        "data-driven design",
+        "バルクデザイン",
+        "パーソナライズ",
+        "自動化",
+        "データドリブン",
         "CSV",
-        "batch creation"
+        "バッチ作成"
       ],
       "keywordsEn": [
         "bulk design",
@@ -4298,20 +4309,20 @@
         "batch creation"
       ],
       "keywordsJa": [
-        "bulk design",
-        "personalization",
-        "automation",
-        "data-driven design",
+        "バルクデザイン",
+        "パーソナライズ",
+        "自動化",
+        "データドリブン",
         "CSV",
-        "batch creation"
+        "バッチ作成"
       ],
       "keywordsKo": [
-        "bulk design",
-        "personalization",
-        "automation",
-        "data-driven design",
+        "대량 디자인",
+        "개인화",
+        "자동화",
+        "데이터 기반",
         "CSV",
-        "batch creation"
+        "일괄 생성"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w68583ij5"
@@ -5158,16 +5169,16 @@
       "descriptionJa": "テキストや画像から印刷用の塗り絵を簡単に作成できます。カスタムの色材を作成したいアーティスト、教育者、趣味人に最適です。",
       "descriptionKo": "텍스트나 이미지를 사용하여 인쇄용 컬러링북을 쉽게 만들 수 있습니다. 맞춤형 색상 재료를 제작하려는 예술가, 교육자 및 애호가에게 이상적입니다.",
       "keywords": [
-        "coloringbook"
+        "ぬりえ帳"
       ],
       "keywordsEn": [
         "coloringbook"
       ],
       "keywordsJa": [
-        "coloringbook"
+        "ぬりえ帳"
       ],
       "keywordsKo": [
-        "coloringbook"
+        "색칠하기 책"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wjigg4h5k"
@@ -6066,14 +6077,12 @@
       "descriptionJa": "Adobe Express から直接、あらゆるテレビをライブデジタルサイネージに変えます。 Directable TV を使用すると、Adobe Express でコンテンツをデザインし、ワンクリックで更新を即座に TV に公開できます。 USB ドライブや再印刷、複雑なセットアップは必要ありません。 Amazon Fire OS デバイス、Fire TV Stick、Amazon Signage Stick、Android / Google TV テレビおよびメディア プレーヤー上で動作します。無制限のスライド、プレイリスト、スケジュールを使用して、単一のクラウド ダッシュボードから 1 つの画面または数百の画面を管理します。学校、非営利団体、レストラン、オフィス、イベントに最適です。非営利団体は 25% 割引になります。まずは無料トライアルから始めましょう。クレジット カードは必要ありません。 Adobe Expressで作成します。すぐにテレビに公開します。",
       "descriptionKo": "Adobe Express에서 직접 TV를 라이브 디지털 간판으로 바꿔보세요. Directable TV를 사용하면 Adobe Express에서 콘텐츠를 디자인하고 클릭 한 번으로 TV에 업데이트를 즉시 게시할 수 있습니다. USB 드라이브도 없고, 재인쇄도 없고, 복잡한 설정도 없습니다. Amazon Fire OS 장치, Fire TV Stick, Amazon Signage Stick, Android/Google TV TV 및 미디어 플레이어에서 실행됩니다. 무제한 슬라이드, 재생 목록 및 예약 기능을 갖춘 단일 클라우드 대시보드에서 하나 또는 수백 개의 화면을 관리하세요. 학교, 비영리 단체, 레스토랑, 사무실 및 행사에 이상적입니다. 비영리 단체는 25% 할인을 받습니다. 무료 평가판으로 시작하세요. 신용카드가 필요하지 않습니다. Adobe Express에서 제작하세요. 즉시 TV에 게시하세요.",
       "keywords": [
-        "Digital signage",
-        "menu board",
-        "TV-screen",
-        "television",
-        "menu",
-        "firestick",
-        "fire tv stick",
-        "lobby"
+        "デジタルサイネージ",
+        "メニューボード",
+        "テレビ画面",
+        "テレビ",
+        "Fire TV",
+        "ロビー"
       ],
       "keywordsEn": [
         "Digital signage",
@@ -6086,24 +6095,20 @@
         "lobby"
       ],
       "keywordsJa": [
-        "Digital signage",
-        "menu board",
-        "TV-screen",
-        "television",
-        "menu",
-        "firestick",
-        "fire tv stick",
-        "lobby"
+        "デジタルサイネージ",
+        "メニューボード",
+        "テレビ画面",
+        "テレビ",
+        "Fire TV",
+        "ロビー"
       ],
       "keywordsKo": [
-        "Digital signage",
-        "menu board",
-        "TV-screen",
-        "television",
-        "menu",
-        "firestick",
-        "fire tv stick",
-        "lobby"
+        "디지털 사이니지",
+        "메뉴판",
+        "TV 화면",
+        "텔레비전",
+        "Fire TV",
+        "로비"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w8n4864l2"
@@ -6594,10 +6599,9 @@
       "descriptionJa": "さまざまなカテゴリの記号または要素から要素を選択して、方程式を入力します。数学的および科学的表記法には、積分、三角法、対数、一連の高度な標準方程式など、いくつかの種類があります。",
       "descriptionKo": "다양한 기호 또는 요소 범주에서 요소를 선택하여 방정식을 입력합니다. 적분, 삼각법, 로그 및 고급 표준 방정식 세트를 포함한 여러 유형의 수학적 및 과학적 표기법이 있습니다.",
       "keywords": [
-        "equations",
-        "scientific",
-        "mathematics",
-        "harman"
+        "方程式",
+        "科学",
+        "数学"
       ],
       "keywordsEn": [
         "equations",
@@ -6606,16 +6610,14 @@
         "harman"
       ],
       "keywordsJa": [
-        "equations",
-        "scientific",
-        "mathematics",
-        "harman"
+        "方程式",
+        "科学",
+        "数学"
       ],
       "keywordsKo": [
-        "equations",
-        "scientific",
-        "mathematics",
-        "harman"
+        "방정식",
+        "과학",
+        "수학"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w30255n21"
@@ -6658,12 +6660,12 @@
       "descriptionJa": "文化的な誤りは多大な損害をもたらし、ブランドにダメージを与える可能性があります。このアドオンは、Adobe Express 内で AI を活用した文化的配慮のスペシャリストとして機能します。デザイン要素やアップロードされた画像を分析して、公開する前に潜在的な文化的、倫理的、または象徴的な問題にフラグを立てます。\n\n主な特徴:\n\n• インスタント文化スコア: 0 ～ 100 の明確なスコアを取得して、デザインの適切さをすぐに評価します。\n• コンテキストを意識した分析: 対象国と業種に基づいてカスタマイズされたフィードバックを受け取り、関連性の高い洞察を得ることができます。\n• 実用的な AI フィードバック: 要素が不適切である理由を理解し、改善のための建設的な提案を得ることができます。\n• キャンバスと画像分析: 選択した要素をキャンバス上で直接確認するか、完全な画像をアップロードして包括的なレビューを行います。\n• フォローアップ チャット: 他にご質問がありますか?分析を受け取った後、直接 AI に説明や代替案を求めてください。\n\n自信を持ってデザインし、あなたのクリエイティブが世界中に響くことを保証します。",
       "descriptionKo": "문화적 실수로 인해 비용이 많이 들고 브랜드가 손상될 수 있습니다. 이 추가 기능은 Adobe Express 내에서 바로 AI 기반 문화 민감성 전문가 역할을 합니다. 디자인 요소나 업로드된 이미지를 분석하여 게시하기 전에 잠재적인 문화적, 윤리적 또는 상징적 문제를 표시합니다.\n\n주요 특징:\n\n• 즉각적인 문화 점수: 0~100점의 명확한 점수를 얻어 디자인의 적절성을 빠르게 평가하세요.\n• 상황 인식 분석: 관련성이 높은 통찰력을 얻기 위해 대상 국가 및 비즈니스 유형을 기반으로 맞춤형 피드백을 받습니다.\n• 실행 가능한 AI 피드백: 요소가 부적절할 수 있는 이유를 이해하고 개선을 위한 건설적인 제안을 받습니다.\n• 캔버스 및 이미지 분석: 선택한 요소를 캔버스에서 직접 확인하거나 종합적인 검토를 위해 전체 이미지를 업로드하세요.\n• 후속 채팅: 더 궁금한 점이 있으신가요? 분석을 받은 후 AI에게 직접 설명이나 대체 아이디어를 요청하세요.\n\n자신있게 디자인하고 귀하의 창의력이 전 세계적으로 반향을 일으키도록 하세요!",
       "keywords": [
-        "cultural sensitivity",
-        "inclusivity",
-        "global design",
-        "ethics",
-        "image analysis",
-        "culture check"
+        "文化的配慮",
+        "インクルーシビティ",
+        "グローバルデザイン",
+        "倫理",
+        "画像分析",
+        "文化チェック"
       ],
       "keywordsEn": [
         "cultural sensitivity",
@@ -6674,20 +6676,20 @@
         "culture check"
       ],
       "keywordsJa": [
-        "cultural sensitivity",
-        "inclusivity",
-        "global design",
-        "ethics",
-        "image analysis",
-        "culture check"
+        "文化的配慮",
+        "インクルーシビティ",
+        "グローバルデザイン",
+        "倫理",
+        "画像分析",
+        "文化チェック"
       ],
       "keywordsKo": [
-        "cultural sensitivity",
-        "inclusivity",
-        "global design",
-        "ethics",
-        "image analysis",
-        "culture check"
+        "문화 민감성",
+        "포용성",
+        "글로벌 디자인",
+        "윤리",
+        "이미지 분석",
+        "문화 확인"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgih39l8j"
@@ -6702,13 +6704,12 @@
       "descriptionJa": "画像またはビデオをアップロードすると、EXIF メタデータが編集可能なフィールドに自動的に入力されます。  このデータを使用して、EXIF 情報をドキュメントに追加します。ソーシャルメディアへの投稿に最適です。",
       "descriptionKo": "이미지나 비디오를 업로드하면 EXIF ​​메타데이터가 편집 가능한 필드에 자동으로 채워집니다.  이 데이터를 사용하여 EXIF ​​정보를 문서에 추가하세요. 소셜 미디어 게시물에 적합합니다.",
       "keywords": [
-        "exif",
-        "camera data",
+        "EXIF",
+        "カメラデータ",
         "ISO",
-        "metadata",
-        "shutter speed",
-        "f stop",
-        "aperture"
+        "メタデータ",
+        "シャッタースピード",
+        "絞り値"
       ],
       "keywordsEn": [
         "exif",
@@ -6720,22 +6721,20 @@
         "aperture"
       ],
       "keywordsJa": [
-        "exif",
-        "camera data",
+        "EXIF",
+        "カメラデータ",
         "ISO",
-        "metadata",
-        "shutter speed",
-        "f stop",
-        "aperture"
+        "メタデータ",
+        "シャッタースピード",
+        "絞り値"
       ],
       "keywordsKo": [
-        "exif",
-        "camera data",
+        "EXIF",
+        "카메라 데이터",
         "ISO",
-        "metadata",
-        "shutter speed",
-        "f stop",
-        "aperture"
+        "메타데이터",
+        "셔터 스피드",
+        "조리개"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg7gk7719"
@@ -6950,12 +6949,12 @@
       "descriptionJa": "強力な検索および置換アプリケーションを使用して、テキスト編集の究極のソリューションを見つけてください。あなたがライターでも編集者でも、あるいはただ素早い修正が必要なだけでも、私たちのアプリはプロセスを合理化します。特定の単語や語句を検索し、複数のドキュメント間で簡単に置き換えることができます。ユーザーフレンドリーなインターフェイス、カスタマイズ可能な検索パラメータ、効率的なパフォーマンスをお楽しみください。専門家にも一般ユーザーにも最適なこのアプリは、生産性を向上させ、あらゆるドキュメントの正確性を保証します。退屈な手動編集に別れを告げ、効率的でエラーのないテキスト管理を始めましょう。",
       "descriptionKo": "강력한 찾기 및 바꾸기 애플리케이션을 사용하여 텍스트 편집을 위한 최고의 솔루션을 찾아보세요. 작가, 편집자이거나 빠른 수정이 필요한 경우, 우리 앱은 프로세스를 간소화합니다. 특정 단어나 문구를 검색하고 여러 문서에서 쉽게 바꿀 수 있습니다. 사용자 친화적인 인터페이스, 사용자 정의 가능한 검색 매개변수 및 효율적인 성능을 즐겨보세요. 전문가와 일반 사용자 모두에게 완벽한 저희 앱은 생산성을 향상시키고 모든 문서의 정확성을 보장합니다. 지루한 수동 편집은 이제 그만, 효율적이고 오류 없는 텍스트 관리를 시작해 보세요.",
       "keywords": [
-        "TextEditing",
-        "FindAndReplace",
-        "ProductivityApp",
-        "TextTool",
-        "EditingSoftware",
-        "DocumentManagement"
+        "テキスト編集",
+        "検索と置換",
+        "生産性向上",
+        "テキストツール",
+        "編集ソフト",
+        "文書管理"
       ],
       "keywordsEn": [
         "TextEditing",
@@ -6966,20 +6965,20 @@
         "DocumentManagement"
       ],
       "keywordsJa": [
-        "TextEditing",
-        "FindAndReplace",
-        "ProductivityApp",
-        "TextTool",
-        "EditingSoftware",
-        "DocumentManagement"
+        "テキスト編集",
+        "検索と置換",
+        "生産性向上",
+        "テキストツール",
+        "編集ソフト",
+        "文書管理"
       ],
       "keywordsKo": [
-        "TextEditing",
-        "FindAndReplace",
-        "ProductivityApp",
-        "TextTool",
-        "EditingSoftware",
-        "DocumentManagement"
+        "텍스트 편집",
+        "찾기 및 바꾸기",
+        "생산성",
+        "텍스트 도구",
+        "편집 소프트웨어",
+        "문서 관리"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w0h41k76g"
@@ -7094,16 +7093,34 @@
       "descriptionJa": "FlowPaper のこのアプリを使用すると、Adobe Express で作成したデザインを、インタラクティブでリアルなオンライン フリップブック、スライド プレゼンテーション、またはモバイル初の出版物に変換できます。これは、パンフレット、カタログ、レポート、雑誌をオンラインで共有する際に改善する優れた方法です。\n\nFlowPaper はパブリケーションのスピード、アクセシビリティ、インタラクティブ性を向上させ、訪問者のエンゲージメントを向上させることができます。\n\n未登録/試用アカウントを使用してアップロードされた出版物は、14 日間オンラインに残ります。",
       "descriptionKo": "FlowPaper의 이 앱을 사용하면 Adobe Express에서 만든 디자인을 대화형의 사실적인 온라인 플립북, 슬라이딩 프레젠테이션 또는 모바일 우선 출판물로 변환할 수 있습니다. 이는 브로셔, 카탈로그, 보고서 및 잡지를 온라인으로 공유할 때 품질을 향상시키는 좋은 방법입니다.\n\nFlowPaper는 더 빠른 속도, 접근성 및 상호 작용성을 통해 출판물을 향상시켜 방문자의 참여를 향상시킬 수 있습니다.\n\n비등록/평가판 계정을 사용하여 업로드된 출판물은 14일 동안 온라인 상태로 유지됩니다.",
       "keywords": [
-        "flipbook page-turn 3D brochure interactive magazine pdf flip catalog"
+        "フリップブック",
+        "ページめくり",
+        "3Dパンフレット",
+        "インタラクティブ",
+        "マガジン",
+        "PDF",
+        "カタログ"
       ],
       "keywordsEn": [
         "flipbook page-turn 3D brochure interactive magazine pdf flip catalog"
       ],
       "keywordsJa": [
-        "flipbook page-turn 3D brochure interactive magazine pdf flip catalog"
+        "フリップブック",
+        "ページめくり",
+        "3Dパンフレット",
+        "インタラクティブ",
+        "マガジン",
+        "PDF",
+        "カタログ"
       ],
       "keywordsKo": [
-        "flipbook page-turn 3D brochure interactive magazine pdf flip catalog"
+        "플립북",
+        "페이지 넘김",
+        "3D 브로슈어",
+        "인터랙티브",
+        "매거진",
+        "PDF",
+        "카탈로그"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl3mnk098"
@@ -8119,13 +8136,11 @@
       "descriptionKo": "GenWriter는 고급 AI 기술로 글쓰기에 혁명을 일으켰습니다. 귀하가 소설가, 학생, 마케팅 담당자 또는 블로거인지 여부에 관계없이 당사 플랫폼은 귀하의 글쓰기 과정을 간소화할 수 있는 AI 지원 도구를 제공합니다. 다양한 템플릿을 탐색하고, 실시간 피드백을 받고, 원활하게 협업하세요. 이 모든 기능은 콘텐츠 제작 수준을 높이기 위해 설계되었습니다.",
       "keywords": [
         "GenWriter",
-        "AIWriting",
-        "ContentCreation",
-        "WritingTools",
-        "CreativeWriting",
-        "DigitalWriting",
-        "Writer",
-        "Wriring"
+        "AI執筆",
+        "コンテンツ作成",
+        "執筆ツール",
+        "クリエイティブライティング",
+        "デジタルライティング"
       ],
       "keywordsEn": [
         "GenWriter",
@@ -8139,23 +8154,19 @@
       ],
       "keywordsJa": [
         "GenWriter",
-        "AIWriting",
-        "ContentCreation",
-        "WritingTools",
-        "CreativeWriting",
-        "DigitalWriting",
-        "Writer",
-        "Wriring"
+        "AI執筆",
+        "コンテンツ作成",
+        "執筆ツール",
+        "クリエイティブライティング",
+        "デジタルライティング"
       ],
       "keywordsKo": [
         "GenWriter",
-        "AIWriting",
-        "ContentCreation",
-        "WritingTools",
-        "CreativeWriting",
-        "DigitalWriting",
-        "Writer",
-        "Wriring"
+        "AI 글쓰기",
+        "콘텐츠 제작",
+        "쓰기 도구",
+        "창의적 글쓰기",
+        "디지털 라이팅"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w8m0j338k"
@@ -8594,9 +8605,9 @@
       "descriptionJa": "このアドオンを使用すると、練習シートを作成できます。テキストを入力し、フォント サイズを選択すると、練習に使用できるワークシートが生成されます。",
       "descriptionKo": "이 추가 기능을 사용하면 연습 시트를 만들 수 있습니다. 텍스트를 입력하고 글꼴 크기를 선택하면 연습에 사용할 수 있는 워크시트가 생성됩니다.",
       "keywords": [
-        "Handwriting Practice",
-        "Tracing worksheet",
-        "Name Writing Practice"
+        "手書き練習",
+        "トレーシングシート",
+        "名前練習"
       ],
       "keywordsEn": [
         "Handwriting Practice",
@@ -8604,14 +8615,14 @@
         "Name Writing Practice"
       ],
       "keywordsJa": [
-        "Handwriting Practice",
-        "Tracing worksheet",
-        "Name Writing Practice"
+        "手書き練習",
+        "トレーシングシート",
+        "名前練習"
       ],
       "keywordsKo": [
-        "Handwriting Practice",
-        "Tracing worksheet",
-        "Name Writing Practice"
+        "손글씨 연습",
+        "추적 워크시트",
+        "이름 쓰기 연습"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wkg26g73j"
@@ -11054,11 +11065,10 @@
       "descriptionJa": "Math Keyboard は、標準のキーボード インターフェイスを使用して数式を作成するプロセスを簡素化するように設計された多用途のアドオンです。使いやすさを念頭に置いて開発されており、学生や教育者から数式を頻繁に扱う科学分野の専門家まで、幅広いユーザーに対応します。\n\n数式キーボードの主な機能は次のとおりです。\n1. カラーピッカー\n2. ラテックス入力\n3. 170+ シンボル\n4. リアルタイムプレビュー",
       "descriptionKo": "Math Keyboard는 표준 키보드 인터페이스를 사용하여 수학 공식을 만드는 과정을 단순화하도록 설계된 다목적 추가 기능입니다. 유용성을 염두에 두고 개발된 이 제품은 학생과 교육자부터 수학 방정식을 자주 사용하는 과학 분야의 전문가에 이르기까지 광범위한 사용자에게 적합합니다.\n\n수학 키보드의 주요 기능은 다음과 같습니다:\n1. 색상 선택기\n2. 라텍스 입력\n3. 170+ 기호\n4. 실시간 미리보기",
       "keywords": [
-        "math",
-        "formula",
-        "equation",
-        "math keyboard",
-        "keyboard"
+        "数学",
+        "数式",
+        "方程式",
+        "キーボード"
       ],
       "keywordsEn": [
         "math",
@@ -11068,18 +11078,16 @@
         "keyboard"
       ],
       "keywordsJa": [
-        "math",
-        "formula",
-        "equation",
-        "math keyboard",
-        "keyboard"
+        "数学",
+        "数式",
+        "方程式",
+        "キーボード"
       ],
       "keywordsKo": [
-        "math",
-        "formula",
-        "equation",
-        "math keyboard",
-        "keyboard"
+        "수학",
+        "공식",
+        "방정식",
+        "키보드"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w367g6hkj"
@@ -11094,16 +11102,16 @@
       "descriptionJa": "さまざまな形とさまざまな難易度の迷路パズルを生成し、Adobe Express デザインに追加します。",
       "descriptionKo": "모양과 난이도가 다양한 미로 퍼즐을 생성하고 Adobe Express 디자인에 추가하세요.",
       "keywords": [
-        "maze"
+        "迷路"
       ],
       "keywordsEn": [
         "maze"
       ],
       "keywordsJa": [
-        "maze"
+        "迷路"
       ],
       "keywordsKo": [
-        "maze"
+        "미로"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w636m10g5"
@@ -13354,15 +13362,15 @@
       "descriptionJa": "プロパティは、要素を特定の位置、サイズ、回転に設定するためのシンプルなアドオンです。他の Adob​​e ツールからどのようにわかるかだけです。\n1 つまたは複数の要素を選択し、x および y 位置を入力します。 「幅」と「高さ」を入力してサイズを変更します。さらに、複数の要素を 1 つの値で回転することもできます。手動では不可能です。\n\n注意: 一部の要素タイプでは、テキストなどの幅または高さの設定は、Adobe Express API ではサポートされていません。",
       "descriptionKo": "속성은 요소를 특정 위치, 크기 및 회전으로 설정하는 간단한 추가 기능입니다. 다른 Adobe 도구에서 이를 어떻게 알 수 있습니까?\n하나 이상의 요소를 선택하고 x 및 y 위치를 입력합니다. \"너비\" 및 \"높이\" 입력으로 크기를 조정합니다. 단일 값으로 여러 요소를 회전할 수도 있습니다. 수동으로는 불가능합니다!\n\n참고: 일부 요소 유형의 경우. 텍스트 및 기타 폭이나 높이 설정은 Adobe Express API에서 지원되지 않습니다.",
       "keywords": [
-        "properties",
-        "transform",
-        "width",
-        "height",
-        "x-pos",
-        "y-pos",
-        "rotation",
-        "position",
-        "size"
+        "プロパティ",
+        "変形",
+        "幅",
+        "高さ",
+        "位置",
+        "X座標",
+        "Y座標",
+        "回転",
+        "サイズ"
       ],
       "keywordsEn": [
         "properties",
@@ -13376,26 +13384,26 @@
         "size"
       ],
       "keywordsJa": [
-        "properties",
-        "transform",
-        "width",
-        "height",
-        "x-pos",
-        "y-pos",
-        "rotation",
-        "position",
-        "size"
+        "プロパティ",
+        "変形",
+        "幅",
+        "高さ",
+        "位置",
+        "X座標",
+        "Y座標",
+        "回転",
+        "サイズ"
       ],
       "keywordsKo": [
-        "properties",
-        "transform",
-        "width",
-        "height",
-        "x-pos",
-        "y-pos",
-        "rotation",
-        "position",
-        "size"
+        "속성",
+        "변형",
+        "너비",
+        "높이",
+        "X 위치",
+        "Y 위치",
+        "회전",
+        "위치",
+        "크기"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg9293h72"
@@ -13410,9 +13418,9 @@
       "descriptionJa": "Puzzle Craft を使用すると、見事な単語検索パズルやクロスワード パズルを数分で作成できます。単語リストを入力し、テーマを選択し、パズルを Adob​​e Express ページに直接追加するだけです。そこから、イラスト、フォント、背景などの Adob​​e Express アセットを使用して、選択したパズルのデザインをカスタマイズおよび強化できます。\n\nあなたが教育者、デザイナー、パズル愛好家であっても、Puzzle Craft は創造性と対話性を 1 つの強力なツールに統合します。\n\nパズル作りを始めましょう！",
       "descriptionKo": "Puzzle Craft를 사용하면 단 몇 분 만에 멋진 단어 검색과 크로스워드 퍼즐을 만들 수 있습니다. 단어 목록을 입력하고 테마를 선택한 다음 Adobe Express 페이지에 퍼즐을 직접 추가하기만 하면 됩니다. 여기에서 일러스트레이션, 글꼴, 배경과 같은 Adobe Express 에셋을 사용하여 원하는 대로 퍼즐 디자인을 맞춤화하고 향상시킬 수 있습니다.\n\n교육자, 디자이너, 퍼즐 애호가 등 누구에게나 Puzzle Craft는 창의성과 상호 작용성을 하나의 강력한 도구로 결합합니다.\n\n퍼즐 만들기를 시작해 보세요!",
       "keywords": [
-        "Crossword",
-        "WordSearch",
-        "Puzzle"
+        "クロスワード",
+        "ワードサーチ",
+        "パズル"
       ],
       "keywordsEn": [
         "Crossword",
@@ -13420,14 +13428,14 @@
         "Puzzle"
       ],
       "keywordsJa": [
-        "Crossword",
-        "WordSearch",
-        "Puzzle"
+        "クロスワード",
+        "ワードサーチ",
+        "パズル"
       ],
       "keywordsKo": [
-        "Crossword",
-        "WordSearch",
-        "Puzzle"
+        "크로스워드",
+        "낱말찾기",
+        "퍼즐"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg8i32j12"
@@ -14030,12 +14038,11 @@
       "descriptionJa": "Reverse Video は、ワンクリックでビデオを反転できる Adob​​e Express のシンプルな無料アドオンです。\n\nビジュアルをそのままにしながら、ビデオのタイムライン全体を反転します。\nしかも無料です！\n\nこれを使用して、Express ワークフローでビデオを逆再生したり、巻き戻し効果、ループするビジュアル、トランジション、クリエイティブなソーシャル コンテンツを直接作成したりできます。\n\n重要なポイント\n• ワンクリックで反転ビデオ\n• Adobe Express内で完全に動作\n• 品質の低下がない\n• 高速処理\n• 初心者に優しい\n\nFirefox ユーザー向けの注意: \n現在、ブラウザの制限により、Firefox では「キャンバスに追加」機能が無効になっています。 \nまずビデオをダウンロードしてから、キャンバスにドラッグ アンド ドロップしてください。",
       "descriptionKo": "Reverse Video는 한 번의 클릭으로 비디오를 반전시킬 수 있는 Adobe Express용 간단한 무료 추가 기능입니다.\n\n시각적인 부분은 그대로 유지하면서 전체 비디오 타임라인을 반전시킵니다.\n그리고 그것은 무료입니다!\n\n이를 사용하여 Express 워크플로에서 직접 비디오를 되감고, 되감기 효과, 반복되는 영상, 전환 또는 창의적인 소셜 콘텐츠를 만들 수 있습니다.\n\n요점\n• 원클릭 역방향 비디오\n• Adobe Express 내에서 완벽하게 작동\n• 품질 손실 없음\n• 빠른 처리\n• 초보자 친화적\n\nFirefox 사용자를 위한 참고 사항: \n\"캔버스에 추가\" 기능은 현재 브라우저 제한으로 인해 Firefox에서 비활성화되어 있습니다. \n먼저 비디오를 다운로드한 후 캔버스에 드래그 앤 드롭하세요.",
       "keywords": [
-        "reverse video",
-        "video reverse",
-        "rewind video",
-        "backward video",
-        "reverse clip",
-        "rewind effect"
+        "動画反転",
+        "リバース",
+        "巻き戻し効果",
+        "逆再生",
+        "ループ"
       ],
       "keywordsEn": [
         "reverse video",
@@ -14046,20 +14053,18 @@
         "rewind effect"
       ],
       "keywordsJa": [
-        "reverse video",
-        "video reverse",
-        "rewind video",
-        "backward video",
-        "reverse clip",
-        "rewind effect"
+        "動画反転",
+        "リバース",
+        "巻き戻し効果",
+        "逆再生",
+        "ループ"
       ],
       "keywordsKo": [
-        "reverse video",
-        "video reverse",
-        "rewind video",
-        "backward video",
-        "reverse clip",
-        "rewind effect"
+        "동영상 반전",
+        "리버스",
+        "되감기 효과",
+        "역재생",
+        "루프"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj44i6j08"
@@ -14116,12 +14121,10 @@
       "keywords": [
         "PDF",
         "PDF/A",
-        "PDFA",
-        "archival",
-        "archive",
-        "document preservation",
-        "compliance",
-        "digital records"
+        "アーカイブ",
+        "文書保存",
+        "コンプライアンス",
+        "デジタル記録"
       ],
       "keywordsEn": [
         "PDF",
@@ -14136,22 +14139,18 @@
       "keywordsJa": [
         "PDF",
         "PDF/A",
-        "PDFA",
-        "archival",
-        "archive",
-        "document preservation",
-        "compliance",
-        "digital records"
+        "アーカイブ",
+        "文書保存",
+        "コンプライアンス",
+        "デジタル記録"
       ],
       "keywordsKo": [
         "PDF",
         "PDF/A",
-        "PDFA",
-        "archival",
-        "archive",
-        "document preservation",
-        "compliance",
-        "digital records"
+        "아카이브",
+        "문서 보관",
+        "규정 준수",
+        "디지털 기록"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=whm8l0g5j"
@@ -14406,20 +14405,23 @@
       "descriptionJa": "Scout Writer は、校正し、文法上の誤りをチェックし、文章の調子を調整するのに役立つ AI ライティング コンパニオンです。」",
       "descriptionKo": "Scout Writer는 교정하고, 문법 오류를 확인하며, 글쓰기의 어조를 조정하는 데 도움을 주는 AI 글쓰기 동반자입니다.\"",
       "keywords": [
-        "proof reader",
-        "ai proof read"
+        "校正",
+        "AIチェック",
+        "プルーフリード"
       ],
       "keywordsEn": [
         "proof reader",
         "ai proof read"
       ],
       "keywordsJa": [
-        "proof reader",
-        "ai proof read"
+        "校正",
+        "AIチェック",
+        "プルーフリード"
       ],
       "keywordsKo": [
-        "proof reader",
-        "ai proof read"
+        "교정",
+        "AI 검토",
+        "교열"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w13h8nknl"
@@ -14674,16 +14676,12 @@
       "descriptionJa": "キーオブジェクトに整列・分配します。このアドオンは最後に選択したものをキーオブジェクトとして扱いますが、PerentやSelectionなどに変更することもできます。\n\n使用法:\n1. 整列・分散する項目を選択します\n2. キーオブジェクトを追加選択します（または手順1で選択した項目のうち、キーオブジェクトにしたい項目を選択解除して再選択します）\n3. 整列・分散を実行する\n\n整列:\n• 左 |水平方向の中心 |右 |トップ |垂直方向の中心 |下\n• 左上 |上中 |右上 |左中 |センター |中右 |左下 |中央下 |右下\n\n配布:\n• 水平方向のスペース |垂直方向のスペース |左 |水平方向の中心 |右 |トップ |垂直方向の中心 |底",
       "descriptionKo": "주요 개체에 정렬/배포합니다. 이 추가 기능은 마지막으로 선택한 항목을 주요 개체로 처리하지만 이를 Perent 또는 Selection과 같은 항목으로 변경할 수 있습니다.\n\n사용법:\n1. 정렬/배분할 항목을 선택합니다.\n2. 핵심 객체를 추가로 선택(또는 1단계에서 선택한 항목 중 핵심 객체로 만들고 싶은 항목을 선택 해제 후 재선택)\n3. 정렬/배분 실행\n\n정렬:\n• 왼쪽 | 수평 센터 | 맞다 | 탑 | 수직 센터 | 바닥\n• 왼쪽 상단 | 상단 중간 | 오른쪽 상단 | 중간 왼쪽 | 센터 | 중간 오른쪽 | 왼쪽 하단 | 하단 중앙 | 오른쪽 하단\n\n배포:\n• 수평 공간 | 수직 공간 | 왼쪽 | 수평 센터 | 맞다 | 탑 | 수직 센터 | 맨 아래",
       "keywords": [
-        "align",
-        "distribute",
-        "place",
-        "keyobject",
-        "key object",
-        "tidy up",
-        "snap to pixel grid",
-        "shingali",
-        "shingari",
-        "singali"
+        "配置",
+        "分布",
+        "配置",
+        "キーオブジェクト",
+        "整列",
+        "グリッド"
       ],
       "keywordsEn": [
         "align",
@@ -14698,28 +14696,20 @@
         "singali"
       ],
       "keywordsJa": [
-        "align",
-        "distribute",
-        "place",
-        "keyobject",
-        "key object",
-        "tidy up",
-        "snap to pixel grid",
-        "shingali",
-        "shingari",
-        "singali"
+        "配置",
+        "分布",
+        "配置",
+        "キーオブジェクト",
+        "整列",
+        "グリッド"
       ],
       "keywordsKo": [
-        "align",
-        "distribute",
-        "place",
-        "keyobject",
-        "key object",
-        "tidy up",
-        "snap to pixel grid",
-        "shingali",
-        "shingari",
-        "singali"
+        "정렬",
+        "분배",
+        "배치",
+        "키 객체",
+        "가지런히",
+        "그리드"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wni7l73h0"
@@ -15074,11 +15064,11 @@
       "descriptionJa": "Song Lyrics Changer を使用すると、あらゆるトラックを数秒で変換できます。お気に入りの曲をアップロードし、独自の歌詞を入力するだけで、AI が元のアーティストと同じスタイルで、一音一音、完璧なメロディーでボーカル パフォーマンスを再現します。カスタム詩を即座にプレビューし、ワンタップで豊かなハーモニーとバッキングボーカルを生成し、スタジオ品質の MP3 をエクスポートしてすぐに共有できます。コンテンツクリエイター、ウェディングDJ、語学学習者、そして自分だけの曲を作りたい人に最適です。音楽の専門知識は必要ありません。ただ書いて、交換し、歌うだけです。",
       "descriptionKo": "노래 가사 체인저를 사용하면 몇 초 안에 모든 트랙을 변환할 수 있습니다. 좋아하는 노래를 업로드하고 자신만의 가사를 입력하기만 하면 AI가 원곡 아티스트와 동일한 스타일로 음표에 맞춰 멜로디를 완벽하게 재현해 줍니다. 사용자 정의 구절을 즉시 미리 보고, 한 번의 탭으로 풍부한 하모니와 백킹 보컬을 생성하고, 공유할 준비가 된 스튜디오 품질의 MP3를 내보낼 수 있습니다. 콘텐츠 제작자, 웨딩 DJ, 언어 학습자 및 자신만의 고유한 노래를 만들고 싶은 모든 사람에게 이상적입니다. 음악적 전문 지식이 필요하지 않습니다. 그냥 쓰고, 바꾸고, 노래하면 됩니다!",
       "keywords": [
-        "AI lyric changer",
-        "custom song lyrics",
-        "lyric editor",
-        "melody preservation",
-        "harmony generator"
+        "AI歌詞変換",
+        "カスタム歌詞",
+        "歌詞エディタ",
+        "メロディ保持",
+        "ハーモニー生成"
       ],
       "keywordsEn": [
         "AI lyric changer",
@@ -15088,18 +15078,18 @@
         "harmony generator"
       ],
       "keywordsJa": [
-        "AI lyric changer",
-        "custom song lyrics",
-        "lyric editor",
-        "melody preservation",
-        "harmony generator"
+        "AI歌詞変換",
+        "カスタム歌詞",
+        "歌詞エディタ",
+        "メロディ保持",
+        "ハーモニー生成"
       ],
       "keywordsKo": [
-        "AI lyric changer",
-        "custom song lyrics",
-        "lyric editor",
-        "melody preservation",
-        "harmony generator"
+        "AI 가사 변환",
+        "맞춤 가사",
+        "가사 편집기",
+        "멜로디 유지",
+        "하모니 생성"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1jjlh004"
@@ -15186,10 +15176,10 @@
       "descriptionJa": "Spellchecker は、クリエイティブなワークフローにシームレスに統合される必須のアドオンで、Adobe Express のエクスペリエンスを向上させます。比類のない単語認識、米国英語に合わせた言語ベースの修正、動的な提案を誇る Spellchecker は、あなたの文章がただ作られただけでなく完璧であることを保証します。アドオンがユーザーの独自のスタイルに適応し、時間の経過とともにパーソナライズされた提案を提供するため、強化されたユーザー インタラクションを体験してください。リアルタイムの自動修正によりエラーに別れを告げ、創造性を発揮することに集中できるようになります。スペルチェッカーを使用して言葉を洗練された傑作に変換します。精度と表現力が融合し、創造的な旅においてすべてのキーストロークが重要になります。",
       "descriptionKo": "크리에이티브 워크플로우에 원활하게 통합되는 필수 추가 기능인 Spellchecker를 사용하여 Adobe Express 경험을 향상시키십시오. 비교할 수 없는 단어 인식, 미국 영어에 맞춘 언어 기반 교정, 역동적인 제안 기능을 자랑하는 Spellchecker는 귀하의 글이 단지 다듬어진 것이 아니라 완벽하도록 보장합니다. 추가 기능이 귀하의 고유한 스타일에 맞춰 조정되고 시간이 지남에 따라 개인화된 제안을 제공하므로 향상된 사용자 상호 작용을 경험해 보세요. 실시간 자동 수정으로 오류를 작별하고 창의력을 발휘하는 데 집중할 수 있습니다. 정확성과 표현력이 만나는 Spellchecker를 사용하여 단어를 세련된 걸작으로 바꿔보세요. 모든 키 입력이 창의적인 여정에 중요해집니다.",
       "keywords": [
-        "spellcheck",
-        "proofreading",
-        "autocorrect",
-        "error correction"
+        "スペルチェック",
+        "校正",
+        "自動修正",
+        "エラー訂正"
       ],
       "keywordsEn": [
         "spellcheck",
@@ -15198,16 +15188,16 @@
         "error correction"
       ],
       "keywordsJa": [
-        "spellcheck",
-        "proofreading",
-        "autocorrect",
-        "error correction"
+        "スペルチェック",
+        "校正",
+        "自動修正",
+        "エラー訂正"
       ],
       "keywordsKo": [
-        "spellcheck",
-        "proofreading",
-        "autocorrect",
-        "error correction"
+        "맞춤법 검사",
+        "교정",
+        "자동 수정",
+        "오류 수정"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3484kn65"
@@ -15262,10 +15252,10 @@
       "descriptionJa": "このアドオンは、Adobe Express のスペルチェックと文法チェックに優れた機能を提供します。 ⚡✨\n\nAdobe Express ドキュメントにスペルミスがないかチェックし、ワンクリックで修正できます。\n\nあなたはその完璧なデザインを作成するために本当に苦労しました。愚かなタイプミスでそれを台無しにしないでください。\n\nSPELLL を使用して、恥ずかしい間違いを避けてください。 😉\n\n使用法:\n\n1. SPELL アドオンを開きます\n\n2. スペルミスが見つかった場合は、「同意する」ボタンをクリックして修正するか、「無視」ボタンをクリックして提案を無視することができます。さらにオプションを表示するには、「同意する」ボタンの横にある 3 つの点をクリックします。\n\n3.それだけです！",
       "descriptionKo": "이 추가 기능은 Adobe Express의 맞춤법 및 문법 검사 기능을 제공합니다. ⚡✨\n\nAdobe Express 문서에 철자 오류가 있는지 확인하고 한 번의 클릭으로 수정할 수 있습니다.\n\n완벽한 디자인을 만들기 위해 정말 열심히 노력하셨습니다. 어리석은 오타로 인해 문제가 발생하지 않도록 하세요.\n\nSPELLL을 사용하여 당황스러운 실수를 피하세요. 😉\n\n사용법:\n\n1. SPELLL 애드온을 엽니다.\n\n2. 철자 오류가 발견되면 수락 버튼을 클릭하여 수정하거나 무시 버튼을 클릭하여 제안을 무시할 수 있습니다. 더 많은 옵션을 보려면 수락 버튼 옆에 있는 세 개의 점을 클릭하세요.\n\n3. 바로 그거야!",
       "keywords": [
-        "spelling",
-        "grammar",
-        "typo",
-        "spell"
+        "スペリング",
+        "文法",
+        "誤字",
+        "スペルチェック"
       ],
       "keywordsEn": [
         "spelling",
@@ -15274,16 +15264,16 @@
         "spell"
       ],
       "keywordsJa": [
-        "spelling",
-        "grammar",
-        "typo",
-        "spell"
+        "スペリング",
+        "文法",
+        "誤字",
+        "スペルチェック"
       ],
       "keywordsKo": [
-        "spelling",
-        "grammar",
-        "typo",
-        "spell"
+        "스펠링",
+        "문법",
+        "오타",
+        "맞춤법"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w0i65i72l"
@@ -16438,11 +16428,11 @@
       "descriptionJa": "Textify は、PNG、JPEG、WEBP、SVG、XML などのさまざまな画像形式からサイズ制限なしでテキストを自由に抽出できます。\n数回クリックするだけで、画像を簡単にテキストに変換できます。",
       "descriptionKo": "Textify는 크기 제한 없이 PNG, JPEG, WEBP, SVG 및 XML을 포함한 다양한 이미지 형식에서 텍스트를 자유롭게 추출할 수 있는 기능을 제공합니다.\n몇 번의 클릭만으로 이미지를 쉽게 텍스트로 변환할 수 있습니다.",
       "keywords": [
-        "text-extractor",
-        "image-to-text",
-        "text scanner",
-        "text recognition tool",
-        "text detector"
+        "テキスト抽出",
+        "画像からテキスト",
+        "テキストスキャン",
+        "文字認識",
+        "テキスト検出"
       ],
       "keywordsEn": [
         "text-extractor",
@@ -16452,18 +16442,18 @@
         "text detector"
       ],
       "keywordsJa": [
-        "text-extractor",
-        "image-to-text",
-        "text scanner",
-        "text recognition tool",
-        "text detector"
+        "テキスト抽出",
+        "画像からテキスト",
+        "テキストスキャン",
+        "文字認識",
+        "テキスト検出"
       ],
       "keywordsKo": [
-        "text-extractor",
-        "image-to-text",
-        "text scanner",
-        "text recognition tool",
-        "text detector"
+        "텍스트 추출",
+        "이미지 텍스트 변환",
+        "텍스트 스캔",
+        "문자 인식",
+        "텍스트 감지"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj497gjkg"
@@ -16574,15 +16564,15 @@
       "descriptionJa": "強力なチケット デザイン ツールを使用すると、視覚的に魅力的で機能的なチケットを簡単に作成できます。このツールには、形状、レイアウト、ミシン目、グラデーションをカスタマイズするためのさまざまなオプションが用意されており、ユニークなデザインを作成するのに役立ちます。\n\n-形状とレイアウトのカスタマイズ: 円やひし形などの形状を打ち抜き、デザインのニーズに合わせてレイアウトを自由に調整できます。これらの機能により、ブランドやイベントのテーマに合わせたチケットを作成できます。\n\n- コーナーとミシン目のカスタマイズ: コーナーを丸くしたり、ユニークなカットを追加したり、ミシン目を適用したりして、ダイナミックでプロフェッショナルなデザインを実現できます。\n\n- グラデーションおよび単色のオプション: 単色またはグラデーションを適用し、開始位置、中間位置、および終了位置を設定してスムーズなトランジションを実現します。\n\n- 線のスタイルと境界線のカスタマイズ: 破線、実線、カスタム パターンなどの線のスタイルをデザインのセクションごとに調整します。\n\n初心者からプロまで、高品質なチケットを簡単に作成できるツールです。その機能を使用して、",
       "descriptionKo": "강력한 티켓 디자인 도구를 사용하면 시각적으로 매력적이고 기능적인 티켓을 쉽게 만들 수 있습니다. 이 도구는 독특한 디자인을 만드는 데 도움이 되는 모양, 레이아웃, 천공 및 그라데이션을 사용자 정의할 수 있는 다양한 옵션을 제공합니다.\n\n-모양 및 레이아웃 사용자 정의: 원이나 다이아몬드 같은 모양을 만들고 디자인 요구 사항에 맞게 레이아웃을 자유롭게 조정할 수 있습니다. 이러한 기능을 사용하면 브랜드 및 이벤트 테마에 맞는 티켓을 만들 수 있습니다.\n\n-모서리 및 천공 사용자 정의: 모서리를 둥글게 하고, 독특한 컷을 추가하고, 천공을 적용하여 역동적이고 전문적인 디자인을 만들 수 있습니다.\n\n- 그라데이션 및 단색 옵션: 단색 또는 그라데이션을 적용하고, 부드러운 전환을 위해 시작, 중간, 끝 위치를 설정합니다.\n\n-선 스타일 및 테두리 사용자 정의: 점선, 실선 또는 사용자 정의 패턴을 포함한 선 스타일을 조정하여 디자인 섹션을 구분합니다.\n\n이 도구는 초보자와 전문가 모두에게 적합하므로 고품질 티켓을 쉽게 만들 수 있습니다. 해당 기능을 사용하여",
       "keywords": [
-        "ticket",
-        "card",
-        "coupon",
-        "eventticket",
-        "customticket",
-        "ticketmaker",
-        "ticketcreator",
-        "ticketgenerator",
-        "ticketprint"
+        "チケット",
+        "カード",
+        "クーポン",
+        "イベントチケット",
+        "カスタムチケット",
+        "チケットメーカー",
+        "チケット作成",
+        "チケット生成",
+        "チケット印刷"
       ],
       "keywordsEn": [
         "ticket",
@@ -16596,26 +16586,26 @@
         "ticketprint"
       ],
       "keywordsJa": [
-        "ticket",
-        "card",
-        "coupon",
-        "eventticket",
-        "customticket",
-        "ticketmaker",
-        "ticketcreator",
-        "ticketgenerator",
-        "ticketprint"
+        "チケット",
+        "カード",
+        "クーポン",
+        "イベントチケット",
+        "カスタムチケット",
+        "チケットメーカー",
+        "チケット作成",
+        "チケット生成",
+        "チケット印刷"
       ],
       "keywordsKo": [
-        "ticket",
-        "card",
-        "coupon",
-        "eventticket",
-        "customticket",
-        "ticketmaker",
-        "ticketcreator",
-        "ticketgenerator",
-        "ticketprint"
+        "티켓",
+        "카드",
+        "쿠폰",
+        "이벤트 티켓",
+        "맞춤 티켓",
+        "티켓 제작",
+        "티켓 생성",
+        "티켓 만들기",
+        "티켓 인쇄"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wnghhg528"
@@ -16630,10 +16620,10 @@
       "descriptionJa": "Tinify アドオンは、画像を Web 用に最適化するのに役立つ強力なツールです。個々のページまたはドキュメント全体を、Avif、WebP、JPG、PNG などの一般的な形式に簡単にエクスポートします。 \n\n画像の読み込みが高速化すると、ユーザー エクスペリエンスが向上するだけでなく、Web サイトの維持率と検索エンジンのランキングも向上します。ブログの管理、電子商取引ストアの運営、ポートフォリオの展示など、このツールはファイル サイズを小さくしながら高品質のビジュアルを作成するのに役立ちます。",
       "descriptionKo": "Tinify 추가 기능은 웹 사용에 맞게 이미지를 최적화하는 데 도움이 되는 강력한 도구입니다. 개별 페이지나 전체 문서를 Avif, WebP, JPG 또는 PNG와 같은 널리 사용되는 형식으로 쉽게 내보낼 수 있습니다. \n\n이미지 로딩 속도가 빨라지면 사용자 경험이 향상될 뿐만 아니라 웹사이트 유지율과 검색 엔진 순위도 향상됩니다. 블로그를 관리하든, 전자상거래 상점을 운영하든, 포트폴리오를 선보이든 이 도구는 파일 크기는 작지만 고품질의 시각적 자료를 만드는 데 도움이 됩니다.",
       "keywords": [
-        "Image compression",
-        "optimization",
-        "performance",
-        "webp conversion"
+        "画像圧縮",
+        "最適化",
+        "パフォーマンス",
+        "WebP変換"
       ],
       "keywordsEn": [
         "Image compression",
@@ -16642,16 +16632,16 @@
         "webp conversion"
       ],
       "keywordsJa": [
-        "Image compression",
-        "optimization",
-        "performance",
-        "webp conversion"
+        "画像圧縮",
+        "最適化",
+        "パフォーマンス",
+        "WebP変換"
       ],
       "keywordsKo": [
-        "Image compression",
-        "optimization",
-        "performance",
-        "webp conversion"
+        "이미지 압축",
+        "최적화",
+        "성능",
+        "WebP 변환"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w289m2689"
@@ -16906,20 +16896,20 @@
       "descriptionJa": "オーディオ ファイルとビデオ ファイルを正確なテキストに変換し、MP3、WAV、M4A、OGG、FLAC、MP4、MOV、YouTube URL をサポートします。会議、インタビュー、講義、メモを取るのに最適です。",
       "descriptionKo": "오디오 및 비디오 파일을 MP3, WAV, M4A, OGG, FLAC, MP4, MOV 및 YouTube URL을 지원하는 정확한 텍스트로 변환하세요. 회의, 인터뷰, 강의, 메모 작성에 적합합니다.",
       "keywords": [
-        "transcribe",
-        "transcribtion"
+        "文字起こし",
+        "トランスクリプション"
       ],
       "keywordsEn": [
         "transcribe",
         "transcribtion"
       ],
       "keywordsJa": [
-        "transcribe",
-        "transcribtion"
+        "文字起こし",
+        "トランスクリプション"
       ],
       "keywordsKo": [
-        "transcribe",
-        "transcribtion"
+        "음성 변환",
+        "전사"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w8nlki76h"
@@ -17494,12 +17484,12 @@
       "descriptionJa": "連絡先情報を手動で共有することにうんざりしていませんか? 😩 Adob​​e Express の究極の vCard QR コード ジェネレーターを使用して、タイプミスに別れを告げ、シームレスなネットワークを実現しましょう! 🚀\n\n名前、電話番号、電子メール、Web サイトなどの連絡先詳細を、プロジェクト内でスタイリッシュでスキャン可能な QR コードに即座に変換します。ブランドの美学に完全に一致するように QR コードの色と形をカスタマイズして、創造性を解き放ちます 🎨。チーム全体のコードを作成する必要がありますか?\n\nカスタム QR コードが完成したら、デザインに直接ドラッグ アンド ドロップするだけです。印象に残るモダンな名刺、チラシ、イベント ポスター、デジタル ポートフォリオを作成するのに最適なツールです。\n\n群衆の中で目立つようにし、接続を簡単にします。今すぐインストールしてネットワーク ゲームをアップグレードしてください! ✨📲",
       "descriptionKo": "연락처 정보를 수동으로 공유하는 데 지치셨나요? 😩 Adobe Express의 최고의 vCard QR 코드 생성기를 사용하여 오타에 작별을 고하고 원활한 네트워킹을 경험하세요! 🚀\n\n이름, 전화번호, 이메일, 웹사이트 등의 연락처 세부 정보를 프로젝트 내에서 바로 세련되고 스캔 가능한 QR 코드로 즉시 변환하세요. 브랜드의 미학에 완벽하게 어울리도록 QR 코드의 색상과 모양을 맞춤 설정하여 창의력을 발휘해보세요🎨. 팀 전체를 위한 코드를 생성해야 합니까?\n\n맞춤형 QR 코드가 완벽하게 완성되면 디자인에 직접 끌어서 놓기만 하면 됩니다. 지속적인 인상을 남기는 현대적인 명함, 전단지, 이벤트 포스터 및 디지털 포트폴리오를 만드는 데 이상적인 도구입니다.\n\n군중 속에서 눈에 띄고 쉽게 연결하세요. 지금 설치하고 네트워킹 게임을 업그레이드하세요! ✨📲",
       "keywords": [
-        "vCard Creator",
-        "vCard Contact",
-        "Virtual Contact Card",
-        "Create vCard Online",
-        "Business vCard",
-        "Contact QR"
+        "vCard作成",
+        "vCard連絡先",
+        "仮想名刺",
+        "vCard作成",
+        "ビジネスvCard",
+        "連絡先QR"
       ],
       "keywordsEn": [
         "vCard Creator",
@@ -17510,20 +17500,20 @@
         "Contact QR"
       ],
       "keywordsJa": [
-        "vCard Creator",
-        "vCard Contact",
-        "Virtual Contact Card",
-        "Create vCard Online",
-        "Business vCard",
-        "Contact QR"
+        "vCard作成",
+        "vCard連絡先",
+        "仮想名刺",
+        "vCard作成",
+        "ビジネスvCard",
+        "連絡先QR"
       ],
       "keywordsKo": [
-        "vCard Creator",
-        "vCard Contact",
-        "Virtual Contact Card",
-        "Create vCard Online",
-        "Business vCard",
-        "Contact QR"
+        "vCard 생성",
+        "vCard 연락처",
+        "가상 명함",
+        "vCard 만들기",
+        "비즈니스 vCard",
+        "연락처 QR"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w85ng6983"
@@ -18550,16 +18540,16 @@
       "descriptionJa": "Adobe Express 用の 100% 本物の Web カメラドッキング可能なパネル!\nスクリーン キャプチャ ソフトウェアの面倒なオーバーレイのことは忘れて、録画中に壊れやすいセットアップに別れを告げましょう。あなたが見ているものはまさにあなたが得るものです！",
       "descriptionKo": "Adobe Express용 100% 실제 웹캠 도킹 가능 패널!\n화면 캡처 소프트웨어의 지루한 오버레이를 잊어버리고 녹화 중에 깨지기 쉬운 설정에 작별을 고하세요. 당신이 보는 것이 바로 당신이 얻는 것입니다!",
       "keywords": [
-        "webcam"
+        "ウェブカメラ"
       ],
       "keywordsEn": [
         "webcam"
       ],
       "keywordsJa": [
-        "webcam"
+        "ウェブカメラ"
       ],
       "keywordsKo": [
-        "webcam"
+        "웹캠"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w8lk74ilm"
@@ -18783,10 +18773,425 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1lh7l3k3"
+    },
+    {
+      "id": "design-to-code",
+      "addOnId": "w0kk69in2",
+      "nameEn": "Design to Code",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Design to Code converts Adobe Express designs into clean, editable HTML.\n\nIt translates layout, text, and styling into email-ready HTML you can customize and use anywhere - websites, emails, or exports — without rebuilding designs manually.\n\nDesign → editable HTML.",
+      "descriptionEn": "Design to Code converts Adobe Express designs into clean, editable HTML.\n\nIt translates layout, text, and styling into email-ready HTML you can customize and use anywhere - websites, emails, or exports — without rebuilding designs manually.\n\nDesign → editable HTML.",
+      "descriptionJa": "Design to Code は Adobe Express のデザインをクリーンで編集可能な HTML に変換します。\n\nレイアウト、テキスト、スタイルをメール対応の HTML に変換でき、ウェブサイト、メール、エクスポートなど様々な場所で カスタマイズして使用できます。デザインを手動で再構築する必要はありません。\n\nデザイン → 編集可能な HTML。",
+      "descriptionKo": "Design to Code는 Adobe Express 디자인을 깔끔하고 편집 가능한 HTML로 변환합니다.\n\n레이아웃, 텍스트, 스타일을 이메일 준비 완료된 HTML로 변환하며, 웹사이트, 이메일, 내보내기 등 어디서나 맞춤 설정하여 사용할 수 있습니다. 디자인을 수동으로 다시 구축할 필요가 없습니다.\n\n디자인 → 편집 가능한 HTML.",
+      "keywords": [
+        "デザインからコード",
+        "デザインからHTML",
+        "メールHTML",
+        "デザインからメール",
+        "HTML生成",
+        "デザインをHTMLに変換"
+      ],
+      "keywordsEn": [
+        "design to code",
+        "design to html",
+        "email html",
+        "design to email",
+        "html generator",
+        "convert design to html"
+      ],
+      "keywordsJa": [
+        "デザインからコード",
+        "デザインからHTML",
+        "メールHTML",
+        "デザインからメール",
+        "HTML生成",
+        "デザインをHTMLに変換"
+      ],
+      "keywordsKo": [
+        "디자인 투 코드",
+        "디자인 투 HTML",
+        "이메일 HTML",
+        "디자인 투 이메일",
+        "HTML 생성",
+        "디자인을 HTML로 변환"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w0kk69in2"
+    },
+    {
+      "id": "unweave",
+      "addOnId": "w0lj5g467",
+      "nameEn": "Unweave",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Automatically turn flat images into editable layers.\n\nUnweave is an AI-powered layer decomposition tool built for Adobe Express - allowing designers to separate a single image into multiple editable layers.\n\nUsing AI, Unweave analyzes an image and separates it into multiple visual layers, allowing users to isolate and edit elements that were previously locked inside a flat image. \n\nSimply upload your graphic, configure the processing settings, and generate layered outputs in seconds. Once the layers are ready, add them directly to the canvas and edit each element. ** Unweave works best with poster-style graphics and bold visual designs. **\n\nWith Unweave, users can:\n -  Automatically decompose images into multiple visual layers\n -  Separate foreground objects, backgrounds, and design elements\n -  Extract components from posters, graphics, and artwork\n -  Generate layers that can be added directly to the Express canvas",
+      "descriptionEn": "Automatically turn flat images into editable layers.\n\nUnweave is an AI-powered layer decomposition tool built for Adobe Express - allowing designers to separate a single image into multiple editable layers.\n\nUsing AI, Unweave analyzes an image and separates it into multiple visual layers, allowing users to isolate and edit elements that were previously locked inside a flat image. \n\nSimply upload your graphic, configure the processing settings, and generate layered outputs in seconds. Once the layers are ready, add them directly to the canvas and edit each element. ** Unweave works best with poster-style graphics and bold visual designs. **\n\nWith Unweave, users can:\n -  Automatically decompose images into multiple visual layers\n -  Separate foreground objects, backgrounds, and design elements\n -  Extract components from posters, graphics, and artwork\n -  Generate layers that can be added directly to the Express canvas",
+      "descriptionJa": "フラット画像を自動的に編集可能なレイヤーに変換します。\n\nUnweave は Adobe Express 向けの AI 搭載レイヤー分解ツールで、単一の画像を複数の編集可能なレイヤーに分離できます。\n\nAI を使用して Unweave は画像を分析し、複数の視覚レイヤーに分離します。これにより、以前はフラット画像内に固定されていた要素を分離および編集できるようになります。\n\nグラフィックをアップロードして処理設定を構成し、数秒でレイヤー化された出力を生成します。レイヤーの準備ができたら、キャンバスに直接追加して各要素を編集します。** Unweave はポスタースタイルのグラフィックスと大胆なビジュアルデザインで最も効果的です。**\n\nUnweave を使用すると、ユーザーは以下のことができます:\n - 画像を複数の視覚レイヤーに自動分解\n - 前景オブジェクト、背景、デザイン要素を分離\n - ポスター、グラフィック、アートワークからコンポーネントを抽出\n - Express キャンバスに直接追加できるレイヤーを生成",
+      "descriptionKo": "평면 이미지를 자동으로 편집 가능한 레이어로 변환합니다.\n\nUnweave는 Adobe Express용 AI 기반 레이어 분해 도구로, 단일 이미지를 여러 편집 가능한 레이어로 분리할 수 있습니다.\n\nAI를 사용하여 Unweave는 이미지를 분석하고 여러 시각 레이어로 분리하므로 이전에 평면 이미지 내에 잠겨 있던 요소를 격리하고 편집할 수 있습니다.\n\n그래픽을 업로드하고 처리 설정을 구성한 후 몇 초 내에 레이어된 출력을 생성합니다. 레이어가 준비되면 캔버스에 직접 추가하고 각 요소를 편집합니다. ** Unweave는 포스터 스타일 그래픽 및 대담한 시각 디자인에서 가장 잘 작동합니다. **\n\nUnweave를 사용하면 사용자는 다음을 수행할 수 있습니다:\n - 이미지를 여러 시각 레이어로 자동 분해\n - 전경 객체, 배경 및 디자인 요소 분리\n - 포스터, 그래픽 및 아트워크에서 구성 요소 추출\n - Express 캔버스에 직접 추가할 수 있는 레이어 생성",
+      "keywords": [
+        "AI powered",
+        "レイヤー",
+        "layer management",
+        "layer separation",
+        "decomposition",
+        "decompose"
+      ],
+      "keywordsEn": [
+        "AI powered",
+        "layer",
+        "layer management",
+        "layer separation",
+        "decomposition",
+        "decompose"
+      ],
+      "keywordsJa": [
+        "AI powered",
+        "レイヤー",
+        "layer management",
+        "layer separation",
+        "decomposition",
+        "decompose"
+      ],
+      "keywordsKo": [
+        "AI powered",
+        "레이어",
+        "layer management",
+        "layer separation",
+        "decomposition",
+        "decompose"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w0lj5g467"
+    },
+    {
+      "id": "storyboard-maker-ai",
+      "addOnId": "w127j78k1",
+      "nameEn": "Storyboard Maker AI",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Storyboard Maker helps you create professional storyboards for video and film. Generate AI-powered visuals and define shots with camera, lighting, location, characters, and more.",
+      "descriptionEn": "Storyboard Maker helps you create professional storyboards for video and film. Generate AI-powered visuals and define shots with camera, lighting, location, characters, and more.",
+      "descriptionJa": "Storyboard Maker は動画や映画の専門的なストーリーボードの作成を支援します。AI を活用したビジュアルを生成し、カメラ、照明、ロケーション、キャラクターなどのショットを定義できます。",
+      "descriptionKo": "Storyboard Maker는 비디오 및 영화를 위한 전문적인 스토리보드 생성을 도와줍니다. AI 기반 비주얼을 생성하고 카메라, 조명, 위치, 캐릭터 등의 샷을 정의할 수 있습니다.",
+      "keywords": [
+        "storyboard",
+        "AI ビルダー",
+        "scene",
+        "storyboard maker",
+        "buildr",
+        "アニメーション",
+        "film",
+        "movie"
+      ],
+      "keywordsEn": [
+        "storyboard",
+        "ai builder",
+        "scene",
+        "storyboard maker",
+        "buildr",
+        "animation",
+        "film",
+        "movie"
+      ],
+      "keywordsJa": [
+        "storyboard",
+        "AI ビルダー",
+        "scene",
+        "storyboard maker",
+        "buildr",
+        "アニメーション",
+        "film",
+        "movie"
+      ],
+      "keywordsKo": [
+        "storyboard",
+        "AI 빌더",
+        "scene",
+        "storyboard maker",
+        "buildr",
+        "애니메이션",
+        "film",
+        "movie"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w127j78k1"
+    },
+    {
+      "id": "ainviter",
+      "addOnId": "w1jg7h5n9",
+      "nameEn": "Ainviter",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Invitation made easy! Use your Adobe Express design as a reference to create a unique, personalized event invitation & RSVP with Ainviter — the all-in-one invitation platform.",
+      "descriptionEn": "Invitation made easy! Use your Adobe Express design as a reference to create a unique, personalized event invitation & RSVP with Ainviter — the all-in-one invitation platform.",
+      "descriptionJa": "招待状作成が簡単に！Adobe Express デザインをリファレンスとして使用し、Ainviter（オールインワン招待プラットフォーム）でユニークでパーソナライズされたイベント招待状と RSVP を作成できます。",
+      "descriptionKo": "초대장 작성이 쉬워집니다! Adobe Express 디자인을 참고로 사용하여 Ainviter(올인원 초대 플랫폼)로 고유하고 개인화된 이벤트 초대장 및 RSVP를 만듭니다.",
+      "keywords": [
+        "招待状",
+        "rsvp",
+        "assistant",
+        "誕生日",
+        "ウェディング",
+        "graduation",
+        "ホリデー"
+      ],
+      "keywordsEn": [
+        "invitation",
+        "rsvp",
+        "assistant",
+        "birthday",
+        "wedding",
+        "graduation",
+        "holiday"
+      ],
+      "keywordsJa": [
+        "招待状",
+        "rsvp",
+        "assistant",
+        "誕生日",
+        "ウェディング",
+        "graduation",
+        "ホリデー"
+      ],
+      "keywordsKo": [
+        "초대장",
+        "rsvp",
+        "assistant",
+        "생일",
+        "결혼식",
+        "graduation",
+        "휴일"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1jg7h5n9"
+    },
+    {
+      "id": "spline-mesh",
+      "addOnId": "w24gi4lh8",
+      "nameEn": "Spline Mesh",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Spline Mesh brings the power of smooth, gradient strokes and editable text paths straight into Adobe Express.\n\nDraw freehand curves with full control over their shape, then paint them with rich multi-color gradients that follow every bend. Want text that looks hand-drawn or script-style? Type your words and turn them into editable spline paths—perfect for logos, badges, and decorative headlines.\n\nAdjust line thickness from start to end for a natural taper, add dashed or dotted styles, and choose rounded or flat caps. Save your favorite designs to your personal library and reuse them in any project. When you’re done, one click sends your graphic directly into your current Express design—no export, no copy-paste.\n\nIdeal for social graphics, invitations, branding, and any design where flowing lines and gradient text make the difference.",
+      "descriptionEn": "Spline Mesh brings the power of smooth, gradient strokes and editable text paths straight into Adobe Express.\n\nDraw freehand curves with full control over their shape, then paint them with rich multi-color gradients that follow every bend. Want text that looks hand-drawn or script-style? Type your words and turn them into editable spline paths—perfect for logos, badges, and decorative headlines.\n\nAdjust line thickness from start to end for a natural taper, add dashed or dotted styles, and choose rounded or flat caps. Save your favorite designs to your personal library and reuse them in any project. When you’re done, one click sends your graphic directly into your current Express design—no export, no copy-paste.\n\nIdeal for social graphics, invitations, branding, and any design where flowing lines and gradient text make the difference.",
+      "descriptionJa": "Spline Mesh は、スムーズなグラデーション ストローク と編集可能なテキストパスを Adobe Express に直接導入します。\n\nフリーハンドの曲線を自由に描画し、形状を完全にコントロールしながら、あらゆる曲がりに沿う豊かなマルチカラー グラデーションでペイントできます。手書きやスクリプト風に見えるテキストが欲しいですか？言葉を入力し、編集可能なスプライン パスに変換します。ロゴ、バッジ、装飾的なヘッドラインに最適です。\n\n開始から終了まで線の太さを調整して自然なテーパーを作成し、破線や点線スタイルを追加し、丸い端または平らな端を選択します。お気に入りのデザインを個人用ライブラリに保存し、任意のプロジェクトで再利用できます。完了したら、1 回のクリックでグラフィックを現在の Express デザインに直接送信します。エクスポート、コピー・ペーストは不要です。\n\nソーシャル グラフィック、招待状、ブランディング、流れるような線とグラデーション テキストが違いを生む任意のデザインに最適です。",
+      "descriptionKo": "Spline Mesh는 부드러운 그래디언트 스트로크와 편집 가능한 텍스트 경로를 Adobe Express에 직접 제공합니다.\n\n자유형 곡선을 그려 형태를 완전히 제어하고 모든 굽음을 따라가는 풍부한 다중 색상 그래디언트로 페인트합니다. 손으로 그린 모양이나 스크립트 스타일 텍스트를 원하시나요? 단어를 입력하고 편집 가능한 스플라인 경로로 변환합니다. 로고, 배지, 장식 헤드라인에 완벽합니다.\n\n시작부터 끝까지 선 두께를 조정하여 자연스러운 테이퍼를 만들고, 파선 또는 점선 스타일을 추가하고, 둥근 끝 또는 평면 끝을 선택합니다. 즐겨찾기 디자인을 개인 라이브러리에 저장하고 모든 프로젝트에서 재사용합니다. 완료되면 한 번의 클릭으로 그래픽이 현재 Express 디자인으로 직접 전송됩니다. 내보내기나 복사-붙여넣기가 필요 없습니다.\n\n소셜 그래픽, 초대장, 브랜딩 및 흐르는 선과 그래디언트 텍스트가 차이를 만드는 모든 디자인에 이상적입니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w24gi4lh8"
+    },
+    {
+      "id": "photo-to-cartoon",
+      "addOnId": "wh5h08m5i",
+      "nameEn": "Photo to Cartoon",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Cartoonify your images with Photo to Cartoon. Choose from our artistic filters, including cartoon, anime, oil painting, sketch, and 3D. Perfect for unique social media posts and custom avatars.",
+      "descriptionEn": "Cartoonify your images with Photo to Cartoon. Choose from our artistic filters, including cartoon, anime, oil painting, sketch, and 3D. Perfect for unique social media posts and custom avatars.",
+      "descriptionJa": "Photo to Cartoon で画像をマンガ化します。漫画、アニメ、油絵、スケッチ、3D など、当社の芸術的フィルターから選択できます。ユニークなソーシャルメディア投稿とカスタムアバターに最適です。",
+      "descriptionKo": "Photo to Cartoon로 이미지를 만화화합니다. 만화, 애니메, 유화, 스케치, 3D 등 당사의 예술적 필터에서 선택할 수 있습니다. 독특한 소셜 미디어 게시물 및 맞춤 아바타에 완벽합니다.",
+      "keywords": [
+        "cartoonify",
+        "AI カートゥーン ジェネレーター",
+        "Cartoonize Photos",
+        "Image to Cartoon",
+        "写真エディター"
+      ],
+      "keywordsEn": [
+        "cartoonify",
+        "AI Cartoon Generator",
+        "Cartoonize Photos",
+        "Image to Cartoon",
+        "Cartoon Photo Editor"
+      ],
+      "keywordsJa": [
+        "cartoonify",
+        "AI カートゥーン ジェネレーター",
+        "Cartoonize Photos",
+        "Image to Cartoon",
+        "写真エディター"
+      ],
+      "keywordsKo": [
+        "cartoonify",
+        "AI 카툰 생성기",
+        "Cartoonize Photos",
+        "Image to Cartoon",
+        "사진 편집기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wh5h08m5i"
+    },
+    {
+      "id": "mate-for-express",
+      "addOnId": "wj728mn55",
+      "nameEn": "MATE for Express",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "MATE brings AI-powered automation directly into Adobe Express. Describe your task in plain language. MATE handles the rest.\nAutomate repetitive tasks without writing a single line of code. Style elements, edit content, and build custom workflows. All from a simple chat interface inside Express.\n\nSpell check and translate your text into 30+ languages in seconds. Just ask to \"fix all typos\" and MATE will check every text and fix typos.\n\nSave your automations and build a personal library of tools tailored to your workflow. The more you use MATE, the more powerful your setup becomes.\n\nMATE supports multiple AI models including GPT-5.2, Claude Sonnet 4.6, and Gemini 3 Pro — so you always have the right tool for the job.\n\nFree for a limited time.. No sign-up needed.",
+      "descriptionEn": "MATE brings AI-powered automation directly into Adobe Express. Describe your task in plain language. MATE handles the rest.\nAutomate repetitive tasks without writing a single line of code. Style elements, edit content, and build custom workflows. All from a simple chat interface inside Express.\n\nSpell check and translate your text into 30+ languages in seconds. Just ask to \"fix all typos\" and MATE will check every text and fix typos.\n\nSave your automations and build a personal library of tools tailored to your workflow. The more you use MATE, the more powerful your setup becomes.\n\nMATE supports multiple AI models including GPT-5.2, Claude Sonnet 4.6, and Gemini 3 Pro — so you always have the right tool for the job.\n\nFree for a limited time.. No sign-up needed.",
+      "descriptionJa": "MATE は AI を活用した自動化を Adobe Express に直接導入します。タスクを平文で説明するだけです。後は MATE が処理します。\n\n1 行のコードも書かずに反復的なタスクを自動化します。要素のスタイル設定、コンテンツ編集、カスタムワークフローの構築。すべて Express 内の簡単なチャットインターフェースから行えます。\n\nテキストをスペルチェックし、30 以上の言語に数秒で翻訳します。「すべてのタイプミスを修正して」と聞くだけで、MATE がすべてのテキストをチェックしてタイプミスを修正します。\n\n自動化を保存し、ワークフローに合わせた個人用ツール ライブラリを構築します。MATE を使用するほど、セットアップはより強力になります。\n\nMATE は GPT-5.2、Claude Sonnet 4.6、Gemini 3 Pro を含む複数の AI モデルをサポートしているため、常に適切なツールが利用できます。\n\n期間限定で無料です。サインアップ不要。",
+      "descriptionKo": "MATE는 AI 기반 자동화를 Adobe Express에 직접 제공합니다. 작업을 일반 언어로 설명하세요. 나머지는 MATE가 처리합니다.\n\n코드 한 줄을 작성하지 않고도 반복 작업을 자동화합니다. 스타일 요소, 콘텐츠 편집, 맞춤 워크플로 구축. 모두 Express 내의 간단한 채팅 인터페이스에서 가능합니다.\n\n30개 이상의 언어로 텍스트를 맞춤법 검사하고 몇 초 만에 번역합니다. \"모든 오타 수정\"이라고 하면 MATE가 모든 텍스트를 확인하고 오타를 수정합니다.\n\n자동화를 저장하고 워크플로에 맞춘 개인 도구 라이브러리를 구축합니다. MATE를 더 많이 사용할수록 설정이 더 강력해집니다.\n\nMATE는 GPT-5.2, Claude Sonnet 4.6, Gemini 3 Pro를 포함한 여러 AI 모델을 지원하므로 항상 올바른 도구를 선택할 수 있습니다.\n\n기간 한정 무료입니다. 가입 불필요.",
+      "keywords": [
+        "AIアシスタント",
+        "automation",
+        "ワークフロー",
+        "prompt",
+        "MCP",
+        "Notion",
+        "生成AI",
+        "grammar check",
+        "GPT",
+        "chat",
+        "Claude"
+      ],
+      "keywordsEn": [
+        "ai assistant",
+        "automation",
+        "workflow",
+        "prompt",
+        "MCP",
+        "Notion",
+        "generative",
+        "grammar check",
+        "GPT",
+        "chat",
+        "Claude"
+      ],
+      "keywordsJa": [
+        "AIアシスタント",
+        "automation",
+        "ワークフロー",
+        "prompt",
+        "MCP",
+        "Notion",
+        "生成AI",
+        "grammar check",
+        "GPT",
+        "chat",
+        "Claude"
+      ],
+      "keywordsKo": [
+        "AI 어시스턴트",
+        "automation",
+        "워크플로",
+        "prompt",
+        "MCP",
+        "Notion",
+        "생성형",
+        "grammar check",
+        "GPT",
+        "chat",
+        "Claude"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj728mn55"
+    },
+    {
+      "id": "addon-explorer",
+      "addOnId": "wjkl4l48l",
+      "nameEn": "Addon Explorer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Addon Explorer is a lightweight discovery tool that helps users find add-ons available for Adobe Express using Japanese or Korean search keywords.\n\nMany add-ons in the marketplace are primarily described in English, which can make it difficult for users searching in Japanese or Korean to discover relevant tools.\n\nAddon Explorer provides a searchable catalog of add-ons with localized metadata. Users can search using their native language, browse add-ons by category, and easily locate the corresponding add-on in the marketplace.\n\nThe add-on is designed to improve add-on discoverability while keeping the experience simple and fast within the panel interface",
+      "descriptionEn": "Addon Explorer is a lightweight discovery tool that helps users find add-ons available for Adobe Express using Japanese or Korean search keywords.\n\nMany add-ons in the marketplace are primarily described in English, which can make it difficult for users searching in Japanese or Korean to discover relevant tools.\n\nAddon Explorer provides a searchable catalog of add-ons with localized metadata. Users can search using their native language, browse add-ons by category, and easily locate the corresponding add-on in the marketplace.\n\nThe add-on is designed to improve add-on discoverability while keeping the experience simple and fast within the panel interface",
+      "descriptionJa": "Addon Explorer は、日本語または韓国語の検索キーワードを使用して Adobe Express で利用可能なアドオンの検出を支援するlightweight ツールです。\n\nマーケットプレイスの多くのアドオンは主に英語で記載されているため、日本語または韓国語で検索しているユーザーが関連ツールを見つけるのが難しい場合があります。\n\nAddon Explorer は、ローカライズされたメタデータを持つ検索可能なアドオンカタログを提供します。ユーザーは自分の言語で検索し、カテゴリ別にアドオンを参照し、マーケットプレイスで対応するアドオンを簡単に見つけられます。\n\nこのアドオンは、パネル インターフェース内でシンプルで高速な操作性を保ちながら、アドオンの検出可能性を向上させるように設計されています。",
+      "descriptionKo": "Addon Explorer는 일본어 또는 한국어 검색 키워드를 사용하여 Adobe Express에서 사용 가능한 애드온을 찾는 데 도움이 되는 경량 검색 도구입니다.\n\n마켓플레이스의 많은 애드온은 주로 영어로 설명되어 있어 일본어 또는 한국어로 검색하는 사용자가 관련 도구를 찾기 어려울 수 있습니다.\n\nAddon Explorer는 현지화된 메타데이터가 있는 검색 가능한 애드온 카탈로그를 제공합니다. 사용자는 자신의 언어로 검색하고, 카테고리별로 애드온을 탐색하고, 마켓플레이스에서 해당 애드온을 쉽게 찾을 수 있습니다.\n\n이 애드온은 패널 인터페이스 내에서 간단하고 빠른 경험을 유지하면서 애드온 검색 가능성을 개선하도록 설계되었습니다.",
+      "keywords": [
+        "アドオン",
+        "日本語",
+        "韓国語",
+        "discovery"
+      ],
+      "keywordsEn": [
+        "Add-on search",
+        "Japanese",
+        "Korean",
+        "discovery"
+      ],
+      "keywordsJa": [
+        "アドオン",
+        "日本語",
+        "韓国語",
+        "discovery"
+      ],
+      "keywordsKo": [
+        "애드온",
+        "일본어",
+        "한국어",
+        "discovery"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wjkl4l48l"
+    },
+    {
+      "id": "calendar-maker",
+      "addOnId": "wk58hlm80",
+      "nameEn": "Calendar Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Calendar Maker is a must‑have add‑on for Adobe Express that lets you instantly create stunning, customizable calendars right inside your designs. Simply select any month and year, adjust the size to fit your layout, and watch it auto-generate accurate dates, weekdays, and a clean grid—no manual typing or fixing required!\nPerfect for content creators, planners, teachers, businesses, and social media managers, this tool supports branded monthly calendars, printable planners, digital schedules, content calendars, or marketing visuals.\nCustomize backgrounds, text, spacing, and alignment effortlessly, then enhance with photos, icons, events, or notes for personalized results. Save time and create professional custom calendars 2025, 2026 planners, or any future year in minutes.\nSearch for Calendar Maker in Adobe Express Add-ons today and design eye-catching, functional calendars that boost organization and creativity!",
+      "descriptionEn": "Calendar Maker is a must‑have add‑on for Adobe Express that lets you instantly create stunning, customizable calendars right inside your designs. Simply select any month and year, adjust the size to fit your layout, and watch it auto-generate accurate dates, weekdays, and a clean grid—no manual typing or fixing required!\nPerfect for content creators, planners, teachers, businesses, and social media managers, this tool supports branded monthly calendars, printable planners, digital schedules, content calendars, or marketing visuals.\nCustomize backgrounds, text, spacing, and alignment effortlessly, then enhance with photos, icons, events, or notes for personalized results. Save time and create professional custom calendars 2025, 2026 planners, or any future year in minutes.\nSearch for Calendar Maker in Adobe Express Add-ons today and design eye-catching, functional calendars that boost organization and creativity!",
+      "descriptionJa": "Calendar Maker は Adobe Express 向けの必須アドオンで、デザイン内から直接素晴らしいカスタマイズ可能なカレンダーを作成できます。任意の月と年を選択し、サイズをレイアウトに合わせて調整するだけで、自動的に正確な日付、曜日、きれいなグリッドが生成されます。手動での入力や修正は不要です！\n\nコンテンツクリエーター、プランナー、教師、企業、ソーシャルメディアマネージャーに最適です。このツールはブランドマンスリーカレンダー、印刷可能なプランナー、デジタルスケジュール、コンテンツカレンダー、マーケティングビジュアルに対応しています。\n\n背景、テキスト、スペーシング、配置を簡単にカスタマイズしてから、写真、アイコン、イベント、メモを追加して個人化された結果を作成します。プロフェッショナルなカスタムカレンダー 2025、2026 プランナー、または任意の将来の年を数分で作成し、時間を節約できます。\n\nAdobe Express アドオンで Calendar Maker を検索し、組織とクリエイティビティを向上させる目を引くかつ機能的なカレンダーをデザインしましょう！",
+      "descriptionKo": "Calendar Maker는 Adobe Express용 필수 애드온으로 디자인 내에서 바로 멋진 맞춤형 달력을 만들 수 있습니다. 원하는 월과 연도를 선택하고 크기를 레이아웃에 맞게 조정한 후 자동으로 정확한 날짜, 요일, 깔끔한 그리드를 생성하면 됩니다. 수동 입력이나 수정이 필요하지 않습니다!\n\n콘텐츠 제작자, 플래너, 교사, 기업, 소셜 미디어 관리자에게 완벽합니다. 이 도구는 브랜드 월별 달력, 인쇄 가능한 플래너, 디지털 일정, 콘텐츠 달력, 마케팅 비주얼을 지원합니다.\n\n배경, 텍스트, 간격, 정렬을 쉽게 맞춤 설정한 후 사진, 아이콘, 이벤트, 메모를 추가하여 개인화된 결과를 만듭니다. 전문적인 맞춤 달력 2025, 2026 플래너 또는 미래의 임의 연도를 몇 분 내에 만들어 시간을 절약합니다.\n\nAdobe Express 애드온에서 Calendar Maker를 검색하고 조직과 창의성을 향상시키는 눈에 띄는 기능적 달력을 디자인하세요!",
+      "keywords": [
+        "カレンダーメーカー",
+        "カレンダー",
+        "カレンダー ジェネレーター",
+        "カレンダー アプリ",
+        "カレンダー ツール",
+        "カレンダー デザイン"
+      ],
+      "keywordsEn": [
+        "calendar maker",
+        "calendar",
+        "calendar generator",
+        "calendar app",
+        "calendar tool",
+        "calendar design"
+      ],
+      "keywordsJa": [
+        "カレンダーメーカー",
+        "カレンダー",
+        "カレンダー ジェネレーター",
+        "カレンダー アプリ",
+        "カレンダー ツール",
+        "カレンダー デザイン"
+      ],
+      "keywordsKo": [
+        "캘린더 메이커",
+        "캘린더",
+        "캘린더 생성기",
+        "캘린더 앱",
+        "캘린더 도구",
+        "캘린더 디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk58hlm80"
     }
   ],
   "metadata": {
-    "totalCount": 424,
+    "totalCount": 433,
     "lastUpdated": "2026-03-03",
     "source": "Web research and official documentation",
     "categories": {
