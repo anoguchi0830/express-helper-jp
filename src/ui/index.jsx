@@ -169,6 +169,7 @@ function App({ addonsData }) {
   const [sortId, setSortId]                 = useState('default');
   const [toast, setToast]                   = useState(null);
   const toastTimerRef                       = useRef(null);
+  const trackTimerRef                       = useRef(null);
   const contentRef                          = useRef(null);
 
   useEffect(() => {
@@ -180,12 +181,37 @@ function App({ addonsData }) {
     contentRef.current?.scrollTo({ top: 0, behavior: 'instant' });
   }, [view]);
 
+  // 匿名キーワード送信（UI をブロックしない、失敗は無視）
+  const trackSearch = (query) => {
+    if (!query || query.length < 2) return;
+    const key = query.toLowerCase().trim();
+    // text/plain = simple request = preflight なし（CSP ブロック回避）
+    const sent = navigator.sendBeacon
+      ? navigator.sendBeacon(TRACK_URL, new Blob([key], { type: 'text/plain' }))
+      : false;
+
+    if (!sent) {
+      // フォールバック: fetch (text/plain)
+      fetch(TRACK_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/plain' },
+        body: key
+      }).catch(() => {});
+    }
+  };
+
   // 検索ハンドラ
   const handleSearch = (query) => {
     setSearchQuery(query);
     setSelectedCategory(null);
     setSortId('default');
     setView(query.trim() ? 'search' : 'home');
+
+    // 入力停止 1.5 秒後に匿名送信（確定した検索のみ）
+    clearTimeout(trackTimerRef.current);
+    if (query.length >= 2) {
+      trackTimerRef.current = setTimeout(() => trackSearch(query), 1500);
+    }
   };
 
   // カテゴリクリック
@@ -503,7 +529,8 @@ function NetworkErrorScreen({ onRetry }) {
 // アドオンデータ取得（外部 URL + localStorage キャッシュ）
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-const DATA_URL = 'https://anoguchi0830.github.io/express-helper-jp/addons_data.json';
+const DATA_URL  = 'https://anoguchi0830.github.io/express-helper-jp/addons_data.json';
+const TRACK_URL = 'https://addon-search-stats.anodo.workers.dev/track';
 const CACHE_KEY = 'addons_cache';
 const CACHE_TTL = 7 * 24 * 60 * 60 * 1000; // 7日
 

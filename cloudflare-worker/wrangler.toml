@@ -1,0 +1,8 @@
+name = "addon-search-stats"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[kv_namespaces]]
+binding = "SEARCH_STATS"
+id = "88c8f82e48c24691b1e2b35da2f27a26"
+preview_id = "6f1ceae3c46646eb8522272b9b53d835"

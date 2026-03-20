@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy — Addon Explorer</title>
+  <style>
+    body {
+      font-family: "Noto Sans JP", -apple-system, BlinkMacSystemFont, sans-serif;
+      max-width: 720px;
+      margin: 40px auto;
+      padding: 0 24px 64px;
+      color: #1E1E1E;
+      line-height: 1.8;
+    }
+    h1 { font-size: 24px; margin-bottom: 4px; }
+    h2 { font-size: 18px; margin-top: 36px; border-bottom: 1px solid #E0E0E0; padding-bottom: 6px; }
+    p, li { font-size: 15px; color: #333; }
+    ul { padding-left: 20px; }
+    .lang-toggle { margin-bottom: 32px; }
+    .lang-toggle a { margin-right: 12px; color: #0066FF; text-decoration: none; font-size: 14px; }
+    .section-en { display: none; }
+    .updated { font-size: 13px; color: #999; margin-top: 4px; }
+  </style>
+</head>
+<body>
+
+<div class="lang-toggle">
+  <a href="#" onclick="showLang('ja'); return false;">日本語</a>
+  <a href="#" onclick="showLang('en'); return false;">English</a>
+</div>
+
+<!-- ── 日本語 ── -->
+<div class="section-ja">
+  <h1>プライバシーポリシー</h1>
+  <p class="updated">最終更新: 2026年3月</p>
+
+  <h2>はじめに</h2>
+  <p>
+    「Addon Explorer」（以下「本アドオン」）は、Adobe Express 向けのアドオン発見ポータルです。
+    本ポリシーは、本アドオンがどのような情報を収集・利用するかを説明します。
+  </p>
+
+  <h2>収集する情報</h2>
+  <p>本アドオンは以下の情報のみを収集します。</p>
+  <ul>
+    <li><strong>検索キーワードの集計カウント</strong>（例：「縦書き」が何回検索されたか）</li>
+  </ul>
+  <p>収集は入力停止から 1.5 秒後にのみ行われ、2 文字以上のキーワードが対象です。</p>
+
+  <h2>収集しない情報</h2>
+  <ul>
+    <li>IPアドレス</li>
+    <li>ユーザーID・セッションID</li>
+    <li>タイムスタンプ（いつ検索したか）</li>
+    <li>Adobe Express のアカウント情報</li>
+    <li>個人を特定できる一切の情報</li>
+  </ul>
+
+  <h2>情報の利用目的</h2>
+  <p>
+    収集した集計データは、どのカテゴリのアドオンが求められているかを把握し、
+    将来のアドオン開発の参考にするためにのみ使用します。
+    第三者への販売・共有は行いません。
+  </p>
+
+  <h2>データの保管</h2>
+  <p>
+    集計カウントは Cloudflare Workers KV に保管されます。
+    生のキーワードログ（誰がいつ何を検索したか）は一切記録されません。
+  </p>
+
+  <h2>オプトアウト</h2>
+  <p>
+    本アドオンにはオプトアウト設定はありませんが、収集される情報は個人を特定しない
+    集計カウントのみであるため、プライバシーへの影響はありません。
+  </p>
+
+  <h2>お問い合わせ</h2>
+  <p>
+    本ポリシーに関するご質問は、Adobe Developer Console のプロフィールページに記載の
+    連絡先までお問い合わせください。
+  </p>
+</div>
+
+<!-- ── English ── -->
+<div class="section-en">
+  <h1>Privacy Policy</h1>
+  <p class="updated">Last updated: March 2026</p>
+
+  <h2>Introduction</h2>
+  <p>
+    "Addon Explorer" is an add-on discovery portal for Adobe Express.
+    This policy explains what information the add-on collects and how it is used.
+  </p>
+
+  <h2>Information We Collect</h2>
+  <p>The add-on collects only the following:</p>
+  <ul>
+    <li><strong>Aggregated search keyword counts</strong> (e.g., how many times "vertical text" was searched)</li>
+  </ul>
+  <p>Collection occurs 1.5 seconds after the user stops typing, and only for keywords of 2 or more characters.</p>
+
+  <h2>Information We Do NOT Collect</h2>
+  <ul>
+    <li>IP addresses</li>
+    <li>User IDs or session IDs</li>
+    <li>Timestamps (when a search occurred)</li>
+    <li>Adobe Express account information</li>
+    <li>Any personally identifiable information</li>
+  </ul>
+
+  <h2>How We Use the Information</h2>
+  <p>
+    Aggregated data is used solely to understand which types of add-ons are in demand,
+    informing future add-on development. We do not sell or share this data with third parties.
+  </p>
+
+  <h2>Data Storage</h2>
+  <p>
+    Aggregated counts are stored in Cloudflare Workers KV.
+    No raw keyword logs (who searched what and when) are ever recorded.
+  </p>
+
+  <h2>Opt-Out</h2>
+  <p>
+    There is no opt-out setting because the only data collected is non-identifiable
+    aggregate counts, which carry no privacy risk.
+  </p>
+
+  <h2>Contact</h2>
+  <p>
+    For questions about this policy, please use the contact information listed on our
+    Adobe Developer Console profile page.
+  </p>
+</div>
+
+<script>
+  function showLang(lang) {
+    document.querySelector('.section-ja').style.display = lang === 'ja' ? '' : 'none';
+    document.querySelector('.section-en').style.display = lang === 'en' ? '' : 'none';
+  }
+  // デフォルト: ブラウザ言語に合わせる
+  const defaultLang = navigator.language.startsWith('ja') ? 'ja' : 'en';
+  showLang(defaultLang);
+</script>
+
+</body>
+</html>
