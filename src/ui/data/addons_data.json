@@ -10776,46 +10776,6 @@
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm0687m47"
     },
     {
-      "id": "magic-writing",
-      "nameEn": "Magic Writing",
-      "nameJa": "Magic Writing",
-      "nameKo": "Magic Writing",
-      "category": "utility",
-      "descriptionEn": "Magic Writing is an AI-powered add-on designed to help users enhance and transform written content. Whether for personal or professional use, the tool allows you to easily rewrite, rephrase, and improve the quality of your writing. With an intuitive interface, Magic Writing empowers users to generate unique content with ease while maintaining full rights to their creations. Ideal for content creators, marketers, and anyone looking to elevate their written communication.",
-      "descriptionJa": "Magic Writing は、ユーザーが書かれたコンテンツを強化および変換できるように設計された AI を活用したアドオンです。個人で使用するか仕事で使用するかにかかわらず、このツールを使用すると、文章を簡単に書き直し、言い換えたり、品質を向上させることができます。 Magic Writing は直感的なインターフェイスを備えており、ユーザーは自分の作品に対する完全な権利を維持しながら、独自のコンテンツを簡単に作成できます。コンテンツ クリエーター、マーケティング担当者、および書面によるコミュニケーションを向上させたいと考えている人に最適です。",
-      "descriptionKo": "Magic Writing은 사용자가 작성된 콘텐츠를 향상하고 변형할 수 있도록 설계된 AI 기반 추가 기능입니다. 개인용이든 업무용이든 관계없이 이 도구를 사용하면 쉽게 다시 쓰고, 문구를 바꾸고, 글쓰기의 질을 향상시킬 수 있습니다. 직관적인 인터페이스를 갖춘 Magic Writing은 사용자가 자신의 창작물에 대한 모든 권한을 유지하면서 고유한 콘텐츠를 쉽게 생성할 수 있도록 지원합니다. 콘텐츠 제작자, 마케팅 담당자 및 서면 커뮤니케이션을 향상시키려는 모든 사람에게 이상적입니다.",
-      "keywords": [
-        "AI文章生成",
-        "content rewriting",
-        "text transformation",
-        "AI-powered writing",
-        "content improvement"
-      ],
-      "keywordsEn": [
-        "AI writing tool",
-        "content rewriting",
-        "text transformation",
-        "AI-powered writing",
-        "content improvement"
-      ],
-      "keywordsJa": [
-        "AI文章生成",
-        "content rewriting",
-        "text transformation",
-        "AI-powered writing",
-        "content improvement"
-      ],
-      "keywordsKo": [
-        "AI 글쓰기",
-        "content rewriting",
-        "text transformation",
-        "AI-powered writing",
-        "content improvement"
-      ],
-      "featured": false,
-      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3hjhkm16"
-    },
-    {
       "id": "mailerlite",
       "nameEn": "MailerLite",
       "nameJa": "MailerLite",
@@ -16491,126 +16451,6 @@
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl3jj2l0n"
     },
     {
-      "id": "threedee",
-      "nameEn": "ThreeDee",
-      "nameJa": "ThreeDee",
-      "nameKo": "ThreeDee",
-      "category": "design",
-      "descriptionEn": "We make the most extensive 3D libraries in the world. All of these libraries work together so that you can easily combine them. All of them have a lot of combinations & variations that you can use for your branding. \n\nWe aim to provide the easiest solution for using 3D immediately in your projects and designs.",
-      "descriptionJa": "私たちは世界で最も広範な 3D ライブラリを作成しています。これらのライブラリはすべて連携して動作するため、簡単に組み合わせることができます。それらにはすべて、ブランディングに使用できる多くの組み合わせとバリエーションがあります。 \n\n私たちは、プロジェクトやデザインで 3D をすぐに使用できる最も簡単なソリューションを提供することを目指しています。",
-      "descriptionKo": "우리는 세계에서 가장 광범위한 3D 라이브러리를 만듭니다. 이러한 라이브러리는 모두 함께 작동하므로 쉽게 결합할 수 있습니다. 이들 모두에는 귀하의 브랜딩에 사용할 수 있는 다양한 조합과 변형이 있습니다. \n\n우리는 귀하의 프로젝트와 디자인에 즉시 3D를 사용할 수 있는 가장 쉬운 솔루션을 제공하는 것을 목표로 합니다.",
-      "keywords": [
-        "カートゥーン",
-        "キャラクター",
-        "アバター",
-        "イラスト",
-        "cute",
-        "kawaii",
-        "hand",
-        "gestures",
-        "モックアップ",
-        "iphhone",
-        "モバイル"
-      ],
-      "keywordsEn": [
-        "cartoon",
-        "character",
-        "avatar",
-        "illustrations",
-        "cute",
-        "kawaii",
-        "hand",
-        "gestures",
-        "mockup",
-        "iphhone",
-        "mobile"
-      ],
-      "keywordsJa": [
-        "カートゥーン",
-        "キャラクター",
-        "アバター",
-        "イラスト",
-        "cute",
-        "kawaii",
-        "hand",
-        "gestures",
-        "モックアップ",
-        "iphhone",
-        "モバイル"
-      ],
-      "keywordsKo": [
-        "카툰",
-        "캐릭터",
-        "아바타",
-        "일러스트",
-        "cute",
-        "kawaii",
-        "hand",
-        "gestures",
-        "목업",
-        "iphhone",
-        "모바일"
-      ],
-      "featured": false,
-      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg6l8g222"
-    },
-    {
-      "id": "ticket-maker-pro",
-      "nameEn": "Ticket Maker Pro",
-      "nameJa": "Ticket Maker Pro",
-      "nameKo": "Ticket Maker Pro",
-      "category": "design",
-      "descriptionEn": "With a powerful ticket design tool, you can easily create visually appealing and functional tickets. This tool offers various options for customizing shapes, layouts, perforations, and gradients to help you create unique designs.\n\n-Shape and Layout Customization: You can punch out shapes like circles and diamonds, and freely adjust layouts to match your design needs. These features enable you to craft tickets that align with your brand and event themes\n\n-Corner and Perforation Customization: You can round corners, add unique cuts, and apply perforations for dynamic, professional designs\n\n-Gradient and Solid Color Options: Apply solid colors or gradients, setting start, middle, and end positions for smooth transitions\n\n-Line Style and Border Customization: Adjust line styles, including dashed, solid, or custom patterns, to separate sections of your design\n\nThis tool suits both beginners and professionals, allowing high-quality tickets to be made with ease. Use its features to take your",
-      "descriptionJa": "強力なチケット デザイン ツールを使用すると、視覚的に魅力的で機能的なチケットを簡単に作成できます。このツールには、形状、レイアウト、ミシン目、グラデーションをカスタマイズするためのさまざまなオプションが用意されており、ユニークなデザインを作成するのに役立ちます。\n\n-形状とレイアウトのカスタマイズ: 円やひし形などの形状を打ち抜き、デザインのニーズに合わせてレイアウトを自由に調整できます。これらの機能により、ブランドやイベントのテーマに合わせたチケットを作成できます。\n\n- コーナーとミシン目のカスタマイズ: コーナーを丸くしたり、ユニークなカットを追加したり、ミシン目を適用したりして、ダイナミックでプロフェッショナルなデザインを実現できます。\n\n- グラデーションおよび単色のオプション: 単色またはグラデーションを適用し、開始位置、中間位置、および終了位置を設定してスムーズなトランジションを実現します。\n\n- 線のスタイルと境界線のカスタマイズ: 破線、実線、カスタム パターンなどの線のスタイルをデザインのセクションごとに調整します。\n\n初心者からプロまで、高品質なチケットを簡単に作成できるツールです。その機能を使用して、",
-      "descriptionKo": "강력한 티켓 디자인 도구를 사용하면 시각적으로 매력적이고 기능적인 티켓을 쉽게 만들 수 있습니다. 이 도구는 독특한 디자인을 만드는 데 도움이 되는 모양, 레이아웃, 천공 및 그라데이션을 사용자 정의할 수 있는 다양한 옵션을 제공합니다.\n\n-모양 및 레이아웃 사용자 정의: 원이나 다이아몬드 같은 모양을 만들고 디자인 요구 사항에 맞게 레이아웃을 자유롭게 조정할 수 있습니다. 이러한 기능을 사용하면 브랜드 및 이벤트 테마에 맞는 티켓을 만들 수 있습니다.\n\n-모서리 및 천공 사용자 정의: 모서리를 둥글게 하고, 독특한 컷을 추가하고, 천공을 적용하여 역동적이고 전문적인 디자인을 만들 수 있습니다.\n\n- 그라데이션 및 단색 옵션: 단색 또는 그라데이션을 적용하고, 부드러운 전환을 위해 시작, 중간, 끝 위치를 설정합니다.\n\n-선 스타일 및 테두리 사용자 정의: 점선, 실선 또는 사용자 정의 패턴을 포함한 선 스타일을 조정하여 디자인 섹션을 구분합니다.\n\n이 도구는 초보자와 전문가 모두에게 적합하므로 고품질 티켓을 쉽게 만들 수 있습니다. 해당 기능을 사용하여",
-      "keywords": [
-        "チケット",
-        "カード",
-        "クーポン",
-        "イベントチケット",
-        "カスタムチケット",
-        "チケットメーカー",
-        "チケット作成",
-        "チケット生成",
-        "チケット印刷"
-      ],
-      "keywordsEn": [
-        "ticket",
-        "card",
-        "coupon",
-        "eventticket",
-        "customticket",
-        "ticketmaker",
-        "ticketcreator",
-        "ticketgenerator",
-        "ticketprint"
-      ],
-      "keywordsJa": [
-        "チケット",
-        "カード",
-        "クーポン",
-        "イベントチケット",
-        "カスタムチケット",
-        "チケットメーカー",
-        "チケット作成",
-        "チケット生成",
-        "チケット印刷"
-      ],
-      "keywordsKo": [
-        "티켓",
-        "카드",
-        "쿠폰",
-        "이벤트 티켓",
-        "맞춤 티켓",
-        "티켓 제작",
-        "티켓 생성",
-        "티켓 만들기",
-        "티켓 인쇄"
-      ],
-      "featured": false,
-      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wnghhg528"
-    },
-    {
       "id": "tinify-image-compression",
       "nameEn": "Tinify image compression",
       "nameJa": "Tinify image compression",
@@ -19191,7 +19031,7 @@
     }
   ],
   "metadata": {
-    "totalCount": 433,
+    "totalCount": 430,
     "lastUpdated": "2026-03-03",
     "source": "Web research and official documentation",
     "categories": {
