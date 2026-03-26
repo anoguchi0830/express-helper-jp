@@ -11,12 +11,14 @@ export default function AddonCard({ addon, locale, onClick }) {
     <div
       style={{
         ...styles.card,
-        ...(hovered ? styles.cardHover : {})
+        ...(hovered ? styles.cardHover : {}),
+        position: 'relative'
       }}
       onClick={onClick}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
     >
+      {addon.isNew && <span style={styles.newBadge} aria-label="新着アドオン">NEW</span>}
       <div style={styles.icon}>{icon}</div>
       <h3 style={styles.title}>{name}</h3>
       <p style={styles.category}>{getLocalizedCategory(addon.category, locale)}</p>
@@ -57,5 +59,18 @@ const styles = {
     fontSize: '11px',
     color: 'var(--spectrum-gray-700, #666)',
     margin: '2px 0'
+  },
+  newBadge: {
+    position: 'absolute',
+    top: '7px',
+    right: '7px',
+    backgroundColor: '#0066FF',
+    color: '#FFFFFF',
+    fontSize: '9px',
+    fontWeight: 'bold',
+    padding: '2px 5px',
+    borderRadius: '4px',
+    lineHeight: '1.4',
+    letterSpacing: '0.5px'
   }
 };

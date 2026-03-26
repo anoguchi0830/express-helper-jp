@@ -175,6 +175,7 @@ def make_entry(item: dict, existing_ids: set) -> dict:
     return {
         "id": slug,
         "addOnId": addon_id,
+        "isNew": True,
         "nameEn": name_en,
         "nameJa": "",
         "nameKo": "",
@@ -235,6 +236,11 @@ def main() -> None:
     local_index = build_local_index(db)
     existing_ids = {addon["id"] for addon in db.get("addons", [])}
     print(f"  ローカル: {len(db['addons'])} 件（addOnId 付き: {len(local_index)} 件）")
+
+    # 既存エントリの isNew をすべてクリア
+    for addon in db.get("addons", []):
+        if addon.get("isNew"):
+            addon["isNew"] = False
 
     # ── 2. API 全件取得 ────────────────────────────────────
     print("\nAPI からアドオン一覧を取得中...")

@@ -279,6 +279,7 @@ function App({ addonsData }) {
   // 派生データ
   const searchResults   = sortAddons(searchAddons(ADDONS, searchQuery, locale), sortId === 'default' ? 'default' : sortId, locale);
   const featuredAddons  = ADDONS.filter(a => a.featured);
+  const newAddons       = ADDONS.filter(a => a.isNew).slice(0, 6);
   const allAddons       = sortAddons(ADDONS, sortId, locale);
   const categoryAddons  = sortAddons(
     selectedCategory ? ADDONS.filter(a => a.category === selectedCategory) : [],
@@ -327,6 +328,25 @@ function App({ addonsData }) {
               ))}
             </div>
           </section>
+
+          {/* 新着アドオン */}
+          {newAddons.length > 0 && (
+            <section style={styles.section}>
+              <div style={styles.sectionHeader}>
+                <h2 style={styles.sectionTitle}>✨ {t('sections.recent', locale)}</h2>
+              </div>
+              <div style={styles.grid} className="addon-grid">
+                {newAddons.map(addon => (
+                  <AddonCard
+                    key={addon.id}
+                    addon={addon}
+                    locale={locale}
+                    onClick={() => setSelectedAddon(addon)}
+                  />
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* 全アドオン一覧へのリンク */}
           <div style={styles.viewAllWrap}>
