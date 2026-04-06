@@ -18981,7 +18981,7 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wjkl4l48l",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "calendar-maker",
@@ -19029,7 +19029,7 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk58hlm80",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "device-mockup-generator",
@@ -19101,7 +19101,7 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w53m7ln68",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "yodeck",
@@ -19153,7 +19153,7 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w5h83nh35",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "pixmagic",
@@ -19173,7 +19173,7 @@
       "keywordsKo": [],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w783956h3",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "rivulet",
@@ -19225,7 +19225,7 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w91nlhi26",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "ai-image-editor",
@@ -19277,7 +19277,7 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w9892hm0k",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "colorify",
@@ -19345,7 +19345,7 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w990k7i8g",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "dam-panel",
@@ -19393,7 +19393,7 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgl758h5n",
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "liquid-metal-generator",
@@ -19429,11 +19429,627 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wlh358i26",
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "ai-headshot-generator",
+      "addOnId": "w0407044i",
+      "isNew": true,
+      "nameEn": "AI Headshot Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Transform your photos into personalized avatars with our AI headshot maker. It perfectly captures your expression—just choose your gender and style for a unique social media profile picture.",
+      "descriptionEn": "Transform your photos into personalized avatars with our AI headshot maker. It perfectly captures your expression—just choose your gender and style for a unique social media profile picture.",
+      "descriptionJa": "AIヘッドショットメーカーで、写真をパーソナライズされたアバターに変換します。性別とスタイルを選ぶだけで、あなたの表情を完璧にキャプチャして、ユニークなSNSプロフィール写真が完成します。",
+      "descriptionKo": "AI 헤드샷 메이커로 당신의 사진을 맞춤형 아바타로 변환하세요. 성별과 스타일을 선택하면 당신의 표정을 완벽하게 담아낸 독특한 소셜 미디어 프로필 사진을 만들 수 있습니다.",
+      "keywords": [
+        "ヘッドショット AI",
+        "profile picture",
+        "Personal profile photo",
+        "ヘッドショット 画像",
+        "ヘッドショット 写真",
+        "AIアバター"
+      ],
+      "keywordsEn": [
+        "headshot ai",
+        "profile picture",
+        "Personal profile photo",
+        "headshot image",
+        "headshot photo",
+        "ai avatar"
+      ],
+      "keywordsJa": [
+        "ヘッドショット AI",
+        "profile picture",
+        "Personal profile photo",
+        "ヘッドショット 画像",
+        "ヘッドショット 写真",
+        "AIアバター"
+      ],
+      "keywordsKo": [
+        "증명사진 AI",
+        "profile picture",
+        "Personal profile photo",
+        "증명사진 이미지",
+        "증명사진 사진",
+        "AI 아바타"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w0407044i"
+    },
+    {
+      "id": "ai-image-generator",
+      "addOnId": "w12hi38n7",
+      "isNew": true,
+      "nameEn": "AI Image Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Instantly bring your creative ideas to life from a text prompt. Explore a rich library of presets like watercolor, cartoon, sketch, and photorealistic HD. Select the perfect size for any screen.",
+      "descriptionEn": "Instantly bring your creative ideas to life from a text prompt. Explore a rich library of presets like watercolor, cartoon, sketch, and photorealistic HD. Select the perfect size for any screen.",
+      "descriptionJa": "テキストプロンプトから、クリエイティブなアイデアを瞬時に実現します。水彩画、漫画、スケッチ、フォトリアリスティックHDなど豊富なプリセットライブラリを活用でき、任意の画面サイズを選択できます。",
+      "descriptionKo": "텍스트 프롬프트로 창의적인 아이디어를 즉시 현실화하세요. 수채화, 만화, 스케치, 포토리얼리스틱 HD 등 다양한 프리셋 라이브러리를 활용하고 어떤 화면 크기도 선택할 수 있습니다.",
+      "keywords": [
+        "text to image",
+        "AI画像",
+        "画像エディター",
+        "画像 AI",
+        "生成 画像",
+        "Create images with AI"
+      ],
+      "keywordsEn": [
+        "text to image",
+        "AI image",
+        "image editor",
+        "image ai",
+        "generate image",
+        "Create images with AI"
+      ],
+      "keywordsJa": [
+        "text to image",
+        "AI画像",
+        "画像エディター",
+        "画像 AI",
+        "生成 画像",
+        "Create images with AI"
+      ],
+      "keywordsKo": [
+        "text to image",
+        "AI 이미지",
+        "이미지 편집기",
+        "이미지 AI",
+        "생성 이미지",
+        "Create images with AI"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w12hi38n7"
+    },
+    {
+      "id": "countdown-timer-animation",
+      "addOnId": "w2gl36gh5",
+      "isNew": true,
+      "nameEn": "Countdown Timer Animation",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create scroll-stopping countdown timers for sales, launches, events, giveaways, and social campaigns ⏳\n\nThis addon helps you turn ideas into animated countdown videos with customizable timer styles, colors, backgrounds, text overlays, and flexible timing controls, so you can create urgency-driven content fast.\n\nBrowse multiple timer templates, preview designs live, save favorites, and tailor each countdown to match your brand or campaign 🎨\n\nBoost engagement with tick sounds, alarm sounds, count up or count down modes, and eye-catching end-screen effects like confetti, fireworks, or flash 🎉\n\nWhen your countdown is ready, export it directly into your design as a video with optional audio to make promotions, product drops, limited-time offers, and event announcements more compelling and conversion-focused.",
+      "descriptionEn": "Create scroll-stopping countdown timers for sales, launches, events, giveaways, and social campaigns ⏳\n\nThis addon helps you turn ideas into animated countdown videos with customizable timer styles, colors, backgrounds, text overlays, and flexible timing controls, so you can create urgency-driven content fast.\n\nBrowse multiple timer templates, preview designs live, save favorites, and tailor each countdown to match your brand or campaign 🎨\n\nBoost engagement with tick sounds, alarm sounds, count up or count down modes, and eye-catching end-screen effects like confetti, fireworks, or flash 🎉\n\nWhen your countdown is ready, export it directly into your design as a video with optional audio to make promotions, product drops, limited-time offers, and event announcements more compelling and conversion-focused.",
+      "descriptionJa": "セール、ローンチ、イベント、ギブアウェイ、SNSキャンペーン向けにスクロール停止レベルのカウントダウンタイマーを作成します。このアドオンは、カスタマイズ可能なタイマースタイル、色、背景、テキストオーバーレイ、柔軟なタイミングコントロールを使用して、アニメーション化されたカウントダウンビデオに変換します。複数のタイマーテンプレートを参照し、リアルタイムでデザインをプレビュー、お気に入りを保存し、各カウントダウンをブランドやキャンペーンに合わせてカスタマイズできます。チックサウンド、アラームサウンド、カウントアップ/ダウンモード、紙吹雪や花火などのアイキャッチなエンドスクリーン効果でエンゲージメントをアップします。カウントダウンの完成後は、オプショナルなオーディオ付きビデオとして直接デザインにエクスポートでき、プロモーション、プロダクトドロップ、限定時間オファー、イベントアナウンスをより説得力のあるコンバージョン重視のコンテンツに変換します。",
+      "descriptionKo": "세일, 런칭, 이벤트, 기프트 어웨이, SNS 캠페인을 위한 눈길을 사로잡는 카운트다운 타이머를 만드세요. 이 애드온은 사용자 정의 가능한 타이머 스타일, 색상, 배경, 텍스트 오버레이, 유연한 타이밍 제어로 애니메이션 카운트다운 비디오를 빠르게 만들 수 있습니다. 여러 타이머 템플릿을 탐색하고, 실시간으로 디자인을 미리 보고, 즐겨찾기를 저장하고, 각 카운트다운을 브랜드나 캠페인에 맞게 조정할 수 있습니다. 틱음, 알람음, 카운트다운 또는 카운트업 모드, 색종이, 불꽃, 플래시 같은 눈에 띄는 엔드스크린 효과로 참여도를 높입니다. 카운트다운이 준비되면 선택적 오디오와 함께 비디오로 디자인에 직접 내보내 프로모션, 상품 출시, 한정 판매, 이벤트 공지를 더욱 매력적이고 전환 중심으로 만듭니다.",
+      "keywords": [
+        "timer",
+        "マーケティング",
+        "アニメーション",
+        "sale",
+        "urgency",
+        "offer",
+        "limited time offer",
+        "digital timer",
+        "count",
+        "flash sale"
+      ],
+      "keywordsEn": [
+        "timer",
+        "marketing",
+        "animation",
+        "sale",
+        "urgency",
+        "offer",
+        "limited time offer",
+        "digital timer",
+        "count",
+        "flash sale"
+      ],
+      "keywordsJa": [
+        "timer",
+        "マーケティング",
+        "アニメーション",
+        "sale",
+        "urgency",
+        "offer",
+        "limited time offer",
+        "digital timer",
+        "count",
+        "flash sale"
+      ],
+      "keywordsKo": [
+        "timer",
+        "마케팅",
+        "애니메이션",
+        "sale",
+        "urgency",
+        "offer",
+        "limited time offer",
+        "digital timer",
+        "count",
+        "flash sale"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2gl36gh5"
+    },
+    {
+      "id": "word-art-generator",
+      "addOnId": "w2kk0k8i1",
+      "isNew": true,
+      "nameEn": "Word Art Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Enter a word and then describe what it is made of, and AI can quickly generate artistic word images. You can also generate artistic word images by selecting a style.",
+      "descriptionEn": "Enter a word and then describe what it is made of, and AI can quickly generate artistic word images. You can also generate artistic word images by selecting a style.",
+      "descriptionJa": "単語を入力して、それが何でできているかを説明するだけで、AIが素早くアーティスティックなワードアート画像を生成します。スタイルを選択してワードアート画像を生成することもできます。",
+      "descriptionKo": "단어를 입력하고 그것이 무엇으로 만들어졌는지 설명하면, AI가 신속하게 예술적인 워드아트 이미지를 생성합니다. 스타일을 선택하여 예술적인 워드아트 이미지를 생성할 수도 있습니다.",
+      "keywords": [
+        "ワードアート",
+        "ワードアート",
+        "Artistic lettering",
+        "fancy text",
+        "Artistic Text",
+        "アート テキスト",
+        "ワードアート"
+      ],
+      "keywordsEn": [
+        "Word art",
+        "Word Art design",
+        "Artistic lettering",
+        "fancy text",
+        "Artistic Text",
+        "Art text",
+        "Word art text"
+      ],
+      "keywordsJa": [
+        "ワードアート",
+        "ワードアート",
+        "Artistic lettering",
+        "fancy text",
+        "Artistic Text",
+        "アート テキスト",
+        "ワードアート"
+      ],
+      "keywordsKo": [
+        "워드 아트",
+        "워드 아트",
+        "Artistic lettering",
+        "fancy text",
+        "Artistic Text",
+        "아트 텍스트",
+        "워드 아트"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2kk0k8i1"
+    },
+    {
+      "id": "ai-logo-maker",
+      "addOnId": "w3jm1g23m",
+      "isNew": true,
+      "nameEn": "AI Logo Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Transform your ideas into professional logos in seconds. Describe your vision and our advanced AI outputs multiple unique logo or icon styles—perfect for businesses, startups, and personal projects.",
+      "descriptionEn": "Transform your ideas into professional logos in seconds. Describe your vision and our advanced AI outputs multiple unique logo or icon styles—perfect for businesses, startups, and personal projects.",
+      "descriptionJa": "あなたのアイデアを数秒でプロフェッショナルなロゴに変換します。ビジョンを説明すれば、高度なAIが複数のユニークなロゴまたはアイコンスタイルを生成。ビジネス、スタートアップ、個人プロジェクトに最適です。",
+      "descriptionKo": "당신의 아이디어를 몇 초 만에 전문적인 로고로 변환하세요. 당신의 비전을 설명하면 고급 AI가 여러 개의 독특한 로고 또는 아이콘 스타일을 생성합니다. 비즈니스, 스타트업, 개인 프로젝트에 완벽합니다.",
+      "keywords": [
+        "ロゴジェネレーター",
+        "ロゴ デザイン",
+        "AIロゴ",
+        "ロゴクリエイター",
+        "作成 ロゴ"
+      ],
+      "keywordsEn": [
+        "logo generator",
+        "logo design",
+        "AI logo",
+        "logo creator",
+        "create logos"
+      ],
+      "keywordsJa": [
+        "ロゴジェネレーター",
+        "ロゴ デザイン",
+        "AIロゴ",
+        "ロゴクリエイター",
+        "作成 ロゴ"
+      ],
+      "keywordsKo": [
+        "로고 생성기",
+        "로고 디자인",
+        "AI 로고",
+        "로고 크리에이터",
+        "만들기 로고"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3jm1g23m"
+    },
+    {
+      "id": "video-stabilizer",
+      "addOnId": "w54078n76",
+      "isNew": true,
+      "nameEn": "Video Stabilizer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Video Stabilization with slider to choose between speed and smoothness (approximately). Upload, configure, stabilize and insert stabilized video into document (or download)",
+      "descriptionEn": "Video Stabilization with slider to choose between speed and smoothness (approximately). Upload, configure, stabilize and insert stabilized video into document (or download)",
+      "descriptionJa": "速度と滑らかさのバランスを調整できるスライダーを備えたビデオ安定化機能。ビデオをアップロード、設定、安定化して、ドキュメントに挿入（またはダウンロード）できます。",
+      "descriptionKo": "속도와 부드러움 사이의 균형을 조정할 수 있는 슬라이더가 있는 비디오 안정화 기능입니다. 비디오를 업로드, 설정, 안정화하여 문서에 삽입하거나 다운로드할 수 있습니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w54078n76"
+    },
+    {
+      "id": "makeinfography",
+      "addOnId": "w63g6ijjj",
+      "isNew": true,
+      "nameEn": "MakeInfography",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "MakeInfography turns your ideas into stunning infographics in seconds — right inside Adobe Express.\n                                                                                                                                     \n  Simply type a topic or paste a blog URL, pick a style (Modern, Minimal, Bold, Corporate, or Creative), choose your size and        \n  quality, and hit generate. Our AI creates a professional, ready-to-use infographic that you can add directly to your canvas or     \n  download.                                                                                                                          \n                                                                                                                                     \n  Perfect for content creators, marketers, bloggers, and social media managers who need eye-catching visual content without design\n  skills.",
+      "descriptionEn": "MakeInfography turns your ideas into stunning infographics in seconds — right inside Adobe Express.\n                                                                                                                                     \n  Simply type a topic or paste a blog URL, pick a style (Modern, Minimal, Bold, Corporate, or Creative), choose your size and        \n  quality, and hit generate. Our AI creates a professional, ready-to-use infographic that you can add directly to your canvas or     \n  download.                                                                                                                          \n                                                                                                                                     \n  Perfect for content creators, marketers, bloggers, and social media managers who need eye-catching visual content without design\n  skills.",
+      "descriptionJa": "MakeInfography は、Adobe Express 内でアイデアを数秒で美しいインフォグラフィクスに変換します。トピックを入力またはブログURL貼り付け、スタイル（モダン、ミニマル、ボールド、コーポレート、クリエイティブ）を選択し、サイズと品質を選んで生成すれば、プロフェッショナルで即座に使用可能なインフォグラフィクスが完成。キャンバスに直接追加またはダウンロードできます。コンテンツクリエイター、マーケター、ブロガー、SNSマネージャーが、デザインスキルなしにアイキャッチなビジュアルコンテンツを必要とする場合に最適です。",
+      "descriptionKo": "MakeInfography는 Adobe Express 내에서 아이디어를 몇 초 만에 멋진 인포그래픽으로 변환합니다. 주제를 입력하거나 블로그 URL을 붙여넣고, 스타일(모던, 미니멀, 볼드, 코퍼레이트, 크리에이티브)을 선택한 후 크기와 품질을 선택하고 생성하면 전문적이고 바로 사용 가능한 인포그래픽이 완성됩니다. 캔버스에 직접 추가하거나 다운로드할 수 있습니다. 콘텐츠 크리에이터, 마케터, 블로거, SNS 관리자가 디자인 스킬 없이 눈에 띄는 비주얼 콘텐츠가 필요할 때 완벽합니다.",
+      "keywords": [
+        "インフォグラフィック",
+        "ジェネレーター",
+        "インフォグラフィック",
+        "ビジュアル コンテンツ",
+        "データ可視化",
+        "ソーシャルメディア"
+      ],
+      "keywordsEn": [
+        "infographic",
+        "generator",
+        "blog to infographic",
+        "visual content",
+        "data visualization",
+        "social media"
+      ],
+      "keywordsJa": [
+        "インフォグラフィック",
+        "ジェネレーター",
+        "インフォグラフィック",
+        "ビジュアル コンテンツ",
+        "データ可視化",
+        "ソーシャルメディア"
+      ],
+      "keywordsKo": [
+        "인포그래픽",
+        "생성기",
+        "인포그래픽",
+        "비주얼 콘텐츠",
+        "데이터 시각화",
+        "소셜 미디어"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w63g6ijjj"
+    },
+    {
+      "id": "ai-image-extender",
+      "addOnId": "w65617i0l",
+      "isNew": true,
+      "nameEn": "AI Image Extender",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Easily expand your photos online with AI. Keep the visual quality and appearance intact even in different aspect ratios. No stretching, cropping, or scaling needed.",
+      "descriptionEn": "Easily expand your photos online with AI. Keep the visual quality and appearance intact even in different aspect ratios. No stretching, cropping, or scaling needed.",
+      "descriptionJa": "AIで写真をオンラインで簡単に拡張します。異なるアスペクト比でも、ビジュアル品質と外観をそのまま保ちます。引き伸ばし、トリミング、スケーリングは不要です。",
+      "descriptionKo": "AI로 사진을 온라인에서 쉽게 확장하세요. 다른 가로세로 비율에서도 시각적 품질과 모양을 그대로 유지합니다. 늘리기, 자르기, 크기 조정이 필요 없습니다.",
+      "keywords": [
+        "AI 확장",
+        "이미지 자르기 해제",
+        "사진 확장",
+        "이미지 확장",
+        "배경 확장"
+      ],
+      "keywordsEn": [
+        "ai extender",
+        "Uncrop Image",
+        "Expand photo",
+        "Expand Image",
+        "background extender"
+      ],
+      "keywordsJa": [
+        "AI 확장",
+        "이미지 자르기 해제",
+        "사진 확장",
+        "이미지 확장",
+        "배경 확장"
+      ],
+      "keywordsKo": [
+        "AI 확장",
+        "이미지 자르기 해제",
+        "사진 확장",
+        "이미지 확장",
+        "배경 확장"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w65617i0l"
+    },
+    {
+      "id": "ai-photo-enhancer",
+      "addOnId": "w6j5n868h",
+      "isNew": true,
+      "nameEn": "AI Photo Enhancer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI Image Sharpener enhances photo resolution, restores sharpness, removes blur and noise, and boosts clarity and color. Instantly improve image quality with advanced AI technology.",
+      "descriptionEn": "AI Image Sharpener enhances photo resolution, restores sharpness, removes blur and noise, and boosts clarity and color. Instantly improve image quality with advanced AI technology.",
+      "descriptionJa": "AI 画像シャープナーは、写真解像度を強化し、鮮明性を復元し、ぼかしとノイズを除去し、明瞭性と色を向上させます。高度なAI技術で画像品質を瞬時に改善します。",
+      "descriptionKo": "AI 이미지 샤프너는 사진 해상도를 향상시키고, 선명도를 복원하고, 흐림과 잡음을 제거하고, 명확도와 색상을 높입니다. 고급 AI 기술로 이미지 품질을 즉시 개선합니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w6j5n868h"
+    },
+    {
+      "id": "pattern-filler",
+      "addOnId": "w9359mi2j",
+      "isNew": true,
+      "nameEn": "pattern filler",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Pattern Filler is an add-on for adobe express that transforms any image into a polished, repeating pattern in seconds- perfect for backgrounds, textures, wrapping paper designs, fabric mockups, and creative layouts",
+      "descriptionEn": "Pattern Filler is an add-on for adobe express that transforms any image into a polished, repeating pattern in seconds- perfect for backgrounds, textures, wrapping paper designs, fabric mockups, and creative layouts",
+      "descriptionJa": "Pattern Filler は Adobe Express のアドオンで、任意の画像を数秒で磨かれた繰り返しパターンに変換します。背景、テクスチャ、ラッピングペーパーデザイン、ファブリックモックアップ、クリエイティブなレイアウトに最適です。",
+      "descriptionKo": "Pattern Filler는 Adobe Express용 애드온으로 모든 이미지를 몇 초 만에 세련된 반복 패턴으로 변환합니다. 배경, 텍스처, 포장지 디자인, 패브릭 목업, 창의적인 레이아웃에 완벽합니다.",
+      "keywords": [
+        "デザイン",
+        "背景",
+        "落書き",
+        "画像"
+      ],
+      "keywordsEn": [
+        "design",
+        "background",
+        "doodle",
+        "image"
+      ],
+      "keywordsJa": [
+        "デザイン",
+        "背景",
+        "落書き",
+        "画像"
+      ],
+      "keywordsKo": [
+        "디자인",
+        "배경",
+        "낙서",
+        "이미지"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w9359mi2j"
+    },
+    {
+      "id": "ai-magic-eraser",
+      "addOnId": "wg1jj40nh",
+      "isNew": true,
+      "nameEn": "AI Magic Eraser",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Upload or select photos from your design and remove unwanted objects, people, text, and defects from your photos with AI's free drawing or smart segmentation methods.",
+      "descriptionEn": "Upload or select photos from your design and remove unwanted objects, people, text, and defects from your photos with AI's free drawing or smart segmentation methods.",
+      "descriptionJa": "デザインから写真をアップロードまたは選択して、AIの無料描画またはスマートセグメンテーション方法を使用して、不要なオブジェクト、人物、テキスト、欠陥を削除します。",
+      "descriptionKo": "디자인에서 사진을 업로드하거나 선택하여 AI의 무료 그리기 또는 스마트 세그멘테이션 방법을 사용해 불필요한 객체, 사람, 텍스트, 결함을 제거합니다.",
+      "keywords": [
+        "Magic eraser",
+        "AI magic",
+        "除去 オブジェクト",
+        "Image eraser",
+        "Photo eraser",
+        "Remove peoples",
+        "オブジェクト 除去ツール"
+      ],
+      "keywordsEn": [
+        "Magic eraser",
+        "AI magic",
+        "Remove objects",
+        "Image eraser",
+        "Photo eraser",
+        "Remove peoples",
+        "Object remover"
+      ],
+      "keywordsJa": [
+        "Magic eraser",
+        "AI magic",
+        "除去 オブジェクト",
+        "Image eraser",
+        "Photo eraser",
+        "Remove peoples",
+        "オブジェクト 除去ツール"
+      ],
+      "keywordsKo": [
+        "Magic eraser",
+        "AI magic",
+        "제거 객체",
+        "Image eraser",
+        "Photo eraser",
+        "Remove peoples",
+        "객체 제거 도구"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg1jj40nh"
+    },
+    {
+      "id": "colorize-image",
+      "addOnId": "wgi14k9m4",
+      "isNew": true,
+      "nameEn": "Colorize Image",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Transform black and white photos into true, rich, vibrant color images with Colorize Image. Restore cherished family portraits and historical snapshots with stunningly rich and lifelike color.",
+      "descriptionEn": "Transform black and white photos into true, rich, vibrant color images with Colorize Image. Restore cherished family portraits and historical snapshots with stunningly rich and lifelike color.",
+      "descriptionJa": "Colorize Image で、白黒写真をフルカラーの豊かで鮮やかな画像に変換します。大切な家族写真や歴史的なスナップショットを、息をのむほど豊かでリアルな色合いで復元します。",
+      "descriptionKo": "Colorize Image로 흑백 사진을 풍부하고 생생한 컬러 이미지로 변환하세요. 소중한 가족 초상화와 역사적 스냅샷을 놀라울 정도로 풍부하고 사실적인 색상으로 복원합니다.",
+      "keywords": [
+        "写真の着色",
+        "古い写真の復元",
+        "白黒写真の着色",
+        "画像カラライザー"
+      ],
+      "keywordsEn": [
+        "Colorize Photos",
+        "Restore Old Photos",
+        "Colorize Black and White Photos",
+        "Image Colorizer"
+      ],
+      "keywordsJa": [
+        "写真の着色",
+        "古い写真の復元",
+        "白黒写真の着色",
+        "画像カラライザー"
+      ],
+      "keywordsKo": [
+        "사진 색칠",
+        "오래된 사진 복원",
+        "흑백 사진 색칠",
+        "이미지 색칠 도구"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgi14k9m4"
+    },
+    {
+      "id": "number-countdown",
+      "addOnId": "wgk970lgk",
+      "isNew": true,
+      "nameEn": "Number Countdown",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn every deadline, launch, and “only a few left” moment into something people actually feel. This add-on lives right inside Adobe Express, so you stay in your creative flow—no tab-hopping, no guesswork. Pick a look that matches your brand: crisp and modern, playful and bold, or extra dramatic when the moment calls for it. ⏳✨\nRun a classic timer from minutes and seconds, count down to a special date, or switch to a number counter when you want a clean countdown from one milestone to another. Play and pause, tweak colors until it feels right, then drop your countdown into the story you’re already building—whether it’s a sale, an event, a teaser, or a personal project you’re proud to share.\nIt’s built for creators who care about first impressions: social posts that feel alive, announcements with real tension, and content that looks intentional from the first second. Less fuss, more “wow”—and a little extra drama where it helps. 🎬🔥",
+      "descriptionEn": "Turn every deadline, launch, and “only a few left” moment into something people actually feel. This add-on lives right inside Adobe Express, so you stay in your creative flow—no tab-hopping, no guesswork. Pick a look that matches your brand: crisp and modern, playful and bold, or extra dramatic when the moment calls for it. ⏳✨\nRun a classic timer from minutes and seconds, count down to a special date, or switch to a number counter when you want a clean countdown from one milestone to another. Play and pause, tweak colors until it feels right, then drop your countdown into the story you’re already building—whether it’s a sale, an event, a teaser, or a personal project you’re proud to share.\nIt’s built for creators who care about first impressions: social posts that feel alive, announcements with real tension, and content that looks intentional from the first second. Less fuss, more “wow”—and a little extra drama where it helps. 🎬🔥",
+      "descriptionJa": "すべての期限、ローンチ、「残りわずか」という瞬間を、人々が実際に感じる何かに変えてください。このアドオンはAdobe Express 内に直接存在するので、クリエイティブなフローを保つことができます。あなたのブランドに合ったルック（洗練されたモダン、楽しく大胆、または状況に応じた特別なドラマ）を選択します。分と秒からのクラシックタイマー、特定の日付へのカウントダウン、またはマイルストーン間の清潔なカウントダウンを実現するナンバーカウンターに切り替えます。再生と一時停止、色を微調整して、作成中のストーリーにカウントダウンをドロップしてください。セール、イベント、ティーザー、誇りを持って共有したい個人プロジェクトなど、最初の秒から意図的に見えるコンテンツのために構築されています。手間を減らし、より多くの「ワオ」を。",
+      "descriptionKo": "모든 마감, 런칭, \"남은 것이 거의 없음\"이라는 순간을 사람들이 실제로 느끼는 무언가로 만드세요. 이 애드온은 Adobe Express 내에 직접 있으므로 창의적인 흐름을 유지할 수 있습니다. 당신의 브랜드와 맞는 느낌을 선택하세요: 깔끔하고 현대적, 재미있고 대담, 또는 상황에 맞는 특별한 드라마. 분과 초 단위의 클래식 타이머 실행, 특정 날짜로의 카운트다운 또는 마일스톤 간의 깔끔한 카운트다운을 원할 때 숫자 카운터로 전환합니다. 재생 및 일시 중지, 색상을 미세 조정한 후 이미 구축 중인 스토리에 카운트다운을 드롭하세요. 세일, 이벤트, 티저 또는 자랑스럽게 공유하고 싶은 개인 프로젝트 등 첫 번째 초부터 의도적으로 보이는 콘텐츠를 위해 구축되었습니다. 번거로움을 줄이고 더 많은 \"와우\"를.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgk970lgk"
+    },
+    {
+      "id": "ai-video-generator",
+      "addOnId": "wh6hjnj68",
+      "isNew": true,
+      "nameEn": "AI Video Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Generate captivating AI videos from your text prompts or images. Choose from a library of effects like AI Kiss, AI Dance, and AI Fight to set your imagination.",
+      "descriptionEn": "Generate captivating AI videos from your text prompts or images. Choose from a library of effects like AI Kiss, AI Dance, and AI Fight to set your imagination.",
+      "descriptionJa": "テキストプロンプトまたは画像から、魅力的なAIビデオを生成します。AI Kiss、AI Dance、AI Fight などのエフェクトライブラリから選択して、あなたの想像力を実現します。",
+      "descriptionKo": "텍스트 프롬프트 또는 이미지에서 매력적인 AI 비디오를 생성하세요. AI Kiss, AI Dance, AI Fight 같은 효과 라이브러리에서 선택하여 당신의 상상력을 구현합니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wh6hjnj68"
+    },
+    {
+      "id": "bento-grid",
+      "addOnId": "wk39k7i8i",
+      "isNew": true,
+      "nameEn": "Bento Grid",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Generate bento UI style frames that give you card-based layouts and grid structures. Suitable for mockups, branding projects, and mood boards, these frames enhance your design presentations.",
+      "descriptionEn": "Generate bento UI style frames that give you card-based layouts and grid structures. Suitable for mockups, branding projects, and mood boards, these frames enhance your design presentations.",
+      "descriptionJa": "カード型レイアウトとグリッド構造を提供する Bento UI スタイルフレームを生成します。モックアップ、ブランディングプロジェクト、ムードボードに適しており、デザインプレゼンテーションを強化します。",
+      "descriptionKo": "카드 기반 레이아웃과 그리드 구조를 제공하는 Bento UI 스타일 프레임을 생성합니다. 목업, 브랜딩 프로젝트, 무드보드에 적합하며 디자인 프레젠테이션을 향상시킵니다.",
+      "keywords": [
+        "bento",
+        "グリッド",
+        "layout",
+        "フレーム",
+        "モックアップ",
+        "ブランディング",
+        "moodboard",
+        "cards"
+      ],
+      "keywordsEn": [
+        "bento",
+        "grid",
+        "layout",
+        "frame",
+        "mockups",
+        "branding",
+        "moodboard",
+        "cards"
+      ],
+      "keywordsJa": [
+        "bento",
+        "グリッド",
+        "layout",
+        "フレーム",
+        "モックアップ",
+        "ブランディング",
+        "moodboard",
+        "cards"
+      ],
+      "keywordsKo": [
+        "bento",
+        "그리드",
+        "layout",
+        "프레임",
+        "목업",
+        "브랜딩",
+        "moodboard",
+        "cards"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk39k7i8i"
     }
   ],
   "metadata": {
-    "totalCount": 438,
+    "totalCount": 453,
     "lastUpdated": "2026-03-03",
     "source": "Web research and official documentation",
     "categories": {
