@@ -1,12 +1,40 @@
 #!/usr/bin/env python3
 """
-新規エントリの keywordsJa / keywordsKo を翻訳する。
-keywordsJa == keywordsEn の場合のみ処理する（未翻訳判定）。
+addons_data.json の descriptionJa/Ko と keywordsJa/Ko を翻訳する。
+
+モード:
+  デフォルト  Claude API で description + keywords を翻訳
+  --dict     静的辞書でキーワードのみ翻訳（API 不要）
+
+使い方:
+  python3 scripts/translate.py                 # API モード（全件）
+  python3 scripts/translate.py --dry-run       # 翻訳対象を確認のみ
+  python3 scripts/translate.py --dict          # 辞書モード（API 不要）
+  python3 scripts/translate.py --dict --dry-run
+
+  export ANTHROPIC_API_KEY="sk-ant-..."  # API モードに必要
 """
-import json, re
+import json
+import os
+import re
+import sys
+import time
+import argparse
+from urllib.request import Request, urlopen
+from urllib.error import URLError, HTTPError
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# フレーズ辞書（フレーズ優先でマッチ）
+# パス定数
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SRC_PATH   = "src/ui/data/addons_data.json"
+DOCS_PATH  = "docs/addons_data.json"
+API_URL    = "https://api.anthropic.com/v1/messages"
+MODEL      = "claude-haiku-4-5"
+BATCH_SIZE = 20
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 静的辞書（--dict モード用）
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 PHRASE_JA = {
     "qr code": "QRコード", "qr codes": "QRコード",
@@ -143,7 +171,6 @@ PHRASE_JA = {
     "3d model": "3Dモデル", "3d models": "3Dモデル",
     "3d shape": "3D形状", "3d shapes": "3D形状",
     "3d icon": "3Dアイコン", "3d icons": "3Dアイコン",
-    "3d text": "3Dテキスト",
     "3d effects": "3Dエフェクト",
     "photo background": "写真背景",
     "remove background": "背景除去",
@@ -285,16 +312,12 @@ PHRASE_KO = {
     "3d model": "3D 모델", "3d models": "3D 모델",
     "3d shape": "3D 도형", "3d shapes": "3D 도형",
     "3d icon": "3D 아이콘", "3d icons": "3D 아이콘",
-    "3d text": "3D 텍스트",
     "3d effects": "3D 효과",
     "photo background": "사진 배경",
     "remove background": "배경 제거",
     "cutout": "누끼", "cut out": "누끼",
 }
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 単語辞書（フレーズ辞書にない語をカバー）
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 WORD_JA = {
     "ai": "AI", "image": "画像", "images": "画像",
     "text": "テキスト", "video": "動画", "videos": "動画",
@@ -410,7 +433,7 @@ WORD_JA = {
     "download": "ダウンロード",
     "share": "共有", "sharing": "共有",
     "publish": "公開", "publishing": "出版",
-    "print": "印刷", "printing": "印刷",
+    "printing": "印刷",
     "label": "ラベル", "labels": "ラベル",
     "tag": "タグ", "tags": "タグ",
     "category": "カテゴリ",
@@ -421,17 +444,15 @@ WORD_JA = {
     "gallery": "ギャラリー",
     "portfolio": "ポートフォリオ",
     "showcase": "ショーケース",
-    "free": "無料", "premium": "プレミアム",
+    "premium": "プレミアム",
     "pro": "プロ", "plus": "プラス",
     "basic": "ベーシック", "standard": "スタンダード",
     "enterprise": "エンタープライズ",
-    "accessibility": "アクセシビリティ",
     "a11y": "アクセシビリティ",
     "wcag": "WCAG", "aria": "ARIA",
     "responsive": "レスポンシブ",
     "mobile": "モバイル", "desktop": "デスクトップ",
     "web": "ウェブ", "website": "ウェブサイト",
-    "landing page": "ランディングページ",
     "ads": "広告", "ad": "広告", "advertising": "広告",
     "campaign": "キャンペーン",
     "analytics": "アナリティクス",
@@ -447,9 +468,8 @@ WORD_JA = {
     "feed": "フィード",
     "profile": "プロフィール",
     "headshot": "ヘッドショット",
-    "portrait": "ポートレート",
     "selfie": "セルフィー",
-    "anime": "アニメ", "manga": "マンガ",
+    "manga": "マンガ",
     "comic": "コミック", "cartoon": "カートゥーン",
     "sketch": "スケッチ", "drawing": "イラスト",
     "painting": "絵画", "artwork": "アートワーク",
@@ -458,7 +478,6 @@ WORD_JA = {
     "vintage": "ヴィンテージ", "retro": "レトロ",
     "minimal": "ミニマル", "minimalist": "ミニマリスト",
     "flat": "フラット", "material": "マテリアル",
-    "3dart": "3Dアート",
     "geometry": "ジオメトリ", "geometric": "ジオメトリック",
     "perspective": "透視図",
     "isometric": "アイソメトリック",
@@ -469,14 +488,8 @@ WORD_JA = {
     "lut": "LUT", "preset": "プリセット", "presets": "プリセット",
     "remove": "除去", "remover": "除去ツール",
     "object": "オブジェクト", "objects": "オブジェクト",
-    "3d content": "3Dコンテンツ",
-    "3d art": "3Dアート",
-    "3dart": "3Dアート",
-    "4-cut": "4コマ",
-    "anime art": "アニメアート",
-    "ai anime art": "AIアニメアート",
     "tts": "テキスト読み上げ",
-    "hanbok": "韓服", "ai hanbok": "AI韓服",
+    "hanbok": "韓服",
     "clothes": "衣服",
     "fashion": "ファッション",
     "outfit": "コーディネート",
@@ -526,15 +539,9 @@ WORD_JA = {
     "arrow": "矢印", "arrows": "矢印",
     "check": "チェック",
     "cross": "クロス",
-    "transparent": "透明",
     "hd": "HD", "4k": "4K", "fhd": "FHD",
     "resolution": "解像度",
-    "aspect ratio": "アスペクト比",
     "widescreen": "ワイドスクリーン",
-    "square format": "スクエアフォーマット",
-    "portrait format": "ポートレートフォーマット",
-    "landscape format": "ランドスケープフォーマット",
-    "mockup": "モックアップ",
     "device": "デバイス", "devices": "デバイス",
     "phone": "スマートフォン", "smartphone": "スマートフォン",
     "tablet": "タブレット", "laptop": "ラップトップ",
@@ -556,7 +563,6 @@ WORD_JA = {
     "growth": "成長",
     "sales": "セールス",
     "profit": "利益",
-    "chart": "チャート",
     "graph": "グラフ",
     "diagram": "ダイアグラム",
     "timeline": "タイムライン",
@@ -564,7 +570,6 @@ WORD_JA = {
     "brainstorm": "ブレインストーミング",
     "idea": "アイデア", "ideas": "アイデア",
     "inspiration": "インスピレーション",
-    "mood board": "ムードボード",
     "wireframe": "ワイヤーフレーム",
     "prototype": "プロトタイプ",
     "ux": "UX", "ui": "UI",
@@ -577,12 +582,10 @@ WORD_JA = {
     "addon": "アドオン",
     "api": "API", "sdk": "SDK",
     "open source": "オープンソース",
-    "free": "無料",
     "commercial": "商用",
     "license": "ライセンス",
     "copyright": "著作権",
     "royalty": "ロイヤリティ",
-    "watermark free": "透かしなし",
     "community": "コミュニティ",
     "forum": "フォーラム",
     "support": "サポート",
@@ -707,7 +710,7 @@ WORD_KO = {
     "download": "다운로드",
     "share": "공유", "sharing": "공유",
     "publish": "게시", "publishing": "출판",
-    "print": "인쇄", "printing": "인쇄",
+    "printing": "인쇄",
     "label": "라벨", "labels": "라벨",
     "tag": "태그", "tags": "태그",
     "category": "카테고리",
@@ -739,7 +742,7 @@ WORD_KO = {
     "profile": "프로필",
     "headshot": "증명사진",
     "selfie": "셀피",
-    "anime": "애니메", "manga": "만화",
+    "manga": "만화",
     "comic": "만화", "cartoon": "카툰",
     "sketch": "스케치", "drawing": "그림",
     "painting": "그림", "artwork": "아트워크",
@@ -748,7 +751,6 @@ WORD_KO = {
     "vintage": "빈티지", "retro": "레트로",
     "minimal": "미니멀", "minimalist": "미니멀리스트",
     "flat": "플랫", "material": "머티리얼",
-    "3dart": "3D 아트",
     "geometry": "기하학", "geometric": "기하학적",
     "perspective": "원근법",
     "isometric": "아이소메트릭",
@@ -857,80 +859,293 @@ WORD_KO = {
     "help": "도움말",
 }
 
+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# 翻訳関数
+# 辞書ベース翻訳（--dict モード）
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-def translate_keyword(kw_raw, phrase_dict, word_dict):
+_KEEP_UPPERCASE = {'AI', 'QR', 'PDF', 'SVG', 'PNG', 'GIF', 'JPG',
+                   'HD', '4K', 'API', 'SDK', 'SEO', 'UI', 'UX',
+                   'WCAG', 'ARIA', 'TTS', 'DAM', 'LUT', 'FHD',
+                   '3D', '8K', 'VR', 'AR', 'NFT'}
+
+def _translate_one(kw_raw: str, phrase_dict: dict, word_dict: dict) -> str:
     kw = kw_raw.strip().lower()
     if not kw:
         return kw_raw
-
-    # 1. フレーズ完全一致
     if kw in phrase_dict:
         return phrase_dict[kw]
-
-    # 2. 単語完全一致
     if kw in word_dict:
         return word_dict[kw]
-
-    # 3. 部分フレーズマッチ（長い順）
     for phrase in sorted(phrase_dict.keys(), key=len, reverse=True):
         if phrase in kw and len(phrase) > 3:
             return phrase_dict[phrase]
-
-    # 4. 単語分割して翻訳
     parts = re.split(r'[\s\-_/]+', kw)
     translated = []
     for part in parts:
         if part in word_dict:
             translated.append(word_dict[part])
-        elif part.upper() in ('AI', 'QR', 'PDF', 'SVG', 'PNG', 'GIF', 'JPG',
-                               'HD', '4K', 'API', 'SDK', 'SEO', 'UI', 'UX',
-                               'WCAG', 'ARIA', 'TTS', 'DAM', 'LUT', 'FHD',
-                               '3D', '8K', 'VR', 'AR', 'NFT'):
+        elif part.upper() in _KEEP_UPPERCASE:
             translated.append(part.upper())
-        elif re.match(r'^\d', part):  # 数字始まりはそのまま
+        elif re.match(r'^\d', part):
             translated.append(part)
         else:
-            # カタカナ変換不可の場合は元のまま（ブランド名等）
-            translated.append(kw_raw.strip())
             return kw_raw.strip()
     return ' '.join(translated)
 
-def translate_keywords(kws, phrase_dict, word_dict):
-    result = []
-    for kw in kws:
-        t = translate_keyword(kw, phrase_dict, word_dict)
-        result.append(t)
-    return result
+def translate_keywords_dict(kws: list, phrase_dict: dict, word_dict: dict) -> list:
+    return [_translate_one(kw, phrase_dict, word_dict) for kw in kws]
+
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# メイン処理
+# Claude API（デフォルトモード）
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-with open('src/ui/data/addons_data.json') as f:
-    db = json.load(f)
+SYSTEM_PROMPT = """Adobe Express のアドオン（プラグイン）情報を日本語と韓国語に翻訳します。
 
-updated = 0
-for addon in db['addons']:
-    # 未翻訳判定: keywordsJa == keywordsEn
-    if addon.get('keywordsJa') != addon.get('keywordsEn'):
-        continue
+ルール:
+- アプリ名・ブランド名・サービス名（Adobe Express, Shopify, TikTok, WCAG 等）はそのまま残す
+- descriptionJa/Ko は自然で簡潔な翻訳にする（機械翻訳っぽくしない）
+- keywords は短いキーワード単位で翻訳する（1語〜3語程度）
+- 出力は必ず JSON 配列のみ（説明文や前置きは不要）
+"""
 
-    kws_en = addon.get('keywordsEn', [])
-    if not kws_en:
-        continue
+def _build_prompt(entries: list) -> str:
+    input_json = json.dumps(entries, ensure_ascii=False, indent=2)
+    return f"""{SYSTEM_PROMPT}
 
-    kws_ja = translate_keywords(kws_en, PHRASE_JA, WORD_JA)
-    kws_ko = translate_keywords(kws_en, PHRASE_KO, WORD_KO)
+以下の JSON 配列を翻訳してください。
+各エントリに `needs_desc` と `needs_kw` フラグがあります。
+- needs_desc: true → descriptionJa と descriptionKo を翻訳（descriptionEn を元に）
+- needs_kw: true → keywordsJa と keywordsKo を翻訳（keywordsEn を元に）
 
-    addon['keywordsJa'] = kws_ja
-    addon['keywordsKo'] = kws_ko
-    addon['keywords']   = kws_ja  # 検索用プライマリキーワードも日本語に
-    updated += 1
+入力:
+{input_json}
 
-db['metadata']['lastUpdated'] = '2026-03-03'
+出力形式（同じ順序で、翻訳不要なフィールドは空文字のまま）:
+[
+  {{
+    "id": "addon-id",
+    "descriptionJa": "翻訳済みまたは空文字",
+    "descriptionKo": "번역된 텍스트 또는 빈 문자열",
+    "keywordsJa": ["キーワード1", "キーワード2"],
+    "keywordsKo": ["키워드1", "키워드2"]
+  }}
+]
 
-with open('src/ui/data/addons_data.json', 'w', encoding='utf-8') as f:
-    json.dump(db, f, ensure_ascii=False, indent=2)
+JSON 配列のみを返してください。"""
 
-print(f"更新済みエントリ: {updated} 件")
+def _call_claude(api_key: str, prompt: str) -> str:
+    body = json.dumps({
+        "model": MODEL,
+        "max_tokens": 8192,
+        "messages": [{"role": "user", "content": prompt}],
+    }).encode("utf-8")
+    req = Request(
+        API_URL,
+        data=body,
+        headers={
+            "x-api-key": api_key,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+        },
+        method="POST",
+    )
+    try:
+        with urlopen(req, timeout=120) as resp:
+            result = json.loads(resp.read().decode("utf-8"))
+            return result["content"][0]["text"]
+    except HTTPError as e:
+        body_text = e.read().decode("utf-8", errors="replace")
+        print(f"\n[ERROR] HTTP {e.code}: {body_text}", file=sys.stderr)
+        sys.exit(1)
+    except URLError as e:
+        print(f"\n[ERROR] ネットワークエラー: {e.reason}", file=sys.stderr)
+        sys.exit(1)
+
+def _extract_json_array(text: str) -> list:
+    m = re.search(r"```(?:json)?\s*(\[.*?\])\s*```", text, re.DOTALL)
+    if m:
+        text = m.group(1)
+    else:
+        start = text.find("[")
+        end = text.rfind("]")
+        if start != -1 and end != -1:
+            text = text[start:end+1]
+    return json.loads(text)
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ファイル書き込み
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+def atomic_write(path: str, db: dict) -> None:
+    tmp = path + ".tmp"
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(db, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+    os.replace(tmp, path)
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# メイン
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="addons_data.json の description / keywords を翻訳する"
+    )
+    parser.add_argument(
+        "--dict",
+        action="store_true",
+        help="静的辞書でキーワードのみ翻訳（ANTHROPIC_API_KEY 不要）",
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="翻訳対象を表示するがファイルには書き込まない",
+    )
+    args = parser.parse_args()
+
+    # ── API モードのキー確認（辞書モード以外） ──────────────
+    api_key = ""
+    if not args.dict:
+        api_key = os.environ.get("ANTHROPIC_API_KEY", "")
+        if not api_key:
+            print("[ERROR] ANTHROPIC_API_KEY 環境変数が設定されていません。", file=sys.stderr)
+            print("  export ANTHROPIC_API_KEY='sk-ant-...'", file=sys.stderr)
+            print("  辞書モードは --dict フラグで実行できます（API 不要）。", file=sys.stderr)
+            sys.exit(1)
+
+    print(f"データを読み込み中: {SRC_PATH}")
+    with open(SRC_PATH, encoding="utf-8") as f:
+        db = json.load(f)
+    addons = db["addons"]
+
+    # ── 辞書モード ─────────────────────────────────────
+    if args.dict:
+        targets = [
+            a for a in addons
+            if a.get("keywordsJa") == a.get("keywordsEn") and a.get("keywordsEn")
+        ]
+        print(f"翻訳対象（キーワードのみ）: {len(targets)} 件")
+
+        if args.dry_run:
+            for a in targets:
+                print(f"  - {a['id']}")
+            print("\n[DRY-RUN] ファイルは変更しません。")
+            return
+
+        updated = 0
+        for addon in addons:
+            if addon.get("keywordsJa") != addon.get("keywordsEn"):
+                continue
+            kws_en = addon.get("keywordsEn", [])
+            if not kws_en:
+                continue
+            addon["keywordsJa"] = translate_keywords_dict(kws_en, PHRASE_JA, WORD_JA)
+            addon["keywordsKo"] = translate_keywords_dict(kws_en, PHRASE_KO, WORD_KO)
+            addon["keywords"]   = addon["keywordsJa"]
+            updated += 1
+
+        print(f"\nファイルに書き込み中...")
+        atomic_write(SRC_PATH, db)
+        print(f"  書き込み完了: {SRC_PATH}")
+        atomic_write(DOCS_PATH, db)
+        print(f"  書き込み完了: {DOCS_PATH}")
+        print(f"\n更新済みエントリ: {updated} 件")
+        return
+
+    # ── API モード ─────────────────────────────────────
+    targets = []
+    for addon in addons:
+        needs_desc = not addon.get("descriptionJa", "").strip()
+        needs_kw   = addon.get("keywordsJa") == addon.get("keywordsEn") and bool(addon.get("keywordsEn"))
+        if needs_desc or needs_kw:
+            targets.append({
+                "id":            addon["id"],
+                "needs_desc":    needs_desc,
+                "needs_kw":      needs_kw,
+                "descriptionEn": addon.get("descriptionEn") or addon.get("description", ""),
+                "keywordsEn":    addon.get("keywordsEn", []),
+            })
+
+    if not targets:
+        print("翻訳対象エントリはありません。")
+        return
+
+    desc_count = sum(1 for t in targets if t["needs_desc"])
+    kw_count   = sum(1 for t in targets if t["needs_kw"])
+    print(f"  翻訳対象: {len(targets)} 件")
+    print(f"    description 翻訳: {desc_count} 件")
+    print(f"    keywords 翻訳:    {kw_count} 件")
+
+    if args.dry_run:
+        print("\n[DRY-RUN] 翻訳対象エントリ一覧:")
+        for t in targets:
+            flags = []
+            if t["needs_desc"]: flags.append("desc")
+            if t["needs_kw"]:   flags.append("kw")
+            print(f"  - {t['id']}  [{', '.join(flags)}]")
+        print(f"\n[DRY-RUN] ファイルは変更しません。")
+        return
+
+    translation_map: dict = {}
+    total_batches = (len(targets) + BATCH_SIZE - 1) // BATCH_SIZE
+
+    for i in range(0, len(targets), BATCH_SIZE):
+        batch = targets[i:i + BATCH_SIZE]
+        batch_num = i // BATCH_SIZE + 1
+        print(f"\nバッチ {batch_num}/{total_batches} を翻訳中... ({len(batch)} 件)", flush=True)
+
+        prompt = _build_prompt(batch)
+        response_text = _call_claude(api_key, prompt)
+
+        try:
+            results = _extract_json_array(response_text)
+        except json.JSONDecodeError as e:
+            print(f"[ERROR] JSON パース失敗: {e}", file=sys.stderr)
+            print("レスポンス:", response_text[:500], file=sys.stderr)
+            sys.exit(1)
+
+        for result in results:
+            translation_map[result["id"]] = result
+            print(f"  ✓ {result['id']}")
+
+        if batch_num < total_batches:
+            time.sleep(1)
+
+    updated_desc = 0
+    updated_kw   = 0
+
+    for addon in addons:
+        tr = translation_map.get(addon["id"])
+        if not tr:
+            continue
+        if addon.get("descriptionJa", "") == "" and tr.get("descriptionJa"):
+            addon["descriptionJa"] = tr["descriptionJa"]
+            addon["descriptionKo"] = tr.get("descriptionKo", "")
+            updated_desc += 1
+        if addon.get("keywordsJa") == addon.get("keywordsEn") and tr.get("keywordsJa"):
+            addon["keywordsJa"] = tr["keywordsJa"]
+            addon["keywordsKo"] = tr.get("keywordsKo", [])
+            addon["keywords"]   = tr["keywordsJa"]
+            updated_kw += 1
+
+    print(f"\nファイルに書き込み中...")
+    atomic_write(SRC_PATH, db)
+    print(f"  書き込み完了: {SRC_PATH}")
+    atomic_write(DOCS_PATH, db)
+    print(f"  書き込み完了: {DOCS_PATH}")
+
+    print(f"""
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  完了
+    description 翻訳: {updated_desc} 件
+    keywords 翻訳:    {updated_kw} 件
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+次のステップ:
+  git diff src/ui/data/addons_data.json  # 差分確認
+  # 内容を確認後コミット
+""")
+
+
+if __name__ == "__main__":
+    main()

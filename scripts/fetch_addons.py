@@ -7,7 +7,7 @@ Adobe Express アドオンカタログ自動同期スクリプト。
   2. DevTools > Network > /v2/auth/addons リクエストを選択
      → Headers > Authorization の値をコピー
   3. python3 scripts/fetch_addons.py --token "Bearer eyJ..."
-  4. python3 scripts/translate_keywords.py
+  4. python3 scripts/translate.py --dict
   5. 新規エントリの category / nameJa / descriptionJa などを手動補完
   6. git add / git commit
 
@@ -187,7 +187,7 @@ def make_entry(item: dict, existing_ids: set) -> dict:
         "descriptionKo": "",
         "keywords": list(keywords_en),
         "keywordsEn": list(keywords_en),
-        # keywordsJa == keywordsEn にすることで translate_keywords.py が処理対象と判定する
+        # keywordsJa == keywordsEn にすることで translate.py --dict が処理対象と判定する
         "keywordsJa": list(keywords_en),
         "keywordsKo": list(keywords_en),
         "featured": False,
@@ -311,7 +311,7 @@ def main() -> None:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 次のステップ:
-  1. python3 scripts/translate_keywords.py
+  1. python3 scripts/translate.py --dict
        → keywordsJa / keywordsKo を辞書翻訳
 
   2. 新規エントリを手動補完

@@ -20050,7 +20050,7 @@
     {
       "id": "word-cloud-maker",
       "addOnId": "w04957lmi",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Word Cloud Maker",
       "nameJa": "",
       "nameKo": "",
@@ -20094,7 +20094,7 @@
     {
       "id": "form-and-quiz",
       "addOnId": "w0n54n58k",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Form and Quiz",
       "nameJa": "",
       "nameKo": "",
@@ -20114,7 +20114,7 @@
     {
       "id": "compress-image",
       "addOnId": "w12jkgi03",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Compress Image",
       "nameJa": "",
       "nameKo": "",
@@ -20178,7 +20178,7 @@
     {
       "id": "paintify",
       "addOnId": "w1i73j851",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Paintify",
       "nameJa": "",
       "nameKo": "",
@@ -20198,7 +20198,7 @@
     {
       "id": "animator",
       "addOnId": "w2568in52",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Animator",
       "nameJa": "",
       "nameKo": "",
@@ -20254,7 +20254,7 @@
     {
       "id": "flippingbook",
       "addOnId": "w834n545k",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "FlippingBook",
       "nameJa": "",
       "nameKo": "",
@@ -20314,7 +20314,7 @@
     {
       "id": "ai-vector-generator",
       "addOnId": "w90gi7knn",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Vector Generator",
       "nameJa": "",
       "nameKo": "",
@@ -20358,7 +20358,7 @@
     {
       "id": "monsters-factory",
       "addOnId": "wg1i15jnh",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Monsters Factory",
       "nameJa": "",
       "nameKo": "",
@@ -20378,7 +20378,7 @@
     {
       "id": "image-text-editor",
       "addOnId": "wg92j10m4",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Image Text Editor",
       "nameJa": "",
       "nameKo": "",
@@ -20422,7 +20422,7 @@
     {
       "id": "image-translator",
       "addOnId": "wgh94m0g7",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Image Translator",
       "nameJa": "",
       "nameKo": "",
@@ -20462,7 +20462,7 @@
     {
       "id": "objectremover",
       "addOnId": "wgigj58m3",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "ObjectRemover",
       "nameJa": "",
       "nameKo": "",
@@ -20514,7 +20514,7 @@
     {
       "id": "ai-signature-maker",
       "addOnId": "wij4m2l8k",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Signature Maker",
       "nameJa": "",
       "nameKo": "",
@@ -20550,7 +20550,7 @@
     {
       "id": "textart",
       "addOnId": "wj6nl14lh",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "TextArt",
       "nameJa": "",
       "nameKo": "",
@@ -20606,7 +20606,7 @@
     {
       "id": "oilpainting-effect",
       "addOnId": "wl954i93m",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Oilpainting Effect",
       "nameJa": "",
       "nameKo": "",
@@ -20626,7 +20626,7 @@
     {
       "id": "mockup-studio",
       "addOnId": "wlg5hgl16",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Mockup Studio",
       "nameJa": "",
       "nameKo": "",
@@ -20690,7 +20690,7 @@
     {
       "id": "text-art-maker",
       "addOnId": "wlhngk25j",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Text Art Maker",
       "nameJa": "",
       "nameKo": "",
@@ -20746,7 +20746,7 @@
     {
       "id": "plushifier",
       "addOnId": "wm156k9n2",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Plushifier",
       "nameJa": "",
       "nameKo": "",
@@ -20766,7 +20766,7 @@
     {
       "id": "childrensbook",
       "addOnId": "wm328j0ni",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "ChildrensBook",
       "nameJa": "",
       "nameKo": "",
@@ -20782,11 +20782,555 @@
       "keywordsKo": [],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm328j0ni"
+    },
+    {
+      "id": "photo-to-sketch",
+      "addOnId": "w03m54841",
+      "isNew": true,
+      "nameEn": "Photo to Sketch",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Transform any photo into a detailed sketch or clean outline with our AI sketch generator. Perfect for creating unique art, custom coloring pages, or a beautiful hand-drawn effect for your next project.",
+      "descriptionEn": "Transform any photo into a detailed sketch or clean outline with our AI sketch generator. Perfect for creating unique art, custom coloring pages, or a beautiful hand-drawn effect for your next project.",
+      "descriptionJa": "AI スケッチジェネレーターで、あらゆる写真を詳細なスケッチやクリーンなアウトラインに変換できます。ユニークなアート、カスタムぬりえ、または手描き効果を簡単に作成できます。",
+      "descriptionKo": "AI 스케치 생성기로 모든 사진을 상세한 스케치나 깔끔한 윤곽으로 변환하세요. 독창적인 미술 작품, 맞춤형 칠하기 페이지, 손그림 효과를 쉽게 만들 수 있습니다.",
+      "keywords": [
+        "AI スケッチ ジェネレーター",
+        "image to sketch",
+        "photo to pencil sketch",
+        "スケッチ 写真",
+        "スケッチ AI",
+        "sketchify"
+      ],
+      "keywordsEn": [
+        "ai sketch generator",
+        "image to sketch",
+        "photo to pencil sketch",
+        "sketch photo",
+        "sketch ai",
+        "sketchify"
+      ],
+      "keywordsJa": [
+        "AI スケッチ ジェネレーター",
+        "image to sketch",
+        "photo to pencil sketch",
+        "スケッチ 写真",
+        "スケッチ AI",
+        "sketchify"
+      ],
+      "keywordsKo": [
+        "AI 스케치 생성기",
+        "image to sketch",
+        "photo to pencil sketch",
+        "스케치 사진",
+        "스케치 AI",
+        "sketchify"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w03m54841"
+    },
+    {
+      "id": "ai-poster-maker",
+      "addOnId": "w106hlgl8",
+      "isNew": true,
+      "nameEn": "AI Poster Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Provide a text description for your ideal poster and select an artistic style. The AI will then interpret your prompt to generate a complete visual design based on your input.",
+      "descriptionEn": "Provide a text description for your ideal poster and select an artistic style. The AI will then interpret your prompt to generate a complete visual design based on your input.",
+      "descriptionJa": "理想のポスターをテキストで説明し、アートスタイルを選択するだけで、AIが入力内容を解釈して完全なビジュアルデザインを生成します。",
+      "descriptionKo": "이상적인 포스터를 텍스트로 설명하고 미술 스타일을 선택하면, AI가 입력 내용을 해석하여 완전한 시각적 디자인을 생성합니다.",
+      "keywords": [
+        "ポスター デザイン",
+        "AI ポスター ジェネレーター",
+        "AI ポスター",
+        "生成 ポスター",
+        "AI ポスター クリエイター",
+        "create posters with AI"
+      ],
+      "keywordsEn": [
+        "poster design",
+        "ai poster generator",
+        "ai poster",
+        "generate poster",
+        "ai poster creator",
+        "create posters with AI"
+      ],
+      "keywordsJa": [
+        "ポスター デザイン",
+        "AI ポスター ジェネレーター",
+        "AI ポスター",
+        "生成 ポスター",
+        "AI ポスター クリエイター",
+        "create posters with AI"
+      ],
+      "keywordsKo": [
+        "포스터 디자인",
+        "AI 포스터 생성기",
+        "AI 포스터",
+        "생성 포스터",
+        "AI 포스터 크리에이터",
+        "create posters with AI"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w106hlgl8"
+    },
+    {
+      "id": "realistic",
+      "addOnId": "w239l4ji6",
+      "isNew": true,
+      "nameEn": "Realistic",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Realistic takes an existing person's image and enhances it to make it look more realistic, providing an unparalleled level of detail and authenticity.",
+      "descriptionEn": "Realistic takes an existing person's image and enhances it to make it look more realistic, providing an unparalleled level of detail and authenticity.",
+      "descriptionJa": "既存の人物写真をより写実的に見えるよう強化し、比類のない詳細さと本物らしさを実現します。",
+      "descriptionKo": "기존의 인물 사진을 더욱 사실적으로 강화하여 비교할 수 없는 수준의 디테일과 진정성을 제공합니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w239l4ji6"
+    },
+    {
+      "id": "invisible-watermark",
+      "addOnId": "w31433mim",
+      "isNew": true,
+      "nameEn": "Invisible Watermark",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Adding an invisible text watermark to an image lets you embed special information, like copyright details. You can decode the image online to check for hidden information, ensuring it remains secure.",
+      "descriptionEn": "Adding an invisible text watermark to an image lets you embed special information, like copyright details. You can decode the image online to check for hidden information, ensuring it remains secure.",
+      "descriptionJa": "画像に見えないテキストウォーターマークを追加すれば、著作権情報などの特別な情報を埋め込めます。オンラインで画像をデコードすることで隠された情報をチェックでき、セキュリティを確保できます。",
+      "descriptionKo": "이미지에 보이지 않는 텍스트 워터마크를 추가하여 저작권 정보 같은 특별한 정보를 삽입할 수 있습니다. 온라인에서 이미지를 디코딩하여 숨겨진 정보를 확인하고 보안을 유지하세요.",
+      "keywords": [
+        "隠しウォーターマーク",
+        "画像にウォーターマーク追加",
+        "見えないテキストウォーターマーク",
+        "画像著作権保護"
+      ],
+      "keywordsEn": [
+        "hidden watermark",
+        "add watermark to images",
+        "invisible text watermark",
+        "image copyright protection"
+      ],
+      "keywordsJa": [
+        "隠しウォーターマーク",
+        "画像にウォーターマーク追加",
+        "見えないテキストウォーターマーク",
+        "画像著作権保護"
+      ],
+      "keywordsKo": [
+        "숨겨진 워터마크",
+        "이미지 워터마크 추가",
+        "보이지 않는 텍스트 워터마크",
+        "이미지 저작권 보호"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w31433mim"
+    },
+    {
+      "id": "carousel-ai",
+      "addOnId": "w37k37392",
+      "isNew": true,
+      "nameEn": "Carousel AI",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Carousel Studio helps you create swipe-friendly carousel posts without starting from zero. \n\nBegin with:\n>  a short prompt, \n> a blog article, \n> an X (Twitter) post, \n> or a YouTube link \n\nFor link-based sources you can choose how many slides to create. Pick a visual theme, font, and accent color, and optionally add your author name. Generate once and your slides appear on the canvas - edit copy, adjust the look, then export when you're ready.\n\nBuilt for creators and marketers who want faster first drafts and a consistent, polished style. The add-on uses common social-ready page sizes.. Free daily generations are included; paid plans add more capacity.",
+      "descriptionEn": "Carousel Studio helps you create swipe-friendly carousel posts without starting from zero. \n\nBegin with:\n>  a short prompt, \n> a blog article, \n> an X (Twitter) post, \n> or a YouTube link \n\nFor link-based sources you can choose how many slides to create. Pick a visual theme, font, and accent color, and optionally add your author name. Generate once and your slides appear on the canvas - edit copy, adjust the look, then export when you're ready.\n\nBuilt for creators and marketers who want faster first drafts and a consistent, polished style. The add-on uses common social-ready page sizes.. Free daily generations are included; paid plans add more capacity.",
+      "descriptionJa": "Carousel Studioはスワイプフレンドリーなカルーセル投稿をゼロから作成するのに役立ちます。短いプロンプト、ブログ記事、X（Twitter）投稿、またはYouTubeリンクから始めることができます。ビジュアルテーマ、フォント、アクセントカラーを選んでカスタマイズし、著者名を追加できます。無料の日次生成が含まれ、有料プランでさらに容量が増えます。",
+      "descriptionKo": "Carousel Studio는 스와이프 친화적인 카루셀 게시물을 쉽게 만들 수 있도록 도와줍니다. 짧은 프롬프트, 블로그 기사, X(Twitter) 게시물, 또는 YouTube 링크로 시작할 수 있습니다. 시각적 테마, 글꼴, 강조 색상을 선택하고 작성자 이름을 추가할 수 있습니다. 무료 일일 생성이 포함되며, 유료 플랜으로 더 많은 용량을 이용할 수 있습니다.",
+      "keywords": [
+        "ソーシャルメディア",
+        "instagram carousel",
+        "ai carousel maker",
+        "slideshow maker",
+        "ai slideshow",
+        "TikTok"
+      ],
+      "keywordsEn": [
+        "social media carousel",
+        "instagram carousel",
+        "ai carousel maker",
+        "slideshow maker",
+        "ai slideshow",
+        "tiktok"
+      ],
+      "keywordsJa": [
+        "ソーシャルメディア",
+        "instagram carousel",
+        "ai carousel maker",
+        "slideshow maker",
+        "ai slideshow",
+        "TikTok"
+      ],
+      "keywordsKo": [
+        "소셜 미디어",
+        "instagram carousel",
+        "ai carousel maker",
+        "slideshow maker",
+        "ai slideshow",
+        "TikTok"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w37k37392"
+    },
+    {
+      "id": "image-description",
+      "addOnId": "w4h898kl6",
+      "isNew": true,
+      "nameEn": "Image Description",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Upload or select an image from your design, and AI can quickly generate a text description of the image and analyze the image's composition data.",
+      "descriptionEn": "Upload or select an image from your design, and AI can quickly generate a text description of the image and analyze the image's composition data.",
+      "descriptionJa": "デザインから画像をアップロードまたは選択すれば、AIが画像のテキスト説明を素早く生成し、画像の構成データを分析できます。",
+      "descriptionKo": "디자인에서 이미지를 업로드하거나 선택하면 AI가 이미지의 텍스트 설명을 빠르게 생성하고 이미지 구성 데이터를 분석합니다.",
+      "keywords": [
+        "画像説明ツール",
+        "AI画像説明",
+        "画像説明",
+        "画像説明生成ツール"
+      ],
+      "keywordsEn": [
+        "image describer",
+        "ai describe image",
+        "describe Image",
+        "image description generator"
+      ],
+      "keywordsJa": [
+        "画像説明ツール",
+        "AI画像説明",
+        "画像説明",
+        "画像説明生成ツール"
+      ],
+      "keywordsKo": [
+        "이미지 설명 도구",
+        "AI 이미지 설명",
+        "이미지 설명",
+        "이미지 설명 생성기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w4h898kl6"
+    },
+    {
+      "id": "qr-code-ai-art-generator",
+      "addOnId": "w7h6j9nh4",
+      "isNew": true,
+      "nameEn": "QR Code AI Art Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI-powered QR code generator that quickly converts text, links, emails and phone numbers into scannable artistic QR codes, let artistic QR codes revolutionize your brand marketing.",
+      "descriptionEn": "AI-powered QR code generator that quickly converts text, links, emails and phone numbers into scannable artistic QR codes, let artistic QR codes revolutionize your brand marketing.",
+      "descriptionJa": "AIを搭載したQRコード生成ツールで、テキスト、リンク、メール、電話番号をスキャン可能なアートQRコードに素早く変換します。アートQRコードでブランドマーケティングを革新しましょう。",
+      "descriptionKo": "AI 기반 QR 코드 생성기로 텍스트, 링크, 이메일, 전화번호를 스캔 가능한 예술적 QR 코드로 빠르게 변환합니다. 아트 QR 코드로 브랜드 마케팅을 혁신하세요.",
+      "keywords": [
+        "qrcode generator",
+        "QRコードジェネレーター",
+        "QRコード",
+        "QRコード",
+        "QRコード"
+      ],
+      "keywordsEn": [
+        "qrcode generator",
+        "qr code generator",
+        "qr code maker",
+        "create qr codes",
+        "generate art QR codes"
+      ],
+      "keywordsJa": [
+        "qrcode generator",
+        "QRコードジェネレーター",
+        "QRコード",
+        "QRコード",
+        "QRコード"
+      ],
+      "keywordsKo": [
+        "qrcode generator",
+        "QR코드 생성기",
+        "QR코드",
+        "QR코드",
+        "QR코드"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w7h6j9nh4"
+    },
+    {
+      "id": "gif-maker",
+      "addOnId": "w9ni715n7",
+      "isNew": true,
+      "nameEn": "GIF Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Quickly create custom GIFs with AI. Describe the animation you want, and our tool generates it from your text. Perfect for engaging social media, marketing, or just for fun.",
+      "descriptionEn": "Quickly create custom GIFs with AI. Describe the animation you want, and our tool generates it from your text. Perfect for engaging social media, marketing, or just for fun.",
+      "descriptionJa": "AIで簡単にカスタムGIFを作成できます。作りたいアニメーションを説明するだけで、テキストからGIFが生成されます。SNS、マーケティング、楽しみなど、さまざまなシーンで活用できます。",
+      "descriptionKo": "AI로 손쉽게 맞춤형 GIF를 만들 수 있습니다. 원하는 애니메이션을 설명하면 텍스트에서 GIF가 생성됩니다. 소셜 미디어, 마케팅, 재미 등 다양한 용도로 활용하세요.",
+      "keywords": [
+        "GIF ジェネレーター",
+        "生成 GIF 画像",
+        "create GIFs",
+        "text to gif",
+        "image to gif",
+        "video to gif",
+        "gif converter"
+      ],
+      "keywordsEn": [
+        "gif generator",
+        "generate gif images",
+        "create GIFs",
+        "text to gif",
+        "image to gif",
+        "video to gif",
+        "gif converter"
+      ],
+      "keywordsJa": [
+        "GIF ジェネレーター",
+        "生成 GIF 画像",
+        "create GIFs",
+        "text to gif",
+        "image to gif",
+        "video to gif",
+        "gif converter"
+      ],
+      "keywordsKo": [
+        "GIF 생성기",
+        "생성 GIF 이미지",
+        "create GIFs",
+        "text to gif",
+        "image to gif",
+        "video to gif",
+        "gif converter"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w9ni715n7"
+    },
+    {
+      "id": "ai-coloring-page",
+      "addOnId": "wggn7075h",
+      "isNew": true,
+      "nameEn": "AI Coloring Page",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Use text to describe the coloring page image you want or upload an image, and AI can quickly create an image that can be used for coloring to cultivate personal painting interests.",
+      "descriptionEn": "Use text to describe the coloring page image you want or upload an image, and AI can quickly create an image that can be used for coloring to cultivate personal painting interests.",
+      "descriptionJa": "テキストでぬりえ画像を説明するか、画像をアップロードすれば、AIが素早くぬりえに使用できる画像を作成し、個人の絵画への興味を育てるのに役立ちます。",
+      "descriptionKo": "텍스트로 칠하기 페이지 이미지를 설명하거나 이미지를 업로드하면, AI가 칠하기에 사용할 수 있는 이미지를 빠르게 생성하여 개인의 그림 그리기 관심사를 계발할 수 있습니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wggn7075h"
+    },
+    {
+      "id": "text-to-speech-oline",
+      "addOnId": "wh71583jj",
+      "isNew": true,
+      "nameEn": "Text to Speech Oline",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Use AI to convert text to speech and listen to your documents, study materials, or images. We support formats including PDF, Word, Excel, and PowerPoint, and let you choose from natural voices.",
+      "descriptionEn": "Use AI to convert text to speech and listen to your documents, study materials, or images. We support formats including PDF, Word, Excel, and PowerPoint, and let you choose from natural voices.",
+      "descriptionJa": "AIを使用してテキストを音声に変換し、ドキュメント、学習教材、画像をリッスンできます。PDF、Word、Excel、PowerPointなどの形式に対応し、自然な音声から選択できます。",
+      "descriptionKo": "AI를 사용하여 텍스트를 음성으로 변환하고 문서, 학습 자료, 이미지를 청취할 수 있습니다. PDF, Word, Excel, PowerPoint 등의 형식을 지원하며 자연스러운 음성을 선택할 수 있습니다.",
+      "keywords": [
+        "テキスト読み上げ",
+        "AI音声",
+        "テキスト読み上げ",
+        "text to voice",
+        "text to audio",
+        "AI スピーチ",
+        "オーディオ ジェネレーター"
+      ],
+      "keywordsEn": [
+        "TTS",
+        "ai voice generator",
+        "Text-to-Speech",
+        "text to voice",
+        "text to audio",
+        "ai speech",
+        "audio generator"
+      ],
+      "keywordsJa": [
+        "テキスト読み上げ",
+        "AI音声",
+        "テキスト読み上げ",
+        "text to voice",
+        "text to audio",
+        "AI スピーチ",
+        "オーディオ ジェネレーター"
+      ],
+      "keywordsKo": [
+        "TTS",
+        "AI 음성",
+        "텍스트 음성 변환",
+        "text to voice",
+        "text to audio",
+        "AI 음성",
+        "오디오 생성기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wh71583jj"
+    },
+    {
+      "id": "passport-photo",
+      "addOnId": "wi14l4n48",
+      "isNew": true,
+      "nameEn": "Passport Photo",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Upload or select your personal photo and you can quickly convert it to standard passport photos of different sizes for each country, and you can also customize the aspect ratio and background color.",
+      "descriptionEn": "Upload or select your personal photo and you can quickly convert it to standard passport photos of different sizes for each country, and you can also customize the aspect ratio and background color.",
+      "descriptionJa": "個人写真をアップロードまたは選択すれば、各国の標準的なパスポート写真サイズに素早く変換できます。アスペクト比と背景色もカスタマイズできます。",
+      "descriptionKo": "개인 사진을 업로드하거나 선택하면 각 국가의 표준 여권 사진 크기로 빠르게 변환할 수 있습니다. 종횡비와 배경색도 사용자 정의할 수 있습니다.",
+      "keywords": [
+        "パスポートサイズ写真",
+        "パスポート画像",
+        "パスポート写真サイズ",
+        "パスポートプロフィール写真"
+      ],
+      "keywordsEn": [
+        "passport size photo",
+        "passport image",
+        "passport photo size",
+        "Passport profile picture"
+      ],
+      "keywordsJa": [
+        "パスポートサイズ写真",
+        "パスポート画像",
+        "パスポート写真サイズ",
+        "パスポートプロフィール写真"
+      ],
+      "keywordsKo": [
+        "여권 크기 사진",
+        "여권 이미지",
+        "여권 사진 크기",
+        "여권 프로필 사진"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wi14l4n48"
+    },
+    {
+      "id": "gender-swap-filter",
+      "addOnId": "wm2g6i8h5",
+      "isNew": true,
+      "nameEn": "Gender Swap Filter",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Upload or select a photo of a person from the design, choose a gender and style, and AI can quickly convert the person in the photo to male or female.",
+      "descriptionEn": "Upload or select a photo of a person from the design, choose a gender and style, and AI can quickly convert the person in the photo to male or female.",
+      "descriptionJa": "デザインから人物写真をアップロードまたは選択し、性別とスタイルを選んで、AIが写真の人物を男性または女性に素早く変換します。",
+      "descriptionKo": "디자인에서 인물 사진을 업로드하거나 선택하고 성별과 스타일을 선택하면, AI가 사진의 인물을 남성 또는 여성으로 빠르게 변환합니다.",
+      "keywords": [
+        "gender swap",
+        "AI顔",
+        "gender changer",
+        "gender flip",
+        "ai gender swap generator"
+      ],
+      "keywordsEn": [
+        "gender swap",
+        "ai face changer",
+        "gender changer",
+        "gender flip",
+        "ai gender swap generator"
+      ],
+      "keywordsJa": [
+        "gender swap",
+        "AI顔",
+        "gender changer",
+        "gender flip",
+        "ai gender swap generator"
+      ],
+      "keywordsKo": [
+        "gender swap",
+        "AI 얼굴",
+        "gender changer",
+        "gender flip",
+        "ai gender swap generator"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm2g6i8h5"
+    },
+    {
+      "id": "ai-age-filter",
+      "addOnId": "wngng3176",
+      "isNew": true,
+      "nameEn": "AI Age Filter",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Use our AI age editor to apply a realistic age filter to picture. See a face transform as the tool simulates age progression or regression, making the person in your photo appear younger or older.",
+      "descriptionEn": "Use our AI age editor to apply a realistic age filter to picture. See a face transform as the tool simulates age progression or regression, making the person in your photo appear younger or older.",
+      "descriptionJa": "AIエイジエディターを使用して写真にリアルな年齢フィルターを適用します。顔の変化をシミュレートして、年齢進行または退行を表現し、写真の人物をより若く、または年上に見せることができます。",
+      "descriptionKo": "AI 연령 에디터를 사용하여 사진에 사실적인 연령 필터를 적용하세요. 얼굴 변화를 시뮬레이션하여 연령 진행 또는 퇴행을 표현하고, 사진의 인물을 더 젊거나 나이 들어 보이게 만들 수 있습니다.",
+      "keywords": [
+        "年齢顔写真",
+        "年齢進行",
+        "写実的な年齢写真生成",
+        "老顔フィルター",
+        "エイジング",
+        "ヘアカットフィルター"
+      ],
+      "keywordsEn": [
+        "age face photo",
+        "age progression",
+        "generate lifelike age photos",
+        "old face filter",
+        "aging",
+        "haircut filter"
+      ],
+      "keywordsJa": [
+        "年齢顔写真",
+        "年齢進行",
+        "写実的な年齢写真生成",
+        "老顔フィルター",
+        "エイジング",
+        "ヘアカットフィルター"
+      ],
+      "keywordsKo": [
+        "나이 얼굴 사진",
+        "연령 진행",
+        "사실적인 연령 사진 생성",
+        "노화 필터",
+        "에이징",
+        "헤어컷 필터"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wngng3176"
     }
   ],
   "metadata": {
-    "totalCount": 471,
-    "lastUpdated": "2026-03-03",
+    "totalCount": 484,
+    "lastUpdated": "2026-04-23",
     "source": "Web research and official documentation",
     "categories": {
       "accessibility": "アクセシビリティ",
