@@ -20786,7 +20786,7 @@
     {
       "id": "photo-to-sketch",
       "addOnId": "w03m54841",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Photo to Sketch",
       "nameJa": "",
       "nameKo": "",
@@ -20834,7 +20834,7 @@
     {
       "id": "ai-poster-maker",
       "addOnId": "w106hlgl8",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Poster Maker",
       "nameJa": "",
       "nameKo": "",
@@ -20882,7 +20882,7 @@
     {
       "id": "realistic",
       "addOnId": "w239l4ji6",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Realistic",
       "nameJa": "",
       "nameKo": "",
@@ -20902,7 +20902,7 @@
     {
       "id": "invisible-watermark",
       "addOnId": "w31433mim",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Invisible Watermark",
       "nameJa": "",
       "nameKo": "",
@@ -20942,7 +20942,7 @@
     {
       "id": "carousel-ai",
       "addOnId": "w37k37392",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Carousel AI",
       "nameJa": "",
       "nameKo": "",
@@ -20990,7 +20990,7 @@
     {
       "id": "image-description",
       "addOnId": "w4h898kl6",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Image Description",
       "nameJa": "",
       "nameKo": "",
@@ -21030,7 +21030,7 @@
     {
       "id": "qr-code-ai-art-generator",
       "addOnId": "w7h6j9nh4",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "QR Code AI Art Generator",
       "nameJa": "",
       "nameKo": "",
@@ -21074,7 +21074,7 @@
     {
       "id": "gif-maker",
       "addOnId": "w9ni715n7",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "GIF Maker",
       "nameJa": "",
       "nameKo": "",
@@ -21126,7 +21126,7 @@
     {
       "id": "ai-coloring-page",
       "addOnId": "wggn7075h",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Coloring Page",
       "nameJa": "",
       "nameKo": "",
@@ -21146,7 +21146,7 @@
     {
       "id": "text-to-speech-oline",
       "addOnId": "wh71583jj",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Text to Speech Oline",
       "nameJa": "",
       "nameKo": "",
@@ -21198,7 +21198,7 @@
     {
       "id": "passport-photo",
       "addOnId": "wi14l4n48",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Passport Photo",
       "nameJa": "",
       "nameKo": "",
@@ -21238,7 +21238,7 @@
     {
       "id": "gender-swap-filter",
       "addOnId": "wm2g6i8h5",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Gender Swap Filter",
       "nameJa": "",
       "nameKo": "",
@@ -21282,7 +21282,7 @@
     {
       "id": "ai-age-filter",
       "addOnId": "wngng3176",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Age Filter",
       "nameJa": "",
       "nameKo": "",
@@ -21326,11 +21326,1333 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wngng3176"
+    },
+    {
+      "id": "bank-statement-convert",
+      "addOnId": "w0l2i089i",
+      "isNew": true,
+      "nameEn": "Bank Statement Convert",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Convert bank statements in image and PDF formats into editable form data, then add them to your designs, Sheets, and Docs. It supports bank statements from various banks and in different languages.",
+      "descriptionEn": "Convert bank statements in image and PDF formats into editable form data, then add them to your designs, Sheets, and Docs. It supports bank statements from various banks and in different languages.",
+      "descriptionJa": "銀行取引明細書の画像およびPDF形式をEditableフォーム データに変換し、デザイン、Sheets、Docsに追加できます。様々な銀行の取引明細書や複数言語に対応しています。",
+      "descriptionKo": "은행 거래명세서의 이미지 및 PDF 형식을 편집 가능한 양식 데이터로 변환하여 디자인, Sheets, Docs에 추가할 수 있습니다. 다양한 은행의 거래명세서와 여러 언어를 지원합니다.",
+      "keywords": [
+        "銀行明細変換",
+        "PDF銀行明細変換",
+        "銀行明細書変換"
+      ],
+      "keywordsEn": [
+        "bank statement converter",
+        "convert PDF bank statements",
+        "convert bank statements"
+      ],
+      "keywordsJa": [
+        "銀行明細変換",
+        "PDF銀行明細変換",
+        "銀行明細書変換"
+      ],
+      "keywordsKo": [
+        "은행명세 변환",
+        "PDF 은행명세 변환",
+        "은행명세 변환기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w0l2i089i"
+    },
+    {
+      "id": "connections-game",
+      "addOnId": "w12j0k114",
+      "isNew": true,
+      "nameEn": "Connections Game",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Input topic or teaching content to quickly generate Connections Game images for word learning. You need to divide the words into four groups of four and find the commonalities between them.",
+      "descriptionEn": "Input topic or teaching content to quickly generate Connections Game images for word learning. You need to divide the words into four groups of four and find the commonalities between them.",
+      "descriptionJa": "トピックまたは教育コンテンツを入力して、単語学習用のConnections Game画像をすばやく生成できます。4つのグループに分け、共通点を見つけるゲームです。",
+      "descriptionKo": "주제 또는 교육 콘텐츠를 입력하여 단어 학습을 위한 Connections Game 이미지를 빠르게 생성합니다. 단어를 4개씩 4개 그룹으로 나누어 공통점을 찾는 게임입니다.",
+      "keywords": [
+        "接続パズル",
+        "デイリー接続",
+        "単語接続ゲーム",
+        "接続",
+        "接続の答え"
+      ],
+      "keywordsEn": [
+        "connections puzzle",
+        "daily connections",
+        "word connections game",
+        "connections",
+        "connections answers"
+      ],
+      "keywordsJa": [
+        "接続パズル",
+        "デイリー接続",
+        "単語接続ゲーム",
+        "接続",
+        "接続の答え"
+      ],
+      "keywordsKo": [
+        "연결 퍼즐",
+        "일일 연결",
+        "단어 연결 게임",
+        "연결",
+        "연결 정답"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w12j0k114"
+    },
+    {
+      "id": "sudoku-puzzle-generator",
+      "addOnId": "w15mjk357",
+      "isNew": true,
+      "nameEn": "Sudoku Puzzle Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Quickly create sudoku images for teaching and learning, with different Sudoku types such as killer, Samurai, Super, and Classic, and different difficulty levels.",
+      "descriptionEn": "Quickly create sudoku images for teaching and learning, with different Sudoku types such as killer, Samurai, Super, and Classic, and different difficulty levels.",
+      "descriptionJa": "教学や学習用のスドク画像をすばやく作成できます。キラー、サムライ、スーパー、クラシックなど様々なタイプと難易度レベルに対応しています。",
+      "descriptionKo": "교육 및 학습용 스도쿠 이미지를 빠르게 생성합니다. 킬러, 사무라이, 슈퍼, 클래식 등 다양한 유형과 난이도 레벨을 지원합니다.",
+      "keywords": [
+        "スドク解法",
+        "スドクゲーム",
+        "スドク",
+        "数字ゲーム",
+        "スドク作成",
+        "スドク生成",
+        "AIスドク"
+      ],
+      "keywordsEn": [
+        "sudoku solver",
+        "sudoku game",
+        "sudoku",
+        "number games",
+        "sudoku maker",
+        "generate sudoku",
+        "ai sudoku",
+        "sudoku ai"
+      ],
+      "keywordsJa": [
+        "スドク解法",
+        "スドクゲーム",
+        "スドク",
+        "数字ゲーム",
+        "スドク作成",
+        "スドク生成",
+        "AIスドク"
+      ],
+      "keywordsKo": [
+        "스도쿠 해결",
+        "스도쿠 게임",
+        "스도쿠",
+        "숫자 게임",
+        "스도쿠 제작",
+        "스도쿠 생성",
+        "AI 스도쿠"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w15mjk357"
+    },
+    {
+      "id": "kenken-puzzle",
+      "addOnId": "w18ki49k3",
+      "isNew": true,
+      "nameEn": "Kenken Puzzle",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Generate KenKen math puzzles of varying difficulty to help children practice arithmetic, including addition, subtraction, multiplication, and division, thereby developing their logical thinking.",
+      "descriptionEn": "Generate KenKen math puzzles of varying difficulty to help children practice arithmetic, including addition, subtraction, multiplication, and division, thereby developing their logical thinking.",
+      "descriptionJa": "様々な難易度のKenKen数学パズルを生成し、加算、減算、乗算、除算を含む算数の練習を支援し、論理的思考力を養います。",
+      "descriptionKo": "다양한 난이도의 KenKen 수학 퍼즐을 생성하여 덧셈, 뺄셈, 곱셈, 나눗셈을 포함한 산술 연습을 지원하고 논리적 사고력을 개발합니다.",
+      "keywords": [
+        "KenKenゲーム",
+        "KenKen解法",
+        "数学パズル",
+        "数学ゲーム",
+        "数字ゲーム",
+        "教育ゲーム"
+      ],
+      "keywordsEn": [
+        "kenken games",
+        "kenken puzzle solver",
+        "math puzzles",
+        "math games",
+        "number games",
+        "educational games"
+      ],
+      "keywordsJa": [
+        "KenKenゲーム",
+        "KenKen解法",
+        "数学パズル",
+        "数学ゲーム",
+        "数字ゲーム",
+        "教育ゲーム"
+      ],
+      "keywordsKo": [
+        "KenKen 게임",
+        "KenKen 해결",
+        "수학 퍼즐",
+        "수학 게임",
+        "숫자 게임",
+        "교육 게임"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w18ki49k3"
+    },
+    {
+      "id": "jigsaw-puzzle",
+      "addOnId": "w2jnn1i0m",
+      "isNew": true,
+      "nameEn": "Jigsaw Puzzle",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Convert images into shuffled, broken puzzle pieces and add them to your designs to create fun jigsaw puzzles. Print them on paper, cut them out, and use them for children's jigsaw puzzle games.",
+      "descriptionEn": "Convert images into shuffled, broken puzzle pieces and add them to your designs to create fun jigsaw puzzles. Print them on paper, cut them out, and use them for children's jigsaw puzzle games.",
+      "descriptionJa": "画像をシャッフルされたパズルピースに変換してデザインに追加し、楽しいジグソーパズルを作成できます。印刷して切り抜き、子ども向けのジグソーパズルゲームに使用できます。",
+      "descriptionKo": "이미지를 섞인 퍼즐 조각으로 변환하여 디자인에 추가하여 재미있는 직소 퍼즐을 만들 수 있습니다. 인쇄하여 잘라내어 어린이 직소 퍼즐 게임에 사용할 수 있습니다.",
+      "keywords": [
+        "写真からパズル",
+        "ジグソーパズル作成",
+        "ジグソーエクスプローラ",
+        "ジグソーゲーム",
+        "ジグソーパズル"
+      ],
+      "keywordsEn": [
+        "photo to puzzle",
+        "jigsaw puzzle maker",
+        "jigsaw explorer",
+        "jigsaw game",
+        "jigsaw puzzles"
+      ],
+      "keywordsJa": [
+        "写真からパズル",
+        "ジグソーパズル作成",
+        "ジグソーエクスプローラ",
+        "ジグソーゲーム",
+        "ジグソーパズル"
+      ],
+      "keywordsKo": [
+        "사진을 퍼즐로",
+        "직소 퍼즐 제작",
+        "직소 탐험기",
+        "직소 게임",
+        "직소 퍼즐"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2jnn1i0m"
+    },
+    {
+      "id": "restore-old-photos",
+      "addOnId": "w3124hjik",
+      "isNew": true,
+      "nameEn": "Restore Old Photos",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Photo retouching and photo retouch, use ai photo fixer to repair scratches and damage, and reviving faded or black-and-white images with vibrant colors and sharp details.",
+      "descriptionEn": "Photo retouching and photo retouch, use ai photo fixer to repair scratches and damage, and reviving faded or black-and-white images with vibrant colors and sharp details.",
+      "descriptionJa": "写真のレタッチと修復。AI写真修復ツールで傷や損傷を修理し、褪せた白黒写真を鮮やかな色と鮮明な詳細で復活させます。",
+      "descriptionKo": "사진 보정 및 수정. AI 사진 수리 도구로 긁힘과 손상을 복구하고 褪せた 흑백 사진을 생생한 색상과 선명한 디테일로 되살립니다.",
+      "keywords": [
+        "写真復元",
+        "画像復元",
+        "写真復元",
+        "写真強化",
+        "カラー化",
+        "写真修復"
+      ],
+      "keywordsEn": [
+        "restore photo",
+        "restore image",
+        "photo restoration",
+        "enhance photo",
+        "colorize",
+        "repair photo"
+      ],
+      "keywordsJa": [
+        "写真復元",
+        "画像復元",
+        "写真復元",
+        "写真強化",
+        "カラー化",
+        "写真修復"
+      ],
+      "keywordsKo": [
+        "사진 복원",
+        "이미지 복원",
+        "사진 복원",
+        "사진 강화",
+        "컬러화",
+        "사진 수리"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3124hjik"
+    },
+    {
+      "id": "fantasy-map",
+      "addOnId": "w43l5883n",
+      "isNew": true,
+      "nameEn": "Fantasy Map",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Generate fantasy maps from text descriptions with AI. Choose world, region, city, or dungeon types in medieval, steampunk, or hand-drawn styles. Add maps directly to your design.",
+      "descriptionEn": "Generate fantasy maps from text descriptions with AI. Choose world, region, city, or dungeon types in medieval, steampunk, or hand-drawn styles. Add maps directly to your design.",
+      "descriptionJa": "テキスト説明からAIでファンタジーマップを生成できます。世界、地域、都市、ダンジョンタイプを中世、スチームパンク、手描きスタイルから選択し、デザインに直接追加できます。",
+      "descriptionKo": "텍스트 설명에서 AI로 판타지 지도를 생성합니다. 세계, 지역, 도시, 던전 유형을 중세, 스팀펑크, 손그림 스타일에서 선택하여 디자인에 직접 추가할 수 있습니다.",
+      "keywords": [
+        "地図生成",
+        "ファンタジー地図生成",
+        "地図作成",
+        "世界地図",
+        "仮想地図生成",
+        "AI地図",
+        "都市地図"
+      ],
+      "keywordsEn": [
+        "map generator",
+        "fantasy map generator",
+        "map maker",
+        "wold map",
+        "Virtual map generator",
+        "ai map",
+        "city map"
+      ],
+      "keywordsJa": [
+        "地図生成",
+        "ファンタジー地図生成",
+        "地図作成",
+        "世界地図",
+        "仮想地図生成",
+        "AI地図",
+        "都市地図"
+      ],
+      "keywordsKo": [
+        "지도 생성",
+        "판타지 지도 생성",
+        "지도 제작",
+        "세계 지도",
+        "가상 지도 생성",
+        "AI 지도",
+        "도시 지도"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w43l5883n"
+    },
+    {
+      "id": "crossword-puzzle",
+      "addOnId": "w53k282n8",
+      "isNew": true,
+      "nameEn": "Crossword Puzzle",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "This crossword maker supports text analysis. The crossword generator helps teachers. This crossword maker creates context clues. The crossword generator adjusts difficulty for grade levels.",
+      "descriptionEn": "This crossword maker supports text analysis. The crossword generator helps teachers. This crossword maker creates context clues. The crossword generator adjusts difficulty for grade levels.",
+      "descriptionJa": "テキスト分析に対応したクロスワードメーカーです。クロスワード生成ツールは教師をサポートし、文脈線索を含むクロスワードを作成し、学年に応じた難易度を調整します。",
+      "descriptionKo": "텍스트 분석을 지원하는 크로스워드 메이커입니다. 크로스워드 생성 도구는 교사를 지원하며, 문맥 단서를 포함한 크로스워드를 만들고 학년에 따른 난이도를 조정합니다.",
+      "keywords": [
+        "クロスワード作成",
+        "クロスワード生成",
+        "クロスワード生成",
+        "クロスワードゲーム",
+        "クロスワード解法"
+      ],
+      "keywordsEn": [
+        "crossword maker",
+        "crossword creator",
+        "crossword generator",
+        "crossword game",
+        "crossword solver"
+      ],
+      "keywordsJa": [
+        "クロスワード作成",
+        "クロスワード生成",
+        "クロスワード生成",
+        "クロスワードゲーム",
+        "クロスワード解法"
+      ],
+      "keywordsKo": [
+        "크로스워드 메이커",
+        "크로스워드 생성기",
+        "크로스워드 생성",
+        "크로스워드 게임",
+        "크로스워드 해결"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w53k282n8"
+    },
+    {
+      "id": "ai-chibi-photo",
+      "addOnId": "w5jl010ki",
+      "isNew": true,
+      "nameEn": "AI Chibi Photo",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn any photo into a cute Q-version 3D figurine in seconds. Upload a portrait, pet, or character and the AI reimagines it in a chibi style that fits stickers, avatars, prints, and merchandise mock-ups right inside your Express canvas.\nHow it works:\n\nUpload a photo from your design or device.\nPick one of seven chibi styles: Collectible, Q Version, Comics Chibi, Chibi Plush, 3D Chibi, Wooden Figurine, or Cinematic Chibi.\nGenerate a preview, then insert the result directly into your layout.\n\nKey features:\n\nSeven curated Q-version and chibi 3D styles\nFace and pose aware rendering for recognizable portraits\nCollectible and plush toy looks for merchandise mock-ups\nWooden figurine and cinematic styles for packaging and posters\nCredits-based generation with an optional unlimited subscription\n\nGreat for social media avatars, gift designs, pet portraits, kids' content, and product merchandise concepts.",
+      "descriptionEn": "Turn any photo into a cute Q-version 3D figurine in seconds. Upload a portrait, pet, or character and the AI reimagines it in a chibi style that fits stickers, avatars, prints, and merchandise mock-ups right inside your Express canvas.\nHow it works:\n\nUpload a photo from your design or device.\nPick one of seven chibi styles: Collectible, Q Version, Comics Chibi, Chibi Plush, 3D Chibi, Wooden Figurine, or Cinematic Chibi.\nGenerate a preview, then insert the result directly into your layout.\n\nKey features:\n\nSeven curated Q-version and chibi 3D styles\nFace and pose aware rendering for recognizable portraits\nCollectible and plush toy looks for merchandise mock-ups\nWooden figurine and cinematic styles for packaging and posters\nCredits-based generation with an optional unlimited subscription\n\nGreat for social media avatars, gift designs, pet portraits, kids' content, and product merchandise concepts.",
+      "descriptionJa": "任意の写真を数秒でかわいいQ版3D人形に変身させます。肖像画、ペット、キャラクターをアップロードすると、AIがそれをSticker、アバター、プリント、グッズモックアップに適したchibiスタイルに変換し、Express キャンバス内に直接挿入できます。",
+      "descriptionKo": "모든 사진을 몇 초 안에 귀여운 Q버전 3D 피규어로 변신시킵니다. 초상화, 반려동물, 캐릭터를 업로드하면 AI가 스티커, 아바타, 프린트, 상품 목업에 적합한 chibi 스타일로 변환하여 Express 캔버스에 직접 삽입할 수 있습니다.",
+      "keywords": [
+        "chibi人形",
+        "かわいいアバター",
+        "3Dアニメ",
+        "ぬいぐるみ",
+        "木製人形",
+        "かわいい",
+        "写真を3Dに"
+      ],
+      "keywordsEn": [
+        "chibi figure",
+        "cute avatar",
+        "3d cartoon",
+        "plush toy",
+        "wooden figurine",
+        "kawaii",
+        "photo to 3d"
+      ],
+      "keywordsJa": [
+        "chibi人形",
+        "かわいいアバター",
+        "3Dアニメ",
+        "ぬいぐるみ",
+        "木製人形",
+        "かわいい",
+        "写真を3Dに"
+      ],
+      "keywordsKo": [
+        "chibi 피규어",
+        "귀여운 아바타",
+        "3D 만화",
+        "플러시 장난감",
+        "목재 피규어",
+        "카와이",
+        "사진을 3D로"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w5jl010ki"
+    },
+    {
+      "id": "style-transfer",
+      "addOnId": "w65lg48il",
+      "isNew": true,
+      "nameEn": "Style Transfer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Upload or select an image from your design, then use AI to transform its style based on another image, transforming its colors, brushstrokes, and other visual styles.",
+      "descriptionEn": "Upload or select an image from your design, then use AI to transform its style based on another image, transforming its colors, brushstrokes, and other visual styles.",
+      "descriptionJa": "デザインから画像をアップロードまたは選択し、AIを使用して別の画像に基づいてスタイルを変換します。色、タッチ、その他の視覚的スタイルが変わります。",
+      "descriptionKo": "디자인에서 이미지를 업로드하거나 선택하고 AI를 사용하여 다른 이미지를 기반으로 스타일을 변환합니다. 색상, 브러시 스트로크 및 기타 시각적 스타일이 변경됩니다.",
+      "keywords": [
+        "AIスタイル転送",
+        "画像スタイル転送",
+        "画像の再스タイル化",
+        "画像スタイル変更",
+        "画像スタイル変換"
+      ],
+      "keywordsEn": [
+        "ai style transfer",
+        "image style transfer",
+        "restyle images",
+        "image style changer",
+        "image style converter"
+      ],
+      "keywordsJa": [
+        "AIスタイル転送",
+        "画像スタイル転送",
+        "画像の再스タイル化",
+        "画像スタイル変更",
+        "画像スタイル変換"
+      ],
+      "keywordsKo": [
+        "AI 스타일 전환",
+        "이미지 스타일 전환",
+        "이미지 재스타일화",
+        "이미지 스타일 변경",
+        "이미지 스타일 변환기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w65lg48il"
+    },
+    {
+      "id": "packaging-design",
+      "addOnId": "w70g775k9",
+      "isNew": true,
+      "nameEn": "Packaging Design",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Upload or select a product image from your designs, enter the product name, choose the packaging type and design style, and let AI design different styles of packaging boxes for you.",
+      "descriptionEn": "Upload or select a product image from your designs, enter the product name, choose the packaging type and design style, and let AI design different styles of packaging boxes for you.",
+      "descriptionJa": "デザインから商品画像をアップロードまたは選択し、商品名を入力し、パッケージングタイプとデザインスタイルを選択すると、AIが異なるスタイルのパッケージボックスをデザインします。",
+      "descriptionKo": "디자인에서 상품 이미지를 업로드하거나 선택하고 상품명을 입력하며 패키징 유형과 디자인 스타일을 선택하면 AI가 다양한 스타일의 패키징 상자를 디자인합니다.",
+      "keywords": [
+        "商品デザイン",
+        "AIデザイン",
+        "パッケージデザイン生成",
+        "ボックスデザイン",
+        "AIパッケージ",
+        "商品ボックス",
+        "モックアップ"
+      ],
+      "keywordsEn": [
+        "product design",
+        "ai design",
+        "packaging design generator",
+        "box design",
+        "ai packaging",
+        "product box",
+        "mockup"
+      ],
+      "keywordsJa": [
+        "商品デザイン",
+        "AIデザイン",
+        "パッケージデザイン生成",
+        "ボックスデザイン",
+        "AIパッケージ",
+        "商品ボックス",
+        "モックアップ"
+      ],
+      "keywordsKo": [
+        "상품 디자인",
+        "AI 디자인",
+        "패키징 디자인 생성기",
+        "박스 디자인",
+        "AI 패키징",
+        "상품 박스",
+        "목업"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w70g775k9"
+    },
+    {
+      "id": "ai-lesson-planner",
+      "addOnId": "w77mk6594",
+      "isNew": true,
+      "nameEn": "AI Lesson Planner",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Generate detailed lesson plans with AI. Input subjects and grades to receive structured curriculum outlines. Helps teachers organize activities and objectives directly in designs.",
+      "descriptionEn": "Generate detailed lesson plans with AI. Input subjects and grades to receive structured curriculum outlines. Helps teachers organize activities and objectives directly in designs.",
+      "descriptionJa": "AIで詳細な授業計画を生成できます。教科と学年を入力すると、構造化されたカリキュラムアウトラインを受け取ります。教師が活動と目標をデザイン内で直接整理するのに役立ちます。",
+      "descriptionKo": "AI로 상세한 수업 계획을 생성합니다. 교과목과 학년을 입력하면 구조화된 교육과정 개요를 받습니다. 교사가 활동과 목표를 디자인 내에서 직접 정리하는 데 도움이 됩니다.",
+      "keywords": [
+        "授業計画",
+        "AI授業計画生成",
+        "授業計画AI",
+        "教師向け授業計画",
+        "教師",
+        "教育"
+      ],
+      "keywordsEn": [
+        "lesson plan",
+        "ai lesson plan generator",
+        "lesson plan ai",
+        "teacher lesson plan",
+        "teachers",
+        "teaching"
+      ],
+      "keywordsJa": [
+        "授業計画",
+        "AI授業計画生成",
+        "授業計画AI",
+        "教師向け授業計画",
+        "教師",
+        "教育"
+      ],
+      "keywordsKo": [
+        "수업 계획",
+        "AI 수업 계획 생성기",
+        "수업 계획 AI",
+        "교사 수업 계획",
+        "교사",
+        "교육"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w77mk6594"
+    },
+    {
+      "id": "ai-clothes-changer",
+      "addOnId": "w9ik69m0j",
+      "isNew": true,
+      "nameEn": "AI Clothes Changer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Simply upload a photo of the person and an image of the garment to visualize how the person in the photo would look in the chosen outfit, providing guidance for shopping and everyday wear.",
+      "descriptionEn": "Simply upload a photo of the person and an image of the garment to visualize how the person in the photo would look in the chosen outfit, providing guidance for shopping and everyday wear.",
+      "descriptionJa": "人物の写真と衣服の画像をアップロードするだけで、その人がその衣装でどのように見えるかを視覚化でき、ショッピングや日常着の選択に役立ちます。",
+      "descriptionKo": "사람의 사진과 의류 이미지를 업로드하면 그 사람이 선택한 옷을 입었을 때 어떻게 보일지 시각화하여 쇼핑 및 일상복 선택에 도움이 됩니다.",
+      "keywords": [
+        "バーチャル試着",
+        "衣服変更",
+        "衣服を変更",
+        "衣装を変更",
+        "衣服を変更",
+        "仮想試着オンライン"
+      ],
+      "keywordsEn": [
+        "virtual try on",
+        "clothes changer",
+        "change clothes",
+        "change dresses",
+        "changing clothes",
+        "virtual fitting online"
+      ],
+      "keywordsJa": [
+        "バーチャル試着",
+        "衣服変更",
+        "衣服を変更",
+        "衣装を変更",
+        "衣服を変更",
+        "仮想試着オンライン"
+      ],
+      "keywordsKo": [
+        "가상 피팅",
+        "옷 변경",
+        "옷 바꾸기",
+        "드레스 변경",
+        "옷 입기",
+        "온라인 가상 피팅"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w9ik69m0j"
+    },
+    {
+      "id": "ai-homework-helper",
+      "addOnId": "wg42l972h",
+      "isNew": true,
+      "nameEn": "AI Homework Helper",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Simply upload or select a homework image from your design, and AI Homework Helper can quickly complete the answer writing, making homework easier.",
+      "descriptionEn": "Simply upload or select a homework image from your design, and AI Homework Helper can quickly complete the answer writing, making homework easier.",
+      "descriptionJa": "デザインから宿題画像をアップロードまたは選択するだけで、AI宿題ヘルパーが答えを素早く完成させ、宿題を簡単にします。",
+      "descriptionKo": "디자인에서 숙제 이미지를 업로드하거나 선택하기만 하면 AI 숙제 도우미가 답안을 빠르게 작성하여 숙제를 쉽게 합니다.",
+      "keywords": [
+        "宿題AI",
+        "宿題の答え",
+        "宿題解法",
+        "数学宿題ヘルパー",
+        "ChatGPT宿題"
+      ],
+      "keywordsEn": [
+        "homework ai",
+        "homework answers",
+        "homework solver",
+        "math homework helper",
+        "chatgpt homework"
+      ],
+      "keywordsJa": [
+        "宿題AI",
+        "宿題の答え",
+        "宿題解法",
+        "数学宿題ヘルパー",
+        "ChatGPT宿題"
+      ],
+      "keywordsKo": [
+        "숙제 AI",
+        "숙제 답",
+        "숙제 해결",
+        "수학 숙제 도우미",
+        "ChatGPT 숙제"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg42l972h"
+    },
+    {
+      "id": "live-polls-maker",
+      "addOnId": "wg5m83gjm",
+      "isNew": true,
+      "nameEn": "Live Polls Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Add interactive polls to your design, allowing users to vote by scanning a QR code or participating in real-time online voting, collecting feedback and creative ideas from your target customers.",
+      "descriptionEn": "Add interactive polls to your design, allowing users to vote by scanning a QR code or participating in real-time online voting, collecting feedback and creative ideas from your target customers.",
+      "descriptionJa": "デザインにインタラクティブなポーリングを追加し、ユーザーがQRコードをスキャンするか、リアルタイムオンライン投票に参加して投票でき、ターゲット顧客からのフィードバックや創造的なアイデアを収集できます。",
+      "descriptionKo": "디자인에 인터랙티브한 설문을 추가하여 사용자가 QR 코드를 스캔하거나 실시간 온라인 투표에 참여하여 투표할 수 있으며, 대상 고객으로부터 피드백과 창의적 아이디어를 수집할 수 있습니다.",
+      "keywords": [
+        "ライブ投票",
+        "投票作成",
+        "インタラクティブ投票",
+        "インタラクティブエクスペリエンス",
+        "インタラクティブ投票作成"
+      ],
+      "keywordsEn": [
+        "live polling",
+        "poll maker",
+        "interactive polls",
+        "interactive experiences",
+        "create interactive polls"
+      ],
+      "keywordsJa": [
+        "ライブ投票",
+        "投票作成",
+        "インタラクティブ投票",
+        "インタラクティブエクスペリエンス",
+        "インタラクティブ投票作成"
+      ],
+      "keywordsKo": [
+        "라이브 투표",
+        "투표 제작",
+        "인터랙티브 투표",
+        "인터랙티브 경험",
+        "인터랙티브 투표 생성"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg5m83gjm"
+    },
+    {
+      "id": "threedee",
+      "addOnId": "wg6l8g222",
+      "isNew": true,
+      "nameEn": "ThreeDee",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "We make the most extensive 3D libraries in the world. All of these libraries work together so that you can easily combine them. All of them have a lot of combinations & variations that you can use for your branding. \n\nWe aim to provide the easiest solution for using 3D immediately in your projects and designs.",
+      "descriptionEn": "We make the most extensive 3D libraries in the world. All of these libraries work together so that you can easily combine them. All of them have a lot of combinations & variations that you can use for your branding. \n\nWe aim to provide the easiest solution for using 3D immediately in your projects and designs.",
+      "descriptionJa": "世界最大規模の3Dライブラリを提供しています。すべてのライブラリは連携しており、簡単に組み合わせることができます。ブランディングに使用できる多くの組み合わせとバリエーションがあります。プロジェクトとデザインで3Dをすぐに使用できる最も簡単なソリューションの提供を目指しています。",
+      "descriptionKo": "세계 최대 규모의 3D 라이브러리를 제공합니다. 모든 라이브러리는 함께 작동하므로 쉽게 결합할 수 있습니다. 브랜딩에 사용할 수 있는 많은 조합 및 변형이 있습니다. 프로젝트와 디자인에서 3D를 즉시 사용할 수 있는 가장 쉬운 솔루션을 제공하는 것을 목표로 합니다.",
+      "keywords": [
+        "漫画",
+        "キャラクター",
+        "アバター",
+        "イラスト",
+        "かわいい",
+        "かわいい",
+        "手",
+        "ジェスチャー",
+        "モックアップ",
+        "iPhone",
+        "モバイル"
+      ],
+      "keywordsEn": [
+        "cartoon",
+        "character",
+        "avatar",
+        "illustrations",
+        "cute",
+        "kawaii",
+        "hand",
+        "gestures",
+        "mockup",
+        "iphhone",
+        "mobile"
+      ],
+      "keywordsJa": [
+        "漫画",
+        "キャラクター",
+        "アバター",
+        "イラスト",
+        "かわいい",
+        "かわいい",
+        "手",
+        "ジェスチャー",
+        "モックアップ",
+        "iPhone",
+        "モバイル"
+      ],
+      "keywordsKo": [
+        "만화",
+        "캐릭터",
+        "아바타",
+        "일러스트레이션",
+        "귀여운",
+        "카와이",
+        "손",
+        "제스처",
+        "목업",
+        "iPhone",
+        "모바일"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg6l8g222"
+    },
+    {
+      "id": "ai-bald-filter",
+      "addOnId": "wgl157477",
+      "isNew": true,
+      "nameEn": "AI Bald Filter",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Use AI Bald Filter to remove hair easily. The feature supports skin blending to create realistic bald looks. Suitable for social media pranks. Transform styles with AI.",
+      "descriptionEn": "Use AI Bald Filter to remove hair easily. The feature supports skin blending to create realistic bald looks. Suitable for social media pranks. Transform styles with AI.",
+      "descriptionJa": "AI禿げフィルターを使用して髪を簡単に削除します。肌をなじませる機能をサポートしており、リアルな禿げ頭の外観を作成できます。SNS用のプランクに最適です。AIでスタイルを変換できます。",
+      "descriptionKo": "AI 대머리 필터를 사용하여 머리를 쉽게 제거합니다. 피부 블렌딩 기능을 지원하여 현실적인 대머리 모양을 만들 수 있습니다. 소셜 미디어 장난에 적합합니다. AI로 스타일을 변환할 수 있습니다.",
+      "keywords": [
+        "禿げフィルター",
+        "禿げにする",
+        "禿げ写真エディター",
+        "禿げ頭フィルター",
+        "写真から髪を削除"
+      ],
+      "keywordsEn": [
+        "bald filter",
+        "make me bald",
+        "bald photo editor",
+        "bald head filter",
+        "remover hair from photo"
+      ],
+      "keywordsJa": [
+        "禿げフィルター",
+        "禿げにする",
+        "禿げ写真エディター",
+        "禿げ頭フィルター",
+        "写真から髪を削除"
+      ],
+      "keywordsKo": [
+        "대머리 필터",
+        "대머리 만들기",
+        "대머리 사진 편집기",
+        "대머리 필터",
+        "사진에서 머리 제거"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgl157477"
+    },
+    {
+      "id": "fika-clip-title-gen",
+      "addOnId": "wh40i067g",
+      "isNew": true,
+      "nameEn": "Fika Clip Title Gen",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Our add‑on helps creators produce better video titles in seconds. Upload your current project, and the add‑on uses AI to suggest multiple trendy, high‑performing title ideas tailored to your content. You can refine results with optional context, include viral references or trending keywords, and quickly regenerate variations when you want a different tone. Each suggestion can be copied with one click or inserted directly into your design. The add‑on streamlines the entire workflow from analysis to final text, so you can focus on content quality while boosting reach, clicks, and engagement across platforms.",
+      "descriptionEn": "Our add‑on helps creators produce better video titles in seconds. Upload your current project, and the add‑on uses AI to suggest multiple trendy, high‑performing title ideas tailored to your content. You can refine results with optional context, include viral references or trending keywords, and quickly regenerate variations when you want a different tone. Each suggestion can be copied with one click or inserted directly into your design. The add‑on streamlines the entire workflow from analysis to final text, so you can focus on content quality while boosting reach, clicks, and engagement across platforms.",
+      "descriptionJa": "このアドオンはクリエイターが数秒でより良いビデオタイトルを制作できるよう支援します。現在のプロジェクトをアップロードすると、このアドオンはAIを使用してコンテンツに合わせたトレンディーで高パフォーマンスのタイトルアイデアを複数提案します。オプションでコンテキストを追加してバイラルリファレンスやトレンドキーワードを含め、別のトーンが必要な場合は素早く変更できます。各提案はワンクリックでコピーするか、デザインに直接挿入できます。このアドオンは分析から最終テキストまでのワークフロー全体を効率化し、コンテンツの品質に専念しながら全プラットフォームのリーチ、クリック数、エンゲージメントを高めることができます。",
+      "descriptionKo": "이 애드온은 크리에이터가 몇 초 안에 더 나은 동영상 제목을 만들 수 있도록 도와줍니다. 현재 프로젝트를 업로드하면 이 애드온은 AI를 사용하여 콘텐츠에 맞춘 트렌디하고 고성능 제목 아이디어를 여러 개 제안합니다. 선택적으로 맥락을 추가하여 바이러스성 참고자료나 트렌드 키워드를 포함하고, 다른 톤이 필요한 경우 빠르게 변경할 수 있습니다. 각 제안은 한 번의 클릭으로 복사하거나 디자인에 직접 삽입할 수 있습니다. 이 애드온은 분석부터 최종 텍스트까지 전체 워크플로우를 간소화하여 콘텐츠 품질에 집중하면서 모든 플랫폼에서 도달 범위, 클릭, 참여도를 높일 수 있습니다.",
+      "keywords": [
+        "トレンディータイトル",
+        "バイラルタイトル",
+        "fikaclip",
+        "生成AI"
+      ],
+      "keywordsEn": [
+        "trendytitle",
+        "viraltitle",
+        "fikaclip",
+        "generativeAI"
+      ],
+      "keywordsJa": [
+        "トレンディータイトル",
+        "バイラルタイトル",
+        "fikaclip",
+        "生成AI"
+      ],
+      "keywordsKo": [
+        "트렌디 제목",
+        "바이러스 제목",
+        "fikaclip",
+        "생성형 AI"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wh40i067g"
+    },
+    {
+      "id": "word-search-maker",
+      "addOnId": "whj647848",
+      "isNew": true,
+      "nameEn": "Word Search Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create word search puzzles with built-in vocabulary themes. Pick from animals, holidays, science, sports, food and geography. Customize grid size and difficulty. Supports multilingual translations.",
+      "descriptionEn": "Create word search puzzles with built-in vocabulary themes. Pick from animals, holidays, science, sports, food and geography. Customize grid size and difficulty. Supports multilingual translations.",
+      "descriptionJa": "組み込みの語彙テーマを使用してワード検索パズルを作成できます。動物、休日、科学、スポーツ、食べ物、地理から選択できます。グリッドサイズと難易度をカスタマイズでき、多言語翻訳に対応しています。",
+      "descriptionKo": "내장된 어휘 주제로 단어 검색 퍼즐을 만들 수 있습니다. 동물, 휴일, 과학, 스포츠, 음식, 지리에서 선택할 수 있습니다. 그리드 크기와 난이도를 사용자 정의하고 다국어 번역을 지원합니다.",
+      "keywords": [
+        "単語検索パズル",
+        "単語検索生成",
+        "単語検索",
+        "単語検索ゲーム",
+        "単語形成",
+        "単語を検索"
+      ],
+      "keywordsEn": [
+        "word search puzzle",
+        "word search generator",
+        "word find",
+        "word search game",
+        "word formation",
+        "find the words"
+      ],
+      "keywordsJa": [
+        "単語検索パズル",
+        "単語検索生成",
+        "単語検索",
+        "単語検索ゲーム",
+        "単語形成",
+        "単語を検索"
+      ],
+      "keywordsKo": [
+        "단어 검색 퍼즐",
+        "단어 검색 생성기",
+        "단어 찾기",
+        "단어 검색 게임",
+        "단어 형성",
+        "단어 찾기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=whj647848"
+    },
+    {
+      "id": "line-art-colorizer",
+      "addOnId": "wi79nn4kn",
+      "isNew": true,
+      "nameEn": "Line Art Colorizer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn any line art or sketch into a fully colored illustration right inside your Express design. Upload a line drawing, manga panel, or blank coloring page, and the AI fills it in with clean, style-appropriate colors — ready to drop onto your canvas.\nHow it works:\n\nUpload a line art image from your design or device.\nOptionally describe the color palette or mood you want.\nGenerate the colored illustration and insert the result into your layout.\n\nKey features:\n\nAuto-coloring for line art, sketches, manga panels, and coloring pages\nPreserves original line work while filling clean color underneath\nOptional prompt to steer palette, lighting, and mood\nHigh-resolution output suitable for print and social posts\nCredits-based generation with an optional unlimited subscription\n\nGreat for comic creators, illustrators, educators, classroom coloring activities, zines, greeting cards, and social content that needs finished artwork in minutes.",
+      "descriptionEn": "Turn any line art or sketch into a fully colored illustration right inside your Express design. Upload a line drawing, manga panel, or blank coloring page, and the AI fills it in with clean, style-appropriate colors — ready to drop onto your canvas.\nHow it works:\n\nUpload a line art image from your design or device.\nOptionally describe the color palette or mood you want.\nGenerate the colored illustration and insert the result into your layout.\n\nKey features:\n\nAuto-coloring for line art, sketches, manga panels, and coloring pages\nPreserves original line work while filling clean color underneath\nOptional prompt to steer palette, lighting, and mood\nHigh-resolution output suitable for print and social posts\nCredits-based generation with an optional unlimited subscription\n\nGreat for comic creators, illustrators, educators, classroom coloring activities, zines, greeting cards, and social content that needs finished artwork in minutes.",
+      "descriptionJa": "ラインアートやスケッチをExpress デザイン内で完全にカラフルなイラストに変換できます。ラインドローイング、漫画パネル、ぬりえページをアップロードすると、AIがきれいで、スタイルに適した色で塗りつぶし、キャンバスに配置できる状態にします。",
+      "descriptionKo": "라인 아트나 스케치를 Express 디자인 내에서 완전히 칠해진 일러스트레이션으로 변환할 수 있습니다. 라인 드로잉, 만화 패널, 색칠하기 페이지를 업로드하면 AI가 깔끔하고 스타일에 맞는 색으로 채워 캔버스에 배치할 수 있는 상태로 만듭니다.",
+      "keywords": [
+        "スケッチ色付け",
+        "ぬりえページ",
+        "漫画色付け",
+        "自動色付け",
+        "ラインアート",
+        "アニメ",
+        "インク描画"
+      ],
+      "keywordsEn": [
+        "sketch color",
+        "coloring page",
+        "manga color",
+        "auto colorize",
+        "lineart",
+        "anime",
+        "inked drawing"
+      ],
+      "keywordsJa": [
+        "スケッチ色付け",
+        "ぬりえページ",
+        "漫画色付け",
+        "自動色付け",
+        "ラインアート",
+        "アニメ",
+        "インク描画"
+      ],
+      "keywordsKo": [
+        "스케치 색칠",
+        "색칠 페이지",
+        "만화 색칠",
+        "자동 색칠",
+        "라인 아트",
+        "애니메",
+        "잉크 드로잉"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wi79nn4kn"
+    },
+    {
+      "id": "ai-font-generator",
+      "addOnId": "wj02069m4",
+      "isNew": true,
+      "nameEn": "AI Font Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Generate custom fonts and font style with AI font design tool. Create stunning, unique typography for any design project. Easily transform text and styles to enhance branding and visual identity.",
+      "descriptionEn": "Generate custom fonts and font style with AI font design tool. Create stunning, unique typography for any design project. Easily transform text and styles to enhance branding and visual identity.",
+      "descriptionJa": "AI フォントデザインツールでカスタムフォントとフォントスタイルを生成します。あらゆるデザインプロジェクトに向けた印象的でユニークなタイポグラフィを作成し、テキストとスタイルを簡単に変形させてブランディングとビジュアルアイデンティティを強化します。",
+      "descriptionKo": "AI 폰트 디자인 도구로 맞춤형 폰트와 폰트 스타일을 생성합니다. 모든 디자인 프로젝트를 위한 인상적이고 독특한 타이포그래피를 만들고, 텍스트와 스타일을 쉽게 변형하여 브랜드와 시각적 아이덴티티를 강화합니다.",
+      "keywords": [
+        "AI フォントメーカー",
+        "AI フォントスタイル",
+        "AI フォント",
+        "AI テキスト効果",
+        "AI テキストアート生成",
+        "AI フォントベクトル"
+      ],
+      "keywordsEn": [
+        "ai font maker",
+        "ai font style",
+        "ai font",
+        "ai fonts",
+        "ai text effect",
+        "ai text art generator",
+        "ai font vectors"
+      ],
+      "keywordsJa": [
+        "AI フォントメーカー",
+        "AI フォントスタイル",
+        "AI フォント",
+        "AI テキスト効果",
+        "AI テキストアート生成",
+        "AI フォントベクトル"
+      ],
+      "keywordsKo": [
+        "AI 폰트 메이커",
+        "AI 폰트 스타일",
+        "AI 폰트",
+        "AI 텍스트 효과",
+        "AI 텍스트 아트 생성",
+        "AI 폰트 벡터"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj02069m4"
+    },
+    {
+      "id": "dither-lab",
+      "addOnId": "wj219i423",
+      "isNew": true,
+      "nameEn": "Dither Lab",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn any image into pixel-perfect dithered art, right inside.\n\nDither Lab gives you the lo-fi look from indie album covers, riso prints, zines, and retro game art. Drop an image, pick an algorithm and palette, tweak the sliders, and click Add to design.     \n                                                                                                                                                 \nALGORITHMS                                                                                             \n  • Floyd-Steinberg — classic organic dither\n  • Atkinson — high-contrast Mac aesthetic\n  • Bayer 4×4 — clean ordered crosshatch                                                                                                                                    \n  • Halftone — newspaper-style dot pattern\n\n No account. No subscription. Free forever. No catch.",
+      "descriptionEn": "Turn any image into pixel-perfect dithered art, right inside.\n\nDither Lab gives you the lo-fi look from indie album covers, riso prints, zines, and retro game art. Drop an image, pick an algorithm and palette, tweak the sliders, and click Add to design.     \n                                                                                                                                                 \nALGORITHMS                                                                                             \n  • Floyd-Steinberg — classic organic dither\n  • Atkinson — high-contrast Mac aesthetic\n  • Bayer 4×4 — clean ordered crosshatch                                                                                                                                    \n  • Halftone — newspaper-style dot pattern\n\n No account. No subscription. Free forever. No catch.",
+      "descriptionJa": "任意の画像をピクセルパーフェクトなディザアートに変換します。Dither Lab は、インディーズアルバムカバー、リソグラフプリント、同人誌、レトログゲームアートのような lo-fi な雰囲気を実現します。画像をドロップしてアルゴリズムとパレットを選択し、スライダーを調整して、デザインに追加するだけです。\n\nアルゴリズム：Floyd-Steinberg（クラシックなオーガニックディザ）、Atkinson（高コントラストな Mac 美学）、Bayer 4×4（クリーンな順序付きクロスハッチ）、Halftone（新聞風ドットパターン）\n\nアカウント不要。サブスクリプション不要。永久無料です。",
+      "descriptionKo": "모든 이미지를 픽셀 퍼펙트한 디더 아트로 변환합니다. Dither Lab은 인디 앨범 커버, 리소그래프 인쇄, 동인지, 레트로 게임 아트의 lo-fi 감성을 구현합니다. 이미지를 드롭하고 알고리즘과 팔레트를 선택한 후 슬라이더를 조정하고 디자인에 추가하면 됩니다.\n\n알고리즘: Floyd-Steinberg(클래식 유기 디더), Atkinson(고명도 Mac 미학), Bayer 4×4(깔끔한 정렬 크로스해칭), Halftone(신문식 도트 패턴)\n\n계정 불필요. 구독 불필요. 영구 무료입니다.",
+      "keywords": [
+        "ディザー",
+        "ピクセルアート",
+        "ハーフトーン",
+        "レトロ",
+        "8ビット",
+        "リソグラフ",
+        "ピクセル化",
+        "ビンテージ",
+        "モノクロ",
+        "lo-fi"
+      ],
+      "keywordsEn": [
+        "Dither",
+        "pixel art",
+        "halftone",
+        "retro",
+        "8-bit",
+        "risograph",
+        "pixelate",
+        "vintage",
+        "monochrome",
+        "lo-fi"
+      ],
+      "keywordsJa": [
+        "ディザー",
+        "ピクセルアート",
+        "ハーフトーン",
+        "レトロ",
+        "8ビット",
+        "リソグラフ",
+        "ピクセル化",
+        "ビンテージ",
+        "モノクロ",
+        "lo-fi"
+      ],
+      "keywordsKo": [
+        "디더",
+        "픽셀 아트",
+        "하프톤",
+        "레트로",
+        "8비트",
+        "리소그래프",
+        "픽셀화",
+        "빈티지",
+        "흑백",
+        "lo-fi"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj219i423"
+    },
+    {
+      "id": "handwriting-maker",
+      "addOnId": "wj5m46321",
+      "isNew": true,
+      "nameEn": "Handwriting Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Through handwriting, convert text into notes. This tool supports paper choice for handwritten notes. Suitable for students used for assignments. Handwriting styles help finish notes.",
+      "descriptionEn": "Through handwriting, convert text into notes. This tool supports paper choice for handwritten notes. Suitable for students used for assignments. Handwriting styles help finish notes.",
+      "descriptionJa": "テキストを手書きノートに変換します。このツールは手書きノート用の紙選択をサポートしており、課題作成に適しています。手書きスタイルはノート作成を完成させるのに役立ちます。",
+      "descriptionKo": "텍스트를 손글씨 노트로 변환합니다. 이 도구는 손글씨 노트용 종이 선택을 지원하며, 과제 작성에 적합합니다. 손글씨 스타일은 노트 작성을 완성하는 데 도움이 됩니다.",
+      "keywords": [
+        "手書きフォント",
+        "手書き認識",
+        "手書き",
+        "手書き文字",
+        "AI ノート",
+        "手書き生成",
+        "手書き AI"
+      ],
+      "keywordsEn": [
+        "handwriting font",
+        "handwriting to text",
+        "handwrite",
+        "handwritten",
+        "ai notes",
+        "handwrite generator",
+        "handwrite ai"
+      ],
+      "keywordsJa": [
+        "手書きフォント",
+        "手書き認識",
+        "手書き",
+        "手書き文字",
+        "AI ノート",
+        "手書き生成",
+        "手書き AI"
+      ],
+      "keywordsKo": [
+        "손글씨 폰트",
+        "손글씨 인식",
+        "손글씨 쓰기",
+        "손글씨 텍스트",
+        "AI 노트",
+        "손글씨 생성",
+        "손글씨 AI"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj5m46321"
+    },
+    {
+      "id": "maze-puzzle-generator",
+      "addOnId": "wlh755h1l",
+      "isNew": true,
+      "nameEn": "Maze Puzzle Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Choose different categories, themes, and levels of difficulty to generate fun path exploration maze images for children's intellectual development, improving cognitive and exploratory abilities.",
+      "descriptionEn": "Choose different categories, themes, and levels of difficulty to generate fun path exploration maze images for children's intellectual development, improving cognitive and exploratory abilities.",
+      "descriptionJa": "さまざまなカテゴリ、テーマ、難易度を選択して、子どもの知的発達を促す楽しい経路探索迷路画像を生成し、認知能力と探究能力を向上させます。",
+      "descriptionKo": "다양한 카테고리, 테마, 난이도를 선택하여 아이들의 지적 발달을 촉진하는 재미있는 경로 탐색 미로 이미지를 생성하고, 인지 능력과 탐험 능력을 향상시킵니다.",
+      "keywords": [
+        "経路探索",
+        "迷路ゲーム",
+        "迷路生成",
+        "パズル生成",
+        "パズルゲーム",
+        "パズル作成",
+        "パズルテンプレート"
+      ],
+      "keywordsEn": [
+        "Path Finding",
+        "maze game",
+        "maze generator",
+        "puzzle generator",
+        "puzzle games",
+        "puzzle creator",
+        "puzzle templates"
+      ],
+      "keywordsJa": [
+        "経路探索",
+        "迷路ゲーム",
+        "迷路生成",
+        "パズル生成",
+        "パズルゲーム",
+        "パズル作成",
+        "パズルテンプレート"
+      ],
+      "keywordsKo": [
+        "경로 찾기",
+        "미로 게임",
+        "미로 생성기",
+        "퍼즐 생성기",
+        "퍼즐 게임",
+        "퍼즐 제작",
+        "퍼즐 템플릿"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wlh755h1l"
+    },
+    {
+      "id": "ai-music-generator",
+      "addOnId": "wm6i76m03",
+      "isNew": true,
+      "nameEn": "AI Music Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Generate music and songs from text prompts with AI Song Generator. Customize music style, add lyrics or titles, and effortlessly create full songs or pure instrumental tracks tailored to your needs.",
+      "descriptionEn": "Generate music and songs from text prompts with AI Song Generator. Customize music style, add lyrics or titles, and effortlessly create full songs or pure instrumental tracks tailored to your needs.",
+      "descriptionJa": "AI Song Generator でテキストプロンプトから音楽と歌曲を生成します。音楽スタイルをカスタマイズしたり、歌詞やタイトルを追加したりして、ニーズに合わせた完全な楽曲や純粋なインストルメンタルトラックを簡単に作成できます。",
+      "descriptionKo": "AI Song Generator로 텍스트 프롬프트에서 음악과 노래를 생성합니다. 음악 스타일을 커스터마이징하고 가사나 제목을 추가하여 필요에 맞는 완전한 곡이나 순수 인스트루멘탈 트랙을 쉽게 만들 수 있습니다.",
+      "keywords": [
+        "AI 音楽",
+        "音楽メーカー",
+        "音楽クリエーター",
+        "音楽 AI",
+        "Suno AI 音楽",
+        "Udio AI 音楽",
+        "AI 曲生成",
+        "曲メーカー"
+      ],
+      "keywordsEn": [
+        "ai music",
+        "music maker",
+        "music creator",
+        "music ai",
+        "suno ai music",
+        "udio ai music",
+        "ai song generator",
+        "song maker"
+      ],
+      "keywordsJa": [
+        "AI 音楽",
+        "音楽メーカー",
+        "音楽クリエーター",
+        "音楽 AI",
+        "Suno AI 音楽",
+        "Udio AI 音楽",
+        "AI 曲生成",
+        "曲メーカー"
+      ],
+      "keywordsKo": [
+        "AI 음악",
+        "음악 메이커",
+        "음악 크리에이터",
+        "음악 AI",
+        "Suno AI 음악",
+        "Udio AI 음악",
+        "AI 노래 생성기",
+        "곡 제작"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm6i76m03"
+    },
+    {
+      "id": "ai-flashcard-maker",
+      "addOnId": "wn327m413",
+      "isNew": true,
+      "nameEn": "AI Flashcard Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Use AI to quickly generate flashcards. You only need to enter a simple text prompt, and AI can quickly produce various exquisite flashcards for the education and teaching of children and teenagers.",
+      "descriptionEn": "Use AI to quickly generate flashcards. You only need to enter a simple text prompt, and AI can quickly produce various exquisite flashcards for the education and teaching of children and teenagers.",
+      "descriptionJa": "AI を使用してフラッシュカードを素早く生成します。簡単なテキストプロンプトを入力するだけで、AI は子どもや10代の教育と学習に適した、さまざまな精巧なフラッシュカードを迅速に作成できます。",
+      "descriptionKo": "AI를 사용하여 플래시카드를 빠르게 생성합니다. 간단한 텍스트 프롬프트를 입력하면 AI가 어린이와 청소년 교육을 위한 다양한 정교한 플래시카드를 빠르게 만들 수 있습니다.",
+      "keywords": [
+        "AI フラッシュカード生成",
+        "フラッシュカード AI",
+        "フラッシュカード単語",
+        "フラッシュカード生成",
+        "AI でフラッシュカード作成"
+      ],
+      "keywordsEn": [
+        "ai flashcard generator",
+        "flashcards ai",
+        "flashcards word",
+        "flashcard generator",
+        "create flashcards with ai"
+      ],
+      "keywordsJa": [
+        "AI フラッシュカード生成",
+        "フラッシュカード AI",
+        "フラッシュカード単語",
+        "フラッシュカード生成",
+        "AI でフラッシュカード作成"
+      ],
+      "keywordsKo": [
+        "AI 플래시카드 생성기",
+        "플래시카드 AI",
+        "플래시카드 단어",
+        "플래시카드 생성기",
+        "AI로 플래시카드 만들기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn327m413"
+    },
+    {
+      "id": "word-scramble",
+      "addOnId": "wnjh0038k",
+      "isNew": true,
+      "nameEn": "Word Scramble",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "By scrambling the letters of words, generate worksheets for English vocabulary learning and quizzes, thereby reinforcing word learning and memory.",
+      "descriptionEn": "By scrambling the letters of words, generate worksheets for English vocabulary learning and quizzes, thereby reinforcing word learning and memory.",
+      "descriptionJa": "単語の文字をスクランブルして、英単語学習とクイズのワークシートを生成し、単語学習と記憶を強化します。",
+      "descriptionKo": "단어의 글자를 섞어서 영어 어휘 학습과 퀴즈용 워크시트를 생성하여 단어 학습과 기억을 강화합니다.",
+      "keywords": [
+        "単語スクランブル",
+        "ワークシート",
+        "単語スクランブル生成",
+        "単語アンスクランブル",
+        "単語検索",
+        "パズル",
+        "単語ファインダー"
+      ],
+      "keywordsEn": [
+        "word scrambler",
+        "worksheets",
+        "word scramble generator",
+        "word unscrambler",
+        "find words",
+        "puzzle",
+        "word finder"
+      ],
+      "keywordsJa": [
+        "単語スクランブル",
+        "ワークシート",
+        "単語スクランブル生成",
+        "単語アンスクランブル",
+        "単語検索",
+        "パズル",
+        "単語ファインダー"
+      ],
+      "keywordsKo": [
+        "단어 섞기",
+        "워크시트",
+        "단어 스크램블 생성기",
+        "단어 풀기",
+        "단어 찾기",
+        "퍼즐",
+        "단어 파인더"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wnjh0038k"
     }
   ],
   "metadata": {
-    "totalCount": 484,
-    "lastUpdated": "2026-04-23",
+    "totalCount": 511,
+    "lastUpdated": "2026-05-02",
     "source": "Web research and official documentation",
     "categories": {
       "accessibility": "アクセシビリティ",
