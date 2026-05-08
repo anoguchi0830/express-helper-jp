@@ -21330,7 +21330,7 @@
     {
       "id": "bank-statement-convert",
       "addOnId": "w0l2i089i",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Bank Statement Convert",
       "nameJa": "",
       "nameKo": "",
@@ -21366,7 +21366,7 @@
     {
       "id": "connections-game",
       "addOnId": "w12j0k114",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Connections Game",
       "nameJa": "",
       "nameKo": "",
@@ -21410,7 +21410,7 @@
     {
       "id": "sudoku-puzzle-generator",
       "addOnId": "w15mjk357",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Sudoku Puzzle Generator",
       "nameJa": "",
       "nameKo": "",
@@ -21463,7 +21463,7 @@
     {
       "id": "kenken-puzzle",
       "addOnId": "w18ki49k3",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Kenken Puzzle",
       "nameJa": "",
       "nameKo": "",
@@ -21511,7 +21511,7 @@
     {
       "id": "jigsaw-puzzle",
       "addOnId": "w2jnn1i0m",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Jigsaw Puzzle",
       "nameJa": "",
       "nameKo": "",
@@ -21555,7 +21555,7 @@
     {
       "id": "restore-old-photos",
       "addOnId": "w3124hjik",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Restore Old Photos",
       "nameJa": "",
       "nameKo": "",
@@ -21603,7 +21603,7 @@
     {
       "id": "fantasy-map",
       "addOnId": "w43l5883n",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Fantasy Map",
       "nameJa": "",
       "nameKo": "",
@@ -21655,7 +21655,7 @@
     {
       "id": "crossword-puzzle",
       "addOnId": "w53k282n8",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Crossword Puzzle",
       "nameJa": "",
       "nameKo": "",
@@ -21699,7 +21699,7 @@
     {
       "id": "ai-chibi-photo",
       "addOnId": "w5jl010ki",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Chibi Photo",
       "nameJa": "",
       "nameKo": "",
@@ -21751,7 +21751,7 @@
     {
       "id": "style-transfer",
       "addOnId": "w65lg48il",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Style Transfer",
       "nameJa": "",
       "nameKo": "",
@@ -21795,7 +21795,7 @@
     {
       "id": "packaging-design",
       "addOnId": "w70g775k9",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Packaging Design",
       "nameJa": "",
       "nameKo": "",
@@ -21847,7 +21847,7 @@
     {
       "id": "ai-lesson-planner",
       "addOnId": "w77mk6594",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Lesson Planner",
       "nameJa": "",
       "nameKo": "",
@@ -21895,7 +21895,7 @@
     {
       "id": "ai-clothes-changer",
       "addOnId": "w9ik69m0j",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Clothes Changer",
       "nameJa": "",
       "nameKo": "",
@@ -21943,7 +21943,7 @@
     {
       "id": "ai-homework-helper",
       "addOnId": "wg42l972h",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Homework Helper",
       "nameJa": "",
       "nameKo": "",
@@ -21987,7 +21987,7 @@
     {
       "id": "live-polls-maker",
       "addOnId": "wg5m83gjm",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Live Polls Maker",
       "nameJa": "",
       "nameKo": "",
@@ -22031,7 +22031,7 @@
     {
       "id": "threedee",
       "addOnId": "wg6l8g222",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "ThreeDee",
       "nameJa": "",
       "nameKo": "",
@@ -22099,7 +22099,7 @@
     {
       "id": "ai-bald-filter",
       "addOnId": "wgl157477",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Bald Filter",
       "nameJa": "",
       "nameKo": "",
@@ -22143,7 +22143,7 @@
     {
       "id": "fika-clip-title-gen",
       "addOnId": "wh40i067g",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Fika Clip Title Gen",
       "nameJa": "",
       "nameKo": "",
@@ -22183,7 +22183,7 @@
     {
       "id": "word-search-maker",
       "addOnId": "whj647848",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Word Search Maker",
       "nameJa": "",
       "nameKo": "",
@@ -22231,7 +22231,7 @@
     {
       "id": "line-art-colorizer",
       "addOnId": "wi79nn4kn",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Line Art Colorizer",
       "nameJa": "",
       "nameKo": "",
@@ -22283,7 +22283,7 @@
     {
       "id": "ai-font-generator",
       "addOnId": "wj02069m4",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Font Generator",
       "nameJa": "",
       "nameKo": "",
@@ -22332,7 +22332,7 @@
     {
       "id": "dither-lab",
       "addOnId": "wj219i423",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Dither Lab",
       "nameJa": "",
       "nameKo": "",
@@ -22396,7 +22396,7 @@
     {
       "id": "handwriting-maker",
       "addOnId": "wj5m46321",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Handwriting Maker",
       "nameJa": "",
       "nameKo": "",
@@ -22448,7 +22448,7 @@
     {
       "id": "maze-puzzle-generator",
       "addOnId": "wlh755h1l",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Maze Puzzle Generator",
       "nameJa": "",
       "nameKo": "",
@@ -22500,7 +22500,7 @@
     {
       "id": "ai-music-generator",
       "addOnId": "wm6i76m03",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Music Generator",
       "nameJa": "",
       "nameKo": "",
@@ -22556,7 +22556,7 @@
     {
       "id": "ai-flashcard-maker",
       "addOnId": "wn327m413",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Flashcard Maker",
       "nameJa": "",
       "nameKo": "",
@@ -22600,7 +22600,7 @@
     {
       "id": "word-scramble",
       "addOnId": "wnjh0038k",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Word Scramble",
       "nameJa": "",
       "nameKo": "",
@@ -22648,11 +22648,401 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wnjh0038k"
+    },
+    {
+      "id": "no-beard-filter",
+      "addOnId": "w27146867",
+      "isNew": true,
+      "nameEn": "No Beard Filter",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Instantly remove facial hair to reveal a clean-shaven look. This AI tool clears beards, mustaches, and stubble from portraits. Perfect for checking a new style or fun photos.",
+      "descriptionEn": "Instantly remove facial hair to reveal a clean-shaven look. This AI tool clears beards, mustaches, and stubble from portraits. Perfect for checking a new style or fun photos.",
+      "descriptionJa": "AIを使って顔のひげを一瞬で削除し、きれいに整った見た目を実現します。ひげ、口ひげ、うぶ毛をポートレートから削除。新しいスタイルの確認や楽しい写真加工に最適です。",
+      "descriptionKo": "AI를 사용하여 수염을 즉시 제거하고 깔끔한 면도 모습을 드러냅니다. 초상화에서 수염, 콧수염, 그리고 수염 자국을 제거합니다. 새로운 스타일을 시도해보거나 재미있는 사진을 만드는 데 완벽합니다.",
+      "keywords": [
+        "写真から髭を除去",
+        "髭除去ツール",
+        "髭除去フィルター",
+        "髭なしフィルター",
+        "きれいに整ったフィルター"
+      ],
+      "keywordsEn": [
+        "remove beard from photo",
+        "beard remover",
+        "remove beard filter",
+        "beardless filter",
+        "clean shaven filter"
+      ],
+      "keywordsJa": [
+        "写真から髭を除去",
+        "髭除去ツール",
+        "髭除去フィルター",
+        "髭なしフィルター",
+        "きれいに整ったフィルター"
+      ],
+      "keywordsKo": [
+        "사진에서 수염 제거",
+        "수염 제거기",
+        "수염 제거 필터",
+        "수염 없는 필터",
+        "면도한 필터"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w27146867"
+    },
+    {
+      "id": "codewords-game",
+      "addOnId": "w2h5h6lkg",
+      "isNew": true,
+      "nameEn": "Codewords Game",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Codewords Game consists of 25 randomly generated words, played between two teams, red and blue. The first team to solve all the words wins. If one team discovers a \"bomb\" word, the other team wins.",
+      "descriptionEn": "Codewords Game consists of 25 randomly generated words, played between two teams, red and blue. The first team to solve all the words wins. If one team discovers a \"bomb\" word, the other team wins.",
+      "descriptionJa": "コードワーズゲームは、赤と青の2チームで対戦する25個のランダムに生成されたワードパズルです。すべてのワードを解いたチームが勝利します。もし「爆弾」ワードを発見すると、相手チームが勝ちになります。",
+      "descriptionKo": "코드워즈 게임은 빨간색과 파란색 두 팀이 플레이하는 25개의 무작위로 생성된 단어로 구성됩니다. 모든 단어를 푸는 첫 번째 팀이 우승합니다. 한 팀이 \"폭탄\" 단어를 발견하면 상대 팀이 우승합니다.",
+      "keywords": [
+        "コードワーズ",
+        "コードワーズパズル",
+        "コードワーズソルバー",
+        "コードワーズAI",
+        "コードワード",
+        "ワードパズル"
+      ],
+      "keywordsEn": [
+        "codewords",
+        "codewords puzzle",
+        "codewords solver",
+        "codewords ai",
+        "codeword",
+        "code word",
+        "word puzzle"
+      ],
+      "keywordsJa": [
+        "コードワーズ",
+        "コードワーズパズル",
+        "コードワーズソルバー",
+        "コードワーズAI",
+        "コードワード",
+        "ワードパズル"
+      ],
+      "keywordsKo": [
+        "코드워즈",
+        "코드워즈 퍼즐",
+        "코드워즈 솔버",
+        "코드워즈 AI",
+        "코드워드",
+        "단어 퍼즐"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2h5h6lkg"
+    },
+    {
+      "id": "direct-mail-ads",
+      "addOnId": "w3603n1mi",
+      "isNew": true,
+      "nameEn": "Direct Mail Ads",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "This add-on is provided by Deloitte Consulting LLP to create mailers sent via USPS. For questions or support, contact Deloitte Consulting LLP using the support link provided.\n\nBring your designs to life—directly in your audience’s mailbox.\n\nEasily upload USPS-compliant mailpieces, import targeted mailing lists, schedule delivery windows, and finalize print orders in one streamlined platform.\n\nBy integrating with trusted printers, this add-on helps ensure consistent print quality and reliable mailing so campaigns reach the right recipients at the right time. Simplify omnichannel marketing and boost brand visibility with every mailing.\n\nKey features:\n- Choose from USPS-compliant mailpiece templates\n- Upload your mailing list\n- Schedule your campaign delivery window\n- Track delivery status\n\nThe USPS Corporate Signature is a trademark of the United States Postal Service and is used with permission.",
+      "descriptionEn": "This add-on is provided by Deloitte Consulting LLP to create mailers sent via USPS. For questions or support, contact Deloitte Consulting LLP using the support link provided.\n\nBring your designs to life—directly in your audience’s mailbox.\n\nEasily upload USPS-compliant mailpieces, import targeted mailing lists, schedule delivery windows, and finalize print orders in one streamlined platform.\n\nBy integrating with trusted printers, this add-on helps ensure consistent print quality and reliable mailing so campaigns reach the right recipients at the right time. Simplify omnichannel marketing and boost brand visibility with every mailing.\n\nKey features:\n- Choose from USPS-compliant mailpiece templates\n- Upload your mailing list\n- Schedule your campaign delivery window\n- Track delivery status\n\nThe USPS Corporate Signature is a trademark of the United States Postal Service and is used with permission.",
+      "descriptionJa": "Deloitte Consulting LLPが提供するアドオンで、USPSを通じて送付するダイレクトメールを作成できます。ご質問やサポートについては、提供されたサポートリンクからDeloitte Consulting LLPにお問い合わせください。\n\nあなたのデザインを実現し、顧客のメールボックスに直接届けます。\n\nUSPS対応のメール用テンプレートを簡単にアップロードでき、ターゲットリストのインポート、配送スケジュールの設定、印刷注文の確定をすべて一つのプラットフォームで行えます。\n\n信頼できる印刷業者と連携することで、このアドオンは一貫した印刷品質と確実なメール配送を実現し、キャンペーンが適切なタイミングで正しい受信者に届くようにサポートします。オムニチャネルマーケティングを簡素化し、毎回のメール配送でブランド認知を高めます。\n\n主な機能:\n- USPS対応のメール用テンプレートから選択\n- メーリングリストをアップロード\n- キャンペーン配送期間をスケジュール\n- 配送状況を追跡\n\nUSPS Corporate SignatureはUnited States Postal Serviceの商標であり、許可を得て使用しています。",
+      "descriptionKo": "Deloitte Consulting LLP가 제공하는 애드온으로 USPS를 통해 전송되는 다이렉트 메일을 작성할 수 있습니다. 질문이나 지원이 필요하면 제공된 지원 링크를 통해 Deloitte Consulting LLP에 문의하세요.\n\n당신의 디자인을 현실로 만들고 고객의 사서함으로 직접 전달합니다.\n\nUSPS 규격 우편물 템플릿을 쉽게 업로드하고, 대상 메일링 리스트를 가져오며, 배송 시간을 예약하고, 인쇄 주문을 확정할 수 있습니다.\n\n신뢰할 수 있는 인쇄업체와 연동하여 일관된 인쇄 품질과 안정적인 우편 배송을 보장하여 캠페인이 올바른 시간에 올바른 수신자에게 도달하도록 합니다. 옴니채널 마케팅을 단순화하고 매번의 우편 배송으로 브랜드 가시성을 높입니다.\n\n주요 기능:\n- USPS 규격 우편물 템플릿 선택\n- 메일링 리스트 업로드\n- 캠페인 배송 기간 예약\n- 배송 상태 추적\n\nUSPS Corporate Signature는 United States Postal Service의 상표이며 허가하에 사용됩니다.",
+      "keywords": [
+        "ダイレクトメール",
+        "메일캠페이ン",
+        "中小企業マーケティング",
+        "広告",
+        "印刷・メール配送"
+      ],
+      "keywordsEn": [
+        "direct mail",
+        "mail campaign",
+        "small business marketing",
+        "advertising",
+        "print and mail"
+      ],
+      "keywordsJa": [
+        "ダイレクトメール",
+        "메일캠페이ン",
+        "中小企業マーケティング",
+        "広告",
+        "印刷・メール配送"
+      ],
+      "keywordsKo": [
+        "다이렉트 메일",
+        "메일 캠페인",
+        "소상공인 마케팅",
+        "광고",
+        "인쇄 및 우편"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3603n1mi"
+    },
+    {
+      "id": "global-storyboard",
+      "addOnId": "w3k2nm42l",
+      "isNew": true,
+      "nameEn": "Global Storyboard",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Global Storyboard is an AI-powered add-on that helps users quickly generate structured storyboards for videos, ads, and creative projects directly inside Adobe Express.\n\nInstead of manually planning scenes, users can simply enter an idea or concept, and the add-on automatically creates a step-by-step storyboard with scene descriptions, visual directions, and creative flow.\n\nThis helps creators:\n\nSave time on planning\nTurn ideas into structured content instantly\nImprove storytelling for videos, ads, and social media\n\nGlobal Storyboard is designed for content creators, marketers, and designers who want a fast and simple way to visualize their ideas without complex tools.",
+      "descriptionEn": "Global Storyboard is an AI-powered add-on that helps users quickly generate structured storyboards for videos, ads, and creative projects directly inside Adobe Express.\n\nInstead of manually planning scenes, users can simply enter an idea or concept, and the add-on automatically creates a step-by-step storyboard with scene descriptions, visual directions, and creative flow.\n\nThis helps creators:\n\nSave time on planning\nTurn ideas into structured content instantly\nImprove storytelling for videos, ads, and social media\n\nGlobal Storyboard is designed for content creators, marketers, and designers who want a fast and simple way to visualize their ideas without complex tools.",
+      "descriptionJa": "Global StoryboardはAI搭載のアドオンで、Adobe Express内で動画、広告、クリエイティブプロジェクト用の構造化されたストーリーボードを素早く生成できます。\n\nシーンを手動で計画する代わりに、アイデアやコンセプトを入力すると、アドオンが自動的にシーン説明、ビジュアルディレクション、クリエイティブフローを含むステップバイステップのストーリーボードを作成します。\n\nこれにより、クリエイターができることは:\n\n計画時間の短縮\nアイデアを即座に構造化されたコンテンツに変換\n動画、広告、ソーシャルメディア向けのストーリーテリングを向上\n\nGlobal Storyboardは、複雑なツールなしにアイデアを可視化したいコンテンツクリエイター、マーケター、デザイナーのための設計です。",
+      "descriptionKo": "Global Storyboard는 AI 기반 애드온으로 Adobe Express 내에서 비디오, 광고 및 창의적 프로젝트용 구조화된 스토리보드를 빠르게 생성할 수 있습니다.\n\n장면을 수동으로 계획하는 대신 아이디어나 개념을 입력하면 애드온이 자동으로 장면 설명, 시각적 방향 및 창의적 흐름을 포함한 단계별 스토리보드를 생성합니다.\n\n이를 통해 크리에이터는 다음을 수행할 수 있습니다:\n\n계획 시간 절약\n아이디어를 즉시 구조화된 콘텐츠로 변환\n비디오, 광고 및 소셜 미디어를 위한 스토리텔링 개선\n\nGlobal Storyboard는 복잡한 도구 없이 아이디어를 시각화하고 싶어하는 콘텐츠 크리에이터, 마케터 및 디자이너를 위해 설계되었습니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3k2nm42l"
+    },
+    {
+      "id": "face-cutout",
+      "addOnId": "w48m9im06",
+      "isNew": true,
+      "nameEn": "Face Cutout",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Detect faces in any photo and extract them as clean cutouts you can drop straight into your Express design. Upload a portrait or group photo and get a cropped face with a transparent background, ready for avatars, ID photos, stickers, and profile pictures.\n﻿\nHow it works:\n﻿\nUpload a photo from your design or device.\nThe add-on detects faces automatically.\nGenerate the cutout and insert the result into your layout.\nKey features:\n﻿\nAutomatic face detection for single portraits and group photos\nClean edge extraction with transparent background\nWorks on selfies, headshots, and candid shots\nCredits-based generation with an optional unlimited subscription\nGreat for profile pictures, team pages, ID photos, stickers, greeting cards, and any design that needs a focused face crop without manual masking.",
+      "descriptionEn": "Detect faces in any photo and extract them as clean cutouts you can drop straight into your Express design. Upload a portrait or group photo and get a cropped face with a transparent background, ready for avatars, ID photos, stickers, and profile pictures.\n﻿\nHow it works:\n﻿\nUpload a photo from your design or device.\nThe add-on detects faces automatically.\nGenerate the cutout and insert the result into your layout.\nKey features:\n﻿\nAutomatic face detection for single portraits and group photos\nClean edge extraction with transparent background\nWorks on selfies, headshots, and candid shots\nCredits-based generation with an optional unlimited subscription\nGreat for profile pictures, team pages, ID photos, stickers, greeting cards, and any design that needs a focused face crop without manual masking.",
+      "descriptionJa": "任意の写真内の顔を検出し、Express デザインに直接挿入できるクリーンなカットアウトとして抽出します。ポートレートや集合写真をアップロードすると、透明背景付きのカットアウト顔が得られ、アバター、証明写真、ステッカー、プロフィール画像に利用できます。\n\n使い方:\n\nデザインまたはデバイスから写真をアップロードします。\nアドオンが自動的に顔を検出します。\nカットアウトを生成し、結果をレイアウトに挿入します。\n主な機能:\n\n単一のポートレートと集合写真の自動顔検出\n透明背景付きのクリーンな端の抽出\nセルフィー、ヘッドショット、キャンディッドショットに対応\nクレジットベースの生成とオプションの無制限サブスクリプション\nプロフィール画像、チームページ、証明写真、ステッカー、グリーティングカード、手動でマスキングなしで顔をトリミングする必要があるデザインに最適です。",
+      "descriptionKo": "모든 사진에서 얼굴을 감지하고 Adobe Express 디자인에 직접 드롭할 수 있는 깔끔한 컷아웃으로 추출합니다. 초상화나 단체 사진을 업로드하면 투명 배경이 있는 얼굴 컷아웃을 받으며, 아바타, 신분증 사진, 스티커, 프로필 사진에 사용할 수 있습니다.\n\n작동 원리:\n\n디자인이나 기기에서 사진을 업로드합니다.\n애드온이 자동으로 얼굴을 감지합니다.\n컷아웃을 생성하고 결과를 레이아웃에 삽입합니다.\n주요 기능:\n\n단일 초상화 및 단체 사진의 자동 얼굴 감지\n투명 배경이 있는 깔끔한 가장자리 추출\n셀카, 헤드샷 및 캔디드 샷에 적합\n크레딧 기반 생성 및 선택적 무제한 구독\n프로필 사진, 팀 페이지, 신분증 사진, 스티커, 인사장 및 수동 마스킹 없이 얼굴을 집중적으로 자르는 디자인에 최적입니다.",
+      "keywords": [
+        "顔クロップ",
+        "ポートレートカットアウト",
+        "ヘッドショット",
+        "プロフィール写真",
+        "顔を分離",
+        "透明PNG",
+        "証明写真"
+      ],
+      "keywordsEn": [
+        "face crop",
+        "portrait cutout",
+        "headshot",
+        "profile photo",
+        "isolate face",
+        "transparent png",
+        "id photo"
+      ],
+      "keywordsJa": [
+        "顔クロップ",
+        "ポートレートカットアウト",
+        "ヘッドショット",
+        "プロフィール写真",
+        "顔を分離",
+        "透明PNG",
+        "証明写真"
+      ],
+      "keywordsKo": [
+        "얼굴 자르기",
+        "초상화 컷아웃",
+        "헤드샷",
+        "프로필 사진",
+        "얼굴 분리",
+        "투명 PNG",
+        "신분증 사진"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w48m9im06"
+    },
+    {
+      "id": "stencil-maker",
+      "addOnId": "w7nj8i036",
+      "isNew": true,
+      "nameEn": "Stencil Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn photos into stencil art with AI. Upload an image and choose different stencil style. Create clean black and white stencil designs for painting, wood working, stained glass, and other art.",
+      "descriptionEn": "Turn photos into stencil art with AI. Upload an image and choose different stencil style. Create clean black and white stencil designs for painting, wood working, stained glass, and other art.",
+      "descriptionJa": "AIを使って写真をステンシルアートに変換します。画像をアップロードして、異なるステンシルスタイルを選択します。塗装、木工、ステンドグラス、その他のアート用のクリーンな黒と白のステンシルデザインを作成します。",
+      "descriptionKo": "AI를 사용하여 사진을 스텐실 아트로 변환합니다. 이미지를 업로드하고 다양한 스텐실 스타일을 선택합니다. 페인팅, 목공, 스테인드 글래스 및 기타 미술 작업을 위한 깔끔한 흑백 스텐실 디자인을 만듭니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w7nj8i036"
+    },
+    {
+      "id": "cultural-intelligence",
+      "addOnId": "w984n7655",
+      "isNew": true,
+      "nameEn": "Cultural Intelligence",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create content that connects across cultures—instantly.\n\nCultural AI Intelligence helps you design smarter, more inclusive, and globally relevant content using AI-powered insights. Whether you're creating social posts, ads, or presentations, this add-on analyzes cultural norms, values, and preferences to ensure your content resonates with the right audience.\n\n What you can do:\n\n Understand your target audience by region and culture\n Get AI-driven insights on tone, visuals, and messaging\n Adapt your designs to fit different cultural contexts\n Review cultural alignment with real-time feedback\n Create globally impactful content with confidence\n\nFrom local campaigns to global branding, Cultural AI Intelligence ensures your content is respectful, relevant, and effective everywhere.",
+      "descriptionEn": "Create content that connects across cultures—instantly.\n\nCultural AI Intelligence helps you design smarter, more inclusive, and globally relevant content using AI-powered insights. Whether you're creating social posts, ads, or presentations, this add-on analyzes cultural norms, values, and preferences to ensure your content resonates with the right audience.\n\n What you can do:\n\n Understand your target audience by region and culture\n Get AI-driven insights on tone, visuals, and messaging\n Adapt your designs to fit different cultural contexts\n Review cultural alignment with real-time feedback\n Create globally impactful content with confidence\n\nFrom local campaigns to global branding, Cultural AI Intelligence ensures your content is respectful, relevant, and effective everywhere.",
+      "descriptionJa": "文化を超えたコンテンツを素早く作成します。\n\nCultural AI Intelligenceは、AI搭載のインサイトを使用して、より賢く、インクルーシブで、グローバルに関連性の高いコンテンツをデザインするのに役立ちます。ソーシャルポスト、広告、プレゼンテーションを作成する場合でも、このアドオンは文化的規範、価値観、嗜好を分析し、コンテンツが適切なオーディエンスに響くようにします。\n\nできることは:\n\n地域と文化別にターゲットオーディエンスを理解する\nトーン、ビジュアル、メッセージに関するAI駆動のインサイトを取得\nデザインを異なる文化的背景に適応させる\nリアルタイムフィードバックで文化的調和を確認\n自信を持ってグローバルにインパクトのあるコンテンツを作成\n\nローカルキャンペーンからグローバルブランディングまで、Cultural AI Intelligenceは、どこでもコンテンツが敬意深く、関連性があり、効果的であることを保証します。",
+      "descriptionKo": "문화를 초월한 콘텐츠를 즉시 만듭니다.\n\nCultural AI Intelligence는 AI 기반 인사이트를 사용하여 더 스마트하고 포용적이며 전 세계적으로 관련성 높은 콘텐츠를 디자인하는 데 도움을 줍니다. 소셜 포스트, 광고 또는 프레젠테이션을 만드는 경우, 이 애드온은 문화적 규범, 가치관 및 선호도를 분석하여 콘텐츠가 올바른 오디언스에게 공감을 불러일으키도록 합니다.\n\n할 수 있는 일:\n\n지역 및 문화별로 대상 오디언스 이해\n톤, 비주얼 및 메시징에 대한 AI 기반 인사이트 얻기\n다양한 문화적 배경에 맞게 디자인 조정\n실시간 피드백으로 문화적 조화 검토\n자신감 있게 전 세계적으로 영향력 있는 콘텐츠 만들기\n\n로컬 캠페인부터 글로벌 브랜딩까지, Cultural AI Intelligence는 콘텐츠가 어디서나 존중받고 관련성 있고 효과적임을 보장합니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w984n7655"
+    },
+    {
+      "id": "random-user-generator",
+      "addOnId": "wj5596375",
+      "isNew": true,
+      "nameEn": "Random User Generator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Random User Generator lets you instantly create realistic, fictional user profiles for designs, mockups, and creative projects in Adobe Express.\nGenerate complete placeholder users with profile photos, names, emails, phone numbers, locations, and personal details — all using safe, fake data. This tool is perfect for UI and UX mockups, resumes, profile cards, dashboards, presentations, and templates where real personal data should not be used.\nDesigners and creators can quickly add believable user information to layouts, saving time and making designs look more polished and realistic. Every generated profile is fictional and intended only for design, testing, and demonstration purposes.\nWhether you’re building app screens, showcasing concepts, creating educational content, or designing templates, Random User Generator helps you work faster and more confidently with professional-looking placeholder users.",
+      "descriptionEn": "Random User Generator lets you instantly create realistic, fictional user profiles for designs, mockups, and creative projects in Adobe Express.\nGenerate complete placeholder users with profile photos, names, emails, phone numbers, locations, and personal details — all using safe, fake data. This tool is perfect for UI and UX mockups, resumes, profile cards, dashboards, presentations, and templates where real personal data should not be used.\nDesigners and creators can quickly add believable user information to layouts, saving time and making designs look more polished and realistic. Every generated profile is fictional and intended only for design, testing, and demonstration purposes.\nWhether you’re building app screens, showcasing concepts, creating educational content, or designing templates, Random User Generator helps you work faster and more confidently with professional-looking placeholder users.",
+      "descriptionJa": "Random User Generatorを使用すると、Adobe Express内のデザイン、モックアップ、クリエイティブプロジェクト用にリアルな架空のユーザープロフィールを即座に作成できます。\nプロフィール写真、名前、メール、電話番号、住所、個人情報を含む完全なプレースホルダーユーザーを生成します。すべて安全な架空データを使用します。このツールはUIおよびUXモックアップ、履歴書、プロフィールカード、ダッシュボード、プレゼンテーション、実際の個人情報を使用すべきテンプレートに最適です。\nデザイナーとクリエイターは、レイアウトに信頼性の高いユーザー情報を素早く追加でき、時間を節約しデザインをより洗練されたリアルな外観にします。生成されたすべてのプロフィールは架空であり、設計、テスト、デモンストレーション目的でのみ使用されることを想定しています。\nアプリ画面の構築、コンセプト展示、教育コンテンツの作成、またはテンプレート設計など、Random User Generatorはプロフェッショナルなプレースホルダーユーザーでより速く、自信を持って作業するのに役立ちます。",
+      "descriptionKo": "Random User Generator를 사용하면 Adobe Express 내의 디자인, 목업 및 창의적 프로젝트를 위해 즉시 현실적인 가상 사용자 프로필을 만들 수 있습니다.\n프로필 사진, 이름, 이메일, 전화번호, 위치 및 개인 정보를 포함한 완전한 플레이스홀더 사용자를 생성합니다. 모두 안전한 가짜 데이터를 사용합니다. 이 도구는 UI 및 UX 목업, 이력서, 프로필 카드, 대시보드, 프레젠테이션 및 실제 개인 데이터를 사용하지 않아야 하는 템플릿에 완벽합니다.\n디자이너와 크리에이터는 레이아웃에 신뢰할 수 있는 사용자 정보를 빠르게 추가하고 시간을 절약하며 더 세련되고 현실적인 외관의 디자인을 만들 수 있습니다. 생성된 모든 프로필은 가상이며 설계, 테스트 및 시연 목적으로만 사용됩니다.\n앱 화면 구축, 개념 전시, 교육 콘텐츠 작성 또는 템플릿 디자인 등 Random User Generator는 전문가 수준의 플레이스홀더 사용자로 더 빠르고 자신감 있게 작업하는 데 도움이 됩니다.",
+      "keywords": [
+        "ランダムユーザー",
+        "架空ユーザー",
+        "ダミーユーザー",
+        "モックユーザーデータ",
+        "架空のアイデンティティ",
+        "アバタープロフィール",
+        "架空プロフィール"
+      ],
+      "keywordsEn": [
+        "random user",
+        "fake user",
+        "dummy user",
+        "mock user data",
+        "fake identity",
+        "avatar profile",
+        "fake profile"
+      ],
+      "keywordsJa": [
+        "ランダムユーザー",
+        "架空ユーザー",
+        "ダミーユーザー",
+        "モックユーザーデータ",
+        "架空のアイデンティティ",
+        "アバタープロフィール",
+        "架空プロフィール"
+      ],
+      "keywordsKo": [
+        "무작위 사용자",
+        "가짜 사용자",
+        "더미 사용자",
+        "모의 사용자 데이터",
+        "가짜 신원",
+        "아바타 프로필",
+        "가짜 프로필"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj5596375"
+    },
+    {
+      "id": "sharepoint",
+      "addOnId": "wjnl8496g",
+      "isNew": true,
+      "nameEn": "SharePoint",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Add assets from SharePoint straight into your Adobe Express project, then send your creative assets back to SharePoint.\n\nNote: This add-on is provided by Adobe for the purposes of connecting to your Microsoft SharePoint account. As a user, you are subject to the terms and privacy policies of both Adobe and Microsoft.\n\nFor support, contact Adobe using the support link provided.",
+      "descriptionEn": "Add assets from SharePoint straight into your Adobe Express project, then send your creative assets back to SharePoint.\n\nNote: This add-on is provided by Adobe for the purposes of connecting to your Microsoft SharePoint account. As a user, you are subject to the terms and privacy policies of both Adobe and Microsoft.\n\nFor support, contact Adobe using the support link provided.",
+      "descriptionJa": "SharePointのアセットを直接Adobe Expressプロジェクトに追加し、クリエイティブアセットをSharePointに送り返すことができます。\n\n注意: このアドオンはAdobeが提供しており、Microsoft SharePointアカウントに接続する目的で使用されます。ユーザーとして、AdobeとMicrosoftの両方の利用規約およびプライバシーポリシーが適用されます。\n\nサポートについては、提供されたサポートリンクを使用してAdobeにお問い合わせください。",
+      "descriptionKo": "SharePoint의 자산을 Adobe Express 프로젝트에 직접 추가한 다음 창의적 자산을 SharePoint로 다시 보낼 수 있습니다.\n\n참고: 이 애드온은 Microsoft SharePoint 계정에 연결하기 위해 Adobe에서 제공합니다. 사용자로서 귀하는 Adobe 및 Microsoft의 약관 및 개인정보 보호정책을 준수해야 합니다.\n\n지원을 받으려면 제공된 지원 링크를 사용하여 Adobe에 문의하세요.",
+      "keywords": [
+        "SharePoint",
+        "스토리지",
+        "파일",
+        "파일",
+        "폴더",
+        "폴더",
+        "Microsoft"
+      ],
+      "keywordsEn": [
+        "SharePoint",
+        "storage",
+        "file",
+        "files",
+        "folder",
+        "folders",
+        "Microsoft"
+      ],
+      "keywordsJa": [
+        "SharePoint",
+        "스토리지",
+        "파일",
+        "파일",
+        "폴더",
+        "폴더",
+        "Microsoft"
+      ],
+      "keywordsKo": [
+        "SharePoint",
+        "스토리지",
+        "파일",
+        "파일",
+        "폴더",
+        "폴더",
+        "Microsoft"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wjnl8496g"
+    },
+    {
+      "id": "fitai-for-adobe-express",
+      "addOnId": "wl893g287",
+      "isNew": true,
+      "nameEn": "FitAI for Adobe Express",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "FitAI for Adobe Express enables realistic virtual try-on using advanced AI. Upload your photo and a clothing image to instantly see how the outfit looks on you.\n\nThe system is designed to preserve your face, pose, and background while only modifying the clothing, ensuring natural and accurate results.\n\nIdeal for creators, designers, and anyone looking to visualize outfits quickly and easily.",
+      "descriptionEn": "FitAI for Adobe Express enables realistic virtual try-on using advanced AI. Upload your photo and a clothing image to instantly see how the outfit looks on you.\n\nThe system is designed to preserve your face, pose, and background while only modifying the clothing, ensuring natural and accurate results.\n\nIdeal for creators, designers, and anyone looking to visualize outfits quickly and easily.",
+      "descriptionJa": "FitAI for Adobe Expressは高度なAIを使用してリアルな仮想試着を可能にします。写真と衣服画像をアップロードすると、そのアウトフィットがあなたにどのように見えるかを即座に確認できます。\n\nこのシステムは、衣服のみを変更しながら顔、ポーズ、背景を保持するように設計されており、自然で正確な結果を保証します。\n\nクリエイター、デザイナー、アウトフィットを素早く簡単に視覚化したい人に最適です。",
+      "descriptionKo": "FitAI for Adobe Express는 고급 AI를 사용하여 현실적인 가상 피팅을 가능하게 합니다. 사진과 의류 이미지를 업로드하면 그 옷이 당신에게 어떻게 보이는지 즉시 확인할 수 있습니다.\n\n이 시스템은 의류만 수정하면서 얼굴, 포즈 및 배경을 보존하도록 설계되어 자연스럽고 정확한 결과를 보장합니다.\n\n크리에이터, 디자이너 및 의상을 빠르고 쉽게 시각화하려는 모든 사람에게 이상적입니다.",
+      "keywords": [
+        "AI仮想試着",
+        "リアルな衣服置換",
+        "顔と身元を保持",
+        "迅速で簡単"
+      ],
+      "keywordsEn": [
+        "AI-powered virtual try-on Realistic clothing replacement Preserves face and identity Fast and simple"
+      ],
+      "keywordsJa": [
+        "AI仮想試着",
+        "リアルな衣服置換",
+        "顔と身元を保持",
+        "迅速で簡単"
+      ],
+      "keywordsKo": [
+        "AI 가상 피팅",
+        "현실적 의류 교체",
+        "얼굴과 신원 보존",
+        "빠르고 간단"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl893g287"
     }
   ],
   "metadata": {
-    "totalCount": 511,
-    "lastUpdated": "2026-05-02",
+    "totalCount": 521,
+    "lastUpdated": "2026-05-08",
     "source": "Web research and official documentation",
     "categories": {
       "accessibility": "アクセシビリティ",
