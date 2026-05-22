@@ -29,8 +29,8 @@ from urllib.error import URLError, HTTPError
 SRC_PATH   = "src/ui/data/addons_data.json"
 DOCS_PATH  = "docs/addons_data.json"
 API_URL    = "https://api.anthropic.com/v1/messages"
-MODEL      = "claude-haiku-4-5"
-BATCH_SIZE = 20
+MODEL      = "claude-haiku-4-5-20251001"
+BATCH_SIZE = 5
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -961,6 +961,26 @@ def _call_claude(api_key: str, prompt: str) -> str:
         print(f"\n[ERROR] ネットワークエラー: {e.reason}", file=sys.stderr)
         sys.exit(1)
 
+def _translate_batch_with_retry(api_key: str, batch: list) -> dict:
+    if not batch:
+        return {}
+    prompt = _build_prompt(batch)
+    response_text = _call_claude(api_key, prompt)
+    try:
+        results = _extract_json_array(response_text)
+        return {r["id"]: r for r in results}
+    except json.JSONDecodeError:
+        if len(batch) == 1:
+            print(f"  [SKIP] {batch[0]['id']} — 翻訳不可（スキップ）", file=sys.stderr)
+            return {}
+        mid = len(batch) // 2
+        print(f"  [RETRY] JSON parse 失敗。バッチを {len(batch)} → {mid}/{len(batch)-mid} に分割", file=sys.stderr)
+        time.sleep(1)
+        result = _translate_batch_with_retry(api_key, batch[:mid])
+        result.update(_translate_batch_with_retry(api_key, batch[mid:]))
+        return result
+
+
 def _extract_json_array(text: str) -> list:
     m = re.search(r"```(?:json)?\s*(\[.*?\])\s*```", text, re.DOTALL)
     if m:
@@ -1094,19 +1114,10 @@ def main() -> None:
         batch_num = i // BATCH_SIZE + 1
         print(f"\nバッチ {batch_num}/{total_batches} を翻訳中... ({len(batch)} 件)", flush=True)
 
-        prompt = _build_prompt(batch)
-        response_text = _call_claude(api_key, prompt)
-
-        try:
-            results = _extract_json_array(response_text)
-        except json.JSONDecodeError as e:
-            print(f"[ERROR] JSON パース失敗: {e}", file=sys.stderr)
-            print("レスポンス:", response_text[:500], file=sys.stderr)
-            sys.exit(1)
-
-        for result in results:
-            translation_map[result["id"]] = result
-            print(f"  ✓ {result['id']}")
+        results = _translate_batch_with_retry(api_key, batch)
+        for addon_id, result in results.items():
+            translation_map[addon_id] = result
+            print(f"  ✓ {addon_id}")
 
         if batch_num < total_batches:
             time.sleep(1)

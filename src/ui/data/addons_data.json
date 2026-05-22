@@ -22652,7 +22652,7 @@
     {
       "id": "no-beard-filter",
       "addOnId": "w27146867",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "No Beard Filter",
       "nameJa": "",
       "nameKo": "",
@@ -22696,7 +22696,7 @@
     {
       "id": "codewords-game",
       "addOnId": "w2h5h6lkg",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Codewords Game",
       "nameJa": "",
       "nameKo": "",
@@ -22745,7 +22745,7 @@
     {
       "id": "direct-mail-ads",
       "addOnId": "w3603n1mi",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Direct Mail Ads",
       "nameJa": "",
       "nameKo": "",
@@ -22789,7 +22789,7 @@
     {
       "id": "global-storyboard",
       "addOnId": "w3k2nm42l",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Global Storyboard",
       "nameJa": "",
       "nameKo": "",
@@ -22809,7 +22809,7 @@
     {
       "id": "face-cutout",
       "addOnId": "w48m9im06",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Face Cutout",
       "nameJa": "",
       "nameKo": "",
@@ -22861,7 +22861,7 @@
     {
       "id": "stencil-maker",
       "addOnId": "w7nj8i036",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Stencil Maker",
       "nameJa": "",
       "nameKo": "",
@@ -22881,7 +22881,7 @@
     {
       "id": "cultural-intelligence",
       "addOnId": "w984n7655",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Cultural Intelligence",
       "nameJa": "",
       "nameKo": "",
@@ -22901,7 +22901,7 @@
     {
       "id": "random-user-generator",
       "addOnId": "wj5596375",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Random User Generator",
       "nameJa": "",
       "nameKo": "",
@@ -22953,7 +22953,7 @@
     {
       "id": "sharepoint",
       "addOnId": "wjnl8496g",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "SharePoint",
       "nameJa": "",
       "nameKo": "",
@@ -23005,7 +23005,7 @@
     {
       "id": "fitai-for-adobe-express",
       "addOnId": "wl893g287",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "FitAI for Adobe Express",
       "nameJa": "",
       "nameKo": "",
@@ -23038,11 +23038,1568 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl893g287"
+    },
+    {
+      "id": "ai-photo-overlay",
+      "addOnId": "w0065h9j9",
+      "isNew": true,
+      "nameEn": "AI Photo Overlay",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI Photo Overlay helps users combine multiple uploaded images\ninto a single creative composition inside Adobe Express.\n\nUsers can upload 2 to 10 source images, add optional creative instructions,\ngenerate a blended overlay result, preview it,\nand place the final image back into their design.\n\nThe add-on is useful for moodboards, promotional graphics,\nartistic composites, social visuals,\nand experimental photo treatments.",
+      "descriptionEn": "AI Photo Overlay helps users combine multiple uploaded images\ninto a single creative composition inside Adobe Express.\n\nUsers can upload 2 to 10 source images, add optional creative instructions,\ngenerate a blended overlay result, preview it,\nand place the final image back into their design.\n\nThe add-on is useful for moodboards, promotional graphics,\nartistic composites, social visuals,\nand experimental photo treatments.",
+      "descriptionJa": "AI Photo Overlayを使うと、Adobe Express内で複数のアップロード画像を1つのクリエイティブな合成作品に組み合わせられます。\n\n2～10枚の画像をアップロードし、オプションでクリエイティブな指示を追加して、ブレンド結果を生成・プレビューし、最終画像をデザインに配置できます。\n\nムードボード、プロモーショングラフィック、アート合成、ソーシャルビジュアル、実験的な写真加工に最適です。",
+      "descriptionKo": "AI Photo Overlay를 사용하면 Adobe Express 내에서 여러 업로드 이미지를 하나의 창의적인 합성 작품으로 결합할 수 있습니다.\n\n2~10개의 이미지를 업로드하고 선택적으로 창의적인 지시사항을 추가한 후 블렌드 결과를 생성하고 미리보고 최종 이미지를 디자인에 배치할 수 있습니다.\n\n무드보드, 프로모션 그래픽, 예술적 합성, 소셜 비주얼 및 실험적 사진 처리에 유용합니다.",
+      "keywords": [
+        "写真オーバーレイ",
+        "画像ブレンド",
+        "AIコラージュ",
+        "写真合成",
+        "クリエイティブ編集",
+        "複数画像生成"
+      ],
+      "keywordsEn": [
+        "photo overlay",
+        "image blend",
+        "AI collage",
+        "photo composite",
+        "creative editing",
+        "multi image generator"
+      ],
+      "keywordsJa": [
+        "写真オーバーレイ",
+        "画像ブレンド",
+        "AIコラージュ",
+        "写真合成",
+        "クリエイティブ編集",
+        "複数画像生成"
+      ],
+      "keywordsKo": [
+        "사진 오버레이",
+        "이미지 블렌드",
+        "AI 콜라주",
+        "사진 합성",
+        "크리에이티브 편집",
+        "멀티 이미지 생성"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w0065h9j9"
+    },
+    {
+      "id": "ai-wedding-photo",
+      "addOnId": "w0h8km918",
+      "isNew": true,
+      "nameEn": "AI Wedding Photo",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI Wedding Photo helps users transform uploaded portraits or couple photos\ninto polished wedding-style artwork inside Adobe Express.\n\nUsers can choose from curated wedding themes, generate a new portrait,\npreview the result, and add the final image back into their design.\n\nThe add-on supports both single-photo and two-person workflows.\nIt is designed for creative portrait styling, invitation concepts,\nkeepsakes, and social content.",
+      "descriptionEn": "AI Wedding Photo helps users transform uploaded portraits or couple photos\ninto polished wedding-style artwork inside Adobe Express.\n\nUsers can choose from curated wedding themes, generate a new portrait,\npreview the result, and add the final image back into their design.\n\nThe add-on supports both single-photo and two-person workflows.\nIt is designed for creative portrait styling, invitation concepts,\nkeepsakes, and social content.",
+      "descriptionJa": "AI Wedding Photoを使うと、Adobe Express内でアップロードしたポートレートやカップル写真をエレガントなウェディング風アート作品に変身させられます。\n\nキュレーションされたウェディングテーマから選択し、新しいポートレートを生成・プレビューして、最終画像をデザインに追加できます。\n\n1人用と2人用のワークフローに対応。クリエイティブなポートレートスタイリング、招待状コンセプト、記念品、ソーシャルコンテンツに最適です。",
+      "descriptionKo": "AI Wedding Photo를 사용하면 Adobe Express 내에서 업로드한 초상화나 커플 사진을 세련된 웨딩 스타일 미술 작품으로 변환할 수 있습니다.\n\n큐레이션된 웨딩 테마를 선택하고 새로운 초상화를 생성하고 미리본 후 최종 이미지를 디자인에 추가할 수 있습니다.\n\n1인 및 2인 워크플로우를 지원합니다. 창의적인 초상화 스타일링, 초대장 개념, 기념품 및 소셜 콘텐츠에 적합합니다.",
+      "keywords": [
+        "ウェディング写真",
+        "AI肖像画",
+        "カップルポートレート",
+        "ブライダルアート",
+        "ウェディングスタイル",
+        "写真生成"
+      ],
+      "keywordsEn": [
+        "wedding photo",
+        "AI portrait",
+        "couple portrait",
+        "bridal art",
+        "wedding style",
+        "photo generator"
+      ],
+      "keywordsJa": [
+        "ウェディング写真",
+        "AI肖像画",
+        "カップルポートレート",
+        "ブライダルアート",
+        "ウェディングスタイル",
+        "写真生成"
+      ],
+      "keywordsKo": [
+        "웨딩 사진",
+        "AI 초상화",
+        "커플 초상화",
+        "브라이덜 아트",
+        "웨딩 스타일",
+        "사진 생성"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w0h8km918"
+    },
+    {
+      "id": "ai-makeup-editor",
+      "addOnId": "w24mi5mln",
+      "isNew": true,
+      "nameEn": "AI Makeup Editor",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI Makeup Editor helps users apply polished makeup styles\nto a face photo directly inside Adobe Express.\n\nUpload or select a photo,\ndescribe the makeup look,\nor choose from ready-made styles such as Y2K, sun-kissed,\nbronzed, elegant, vibrant, plum, grunge, doll-like,\nand full-face makeup.\n\nThe add-on is useful for beauty previews,\nprofile photos, social content, campaign visuals,\nfashion layouts, and creative portrait edits.\n\nGenerated results can be added back\ninto the user’s Adobe Express design.",
+      "descriptionEn": "AI Makeup Editor helps users apply polished makeup styles\nto a face photo directly inside Adobe Express.\n\nUpload or select a photo,\ndescribe the makeup look,\nor choose from ready-made styles such as Y2K, sun-kissed,\nbronzed, elegant, vibrant, plum, grunge, doll-like,\nand full-face makeup.\n\nThe add-on is useful for beauty previews,\nprofile photos, social content, campaign visuals,\nfashion layouts, and creative portrait edits.\n\nGenerated results can be added back\ninto the user’s Adobe Express design.",
+      "descriptionJa": "AI Makeup Editorを使うと、Adobe Express内で顔写真に洗練されたメイクスタイルを直接適用できます。\n\n写真をアップロードまたは選択し、メイクのイメージを説明するか、Y2K、サンキスド、ブロンズ、エレガント、ビビッド、プラム、グランジ、ドール風、フルフェイスメイクなどの既成スタイルから選択できます。\n\nビューティープレビュー、プロフィール写真、ソーシャルコンテンツ、キャンペーンビジュアル、ファッションレイアウト、クリエイティブなポートレート編集に最適。生成された画像はAdobe Expressのデザインに追加できます。",
+      "descriptionKo": "AI Makeup Editor를 사용하면 Adobe Express 내에서 얼굴 사진에 세련된 메이크업 스타일을 직접 적용할 수 있습니다.\n\n사진을 업로드하거나 선택하고 원하는 메이크업 룩을 설명하거나 Y2K, 선키스드, 브론즈, 엘레강트, 비브란트, 플럼, 그런지, 돌 같은, 풀페이스 메이크업 등의 기성 스타일에서 선택할 수 있습니다.\n\n뷰티 미리보기, 프로필 사진, 소셜 콘텐츠, 캠페인 비주얼, 패션 레이아웃 및 창의적인 초상화 편집에 유용합니다. 생성된 결과를 Adobe Express 디자인에 추가할 수 있습니다.",
+      "keywords": [
+        "メイク",
+        "AIメイク",
+        "ビューティー",
+        "肖像画",
+        "顔写真",
+        "グラマー",
+        "化粧品",
+        "レタッチ",
+        "スタイル"
+      ],
+      "keywordsEn": [
+        "makeup",
+        "AI makeup",
+        "beauty",
+        "portrait",
+        "face photo",
+        "glam",
+        "cosmetics",
+        "retouch",
+        "style"
+      ],
+      "keywordsJa": [
+        "メイク",
+        "AIメイク",
+        "ビューティー",
+        "肖像画",
+        "顔写真",
+        "グラマー",
+        "化粧品",
+        "レタッチ",
+        "スタイル"
+      ],
+      "keywordsKo": [
+        "메이크업",
+        "AI 메이크업",
+        "뷰티",
+        "초상화",
+        "얼굴 사진",
+        "글래머",
+        "화장품",
+        "리터칭",
+        "스타일"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w24mi5mln"
+    },
+    {
+      "id": "crayon-photo-ai",
+      "addOnId": "w31jg16mn",
+      "isNew": true,
+      "nameEn": "Crayon Photo AI",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn any portrait into a funny caricature right inside your Express design. Upload a photo, pick a caricature style, and the add-on exaggerates facial features while keeping the pose and identity recognizable — ready to drop onto your canvas.\n\nHow it works:\n\nUpload a photo from your design or device.\nPick a style: Realistic Exaggeration, Cartoon Colorful, or Pencil Sketch.\nChoose how exaggerated you want the features to be.\nGenerate the caricature and insert the result into your layout.\nKey features:\n\nThree caricature styles covering realistic, cartoon, and sketch looks\nAdjustable exaggeration level for subtle or bold results\nPose and identity preserving rendering\nCredits-based generation with an optional unlimited subscription\nGreat for personalized gifts, birthday cards, event posters, profile avatars, team pages, and social media content that needs a playful, hand-made feel.",
+      "descriptionEn": "Turn any portrait into a funny caricature right inside your Express design. Upload a photo, pick a caricature style, and the add-on exaggerates facial features while keeping the pose and identity recognizable — ready to drop onto your canvas.\n\nHow it works:\n\nUpload a photo from your design or device.\nPick a style: Realistic Exaggeration, Cartoon Colorful, or Pencil Sketch.\nChoose how exaggerated you want the features to be.\nGenerate the caricature and insert the result into your layout.\nKey features:\n\nThree caricature styles covering realistic, cartoon, and sketch looks\nAdjustable exaggeration level for subtle or bold results\nPose and identity preserving rendering\nCredits-based generation with an optional unlimited subscription\nGreat for personalized gifts, birthday cards, event posters, profile avatars, team pages, and social media content that needs a playful, hand-made feel.",
+      "descriptionJa": "Express デザイン内で、どんなポートレートも楽しい似顔絵に変身させましょう。写真をアップロードして似顔絵スタイルを選ぶと、顔の特徴を誇張しながらポーズと識別性を保ったまま、キャンバスに配置できます。\n\n仕組み：\n\nデザインまたはデバイスから写真をアップロード。\nスタイルを選択：リアルな誇張、カラフル漫画、または鉛筆スケッチ。\n特徴をどの程度誇張するか選択。\n似顔絵を生成し、レイアウトに挿入。\n主な機能：\n\nリアル、漫画、スケッチに対応した3つのスタイル\nさりげないから大胆な結果まで調整可能な誇張レベル\nポーズと識別性を保持したレンダリング\nクレジットベースの生成と無制限サブスクリプションオプション\nパーソナライズされたギフト、誕生日カード、イベントポスター、プロフィールアバター、チームページ、手作り感のあるソーシャルメディアコンテンツに最適。",
+      "descriptionKo": "Express 디자인 내에서 어떤 초상화도 재미있는 캐리커처로 변신시키세요. 사진을 업로드하고 캐리커처 스타일을 선택하면 얼굴 특징을 과장하면서도 포즈와 정체성을 인식 가능하게 유지한 후 캔버스에 배치할 수 있습니다.\n\n작동 방식:\n\n디자인 또는 기기에서 사진을 업로드합니다.\n스타일 선택: 현실적 과장, 만화 컬러풀 또는 연필 스케치.\n특징을 과장할 정도를 선택합니다.\n캐리커처를 생성하고 결과를 레이아웃에 삽입합니다.\n주요 기능:\n\n현실적, 만화, 스케치 룩을 다루는 3가지 캐리커처 스타일\n미묘한 결과부터 대담한 결과까지 조정 가능한 과장 수준\n포즈 및 정체성 보존 렌더링\n크레딧 기반 생성 및 선택적 무제한 구독\n개인화된 선물, 생일 카드, 행사 포스터, 프로필 아바타, 팀 페이지 및 장난스러운 수제감의 소셜 미디어 콘텐츠에 적합합니다.",
+      "keywords": [
+        "キッズアート",
+        "色鉛筆",
+        "パステル",
+        "チョーク描画",
+        "水彩",
+        "スケッチ",
+        "ぬりえページ",
+        "子ども風"
+      ],
+      "keywordsEn": [
+        "kids art",
+        "color pencil",
+        "pastel",
+        "chalk drawing",
+        "watercolor",
+        "sketch",
+        "coloring page",
+        "child style"
+      ],
+      "keywordsJa": [
+        "キッズアート",
+        "色鉛筆",
+        "パステル",
+        "チョーク描画",
+        "水彩",
+        "スケッチ",
+        "ぬりえページ",
+        "子ども風"
+      ],
+      "keywordsKo": [
+        "키즈 아트",
+        "색연필",
+        "파스텔",
+        "분필 그림",
+        "수채화",
+        "스케치",
+        "색칠하기 페이지",
+        "어린이 스타일"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w31jg16mn"
+    },
+    {
+      "id": "brandfolder-connector",
+      "addOnId": "w3gkk3032",
+      "isNew": true,
+      "nameEn": "Brandfolder Connector",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "The Brandfolder Add-on for Adobe Express lets you search, browse, and place approved brand assets — such as logos and images — directly from your Brandfolder without leaving Adobe Express. Designers and content creators can quickly find the right visuals, stay on-brand with always up-to-date assets, and even upload new files back to Brandfolder for team use.\nBy connecting Adobe Express and Brandfolder through LinkrUI, teams save time, reduce tool-switching, and ensure every piece of content reflects the latest brand guidelines.\nBrandfolder is the all-in-one brand management platform that unites your assets, brand guidelines, and creative workflows — empowering everyone to create impactful, on-brand content with confidence.\n\nPowered by LinkrUI from Santa Cruz Software",
+      "descriptionEn": "The Brandfolder Add-on for Adobe Express lets you search, browse, and place approved brand assets — such as logos and images — directly from your Brandfolder without leaving Adobe Express. Designers and content creators can quickly find the right visuals, stay on-brand with always up-to-date assets, and even upload new files back to Brandfolder for team use.\nBy connecting Adobe Express and Brandfolder through LinkrUI, teams save time, reduce tool-switching, and ensure every piece of content reflects the latest brand guidelines.\nBrandfolder is the all-in-one brand management platform that unites your assets, brand guidelines, and creative workflows — empowering everyone to create impactful, on-brand content with confidence.\n\nPowered by LinkrUI from Santa Cruz Software",
+      "descriptionJa": "Brandfolder Add-on for Adobe Expressを使うと、Adobe Expressを離れることなく、Brandfolder内の承認されたブランドアセット（ロゴ、画像など）を検索、参照、配置できます。デザイナーやコンテンツクリエイターは素早く適切なビジュアルを見つけ、常に最新のアセットでブランドを統一でき、さらに新しいファイルをBrandfolderにアップロードしてチームで使用できます。\n\nAdobe ExpressとBrandfolderをLinkrUIで接続することで、チームは時間を節約し、ツール間の切り替えを減らし、すべてのコンテンツが最新のブランドガイドラインを反映するようになります。\n\nBrandfolderは、アセット、ブランドガイドライン、クリエイティブワークフローを統合するオールインワンのブランド管理プラットフォームです。誰もが自信を持ってインパクトのあるオンブランドコンテンツを作成できるようになります。\n\nSanta Cruz Software提供のLinkrUIで実現",
+      "descriptionKo": "Brandfolder Add-on for Adobe Express를 사용하면 Adobe Express를 떠나지 않고도 Brandfolder의 승인된 브랜드 자산(로고, 이미지 등)을 검색, 브라우징 및 배치할 수 있습니다. 디자이너와 콘텐츠 크리에이터는 올바른 비주얼을 빠르게 찾고 항상 최신 자산으로 브랜드를 유지할 수 있으며 새 파일을 Brandfolder에 업로드하여 팀이 사용하도록 할 수 있습니다.\n\nAdobe Express와 Brandfolder를 LinkrUI를 통해 연결하면 팀은 시간을 절약하고 도구 전환을 줄이며 모든 콘텐츠가 최신 브랜드 가이드라인을 반영하도록 합니다.\n\nBrandfolder는 자산, 브랜드 가이드라인 및 창의적 워크플로우를 통합하는 올인원 브랜드 관리 플랫폼입니다. 모든 사람이 자신감 있게 영향력 있는 온브랜드 콘텐츠를 만들 수 있습니다.\n\nSanta Cruz Software의 LinkrUI로 제공됨",
+      "keywords": [
+        "DAM",
+        "デジタルアセット管理",
+        "ブランド管理",
+        "コンテンツ管理",
+        "Brandfolder",
+        "コネクタ",
+        "LinkrUI"
+      ],
+      "keywordsEn": [
+        "DAM",
+        "Digital asset management",
+        "Brand management",
+        "Content management",
+        "Brandfolder",
+        "connector",
+        "linkrui"
+      ],
+      "keywordsJa": [
+        "DAM",
+        "デジタルアセット管理",
+        "ブランド管理",
+        "コンテンツ管理",
+        "Brandfolder",
+        "コネクタ",
+        "LinkrUI"
+      ],
+      "keywordsKo": [
+        "DAM",
+        "디지털 자산 관리",
+        "브랜드 관리",
+        "콘텐츠 관리",
+        "Brandfolder",
+        "커넥터",
+        "LinkrUI"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3gkk3032"
+    },
+    {
+      "id": "export-to-idml",
+      "addOnId": "w4ih169mk",
+      "isNew": true,
+      "nameEn": "Export to IDML",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Export to IDML extends lightweight design workflows by enabling seamless conversion of projects into fully editable IDML files for Adobe InDesign. This add-on eliminates the need to rebuild layouts from scratch, allowing users to move efficiently from concept to production.\n\nDesign elements such as text, images, and layout structure are translated into a format compatible with professional publishing workflows, making it easier to refine typography, apply advanced styling, and prepare files for print or distribution.\n\nBuilt for designers and production teams, Export to IDML supports a more connected workflow between rapid creation and high-end layout tools. It reduces manual effort, minimizes errors, and accelerates turnaround times.\n\nStart with speed. Transition to precision—without losing your work along the way.",
+      "descriptionEn": "Export to IDML extends lightweight design workflows by enabling seamless conversion of projects into fully editable IDML files for Adobe InDesign. This add-on eliminates the need to rebuild layouts from scratch, allowing users to move efficiently from concept to production.\n\nDesign elements such as text, images, and layout structure are translated into a format compatible with professional publishing workflows, making it easier to refine typography, apply advanced styling, and prepare files for print or distribution.\n\nBuilt for designers and production teams, Export to IDML supports a more connected workflow between rapid creation and high-end layout tools. It reduces manual effort, minimizes errors, and accelerates turnaround times.\n\nStart with speed. Transition to precision—without losing your work along the way.",
+      "descriptionJa": "Export to IDML は、Adobe Express のプロジェクトを Adobe InDesign で完全に編集可能な IDML ファイルに変換できます。レイアウトをゼロから再構築する手間が省け、コンセプトから本番まで効率的に進められます。\n\nテキスト、画像、レイアウト構造などのデザイン要素は、プロフェッショナルな出版ワークフローに対応した形式に変換されます。タイポグラフィの調整、高度なスタイリングの適用、印刷配布用のファイル準備がより簡単になります。\n\nデザイナーと制作チーム向けに構築されたこのアドオンは、迅速なクリエイティブワークとハイエンドなレイアウトツールをシームレスに接続します。手作業を削減し、エラーを最小化し、納期を短縮します。\n\nスピードで始める。精度で完成させる—成果物を失わずに。",
+      "descriptionKo": "Export to IDML은 Adobe Express 프로젝트를 Adobe InDesign에서 완전히 편집 가능한 IDML 파일로 변환할 수 있습니다. 레이아웃을 처음부터 다시 만들 필요가 없어 개념 단계에서 최종 제작까지 효율적으로 진행할 수 있습니다.\n\n텍스트, 이미지, 레이아웃 구조 등의 디자인 요소는 전문 출판 워크플로우에 호환되는 형식으로 변환됩니다. 타이포그래피 조정, 고급 스타일 적용, 인쇄 및 배포용 파일 준비가 더욱 간편합니다.\n\n디자이너와 제작팀을 위해 개발된 이 애드온은 빠른 창작과 고급 레이아웃 도구를 원활하게 연결합니다. 수작업을 줄이고 오류를 최소화하며 작업 시간을 단축합니다.\n\n속도로 시작하세요. 정밀함으로 마무리하세요—작업을 잃지 않으면서.",
+      "keywords": [
+        "IDML 변환",
+        "InDesign ワークフロー",
+        "レイアウト",
+        "プリプレス"
+      ],
+      "keywordsEn": [
+        "Export to IDML",
+        "IDML conversion",
+        "InDesign workflow",
+        "layout",
+        "prepress"
+      ],
+      "keywordsJa": [
+        "IDML 변환",
+        "InDesign ワークフロー",
+        "レイアウト",
+        "プリプレス"
+      ],
+      "keywordsKo": [
+        "IDML 변환",
+        "InDesign ワークフロー",
+        "레이아웃",
+        "인쇄전 작업"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w4ih169mk"
+    },
+    {
+      "id": "arrows-by-bjorn",
+      "addOnId": "w54gg7lg3",
+      "isNew": true,
+      "nameEn": "Arrows by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Quickly design and add arrows (PNG, GIF or SVG) to your designs. \nUse properties such \n- Head position - at start, at end or at both ends\n- Head length\n- Head height\n- Head curveness\n- Head base height\n- Head back length\n- Head back curveness\n- Tail length\n- Tail height\n- Tail curveness\n- Tail base height\n- Tail front length\n- Tail front curveness\n- Body curveness\n\nStyle the arrows using fill and stroke colors; stroke width; shadow effect and gradient or pattern fills.\n\nAt the top of the add-on sidebar you'll find the Instant Preview, showing how the shape will look like when added to the design.\n\nCreate animated GIFs using animation of for example head length.",
+      "descriptionEn": "Quickly design and add arrows (PNG, GIF or SVG) to your designs. \nUse properties such \n- Head position - at start, at end or at both ends\n- Head length\n- Head height\n- Head curveness\n- Head base height\n- Head back length\n- Head back curveness\n- Tail length\n- Tail height\n- Tail curveness\n- Tail base height\n- Tail front length\n- Tail front curveness\n- Body curveness\n\nStyle the arrows using fill and stroke colors; stroke width; shadow effect and gradient or pattern fills.\n\nAt the top of the add-on sidebar you'll find the Instant Preview, showing how the shape will look like when added to the design.\n\nCreate animated GIFs using animation of for example head length.",
+      "descriptionJa": "矢印（PNG、GIF、SVG）をデザインに素早く追加できます。矢印の先端位置（始点、終点、両端）、長さ、高さ、曲率などを細かく調整できます。\n\n矢印のボディ部分も曲率をコントロール可能です。塗りつぶしと線の色、線幅、シャドウ効果、グラデーション、パターン塗りなどで矢印をスタイリングできます。\n\nアドオンサイドバーの上部にはインスタント プレビューがあり、デザインに追加される前に矢印の見た目を確認できます。\n\n先端の長さなどのアニメーションを使ってアニメーション GIF を作成することもできます。",
+      "descriptionKo": "디자인에 화살표(PNG, GIF, SVG)를 빠르게 추가할 수 있습니다. 화살표의 헤드 위치(시작, 끝, 양쪽 끝), 길이, 높이, 곡선도 등을 세밀하게 조정할 수 있습니다.\n\n화살표의 바디 부분도 곡선도를 제어할 수 있습니다. 채우기 및 선 색상, 선 너비, 그림자 효과, 그래디언트, 패턴 채우기 등으로 화살표의 스타일을 지정할 수 있습니다.\n\n애드온 사이드바 상단에 있는 인스턴트 프리뷰에서 디자인에 추가하기 전에 화살표의 모양을 확인할 수 있습니다.\n\n헤드 길이 등의 애니메이션을 사용하여 애니메이션 GIF를 만들 수도 있습니다.",
+      "keywords": [
+        "矢印",
+        "矢印の先端",
+        "矢印のテール"
+      ],
+      "keywordsEn": [
+        "arrows",
+        "arrowheads",
+        "arrowtails"
+      ],
+      "keywordsJa": [
+        "矢印",
+        "矢印の先端",
+        "矢印のテール"
+      ],
+      "keywordsKo": [
+        "화살표",
+        "화살표 헤드",
+        "화살표 테일"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w54gg7lg3"
+    },
+    {
+      "id": "profile-pic-studio",
+      "addOnId": "w57516259",
+      "isNew": true,
+      "nameEn": "Profile Pic Studio",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Profile Pic Studio helps users create profile pictures and avatar-style portraits from their photos.\n\nUsers can upload a portrait, choose a visual style, and generate profile-ready images for social media, resumes, creator pages, business profiles, community posts, and personal projects.\n\nThe add-on supports a range of looks such as clean studio portraits, casual lifestyle photos, creative avatars, polished headshots, and stylized profile images.\n\nGenerated images can be added back to the design for further editing.",
+      "descriptionEn": "Profile Pic Studio helps users create profile pictures and avatar-style portraits from their photos.\n\nUsers can upload a portrait, choose a visual style, and generate profile-ready images for social media, resumes, creator pages, business profiles, community posts, and personal projects.\n\nThe add-on supports a range of looks such as clean studio portraits, casual lifestyle photos, creative avatars, polished headshots, and stylized profile images.\n\nGenerated images can be added back to the design for further editing.",
+      "descriptionJa": "Profile Pic Studio は、写真からプロフィール画像やアバタースタイルのポートレートを作成するのに役立ちます。\n\nポートレート写真をアップロードし、ビジュアルスタイルを選択すると、SNS、履歴書、クリエイターページ、ビジネスプロフィール、コミュニティ投稿、個人プロジェクト用のプロフィール画像が生成されます。\n\nこのアドオンは、スタジオポートレート、カジュアルなライフスタイル写真、クリエイティブアバター、洗練されたヘッドショット、スタイル化されたプロフィール画像など、様々なスタイルに対応しています。\n\n生成された画像はデザインに追加してさらに編集できます。",
+      "descriptionKo": "Profile Pic Studio는 사진으로부터 프로필 사진과 아바타 스타일의 초상화를 만드는 데 도움이 됩니다.\n\n초상화 사진을 업로드하고 시각적 스타일을 선택하면 소셜 미디어, 이력서, 크리에이터 페이지, 비즈니스 프로필, 커뮤니티 게시물, 개인 프로젝트용 프로필 사진이 생성됩니다.\n\n이 애드온은 깔끔한 스튜디오 초상화, 캐주얼한 라이프스타일 사진, 창의적인 아바타, 세련된 헤드샷, 스타일화된 프로필 이미지 등 다양한 스타일을 지원합니다.\n\n생성된 이미지는 디자인에 추가하여 추가로 편집할 수 있습니다.",
+      "keywords": [
+        "プロフィール画像",
+        "プロフィール写真",
+        "アバター",
+        "ヘッドショット",
+        "ポートレート",
+        "SNS",
+        "クリエイタープロフィール"
+      ],
+      "keywordsEn": [
+        "profile picture",
+        "profile photo",
+        "avatar",
+        "headshot",
+        "portrait",
+        "social media",
+        "creator profile"
+      ],
+      "keywordsJa": [
+        "プロフィール画像",
+        "プロフィール写真",
+        "アバター",
+        "ヘッドショット",
+        "ポートレート",
+        "SNS",
+        "クリエイタープロフィール"
+      ],
+      "keywordsKo": [
+        "프로필 사진",
+        "프로필 사진",
+        "아바타",
+        "헤드샷",
+        "초상화",
+        "소셜 미디어",
+        "크리에이터 프로필"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w57516259"
+    },
+    {
+      "id": "ai-sound-effects",
+      "addOnId": "w5l627968",
+      "isNew": true,
+      "nameEn": "AI Sound Effects",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Describe the sound effect you want in text, and AI sound generator can quickly generate audio. You can also upload a video without audio, and synthesize a video with sound effects.",
+      "descriptionEn": "Describe the sound effect you want in text, and AI sound generator can quickly generate audio. You can also upload a video without audio, and synthesize a video with sound effects.",
+      "descriptionJa": "テキストで欲しい効果音を説明すると、AI サウンドジェネレーターが素早く音声を生成します。また、音声なしの動画をアップロードすれば、効果音を付けた動画を自動合成できます。",
+      "descriptionKo": "원하는 효과음을 텍스트로 설명하면 AI 사운드 생성기가 빠르게 오디오를 생성합니다. 음성 없는 동영상을 업로드하면 효과음이 추가된 동영상을 자동으로 합성할 수 있습니다.",
+      "keywords": [
+        "AI サウンドジェネレーター",
+        "AI 音声メーカー",
+        "AI 効果音",
+        "テキスト読み上げ",
+        "テキストから音声へ"
+      ],
+      "keywordsEn": [
+        "ai sound generator",
+        "ai sound maker",
+        "ai sound effect",
+        "text to sound",
+        "convert text to audio"
+      ],
+      "keywordsJa": [
+        "AI サウンドジェネレーター",
+        "AI 音声メーカー",
+        "AI 効果音",
+        "テキスト読み上げ",
+        "テキストから音声へ"
+      ],
+      "keywordsKo": [
+        "AI 사운드 생성기",
+        "AI 음성 제작",
+        "AI 효과음",
+        "텍스트 음성 변환",
+        "텍스트를 음성으로"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w5l627968"
+    },
+    {
+      "id": "seating-chart-maker",
+      "addOnId": "w71798n59",
+      "isNew": true,
+      "nameEn": "Seating Chart Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create seating charts for weddings and classrooms with AI. Upload a guest list and generate smart arrangements instantly. Preview, reshuffle, and add printable seating plans to your design.",
+      "descriptionEn": "Create seating charts for weddings and classrooms with AI. Upload a guest list and generate smart arrangements instantly. Preview, reshuffle, and add printable seating plans to your design.",
+      "descriptionJa": "AI を使用して結婚式や教室の座席表を作成できます。ゲストリストをアップロードすると、最適な座席配置がすぐに生成されます。プレビュー、並べ替え、印刷可能な座席表をデザインに追加できます。",
+      "descriptionKo": "AI를 사용하여 결혼식과 교실의 좌석 배치도를 만들 수 있습니다. 손님 목록을 업로드하면 최적의 좌석 배치가 즉시 생성됩니다. 미리보기, 재배열, 인쇄 가능한 좌석 배치도를 디자인에 추가할 수 있습니다.",
+      "keywords": [
+        "座席表",
+        "座席配置生成",
+        "教室",
+        "結婚式",
+        "座席表テンプレート"
+      ],
+      "keywordsEn": [
+        "seating chart",
+        "seating chart generator",
+        "classroom",
+        "wedding",
+        "seating chart template"
+      ],
+      "keywordsJa": [
+        "座席表",
+        "座席配置生成",
+        "教室",
+        "結婚式",
+        "座席表テンプレート"
+      ],
+      "keywordsKo": [
+        "좌석 배치도",
+        "좌석 배치 생성",
+        "교실",
+        "결혼식",
+        "좌석 배치도 템플릿"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w71798n59"
+    },
+    {
+      "id": "unblur-image",
+      "addOnId": "w72238h1j",
+      "isNew": true,
+      "nameEn": "Unblur Image",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Upload or select blurry or out of focus photos and the system applies artificial intelligence to reduce blur, restore edges, refine detail, suppress noise, and return a clear sharp result.",
+      "descriptionEn": "Upload or select blurry or out of focus photos and the system applies artificial intelligence to reduce blur, restore edges, refine detail, suppress noise, and return a clear sharp result.",
+      "descriptionJa": "ぼやけた写真やピンボケした写真をアップロードまたは選択すると、人工知能を使ってぼかしを軽減し、エッジを復元し、細部を調整し、ノイズを抑制して、鮮明でシャープな結果を返します。",
+      "descriptionKo": "흐릿하거나 초점이 맞지 않은 사진을 업로드하거나 선택하면 인공지능이 흐림을 감소시키고 가장자리를 복원하며 세부 사항을 정제하고 노이즈를 억제하여 선명한 결과를 제공합니다.",
+      "keywords": [
+        "写真のぼかし除去",
+        "ぼかし軽減",
+        "画像シャープ化",
+        "鮮明度向上",
+        "写真強化"
+      ],
+      "keywordsEn": [
+        "unblur photo",
+        "photo blur remover",
+        "remove photo blur",
+        "image sharpener",
+        "enhance clarity",
+        "photo enhancer"
+      ],
+      "keywordsJa": [
+        "写真のぼかし除去",
+        "ぼかし軽減",
+        "画像シャープ化",
+        "鮮明度向上",
+        "写真強化"
+      ],
+      "keywordsKo": [
+        "사진 흐림 제거",
+        "흐림 감소",
+        "이미지 선명화",
+        "선명도 향상",
+        "사진 보정"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w72238h1j"
+    },
+    {
+      "id": "ai-bobblehead",
+      "addOnId": "w8h41imj4",
+      "isNew": true,
+      "nameEn": "AI Bobblehead",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn any portrait into a cute bobblehead figurine right inside your Express design. Upload a photo, pick a themed style, and the AI renders a collectible-looking figurine with an oversized head and a custom base — ready to drop onto your canvas.\nHow it works:\n\nUpload a portrait from your design or device.\nPick a style: Anime, Brick Toy, Pixel, Royal, Wizard, Pirate, Ninja, Cyberpunk, Gold Statue, Astronaut, Robot, Samurai, Viking, Mecha, or Rockstar.\nGenerate the bobblehead and insert the result into your layout.\n\nKey features:\n\nFifteen themed bobblehead styles from fantasy, sci-fi, historical, and pop culture\nFace and pose aware rendering that keeps the person recognizable\nCustom base and props tailored to each style\nHigh-resolution output suitable for social posts and print\nCredits-based generation with an optional unlimited subscription\n\nGreat for personalized gifts, birthday cards, team pages, profile avatars, office trophies, and social media content.",
+      "descriptionEn": "Turn any portrait into a cute bobblehead figurine right inside your Express design. Upload a photo, pick a themed style, and the AI renders a collectible-looking figurine with an oversized head and a custom base — ready to drop onto your canvas.\nHow it works:\n\nUpload a portrait from your design or device.\nPick a style: Anime, Brick Toy, Pixel, Royal, Wizard, Pirate, Ninja, Cyberpunk, Gold Statue, Astronaut, Robot, Samurai, Viking, Mecha, or Rockstar.\nGenerate the bobblehead and insert the result into your layout.\n\nKey features:\n\nFifteen themed bobblehead styles from fantasy, sci-fi, historical, and pop culture\nFace and pose aware rendering that keeps the person recognizable\nCustom base and props tailored to each style\nHigh-resolution output suitable for social posts and print\nCredits-based generation with an optional unlimited subscription\n\nGreat for personalized gifts, birthday cards, team pages, profile avatars, office trophies, and social media content.",
+      "descriptionJa": "Express デザイン内で任意のポートレート写真をかわいいボブルヘッド人形に変身させます。写真をアップロードしてテーマスタイルを選ぶと、AIが大きな頭と カスタムベース付きのコレクティブルな人形を生成し、キャンバスに配置できます。\n\n使い方:\n\nデザインまたはデバイスからポートレート写真をアップロードします。\nスタイルを選択します：アニメ、レゴ、ピクセル、ロイヤル、ウィザード、パイレーツ、ニンジャ、サイバーパンク、ゴールド像、宇宙飛行士、ロボット、サムライ、バイキング、メカ、ロックスター。\nボブルヘッドを生成してレイアウトに挿入します。\n\n主な機能:\n\nファンタジー、SF、歴史、ポップカルチャーからの15種類のテーマ別ボブルヘッドスタイル\n顔と姿勢を認識したレンダリングで人物の特徴を保持\nスタイルごとのカスタムベースと小道具\nソーシャル投稿やプリント用の高解像度出力\nクレジットベースの生成とオプションの無制限サブスクリプション\n\nパーソナルギフト、誕生日カード、チームページ、プロフィールアバター、オフィストロフィー、ソーシャルメディアコンテンツに最適です。",
+      "descriptionKo": "Express 디자인 내에서 모든 초상화 사진을 귀여운 보블헤드 피규어로 변신시킵니다. 사진을 업로드하고 테마 스타일을 선택하면 AI가 큰 머리와 맞춤형 베이스가 있는 수집용 피규어를 생성하여 캔버스에 배치할 수 있습니다.\n\n작동 방식:\n\n디자인이나 기기에서 초상화 사진을 업로드합니다.\n스타일을 선택합니다: 애니메, 벽돌 장난감, 픽셀, 로열, 마법사, 해적, 닌자, 사이버펑크, 골드 상, 우주비행사, 로봇, 사무라이, 바이킹, 메카, 락스타.\n보블헤드를 생성하여 레이아웃에 삽입합니다.\n\n주요 기능:\n\n판타지, SF, 역사, 팝 문화의 15가지 테마별 보블헤드 스타일\n얼굴과 자세를 인식하는 렌더링으로 인물의 특징 유지\n각 스타일에 맞춘 맞춤형 베이스와 소품\n소셜 게시물 및 인쇄에 적합한 고해상도 출력\n크레딧 기반 생성 및 선택적 무제한 구독\n\n개인화된 선물, 생일 카드, 팀 페이지, 프로필 아바타, 사무실 트로피, 소셜 미디어 콘텐츠에 최적입니다.",
+      "keywords": [
+        "ピギュア",
+        "コレクティブルおもちゃ",
+        "キャリケーチャー",
+        "アバター",
+        "ギフトアート",
+        "3Dキャラクター",
+        "レゴ",
+        "ドット絵"
+      ],
+      "keywordsEn": [
+        "figurine",
+        "collectible toy",
+        "caricature",
+        "avatar",
+        "gift art",
+        "3d character",
+        "brick toy",
+        "pixel art"
+      ],
+      "keywordsJa": [
+        "ピギュア",
+        "コレクティブルおもちゃ",
+        "キャリケーチャー",
+        "アバター",
+        "ギフトアート",
+        "3Dキャラクター",
+        "レゴ",
+        "ドット絵"
+      ],
+      "keywordsKo": [
+        "피규어",
+        "수집용 장난감",
+        "캐리커처",
+        "아바타",
+        "선물 미술",
+        "3D 캐릭터",
+        "벽돌 장난감",
+        "픽셀 아트"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w8h41imj4"
+    },
+    {
+      "id": "sheets-translator",
+      "addOnId": "w93j83562",
+      "isNew": true,
+      "nameEn": "Sheets Translator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Upload your locally stored Excel and CSV files, have the text accurately and quickly translated into your chosen language, and then add them to your design.",
+      "descriptionEn": "Upload your locally stored Excel and CSV files, have the text accurately and quickly translated into your chosen language, and then add them to your design.",
+      "descriptionJa": "ローカルに保存されたExcelおよびCSVファイルをアップロードし、テキストを選択した言語に正確かつ迅速に翻訳してから、デザインに追加します。",
+      "descriptionKo": "로컬에 저장된 Excel 및 CSV 파일을 업로드하고 텍스트를 선택한 언어로 정확하고 빠르게 번역한 후 디자인에 추가합니다.",
+      "keywords": [
+        "Excel翻訳",
+        "スプレッドシート翻訳",
+        "CSV翻訳",
+        "ドキュメント翻訳"
+      ],
+      "keywordsEn": [
+        "translate excel",
+        "excel translator",
+        "translate spreadsheet",
+        "translate csv",
+        "document translator"
+      ],
+      "keywordsJa": [
+        "Excel翻訳",
+        "スプレッドシート翻訳",
+        "CSV翻訳",
+        "ドキュメント翻訳"
+      ],
+      "keywordsKo": [
+        "Excel 번역",
+        "스프레드시트 번역",
+        "CSV 번역",
+        "문서 번역"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w93j83562"
+    },
+    {
+      "id": "ai-photo-to-painting",
+      "addOnId": "w9hij1717",
+      "isNew": true,
+      "nameEn": "AI Photo to Painting",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Transform any photo into beautiful artwork without leaving your Express design. Upload an image, pick an artistic style, and the add-on renders it into a painting, sketch, or cartoon you can drop straight onto your canvas.\n\nHow it works:\n\nUpload a photo from your design or device.\nPick one of ten styles: Anime, Classic Animation, 3D Animation, Chibi, Western Comic, Sketch, Watercolor, Oil Painting, Cyberpunk, or Gothic.\nGenerate the artwork and insert the result into your layout.\nKey features:\n\nTen curated art styles covering painting, sketch, and animation looks\nFace and scene aware rendering that keeps your subject recognizable\nHigh-resolution output suitable for social posts and print\nCredits-based generation with an optional unlimited subscription\nGreat for profile pictures, gift prints, greeting cards, posters, social media graphics, and personal art projects.",
+      "descriptionEn": "Transform any photo into beautiful artwork without leaving your Express design. Upload an image, pick an artistic style, and the add-on renders it into a painting, sketch, or cartoon you can drop straight onto your canvas.\n\nHow it works:\n\nUpload a photo from your design or device.\nPick one of ten styles: Anime, Classic Animation, 3D Animation, Chibi, Western Comic, Sketch, Watercolor, Oil Painting, Cyberpunk, or Gothic.\nGenerate the artwork and insert the result into your layout.\nKey features:\n\nTen curated art styles covering painting, sketch, and animation looks\nFace and scene aware rendering that keeps your subject recognizable\nHigh-resolution output suitable for social posts and print\nCredits-based generation with an optional unlimited subscription\nGreat for profile pictures, gift prints, greeting cards, posters, social media graphics, and personal art projects.",
+      "descriptionJa": "Express を離れることなく、任意の写真を美しいアートワークに変換します。画像をアップロードしてアーティスティックスタイルを選ぶと、アドオンがそれを絵画、スケッチ、またはマンガにレンダリングして、キャンバスに直接配置できます。\n\n使い方:\n\nデザインまたはデバイスから写真をアップロードします。\n10 つのスタイルの 1 つを選択します：アニメ、クラシックアニメーション、3D アニメーション、ちび、ウェスタンコミック、スケッチ、水彩、油絵、サイバーパンク、またはゴシック。\nアートワークを生成してレイアウトに挿入します。\n\n主な機能:\n\n絵画、スケッチ、アニメーションを網羅した 10 個のキュレーションされたアートスタイル\n顔とシーンを認識したレンダリングで被写体の特徴を保持\nソーシャル投稿やプリント用の高解像度出力\nクレジットベースの生成とオプションの無制限サブスクリプション\n\nプロフィール写真、ギフトプリント、グリーティングカード、ポスター、ソーシャルメディアグラフィック、個人的なアートプロジェクトに最適です。",
+      "descriptionKo": "Express를 떠나지 않고 모든 사진을 아름다운 아트워크로 변환합니다. 이미지를 업로드하고 아티스틱 스타일을 선택하면 이 애드온이 그림, 스케치 또는 만화로 렌더링하여 캔버스에 직접 배치할 수 있습니다.\n\n작동 방식:\n\n디자인이나 기기에서 사진을 업로드합니다.\n10가지 스타일 중 하나를 선택합니다: 애니메, 클래식 애니메이션, 3D 애니메이션, 치비, 웨스턴 만화, 스케치, 수채화, 유화, 사이버펑크 또는 고딕.\n아트워크를 생성하여 레이아웃에 삽입합니다.\n\n주요 기능:\n\n그림, 스케치 및 애니메이션 스타일을 포함한 10가지 엄선된 아트 스타일\n얼굴과 장면을 인식하는 렌더링으로 피사체의 특징 유지\n소셜 게시물 및 인쇄에 적합한 고해상도 출력\n크레딧 기반 생성 및 선택적 무제한 구독\n\n프로필 사진, 선물 인쇄물, 인사말 카드, 포스터, 소셜 미디어 그래픽 및 개인 미술 프로젝트에 최적입니다.",
+      "keywords": [
+        "アートフィルター",
+        "油絵",
+        "水彩",
+        "スケッチ",
+        "アニメポートレート",
+        "マンガ",
+        "サイバーパンク",
+        "スタイル変換"
+      ],
+      "keywordsEn": [
+        "art filter",
+        "oil paint",
+        "watercolor",
+        "sketch",
+        "anime portrait",
+        "cartoon",
+        "cyberpunk",
+        "style transfer"
+      ],
+      "keywordsJa": [
+        "アートフィルター",
+        "油絵",
+        "水彩",
+        "スケッチ",
+        "アニメポートレート",
+        "マンガ",
+        "サイバーパンク",
+        "スタイル変換"
+      ],
+      "keywordsKo": [
+        "아트 필터",
+        "유화",
+        "수채화",
+        "스케치",
+        "애니메 초상화",
+        "만화",
+        "사이버펑크",
+        "스타일 변환"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w9hij1717"
+    },
+    {
+      "id": "table-ocr",
+      "addOnId": "wg2197nih",
+      "isNew": true,
+      "nameEn": "Table OCR",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Extract relevant tabular data from images and PDF files and add it to your Canva designs. Table OCR can capture data from tables in invoices, contracts, forms, bills of lading and more.",
+      "descriptionEn": "Extract relevant tabular data from images and PDF files and add it to your Canva designs. Table OCR can capture data from tables in invoices, contracts, forms, bills of lading and more.",
+      "descriptionJa": "画像および PDF ファイルから関連する表形式データを抽出し、Canva デザインに追加します。Table OCR は請求書、契約書、フォーム、運送状などの表からデータをキャプチャできます。",
+      "descriptionKo": "이미지 및 PDF 파일에서 관련 표 형식의 데이터를 추출하여 Canva 디자인에 추가합니다. Table OCR은 송장, 계약서, 양식, 선하증권 등의 표에서 데이터를 캡처할 수 있습니다.",
+      "keywords": [
+        "画像から表に変換",
+        "PDF から表を抽出",
+        "表キャプチャ",
+        "PDF OCR"
+      ],
+      "keywordsEn": [
+        "convert image to excel",
+        "extract tables from PDF",
+        "table capture",
+        "pdf ocr",
+        "convert image to tables"
+      ],
+      "keywordsJa": [
+        "画像から表に変換",
+        "PDF から表を抽出",
+        "表キャプチャ",
+        "PDF OCR"
+      ],
+      "keywordsKo": [
+        "이미지를 표로 변환",
+        "PDF에서 표 추출",
+        "표 캡처",
+        "PDF OCR"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg2197nih"
+    },
+    {
+      "id": "3d-sticker-maker",
+      "addOnId": "wgml2j7h4",
+      "isNew": true,
+      "nameEn": "3D Sticker Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "3D Sticker Maker helps users create polished die-cut sticker artwork\ninside Adobe Express.\n\nStart from an uploaded image or a text description,\nchoose a sticker style such as 3D render, cute, anime,\nchibi, pixel art, realistic, or watercolor,\nthen generate a ready-to-use sticker\nand add it back to the design.\n\nThe add-on is useful for social posts, labels,\nmerch mockups, invitations, thumbnails,\nclassroom materials, brand graphics,\nand playful personalized designs.",
+      "descriptionEn": "3D Sticker Maker helps users create polished die-cut sticker artwork\ninside Adobe Express.\n\nStart from an uploaded image or a text description,\nchoose a sticker style such as 3D render, cute, anime,\nchibi, pixel art, realistic, or watercolor,\nthen generate a ready-to-use sticker\nand add it back to the design.\n\nThe add-on is useful for social posts, labels,\nmerch mockups, invitations, thumbnails,\nclassroom materials, brand graphics,\nand playful personalized designs.",
+      "descriptionJa": "3D Sticker Makerを使用して、Adobe Express内でポーランド仕上げのダイカットステッカーアートワークを作成できます。アップロード画像またはテキスト説明から始めて、3Dレンダー、かわいい、アニメ、 chibi、ピクセルアート、リアル、水彩などのステッカースタイルを選択し、すぐに使用できるステッカーを生成してデザインに追加できます。ソーシャルメディア投稿、ラベル、マーチ模型、招待状、サムネイル、教室教材、ブランドグラフィック、遊び心のあるパーソナライズされたデザインに最適です。",
+      "descriptionKo": "3D Sticker MakerはAdobe Express 내에서 정교한 다이컷 스티커 아트를 만들도록 도와줍니다. 업로드한 이미지나 텍스트 설명에서 시작하여 3D 렌더링, 귀여운, 애니메, chibi, 픽셀 아트, 리얼, 수채화 등의 스타일을 선택하고 바로 사용 가능한 스티커를 생성한 후 디자인에 추가할 수 있습니다. 소셜 미디어 게시물, 라벨, 제품 목업, 초대장, 썸네일, 교실 자료, 브랜드 그래픽, 재미있는 맞춤형 디자인에 유용합니다.",
+      "keywords": [
+        "ステッカー",
+        "3Dステッカー",
+        "AIステッカー",
+        "ダイカット",
+        "漫画",
+        "chibi",
+        "アニメ",
+        "ピクセルアート",
+        "水彩"
+      ],
+      "keywordsEn": [
+        "sticker",
+        "3D sticker",
+        "AI sticker",
+        "die cut",
+        "cartoon",
+        "chibi",
+        "anime",
+        "pixel art",
+        "watercolor"
+      ],
+      "keywordsJa": [
+        "ステッカー",
+        "3Dステッカー",
+        "AIステッカー",
+        "ダイカット",
+        "漫画",
+        "chibi",
+        "アニメ",
+        "ピクセルアート",
+        "水彩"
+      ],
+      "keywordsKo": [
+        "스티커",
+        "3D 스티커",
+        "AI 스티커",
+        "다이컷",
+        "만화",
+        "chibi",
+        "애니메",
+        "픽셀 아트",
+        "수채화"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgml2j7h4"
+    },
+    {
+      "id": "photo-caricature",
+      "addOnId": "wh1jml73m",
+      "isNew": true,
+      "nameEn": "Photo Caricature",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn any portrait into a funny caricature right inside your Express design. Upload a photo, pick a caricature style, and the add-on exaggerates facial features while keeping the pose and identity recognizable — ready to drop onto your canvas.\nHow it works:\n\nUpload a photo from your design or device.\nPick a style: Realistic Exaggeration, Cartoon Colorful, or Pencil Sketch.\nChoose how exaggerated you want the features to be.\nGenerate the caricature and insert the result into your layout.\n\nKey features:\n\nThree caricature styles covering realistic, cartoon, and sketch looks\nAdjustable exaggeration level for subtle or bold results\nPose and identity preserving rendering\nCredits-based generation with an optional unlimited subscription\n\nGreat for personalized gifts, birthday cards, event posters, profile avatars, team pages, and social media content that needs a playful, hand-made feel.",
+      "descriptionEn": "Turn any portrait into a funny caricature right inside your Express design. Upload a photo, pick a caricature style, and the add-on exaggerates facial features while keeping the pose and identity recognizable — ready to drop onto your canvas.\nHow it works:\n\nUpload a photo from your design or device.\nPick a style: Realistic Exaggeration, Cartoon Colorful, or Pencil Sketch.\nChoose how exaggerated you want the features to be.\nGenerate the caricature and insert the result into your layout.\n\nKey features:\n\nThree caricature styles covering realistic, cartoon, and sketch looks\nAdjustable exaggeration level for subtle or bold results\nPose and identity preserving rendering\nCredits-based generation with an optional unlimited subscription\n\nGreat for personalized gifts, birthday cards, event posters, profile avatars, team pages, and social media content that needs a playful, hand-made feel.",
+      "descriptionJa": "Express デザイン内で任意の肖像写真をユーモアあふれる漫画に変換します。写真をアップロードして漫画スタイルを選び、顔の特徴を誇張しながらポーズと個性を保ったまま、キャンバスに配置できます。リアル誇張版、カラフル漫画版、鉛筆スケッチ版の3つのスタイルから選択でき、誇張レベルを調整して微妙から大胆な表現まで対応します。ポーズと個性を保つ描画、クレジットベースの生成、オプションの無制限サブスクリプション対応。パーソナライズされた贈り物、誕生日カード、イベントポスター、プロフィールアバター、チームページ、手作り感のあるソーシャルメディアコンテンツに最適です。",
+      "descriptionKo": "Express 디자인 내에서 어떤 초상화든 재미있는 캐리커처로 변환합니다. 사진을 업로드하여 캐리커처 스타일을 선택하면 얼굴 특징을 과장하면서도 포즈와 개성을 인식할 수 있도록 유지한 후 캔버스에 추가할 수 있습니다. 현실적 과장, 만화 컬러풀, 연필 스케치 3가지 스타일 지원, 과장 수준 조절 가능, 포즈와 정체성 보존 렌더링, 크레딧 기반 생성 및 선택적 무제한 구독. 맞춤형 선물, 생일 카드, 이벤트 포스터, 프로필 아바타, 팀 페이지, 수공예 감성의 소셜 미디어 콘텐츠에 좋습니다.",
+      "keywords": [
+        "ユーモア肖像",
+        "漫画顔",
+        "誇張",
+        "鉛筆スケッチ",
+        "ギフトアート",
+        "コミック肖像",
+        "顔アート"
+      ],
+      "keywordsEn": [
+        "funny portrait",
+        "cartoon face",
+        "exaggerated",
+        "pencil sketch",
+        "gift art",
+        "comic portrait",
+        "face art"
+      ],
+      "keywordsJa": [
+        "ユーモア肖像",
+        "漫画顔",
+        "誇張",
+        "鉛筆スケッチ",
+        "ギフトアート",
+        "コミック肖像",
+        "顔アート"
+      ],
+      "keywordsKo": [
+        "웃긴 초상",
+        "만화 얼굴",
+        "과장된",
+        "연필 스케치",
+        "선물 아트",
+        "코믹 초상",
+        "얼굴 아트"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wh1jml73m"
+    },
+    {
+      "id": "spot-the-difference",
+      "addOnId": "wh216mj1k",
+      "isNew": true,
+      "nameEn": "Spot the Difference",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Spot Diff is a visual puzzle game where users compare two similar images and find the hidden differences between them.\n\nUsers can play quick image-based challenges, tap or mark the differences they discover, and test their observation skills through simple, casual gameplay.\n\nThe add-on is useful for brain breaks, classroom activities, family games, visual attention practice, puzzle content, and interactive design projects.",
+      "descriptionEn": "Spot Diff is a visual puzzle game where users compare two similar images and find the hidden differences between them.\n\nUsers can play quick image-based challenges, tap or mark the differences they discover, and test their observation skills through simple, casual gameplay.\n\nThe add-on is useful for brain breaks, classroom activities, family games, visual attention practice, puzzle content, and interactive design projects.",
+      "descriptionJa": "Spot Diffは、2つの似た画像を比較して隠された違いを見つけるビジュアルパズルゲームです。ユーザーは画像ベースのクイックチャレンジをプレイし、発見した違いをタップまたはマークして、シンプルでカジュアルなゲームプレイを通じて観察スキルをテストできます。脳トレーニング、教室活動、家族ゲーム、視覚的注意力練習、パズルコンテンツ、インタラクティブデザインプロジェクトに最適です。",
+      "descriptionKo": "Spot Diff는 두 개의 비슷한 이미지를 비교하여 숨겨진 차이를 찾는 시각적 퍼즐 게임입니다. 사용자는 이미지 기반 퀵 챌린지를 플레이하고, 발견한 차이를 탭 또는 마크하여 간단한 캐주얼 게임플레이를 통해 관찰력을 테스트할 수 있습니다. 뇌 휴식, 교실 활동, 가족 게임, 시각적 집중력 연습, 퍼즐 콘텐츠, 인터랙티브 디자인 프로젝트에 유용합니다.",
+      "keywords": [
+        "違いを見つける",
+        "違い探し",
+        "パズル",
+        "ビジュアルゲーム",
+        "画像ゲーム",
+        "脳ゲーム",
+        "隠された違い"
+      ],
+      "keywordsEn": [
+        "spot difference",
+        "find differences",
+        "puzzle",
+        "visual game",
+        "image game",
+        "brain game",
+        "hidden differences"
+      ],
+      "keywordsJa": [
+        "違いを見つける",
+        "違い探し",
+        "パズル",
+        "ビジュアルゲーム",
+        "画像ゲーム",
+        "脳ゲーム",
+        "隠された違い"
+      ],
+      "keywordsKo": [
+        "다른 점 찾기",
+        "차이 찾기",
+        "퍼즐",
+        "비주얼 게임",
+        "이미지 게임",
+        "두뇌 게임",
+        "숨겨진 차이"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wh216mj1k"
+    },
+    {
+      "id": "emoji-avatar-maker",
+      "addOnId": "whgj30l69",
+      "isNew": true,
+      "nameEn": "Emoji Avatar Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Emoji Mood Avatar helps users transform a face photo\ninto a stylized avatar that reflects a selected emoji mood.\n\nUsers can upload a portrait,\nchoose from preset emotional expressions\nor provide a custom emoji,\ngenerate a matching avatar result,\npreview it, and place the final image directly\ninto an Adobe Express design.\n\nThe add-on is useful for social graphics,\nstickers, profile-style illustrations,\nreaction visuals, and playful branded content.",
+      "descriptionEn": "Emoji Mood Avatar helps users transform a face photo\ninto a stylized avatar that reflects a selected emoji mood.\n\nUsers can upload a portrait,\nchoose from preset emotional expressions\nor provide a custom emoji,\ngenerate a matching avatar result,\npreview it, and place the final image directly\ninto an Adobe Express design.\n\nThe add-on is useful for social graphics,\nstickers, profile-style illustrations,\nreaction visuals, and playful branded content.",
+      "descriptionJa": "Emoji Mood Avatarは、顔写真をスタイライズされたアバターに変換し、選択した絵文字の気分を反映させるのを支援します。ユーザーはポートレートをアップロードしてプリセット感情表現または自定義絵文字を選択し、マッチするアバターを生成してプレビューし、最終画像をAdobe Expressデザインに直接配置できます。ソーシャルグラフィック、ステッカー、プロフィールスタイルイラスト、リアクション画像、遊び心のあるブランドコンテンツに最適です。",
+      "descriptionKo": "Emoji Mood Avatar는 얼굴 사진을 선택한 이모지 분위기를 반영하는 스타일화된 아바타로 변환하는 데 도움을 줍니다. 사용자는 초상화를 업로드하여 사전 설정된 감정 표현이나 맞춤 이모지를 선택하고, 일치하는 아바타를 생성한 후 미리 보고 최종 이미지를 Adobe Express 디자인에 직접 배치할 수 있습니다. 소셜 그래픽, 스티커, 프로필 스타일 일러스트레이션, 반응 이미지, 장난기 있는 브랜드 콘텐츠에 유용합니다.",
+      "keywords": [
+        "絵文字アバター",
+        "気分アバター",
+        "顔アバター",
+        "ステッカージェネレーター",
+        "リアクション画像",
+        "AI肖像"
+      ],
+      "keywordsEn": [
+        "emoji avatar",
+        "mood avatar",
+        "face avatar",
+        "sticker generator",
+        "reaction image",
+        "AI portrait"
+      ],
+      "keywordsJa": [
+        "絵文字アバター",
+        "気分アバター",
+        "顔アバター",
+        "ステッカージェネレーター",
+        "リアクション画像",
+        "AI肖像"
+      ],
+      "keywordsKo": [
+        "이모지 아바타",
+        "기분 아바타",
+        "얼굴 아바타",
+        "스티커 생성기",
+        "반응 이미지",
+        "AI 초상"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=whgj30l69"
+    },
+    {
+      "id": "word-clouds-by-bjorn",
+      "addOnId": "whj49g673",
+      "isNew": true,
+      "nameEn": "Word Clouds by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Quickly design and add \"word clouds\" to your designs.\nSupports three types of clouds:\n- Classic cloud\n- Packed circles\n- Tree map\nShow frequency using various properties such as font size, color and transparency.",
+      "descriptionEn": "Quickly design and add \"word clouds\" to your designs.\nSupports three types of clouds:\n- Classic cloud\n- Packed circles\n- Tree map\nShow frequency using various properties such as font size, color and transparency.",
+      "descriptionJa": "デザインに「ワードクラウド」を素早く設計して追加します。3つのタイプをサポート：クラシッククラウド、パッキングサークル、ツリーマップ。フォントサイズ、色、透明度などのさまざまなプロパティを使用して頻度を表示します。",
+      "descriptionKo": "디자인에 \"워드 클라우드\"를 빠르게 디자인하고 추가합니다. 클래식 클라우드, 패킹 서클, 트리맵 3가지 유형 지원. 글꼴 크기, 색상, 투명도 등 다양한 속성을 사용하여 빈도를 표시합니다.",
+      "keywords": [
+        "ワードクラウド",
+        "単語クラウド",
+        "ツリーマップ",
+        "パッキングサークル",
+        "インフォグラフィック"
+      ],
+      "keywordsEn": [
+        "wordclouds",
+        "word clouds",
+        "treemaps",
+        "packed circles",
+        "infographic"
+      ],
+      "keywordsJa": [
+        "ワードクラウド",
+        "単語クラウド",
+        "ツリーマップ",
+        "パッキングサークル",
+        "インフォグラフィック"
+      ],
+      "keywordsKo": [
+        "워드클라우드",
+        "단어 클라우드",
+        "트리맵",
+        "패킹 원형",
+        "인포그래픽"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=whj49g673"
+    },
+    {
+      "id": "doodle-overlay",
+      "addOnId": "wi4587h4k",
+      "isNew": true,
+      "nameEn": "Doodle Overlay",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Doodle Overlay helps users add hand-drawn style decorations to their photos and designs. Users can upload an image, choose a doodle style, and generate playful overlays such as outlines, arrows, sparkles, hearts, notes, stickers, and casual sketch marks.\n\nThe add-on is useful for social posts, lifestyle photos, mood boards, thumbnails, journals, posters, classroom content, product visuals, and personal creative projects.\n\nUsers can create a relaxed hand-drawn look without manually drawing each element. Generated results can be added back into the design for further editing.",
+      "descriptionEn": "Doodle Overlay helps users add hand-drawn style decorations to their photos and designs. Users can upload an image, choose a doodle style, and generate playful overlays such as outlines, arrows, sparkles, hearts, notes, stickers, and casual sketch marks.\n\nThe add-on is useful for social posts, lifestyle photos, mood boards, thumbnails, journals, posters, classroom content, product visuals, and personal creative projects.\n\nUsers can create a relaxed hand-drawn look without manually drawing each element. Generated results can be added back into the design for further editing.",
+      "descriptionJa": "Doodle Overlayは、写真やデザインに手書き風のデコレーションを追加できます。画像をアップロードして、落書きスタイルを選択すると、アウトライン、矢印、キラキラ、ハート、メモ、ステッカー、スケッチなど、遊び心あふれるオーバーレイが生成されます。\n\nSNS投稿、ライフスタイル写真、ムードボード、サムネイル、ジャーナル、ポスター、教室コンテンツ、商品ビジュアル、個人的なクリエイティブプロジェクトに最適です。\n\n手作業で各要素を描かずに、リラックスした手書き風の表現を実現できます。生成された結果はデザインに追加してさらに編集することも可能です。",
+      "descriptionKo": "Doodle Overlay는 사진과 디자인에 손그림 스타일의 장식을 추가하는 데 도움을 줍니다. 이미지를 업로드하고 낙서 스타일을 선택하면 윤곽선, 화살표, 반짝임, 하트, 노트, 스티커, 캐주얼한 스케치 마크 등 재미있는 오버레이가 생성됩니다.\n\nSNS 게시물, 라이프스타일 사진, 무드보드, 썸네일, 저널, 포스터, 교실 콘텐츠, 제품 비주얼, 개인적인 창작 프로젝트에 유용합니다.\n\n각 요소를 직접 그리지 않고도 편안한 손그림 느낌을 만들 수 있습니다. 생성된 결과물을 디자인에 추가하여 추가 편집할 수 있습니다.",
+      "keywords": [
+        "落書き",
+        "オーバーレイ",
+        "手書き風",
+        "スケッチ",
+        "写真オーバーレイ",
+        "矢印",
+        "ハート",
+        "キラキラ",
+        "ステッカー",
+        "ジャーナル"
+      ],
+      "keywordsEn": [
+        "doodle",
+        "overlay",
+        "hand drawn",
+        "sketch",
+        "photo overlay",
+        "arrows",
+        "hearts",
+        "sparkles",
+        "stickers",
+        "journal"
+      ],
+      "keywordsJa": [
+        "落書き",
+        "オーバーレイ",
+        "手書き風",
+        "スケッチ",
+        "写真オーバーレイ",
+        "矢印",
+        "ハート",
+        "キラキラ",
+        "ステッカー",
+        "ジャーナル"
+      ],
+      "keywordsKo": [
+        "낙서",
+        "오버레이",
+        "손그림",
+        "스케치",
+        "사진 오버레이",
+        "화살표",
+        "하트",
+        "반짝임",
+        "스티커",
+        "저널"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wi4587h4k"
+    },
+    {
+      "id": "mini-toon",
+      "addOnId": "wijh41nl3",
+      "isNew": true,
+      "nameEn": "Mini Toon",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn any photo into a cute cartoon or painted portrait right inside your Express design. Upload an image, pick a style, and the AI redraws it in the look you want — ready to drop onto your canvas.\nHow it works:\n\nUpload a photo from your design or device.\nPick a style: Anime, Classic Animation, 3D Animation, Chibi, Western Comic, Sketch, Watercolor, Oil Painting, Cyberpunk, or Gothic.\nGenerate the stylized portrait and insert the result into your layout.\n\nKey features:\n\nTen curated styles covering cartoon, painting, sketch, and stylized looks\nFace and pose aware rendering that keeps the subject recognizable\nHigh-resolution output suitable for social posts and print\nCredits-based generation with an optional unlimited subscription\n\nGreat for profile avatars, stickers, greeting cards, gift prints, posters, and social media content that needs a playful, hand-drawn feel.",
+      "descriptionEn": "Turn any photo into a cute cartoon or painted portrait right inside your Express design. Upload an image, pick a style, and the AI redraws it in the look you want — ready to drop onto your canvas.\nHow it works:\n\nUpload a photo from your design or device.\nPick a style: Anime, Classic Animation, 3D Animation, Chibi, Western Comic, Sketch, Watercolor, Oil Painting, Cyberpunk, or Gothic.\nGenerate the stylized portrait and insert the result into your layout.\n\nKey features:\n\nTen curated styles covering cartoon, painting, sketch, and stylized looks\nFace and pose aware rendering that keeps the subject recognizable\nHigh-resolution output suitable for social posts and print\nCredits-based generation with an optional unlimited subscription\n\nGreat for profile avatars, stickers, greeting cards, gift prints, posters, and social media content that needs a playful, hand-drawn feel.",
+      "descriptionJa": "Express内で、任意の写真をかわいいマンガやペイント風ポートレートに変換できます。画像をアップロードして、スタイルを選択すると、AIが希望の表現に変換し、キャンバスに配置できる状態で完成します。\n\n使い方：\n\nデザインまたはデバイスから写真をアップロードします。\nスタイルを選択：アニメ、クラシックアニメーション、3Dアニメーション、 chibi、ウェスタンコミック、スケッチ、水彩、油絵、サイバーパンク、ゴシック。\nスタイル化されたポートレートを生成してレイアウトに挿入します。\n\n主な機能：\n\n漫画、絵画、スケッチ、スタイルアート表現を網羅した10種類のキュレーション済みスタイル\n顔と姿勢を認識し、被写体の認識性を保つレンダリング\nSNS投稿とプリント用途に適した高解像度出力\nクレジットベースの生成。オプションで無制限サブスクリプション対応\n\nプロフィールアバター、ステッカー、グリーティングカード、ギフトプリント、ポスター、遊び心のある手書き風のSNSコンテンツに最適です。",
+      "descriptionKo": "Express 내에서 사진을 귀여운 만화 또는 그림 풍의 초상화로 변환할 수 있습니다. 이미지를 업로드하고 스타일을 선택하면 AI가 원하는 스타일로 다시 그려 캔버스에 바로 삽입할 수 있습니다.\n\n작동 방식:\n\n디자인 또는 기기에서 사진을 업로드합니다.\n스타일 선택: 애니메, 클래식 애니메이션, 3D 애니메이션, 치비, 웨스턴 코믹, 스케치, 수채화, 유화, 사이버펑크 또는 고딕.\n스타일화된 초상화를 생성하여 레이아웃에 삽입합니다.\n\n주요 기능:\n\n만화, 회화, 스케치 및 스타일화된 표현을 다루는 10가지 큐레이션된 스타일\n얼굴과 자세를 인식하여 대상을 인식 가능한 상태로 유지하는 렌더링\nSNS 게시물 및 인쇄에 적합한 고해상도 출력\n크레딧 기반 생성 및 선택적 무제한 구독\n\n프로필 아바타, 스티커, 인사장, 선물 인쇄물, 포스터 및 손그림 느낌의 친근한 소셜 미디어 콘텐츠에 최적입니다.",
+      "keywords": [
+        "漫画ポートレート",
+        "アニメスタイル",
+        " chibi",
+        "水彩",
+        "油絵",
+        "サイバーパンク",
+        "スケッチ",
+        "ゴシックアート"
+      ],
+      "keywordsEn": [
+        "cartoon portrait",
+        "anime style",
+        "chibi",
+        "watercolor",
+        "oil painting",
+        "cyberpunk",
+        "sketch",
+        "gothic art"
+      ],
+      "keywordsJa": [
+        "漫画ポートレート",
+        "アニメスタイル",
+        " chibi",
+        "水彩",
+        "油絵",
+        "サイバーパンク",
+        "スケッチ",
+        "ゴシックアート"
+      ],
+      "keywordsKo": [
+        "만화 초상화",
+        "애니메 스타일",
+        "치비",
+        "수채화",
+        "유화",
+        "사이버펑크",
+        "스케치",
+        "고딕 아트"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wijh41nl3"
+    },
+    {
+      "id": "ai-home-exterior",
+      "addOnId": "wikj4nih6",
+      "isNew": true,
+      "nameEn": "AI Home Exterior",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI Home Exterior helps users visualize new architectural looks\nfrom a house photo inside Adobe Express.\n\nUsers can upload an exterior image,\nchoose from curated design styles such as modern minimalist,\nMediterranean, Scandinavian, rustic farmhouse,\nor enter a custom transformation prompt.\n\nThe add-on generates a redesigned exterior concept,\npreviews the result,\nand lets users place the final image directly\ninto an Adobe Express design.",
+      "descriptionEn": "AI Home Exterior helps users visualize new architectural looks\nfrom a house photo inside Adobe Express.\n\nUsers can upload an exterior image,\nchoose from curated design styles such as modern minimalist,\nMediterranean, Scandinavian, rustic farmhouse,\nor enter a custom transformation prompt.\n\nThe add-on generates a redesigned exterior concept,\npreviews the result,\nand lets users place the final image directly\ninto an Adobe Express design.",
+      "descriptionJa": "AI Home Exteriorは、Adobe Express内で住宅写真から新しい建築表現を視覚化するのに役立ちます。\n\n外観画像をアップロードして、モダンミニマル、地中海、スカンジナビア、素朴なファームハウスなどのキュレーション済みデザインスタイルから選択するか、カスタム変換プロンプトを入力できます。\n\nアドオンが再デザインされた外観コンセプトを生成し、結果をプレビューして、最終画像をAdobe Expressデザインに直接配置できます。",
+      "descriptionKo": "AI Home Exterior는 Adobe Express 내에서 주택 사진을 통해 새로운 건축 표현을 시각화하는 데 도움을 줍니다.\n\n외부 이미지를 업로드하고 모던 미니멀, 지중해식, 스칸디나비아식, 소박한 팜하우스 등의 큐레이션된 디자인 스타일 중에서 선택하거나 맞춤 변환 프롬프트를 입력할 수 있습니다.\n\n애드온이 재설계된 외부 개념을 생성하고 결과를 미리 보며 최종 이미지를 Adobe Express 디자인에 직접 배치할 수 있습니다.",
+      "keywords": [
+        "住宅外観",
+        "建築コンセプト",
+        "家のリフォーム",
+        "ファサード設計",
+        "AI改築",
+        "外観リモデル"
+      ],
+      "keywordsEn": [
+        "home exterior",
+        "architecture concept",
+        "house makeover",
+        "facade design",
+        "AI renovation",
+        "exterior remodel"
+      ],
+      "keywordsJa": [
+        "住宅外観",
+        "建築コンセプト",
+        "家のリフォーム",
+        "ファサード設計",
+        "AI改築",
+        "外観リモデル"
+      ],
+      "keywordsKo": [
+        "주택 외관",
+        "건축 컨셉",
+        "집 개조",
+        "파사드 설계",
+        "AI 리노베이션",
+        "외부 리모델링"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wikj4nih6"
+    },
+    {
+      "id": "ai-content-hub",
+      "addOnId": "wj42l92gk",
+      "isNew": true,
+      "nameEn": "AI Content Hub",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Content Hub helps you turn your Adobe Express designs into ready-to-use social copy for X, Instagram, and LinkedIn. Write a prompt, capture your current page, and generate platform-specific captions tailored to your visual and message. Refine results with caption editing, hashtags, emojis, and Thinking Mode for more polished output. For X, My Voice can build a reusable tone profile from recent public posts so content sounds more like you. Content Hub also includes wallet-based credit purchases, helpful tutorials, and an optional Developer Mode for advanced users who want to use their own OpenAI and X API credentials.",
+      "descriptionEn": "Content Hub helps you turn your Adobe Express designs into ready-to-use social copy for X, Instagram, and LinkedIn. Write a prompt, capture your current page, and generate platform-specific captions tailored to your visual and message. Refine results with caption editing, hashtags, emojis, and Thinking Mode for more polished output. For X, My Voice can build a reusable tone profile from recent public posts so content sounds more like you. Content Hub also includes wallet-based credit purchases, helpful tutorials, and an optional Developer Mode for advanced users who want to use their own OpenAI and X API credentials.",
+      "descriptionJa": "Content Hubは、Adobe ExpressデザインをX、Instagram、LinkedInのすぐに使えるソーシャルコピーに変換するのに役立ちます。プロンプトを書き、現在のページをキャプチャすると、ビジュアルとメッセージに合わせたプラットフォーム固有のキャプションが生成されます。キャプション編集、ハッシュタグ、絵文字、より洗練されたアウトプットのためのシンキングモードで結果を調整できます。Xの場合、My Voiceは最近の公開投稿から再利用可能なトーンプロフィールを作成し、コンテンツがより個人らしい表現になります。Content Hubは、ウォレットベースのクレジット購入、役立つチュートリアル、独自のOpenAIおよびX APIクレデンシャルを使用したい上級ユーザー向けの開発者モードも含まれています。",
+      "descriptionKo": "Content Hub는 Adobe Express 디자인을 X, Instagram, LinkedIn용으로 바로 사용 가능한 소셜 미디어 카피로 변환하는 데 도움을 줍니다. 프롬프트를 작성하고 현재 페이지를 캡처하면 시각적 콘텐츠와 메시지에 맞는 플랫폼 특정 캡션이 생성됩니다. 캡션 편집, 해시태그, 이모지 및 더 완성도 높은 결과를 위한 Thinking Mode로 결과물을 다듬을 수 있습니다. X의 경우 My Voice는 최근 공개 게시물로부터 재사용 가능한 톤 프로필을 구축하여 콘텐츠가 더욱 개인다운 느낌을 줍니다. Content Hub는 지갑 기반 크레딧 구매, 유용한 튜토리얼 및 자신의 OpenAI 및 X API 자격 증명을 사용하려는 고급 사용자를 위한 Developer Mode도 포함합니다.",
+      "keywords": [
+        "AIキャプション",
+        "ソーシャルメディアキャプション",
+        "キャプション生成",
+        "Instagramキャプション",
+        "LinkedIn投稿",
+        "X投稿"
+      ],
+      "keywordsEn": [
+        "AI captions",
+        "social media captions",
+        "caption generator",
+        "Instagram captions",
+        "LinkedIn posts",
+        "X posts."
+      ],
+      "keywordsJa": [
+        "AIキャプション",
+        "ソーシャルメディアキャプション",
+        "キャプション生成",
+        "Instagramキャプション",
+        "LinkedIn投稿",
+        "X投稿"
+      ],
+      "keywordsKo": [
+        "AI 캡션",
+        "소셜 미디어 캡션",
+        "캡션 생성",
+        "인스타그램 캡션",
+        "LinkedIn 포스트",
+        "X 게시물"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj42l92gk"
+    },
+    {
+      "id": "doodle-portrait",
+      "addOnId": "wjlkm41k2",
+      "isNew": true,
+      "nameEn": "Doodle Portrait",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn any photo into a playful doodle-style portrait right inside your Express design. Upload a selfie, pet photo, or character image and the add-on redraws it with bold outlines, simple shapes, and a hand-made doodle feel — ready to drop onto your canvas.\n\nHow it works:\n\nUpload a photo from your design or device.\nGenerate the doodle portrait.\nInsert the result directly into your layout.\nKey features:\n\nDoodle-style rendering with bold lines and simple shapes\nFace and pose aware output that keeps the subject recognizable\nTransparent-friendly output that layers cleanly over any background\nCredits-based generation with an optional unlimited subscription\nGreat for stickers, greeting cards, personalized gifts, kids' content, classroom materials, profile avatars, and social posts that need a warm, hand-drawn feel.",
+      "descriptionEn": "Turn any photo into a playful doodle-style portrait right inside your Express design. Upload a selfie, pet photo, or character image and the add-on redraws it with bold outlines, simple shapes, and a hand-made doodle feel — ready to drop onto your canvas.\n\nHow it works:\n\nUpload a photo from your design or device.\nGenerate the doodle portrait.\nInsert the result directly into your layout.\nKey features:\n\nDoodle-style rendering with bold lines and simple shapes\nFace and pose aware output that keeps the subject recognizable\nTransparent-friendly output that layers cleanly over any background\nCredits-based generation with an optional unlimited subscription\nGreat for stickers, greeting cards, personalized gifts, kids' content, classroom materials, profile avatars, and social posts that need a warm, hand-drawn feel.",
+      "descriptionJa": "Express内で、任意の写真を遊び心あふれる落書きスタイルのポートレートに変換できます。自撮り写真、ペットの写真、またはキャラクター画像をアップロードすると、太い輪郭、シンプルな形、手作業の落書き風に変換され、キャンバスに配置できる状態で完成します。\n\n使い方：\n\nデザインまたはデバイスから写真をアップロードします。\n落書きポートレートを生成します。\n結果をレイアウトに直接挿入します。\n\n主な機能：\n\n太いラインとシンプルな形の落書きスタイルレンダリング\n顔と姿勢を認識し、被写体の認識性を保つ出力\n透明性に対応した出力で、任意の背景にクリーンに重ねられる\nクレジットベースの生成。オプションで無制限サブスクリプション対応\n\nステッカー、グリーティングカード、パーソナライズされたギフト、キッズコンテンツ、教室教材、プロフィールアバター、暖かみのある手書き風のSNS投稿に最適です。",
+      "descriptionKo": "Express 내에서 사진을 재미있는 낙서 스타일의 초상화로 변환할 수 있습니다. 셀피, 반려동물 사진 또는 캐릭터 이미지를 업로드하면 굵은 윤곽선, 단순한 형태, 손으로 그린 낙서 느낌으로 다시 그려져 캔버스에 바로 삽입할 수 있습니다.\n\n작동 방식:\n\n디자인 또는 기기에서 사진을 업로드합니다.\n낙서 초상화를 생성합니다.\n결과물을 레이아웃에 직접 삽입합니다.\n\n주요 기능:\n\n굵은 선과 단순한 형태의 낙서 스타일 렌더링\n얼굴과 자세를 인식하여 대상을 인식 가능한 상태로 유지하는 출력\n투명성을 지원하는 출력으로 모든 배경에 깔끔하게 레이어링 가능\n크레딧 기반 생성 및 선택적 무제한 구독\n\n스티커, 인사장, 개인화된 선물, 어린이 콘텐츠, 교실 자료, 프로필 아바타 및 따뜻한 손그림 느낌의 소셜 게시물에 최적입니다.",
+      "keywords": [
+        "落書きアート",
+        "ラインアート",
+        "スケッチポートレート",
+        "スクリブル",
+        "かわいいアバター",
+        "手書き風",
+        "ステッカー"
+      ],
+      "keywordsEn": [
+        "doodle art",
+        "line art",
+        "sketch portrait",
+        "scribble",
+        "cute avatar",
+        "hand drawn",
+        "sticker"
+      ],
+      "keywordsJa": [
+        "落書きアート",
+        "ラインアート",
+        "スケッチポートレート",
+        "スクリブル",
+        "かわいいアバター",
+        "手書き風",
+        "ステッカー"
+      ],
+      "keywordsKo": [
+        "낙서 아트",
+        "라인 아트",
+        "스케치 초상화",
+        "스크리블",
+        "귀여운 아바타",
+        "손그림",
+        "스티커"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wjlkm41k2"
+    },
+    {
+      "id": "accessibility-auditor",
+      "addOnId": "wk13nl48n",
+      "isNew": true,
+      "nameEn": "Accessibility Auditor",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Accessibility Flow Auditor scans your multi-page Adobe Express documents for narrative accessibility issues that screen readers struggle with.\n\nKEY FEATURES:\n• Multi-page layer parsing — detects images blocking headings, inconsistent reading order, and missing alt text across all pages\n• WCAG heatmap — visual per-page compliance score (green-to-red gradient) that updates in real-time after fixes\n• Screen reader simulation — hear your document's reading flow with Web Speech API, with jump detection for order anomalies\n• One-click fixes — auto-contrast correction (WCAG AA 4.5:1), drag-drop reading order, batch fix button\n• Alt text editing — manual entry or AI-assisted descriptions via configurable backend\n• WCAG reports — export PDF or CSV with page-by-page scores, issues, reading order, and contrast details\n\nBuilt for compliance teams, designers, and educators who need accessible content.",
+      "descriptionEn": "Accessibility Flow Auditor scans your multi-page Adobe Express documents for narrative accessibility issues that screen readers struggle with.\n\nKEY FEATURES:\n• Multi-page layer parsing — detects images blocking headings, inconsistent reading order, and missing alt text across all pages\n• WCAG heatmap — visual per-page compliance score (green-to-red gradient) that updates in real-time after fixes\n• Screen reader simulation — hear your document's reading flow with Web Speech API, with jump detection for order anomalies\n• One-click fixes — auto-contrast correction (WCAG AA 4.5:1), drag-drop reading order, batch fix button\n• Alt text editing — manual entry or AI-assisted descriptions via configurable backend\n• WCAG reports — export PDF or CSV with page-by-page scores, issues, reading order, and contrast details\n\nBuilt for compliance teams, designers, and educators who need accessible content.",
+      "descriptionJa": "Accessibility Flow Auditor は、Adobe Express の複数ページドキュメントをスキャンして、スクリーンリーダーが読み取りにくいアクセシビリティの問題を検出します。\n\n主な機能：\n• 複数ページレイヤー解析 — 見出しを塞ぐ画像、矛盾した読み取り順序、すべてのページの代替テキスト欠落を検出\n• WCAG ヒートマップ — ページごとのコンプライアンススコアを色付き表示（緑〜赤）で修正後もリアルタイム更新\n• スクリーンリーダーシミュレーション — Web Speech API でドキュメントの読み上げ順序を確認し、順序の異常を検出\n• ワンクリック修正 — 自動コントラスト補正（WCAG AA 4.5:1）、ドラッグドロップでの読み取り順序変更、一括修正\n• 代替テキスト編集 — 手動入力または設定可能なバックエンド経由の AI 支援説明\n• WCAG レポート — PDF または CSV で、ページごとのスコア、問題、読み取り順序、コントラスト詳細をエクスポート\n\nコンプライアンスチーム、デザイナー、教育者向けのアクセシブルなコンテンツ作成ツール。",
+      "descriptionKo": "Accessibility Flow Auditor는 Adobe Express의 여러 페이지 문서를 스캔하여 스크린 리더가 읽기 어려운 접근성 문제를 감지합니다.\n\n주요 기능:\n• 다중 페이지 레이어 분석 — 제목을 차단하는 이미지, 일관성 없는 읽기 순서, 모든 페이지의 누락된 대체 텍스트 감지\n• WCAG 히트맵 — 페이지별 준수 점수를 색상 표시(녹색~빨강)로 수정 후 실시간 업데이트\n• 스크린 리더 시뮬레이션 — Web Speech API로 문서의 읽기 순서를 청취하고 순서 이상 감지\n• 한 클릭 수정 — 자동 명암도 보정(WCAG AA 4.5:1), 드래그 드롭 읽기 순서 변경, 일괄 수정\n• 대체 텍스트 편집 — 수동 입력 또는 설정 가능한 백엔드 기반 AI 지원 설명\n• WCAG 보고서 — PDF 또는 CSV로 페이지별 점수, 문제, 읽기 순서, 명암도 세부 정보 내보내기\n\n규정 준수 팀, 디자이너, 교육자를 위한 접근 가능한 콘텐츠 작성 도구입니다.",
+      "keywords": [
+        "アクセシビリティ",
+        "WCAG",
+        "スクリーンリーダー",
+        "代替テキスト",
+        "コントラスト",
+        "監査",
+        "a11y",
+        "コンプライアンス",
+        "インクルーシブデザイン"
+      ],
+      "keywordsEn": [
+        "accessibility",
+        "WCAG",
+        "screen reader",
+        "alt text",
+        "contrast",
+        "audit",
+        "a11y",
+        "compliance",
+        "inclusive design"
+      ],
+      "keywordsJa": [
+        "アクセシビリティ",
+        "WCAG",
+        "スクリーンリーダー",
+        "代替テキスト",
+        "コントラスト",
+        "監査",
+        "a11y",
+        "コンプライアンス",
+        "インクルーシブデザイン"
+      ],
+      "keywordsKo": [
+        "접근성",
+        "WCAG",
+        "스크린 리더",
+        "대체 텍스트",
+        "명암도",
+        "감사",
+        "a11y",
+        "준수",
+        "포용적 디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk13nl48n"
+    },
+    {
+      "id": "ai-drawing-maker",
+      "addOnId": "wl3m12792",
+      "isNew": true,
+      "nameEn": "AI Drawing Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create hand-drawn sketches and illustrations right inside your Express design. Describe a drawing in plain text, or upload a photo to convert it into a sketch — the add-on returns clean line art with pencil shading and paper texture, ready to drop onto your canvas.\n\nHow it works:\n\nChoose text-to-drawing or image-to-drawing mode.\nType a prompt describing what you want, or upload a reference photo.\nGenerate the sketch and insert the result into your layout.\nKey features:\n\nText-to-drawing for illustrations from a description alone\nImage-to-drawing to convert any photo into a sketch\nHand-drawn look with pencil shading, line work, and paper texture\nTransparent PNG output that layers cleanly over any background\nCredits-based generation with an optional unlimited subscription\nGreat for storyboards, coloring pages, greeting cards, zines, presentation illustrations, and social media graphics",
+      "descriptionEn": "Create hand-drawn sketches and illustrations right inside your Express design. Describe a drawing in plain text, or upload a photo to convert it into a sketch — the add-on returns clean line art with pencil shading and paper texture, ready to drop onto your canvas.\n\nHow it works:\n\nChoose text-to-drawing or image-to-drawing mode.\nType a prompt describing what you want, or upload a reference photo.\nGenerate the sketch and insert the result into your layout.\nKey features:\n\nText-to-drawing for illustrations from a description alone\nImage-to-drawing to convert any photo into a sketch\nHand-drawn look with pencil shading, line work, and paper texture\nTransparent PNG output that layers cleanly over any background\nCredits-based generation with an optional unlimited subscription\nGreat for storyboards, coloring pages, greeting cards, zines, presentation illustrations, and social media graphics",
+      "descriptionJa": "Express デザイン内で手描きスケッチとイラストを直接作成できます。テキストで描画内容を説明するか、写真をアップロードしてスケッチに変換 — アドオンが鉛筆の陰影と紙のテクスチャを加えたクリーンなラインアートを返し、キャンバスに配置できます。\n\n使い方：\n\nテキストから描画、または画像から描画モードを選択\n説明プロンプトを入力するか、参照写真をアップロード\nスケッチを生成して、レイアウトに挿入\n主な機能：\n\nテキストから描画で説明だけからイラストを生成\n画像から描画で任意の写真をスケッチに変換\n鉛筆の陰影、ラインワーク、紙のテクスチャを持つ手描き風\n透明 PNG 出力で任意の背景にクリーンに重ねられる\nクレジットベースの生成と、オプションの無制限サブスクリプション\nストーリーボード、塗り絵、グリーティングカード、ザイン、プレゼンテーションイラスト、ソーシャルメディアグラフィックスに最適",
+      "descriptionKo": "Express 디자인 내에서 손그린 스케치와 일러스트를 직접 생성할 수 있습니다. 텍스트로 그림을 설명하거나 사진을 업로드하여 스케치로 변환 — 애드온이 연필 음영과 종이 질감이 있는 깔끔한 라인 아트를 반환하고, 캔버스에 배치할 수 있습니다.\n\n작동 방식:\n\n텍스트 드로잉 또는 이미지 드로잉 모드 선택\n원하는 내용을 설명하는 프롬프트를 입력하거나 참조 사진 업로드\n스케치를 생성하고 결과를 레이아웃에 삽입\n주요 기능:\n\n텍스트 드로잉으로 설명만으로 일러스트 생성\n이미지 드로잉으로 모든 사진을 스케치로 변환\n연필 음영, 선 작업, 종이 질감이 있는 손그린 느낌\n어떤 배경 위에도 깔끔하게 겹칠 수 있는 투명 PNG 출력\n크레딧 기반 생성 및 선택 무제한 구독\n스토리보드, 색칠 페이지, 인사말 카드, 잡지, 프레젠테이션 일러스트, 소셜 미디어 그래픽에 최적",
+      "keywords": [
+        "スケッチ生成",
+        "鉛筆描画",
+        "手描き",
+        "イラスト",
+        "ラインアート",
+        "落書き",
+        "テキスト to スケッチ"
+      ],
+      "keywordsEn": [
+        "sketch generator",
+        "pencil drawing",
+        "hand drawn",
+        "illustration",
+        "line art",
+        "doodle",
+        "text to sketch"
+      ],
+      "keywordsJa": [
+        "スケッチ生成",
+        "鉛筆描画",
+        "手描き",
+        "イラスト",
+        "ラインアート",
+        "落書き",
+        "テキスト to スケッチ"
+      ],
+      "keywordsKo": [
+        "스케치 생성",
+        "연필 드로잉",
+        "손그림",
+        "일러스트",
+        "라인 아트",
+        "낙서",
+        "텍스트 to 스케치"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl3m12792"
+    },
+    {
+      "id": "ai-face-swapper",
+      "addOnId": "wl8m4jhm7",
+      "isNew": true,
+      "nameEn": "AI Face Swapper",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Use our free AI face swapper to instantly replace faces in photos and videos. Get seamless, realistic video face swap results online, perfect for memes, social posts, and creative projects.",
+      "descriptionEn": "Use our free AI face swapper to instantly replace faces in photos and videos. Get seamless, realistic video face swap results online, perfect for memes, social posts, and creative projects.",
+      "descriptionJa": "無料の AI 顔交換ツールで、写真と動画の顔を即座に入れ替えます。シームレスでリアルな顔交換結果をオンラインで取得でき、ミーム、ソーシャルポスト、クリエイティブプロジェクトに最適です。",
+      "descriptionKo": "무료 AI 얼굴 교환 도구로 사진과 동영상의 얼굴을 즉시 교체합니다. 매끄럽고 현실적인 얼굴 교환 결과를 온라인에서 얻으며, 밈, 소셜 포스트, 크리에이티브 프로젝트에 완벽합니다.",
+      "keywords": [
+        "顔交換",
+        "顔の入れ替え",
+        "顔変換",
+        "フェイススワップ",
+        "AI 顔交換",
+        "顔エディタ",
+        "顔交換機能"
+      ],
+      "keywordsEn": [
+        "face swap",
+        "swap faces",
+        "transform faces",
+        "faceswap",
+        "swaps faces",
+        "ai face swap",
+        "face editor",
+        "face swapping"
+      ],
+      "keywordsJa": [
+        "顔交換",
+        "顔の入れ替え",
+        "顔変換",
+        "フェイススワップ",
+        "AI 顔交換",
+        "顔エディタ",
+        "顔交換機能"
+      ],
+      "keywordsKo": [
+        "얼굴 교환",
+        "얼굴 바꾸기",
+        "얼굴 변환",
+        "페이스 스왑",
+        "AI 얼굴 교환",
+        "얼굴 에디터",
+        "얼굴 교환 기능"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl8m4jhm7"
+    },
+    {
+      "id": "color-transfer",
+      "addOnId": "wm81n9912",
+      "isNew": true,
+      "nameEn": "Color Transfer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Transform your image with AI color transfer. Seamlessly apply a palette from a reference image, create a custom one, or let our AI intelligently recolor the photo to elevate your entire design.",
+      "descriptionEn": "Transform your image with AI color transfer. Seamlessly apply a palette from a reference image, create a custom one, or let our AI intelligently recolor the photo to elevate your entire design.",
+      "descriptionJa": "AI カラートランスファーで画像を変身させます。参照画像からパレットをシームレスに適用するか、カスタムパレットを作成、または AI に任せて画像をインテリジェントに再カラーリングしてデザイン全体を引き立たせます。",
+      "descriptionKo": "AI 색상 전이로 이미지를 변신시킵니다. 참조 이미지에서 팔레트를 매끄럽게 적용하거나, 커스텀 팔레트를 생성하거나, AI가 이미지를 지능형으로 재색칠하여 전체 디자인을 향상시키세요.",
+      "keywords": [
+        "カラーピッカー",
+        "カラーグレーディング",
+        "画像カラートランスファー",
+        "AI 画像スタイル転送",
+        "색상 전이"
+      ],
+      "keywordsEn": [
+        "color picker",
+        "color grading",
+        "image colour transfer",
+        "ai image style transfer",
+        "transfer color"
+      ],
+      "keywordsJa": [
+        "カラーピッカー",
+        "カラーグレーディング",
+        "画像カラートランスファー",
+        "AI 画像スタイル転送",
+        "색상 전이"
+      ],
+      "keywordsKo": [
+        "색상 피커",
+        "색상 등급",
+        "이미지 색상 전이",
+        "AI 이미지 스타일 전이",
+        "색상 전환"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm81n9912"
+    },
+    {
+      "id": "relight-dark-photo",
+      "addOnId": "wmg284mih",
+      "isNew": true,
+      "nameEn": "Relight Dark Photo",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Rescue underexposed or flat photos and relight them with cinematic lighting right inside your Express design. Upload an image, pick a lighting preset, and the AI reimagines the scene with realistic light direction, color, and mood.\n﻿\nHow it works:\n﻿\nUpload a photo from your design or device.\nPick a lighting preset: Golden Hour, Blue Hour, Neon Glow, Dramatic Shadow, Soft Daylight, Sunset Warm, or Moonlight.\nGenerate the relit image and insert the result into your layout.\nKey features:\n﻿\nSeven curated lighting presets covering natural, cinematic, and nocturnal looks\nScene-aware rendering that preserves subject and composition\nWorks on portraits, products, landscapes, and interiors\nCredits-based generation with an optional unlimited subscription\nGreat for social posts, travel photos, e-commerce shots, portraits, and any image that needs a mood reset without",
+      "descriptionEn": "Rescue underexposed or flat photos and relight them with cinematic lighting right inside your Express design. Upload an image, pick a lighting preset, and the AI reimagines the scene with realistic light direction, color, and mood.\n﻿\nHow it works:\n﻿\nUpload a photo from your design or device.\nPick a lighting preset: Golden Hour, Blue Hour, Neon Glow, Dramatic Shadow, Soft Daylight, Sunset Warm, or Moonlight.\nGenerate the relit image and insert the result into your layout.\nKey features:\n﻿\nSeven curated lighting presets covering natural, cinematic, and nocturnal looks\nScene-aware rendering that preserves subject and composition\nWorks on portraits, products, landscapes, and interiors\nCredits-based generation with an optional unlimited subscription\nGreat for social posts, travel photos, e-commerce shots, portraits, and any image that needs a mood reset without",
+      "descriptionJa": "露出不足またはフラットな写真をレスキューし、Express デザイン内でシネマティックライティングで再ライティングします。画像をアップロード、ライティングプリセットを選択すると、AI がリアルな光の方向、色、ムードで シーンを再現します。\n\n使い方：\n\nデザインまたはデバイスから写真をアップロード\nライティングプリセットを選択：ゴールデンアワー、ブルーアワー、ネオングロー、ドラマティックシャドー、ソフトデイライト、サンセットウォーム、ムーンライト\n再ライティングされた画像を生成してレイアウトに挿入\n主な機能：\n\n自然、シネマティック、夜間ルックをカバーする 7 つのキュレーション済みライティングプリセット\nシーンに対応したレンダリングで被写体と構図を保持\nポートレート、プロダクト、ランドスケープ、インテリアで動作\nクレジットベースの生成とオプションの無制限サブスクリプション\nソーシャルポスト、旅行写真、eコマース画像、ポートレート、ムード調整が必要な任意の画像に最適",
+      "descriptionKo": "노출 부족하거나 밋밋한 사진을 구하고 Express 디자인 내에서 시네마틱 라이팅으로 재조명합니다. 이미지를 업로드하고 라이팅 프리셋을 선택하면 AI가 현실적인 광선 방향, 색상, 분위기로 장면을 재현합니다.\n\n작동 방식:\n\n디자인 또는 기기에서 사진 업로드\n라이팅 프리셋 선택: 골든 아워, 블루 아워, 네온 글로우, 드라마틱 섀도우, 소프트 데이라이트, 선셋 웜, 문라이트\n재조명된 이미지를 생성하고 결과를 레이아웃에 삽입\n주요 기능:\n\n자연, 시네마틱, 야간 조명을 포함하는 7가지 큐레이션된 라이팅 프리셋\n피사체와 구도를 보존하는 장면 인식 렌더링\n인물, 제품, 풍경, 인테리어에서 작동\n크레딧 기반 생성 및 선택 무제한 구독\n소셜 포스트, 여행 사진, 전자상거래 이미지, 인물 사진, 분위기 재설정이 필요한 모든 이미지에 최적",
+      "keywords": [
+        "低光量修正",
+        "ゴールデンアワー",
+        "ブルーアワー",
+        "ネオンライト",
+        "ムーンライト",
+        "シネマティックライト",
+        "写真ライティング"
+      ],
+      "keywordsEn": [
+        "low light fix",
+        "golden hour",
+        "blue hour",
+        "neon light",
+        "moonlight",
+        "cinematic light",
+        "photo lighting"
+      ],
+      "keywordsJa": [
+        "低光量修正",
+        "ゴールデンアワー",
+        "ブルーアワー",
+        "ネオンライト",
+        "ムーンライト",
+        "シネマティックライト",
+        "写真ライティング"
+      ],
+      "keywordsKo": [
+        "저광량 보정",
+        "골든 아워",
+        "블루 아워",
+        "네온 라이트",
+        "문라이트",
+        "시네마틱 라이트",
+        "사진 조명"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wmg284mih"
+    },
+    {
+      "id": "hairstyle-changer",
+      "addOnId": "wn20m6426",
+      "isNew": true,
+      "nameEn": "Hairstyle Changer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Easily try on different styles of hairstyles and colors online. Create new looks with virtual haircuts and find your perfect hair color with ai haircut generator.",
+      "descriptionEn": "Easily try on different styles of hairstyles and colors online. Create new looks with virtual haircuts and find your perfect hair color with ai haircut generator.",
+      "descriptionJa": "様々なヘアスタイルと髪色をオンラインで試すことができます。AIヘアカットジェネレーターを使用して新しいルックを作成し、理想の髪色を見つけましょう。",
+      "descriptionKo": "다양한 헤어스타일과 색상을 온라인으로 미리 시도해보세요. AI 헤어컷 생성기로 새로운 이미지를 만들고 완벽한 헤어 컬러를 찾아보세요.",
+      "keywords": [
+        "ヘアスタイル",
+        "AI ヘアスタイル",
+        "バーチャルヘアカット",
+        "髪型",
+        "髪色",
+        "ヘアカラー",
+        "ヘアスタイルデザイン"
+      ],
+      "keywordsEn": [
+        "hairstyles",
+        "hairstyle ai",
+        "virtual haircut generator",
+        "haircuts",
+        "hair color",
+        "hair dye",
+        "hairstyle design"
+      ],
+      "keywordsJa": [
+        "ヘアスタイル",
+        "AI ヘアスタイル",
+        "バーチャルヘアカット",
+        "髪型",
+        "髪色",
+        "ヘアカラー",
+        "ヘアスタイルデザイン"
+      ],
+      "keywordsKo": [
+        "헤어스타일",
+        "AI 헤어스타일",
+        "가상 헤어컷",
+        "헤어스타일",
+        "머리 색깔",
+        "헤어 염색",
+        "헤어 디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn20m6426"
     }
   ],
   "metadata": {
-    "totalCount": 521,
-    "lastUpdated": "2026-05-08",
+    "totalCount": 552,
+    "lastUpdated": "2026-05-22",
     "source": "Web research and official documentation",
     "categories": {
       "accessibility": "アクセシビリティ",
