@@ -8,3 +8,26 @@ CLAUDE.md
 CLAUDE_CLI_INSTRUCTIONS.md
 HANDOFF.md
 src/assets/releasenote.md
+
+# Cloudflare Wrangler ローカル状態
+cloudflare-worker/.wrangler/
+
+# AI ワークフロー（内部ツール）
+.claude/
+.gemini/
+xpost-skill/
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+*.pyo
+
+# Cloudflare Worker（プロジェクト本体と分離）
+cloudflare-worker/
+
+# 大容量生データ（addons_data.json に変換済み）
+add-on-detail.json
+
+# 内部作業ドキュメント
+addon-id-collection.md
+MULTILINGUAL_DATA_GUIDE.md
