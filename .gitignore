@@ -16,6 +16,7 @@ cloudflare-worker/.wrangler/
 .claude/
 .gemini/
 xpost-skill/
+handoff_archive/
 
 # Python キャッシュ
 __pycache__/
