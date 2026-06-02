@@ -23042,7 +23042,7 @@
     {
       "id": "ai-photo-overlay",
       "addOnId": "w0065h9j9",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Photo Overlay",
       "nameJa": "",
       "nameKo": "",
@@ -23090,7 +23090,7 @@
     {
       "id": "ai-wedding-photo",
       "addOnId": "w0h8km918",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Wedding Photo",
       "nameJa": "",
       "nameKo": "",
@@ -23138,7 +23138,7 @@
     {
       "id": "ai-makeup-editor",
       "addOnId": "w24mi5mln",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Makeup Editor",
       "nameJa": "",
       "nameKo": "",
@@ -23198,7 +23198,7 @@
     {
       "id": "crayon-photo-ai",
       "addOnId": "w31jg16mn",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Crayon Photo AI",
       "nameJa": "",
       "nameKo": "",
@@ -23254,7 +23254,7 @@
     {
       "id": "brandfolder-connector",
       "addOnId": "w3gkk3032",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Brandfolder Connector",
       "nameJa": "",
       "nameKo": "",
@@ -23306,7 +23306,7 @@
     {
       "id": "export-to-idml",
       "addOnId": "w4ih169mk",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Export to IDML",
       "nameJa": "",
       "nameKo": "",
@@ -23347,7 +23347,7 @@
     {
       "id": "arrows-by-bjorn",
       "addOnId": "w54gg7lg3",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Arrows by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -23383,7 +23383,7 @@
     {
       "id": "profile-pic-studio",
       "addOnId": "w57516259",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Profile Pic Studio",
       "nameJa": "",
       "nameKo": "",
@@ -23435,7 +23435,7 @@
     {
       "id": "ai-sound-effects",
       "addOnId": "w5l627968",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Sound Effects",
       "nameJa": "",
       "nameKo": "",
@@ -23479,7 +23479,7 @@
     {
       "id": "seating-chart-maker",
       "addOnId": "w71798n59",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Seating Chart Maker",
       "nameJa": "",
       "nameKo": "",
@@ -23523,7 +23523,7 @@
     {
       "id": "unblur-image",
       "addOnId": "w72238h1j",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Unblur Image",
       "nameJa": "",
       "nameKo": "",
@@ -23568,7 +23568,7 @@
     {
       "id": "ai-bobblehead",
       "addOnId": "w8h41imj4",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Bobblehead",
       "nameJa": "",
       "nameKo": "",
@@ -23624,7 +23624,7 @@
     {
       "id": "sheets-translator",
       "addOnId": "w93j83562",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Sheets Translator",
       "nameJa": "",
       "nameKo": "",
@@ -23665,7 +23665,7 @@
     {
       "id": "ai-photo-to-painting",
       "addOnId": "w9hij1717",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Photo to Painting",
       "nameJa": "",
       "nameKo": "",
@@ -23721,7 +23721,7 @@
     {
       "id": "table-ocr",
       "addOnId": "wg2197nih",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Table OCR",
       "nameJa": "",
       "nameKo": "",
@@ -23762,7 +23762,7 @@
     {
       "id": "3d-sticker-maker",
       "addOnId": "wgml2j7h4",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "3D Sticker Maker",
       "nameJa": "",
       "nameKo": "",
@@ -23822,7 +23822,7 @@
     {
       "id": "photo-caricature",
       "addOnId": "wh1jml73m",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Photo Caricature",
       "nameJa": "",
       "nameKo": "",
@@ -23874,7 +23874,7 @@
     {
       "id": "spot-the-difference",
       "addOnId": "wh216mj1k",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Spot the Difference",
       "nameJa": "",
       "nameKo": "",
@@ -23926,7 +23926,7 @@
     {
       "id": "emoji-avatar-maker",
       "addOnId": "whgj30l69",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Emoji Avatar Maker",
       "nameJa": "",
       "nameKo": "",
@@ -23974,7 +23974,7 @@
     {
       "id": "word-clouds-by-bjorn",
       "addOnId": "whj49g673",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Word Clouds by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -24018,7 +24018,7 @@
     {
       "id": "doodle-overlay",
       "addOnId": "wi4587h4k",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Doodle Overlay",
       "nameJa": "",
       "nameKo": "",
@@ -24082,7 +24082,7 @@
     {
       "id": "mini-toon",
       "addOnId": "wijh41nl3",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Mini Toon",
       "nameJa": "",
       "nameKo": "",
@@ -24138,7 +24138,7 @@
     {
       "id": "ai-home-exterior",
       "addOnId": "wikj4nih6",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Home Exterior",
       "nameJa": "",
       "nameKo": "",
@@ -24186,7 +24186,7 @@
     {
       "id": "ai-content-hub",
       "addOnId": "wj42l92gk",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Content Hub",
       "nameJa": "",
       "nameKo": "",
@@ -24234,7 +24234,7 @@
     {
       "id": "doodle-portrait",
       "addOnId": "wjlkm41k2",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Doodle Portrait",
       "nameJa": "",
       "nameKo": "",
@@ -24286,7 +24286,7 @@
     {
       "id": "accessibility-auditor",
       "addOnId": "wk13nl48n",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Accessibility Auditor",
       "nameJa": "",
       "nameKo": "",
@@ -24346,7 +24346,7 @@
     {
       "id": "ai-drawing-maker",
       "addOnId": "wl3m12792",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Drawing Maker",
       "nameJa": "",
       "nameKo": "",
@@ -24398,7 +24398,7 @@
     {
       "id": "ai-face-swapper",
       "addOnId": "wl8m4jhm7",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Face Swapper",
       "nameJa": "",
       "nameKo": "",
@@ -24451,7 +24451,7 @@
     {
       "id": "color-transfer",
       "addOnId": "wm81n9912",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Color Transfer",
       "nameJa": "",
       "nameKo": "",
@@ -24495,7 +24495,7 @@
     {
       "id": "relight-dark-photo",
       "addOnId": "wmg284mih",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Relight Dark Photo",
       "nameJa": "",
       "nameKo": "",
@@ -24547,7 +24547,7 @@
     {
       "id": "hairstyle-changer",
       "addOnId": "wn20m6426",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Hairstyle Changer",
       "nameJa": "",
       "nameKo": "",
@@ -24595,11 +24595,924 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn20m6426"
+    },
+    {
+      "id": "designsense-ai",
+      "addOnId": "w259m7h94",
+      "isNew": true,
+      "nameEn": "DesignSense AI",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "DesignSense is an add-on designed for Adobe Express that helps users improve their designs through intelligent analysis and actionable suggestions. The add-on analyzes layout, alignment, spacing, typography, color harmony, and accessibility to generate a comprehensive design quality score. Users can identify issues such as inconsistent spacing, poor visual hierarchy, low contrast, and misalignment, and apply one-click adjustments to improve overall design quality.\n\nKey Features:\n• Design quality scoring system\n• Layout and alignment analysis\n• Typography and color evaluation\n• Accessibility checks (contrast and readability)\n• One-click design improvement suggestions\n• Visual heatmap for issue detection\n\nDesignSense helps creators, students, and marketing teams create more effective and professional designs directly within Adobe Express.",
+      "descriptionEn": "DesignSense is an add-on designed for Adobe Express that helps users improve their designs through intelligent analysis and actionable suggestions. The add-on analyzes layout, alignment, spacing, typography, color harmony, and accessibility to generate a comprehensive design quality score. Users can identify issues such as inconsistent spacing, poor visual hierarchy, low contrast, and misalignment, and apply one-click adjustments to improve overall design quality.\n\nKey Features:\n• Design quality scoring system\n• Layout and alignment analysis\n• Typography and color evaluation\n• Accessibility checks (contrast and readability)\n• One-click design improvement suggestions\n• Visual heatmap for issue detection\n\nDesignSense helps creators, students, and marketing teams create more effective and professional designs directly within Adobe Express.",
+      "descriptionJa": "DesignSenseはAdobe Express用のアドオンで、インテリジェント分析と実践的な提案を通じてユーザーのデザイン品質を向上させます。レイアウト、配置、余白、タイポグラフィ、色調和、アクセシビリティを分析し、包括的なデザイン品質スコアを生成します。間隔の不一貫性、視覚階層の欠落、コントラスト不足、配置のずれなどの問題を特定し、ワンクリックで調整を適用してデザイン品質全体を向上させることができます。",
+      "descriptionKo": "DesignSense는 Adobe Express용 애드온으로, 지능형 분석과 실행 가능한 제안을 통해 사용자의 디자인 품질을 개선합니다. 레이아웃, 정렬, 간격, 타이포그래피, 색상 조화, 접근성을 분석하여 종합적인 디자인 품질 점수를 생성합니다. 간격의 불일치, 약한 시각 계층 구조, 낮은 대비, 정렬 오류 등의 문제를 파악하고 한 번의 클릭으로 전체 디자인 품질을 개선할 수 있습니다.",
+      "keywords": [
+        "デザイン",
+        "デザイン分析",
+        "レイアウトチェッカー",
+        "タイポグラフィ",
+        "アクセシビリティ",
+        "色彩コントラスト",
+        "UIデザイン"
+      ],
+      "keywordsEn": [
+        "design",
+        "design analysis",
+        "layout checker",
+        "typography",
+        "accessibility",
+        "color contrast",
+        "ui design"
+      ],
+      "keywordsJa": [
+        "デザイン",
+        "デザイン分析",
+        "レイアウトチェッカー",
+        "タイポグラフィ",
+        "アクセシビリティ",
+        "色彩コントラスト",
+        "UIデザイン"
+      ],
+      "keywordsKo": [
+        "디자인",
+        "디자인 분석",
+        "레이아웃 검사",
+        "타이포그래피",
+        "접근성",
+        "색상 대비",
+        "UI 디자인"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w259m7h94"
+    },
+    {
+      "id": "autoflow",
+      "addOnId": "w3g31l40n",
+      "isNew": true,
+      "nameEn": "AutoFlow",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Autoflow draws flow lines and diagram shapes inside Adobe Express. When your page has many elements and viewers need to see how they connect (journeys, wireframes, processes, slides), this add-on does that work here—not in another app.\n\n↳ Flows — Link two selected elements with straight, curved, or stepped lines, or draw a path on the page. Set stroke, dashes, arrow caps, and labels. Normal, Crazy (sketchy), or Brush paint styles.\n\n◆ Shapes — Add flowchart/layout shapes with labels and Material Design icons. Style fill & stroke, export a tight PNG next to your other elements.\n\n📌 Why Autoflow? Express is built for creating assets, not for diagramming relationships. Fake arrows eat time. Autoflow gives real connectors + exportable shapes in one panel—clearer decks, faster wireframes.",
+      "descriptionEn": "Autoflow draws flow lines and diagram shapes inside Adobe Express. When your page has many elements and viewers need to see how they connect (journeys, wireframes, processes, slides), this add-on does that work here—not in another app.\n\n↳ Flows — Link two selected elements with straight, curved, or stepped lines, or draw a path on the page. Set stroke, dashes, arrow caps, and labels. Normal, Crazy (sketchy), or Brush paint styles.\n\n◆ Shapes — Add flowchart/layout shapes with labels and Material Design icons. Style fill & stroke, export a tight PNG next to your other elements.\n\n📌 Why Autoflow? Express is built for creating assets, not for diagramming relationships. Fake arrows eat time. Autoflow gives real connectors + exportable shapes in one panel—clearer decks, faster wireframes.",
+      "descriptionJa": "Autoflowは、Adobe Express内でフロー線とダイアグラム図形を描画します。ページに多くの要素があり、閲覧者が要素間の接続（ジャーニー、ワイヤーフレーム、プロセス、スライド）を理解する必要がある場合、このアドオンが別のアプリではなくここで対応します。\n\n↳ フロー — 選択した2つの要素を直線、曲線、またはステップ状の線でリンクするか、ページにパスを描画します。ストローク、破線、矢印、ラベルを設定できます。通常、スケッチ、またはブラシペイントスタイルに対応。\n\n◆ シェイプ — フローチャート/レイアウト図形をラベルとMaterial Designアイコン付きで追加します。塗りつぶしとストロークをスタイリングし、他の要素の隣に詰まったPNGをエクスポート。\n\n📌 Autoflowが必要な理由？ Expressはアセット作成に特化しており、関係図作成には不向きです。Autoflowは、1つのパネルで本物のコネクタと書き出し可能な図形を提供し、わかりやすいスライドとより高速なワイヤーフレームを実現します。",
+      "descriptionKo": "Autoflow는 Adobe Express 내에서 플로우선과 다이어그램 도형을 그립니다. 페이지에 많은 요소가 있고 뷰어가 연결(여정, 와이어프레임, 프로세스, 슬라이드)을 이해해야 할 때, 다른 앱이 아닌 여기서 처리합니다.\n\n↳ 플로우 — 선택한 두 요소를 직선, 곡선 또는 단계선으로 연결하거나 페이지에 경로를 그립니다. 스트로크, 대시, 화살표, 레이블을 설정할 수 있습니다. 일반, 스케치 또는 브러시 스타일 지원.\n\n◆ 도형 — 레이블과 Material Design 아이콘이 포함된 플로우차트/레이아웃 도형을 추가합니다. 채우기와 스트로크를 스타일링하고 다른 요소 옆에 압축된 PNG로 내보내기.\n\n📌 Autoflow를 사용하는 이유? Express는 자산 생성에 특화되어 있고 관계 다이어그래밍에는 부족합니다. Autoflow는 하나의 패널에서 실제 커넥터와 내보낼 수 있는 도형을 제공하여 더 명확한 프레젠테이션과 빠른 와이어프레임을 실현합니다.",
+      "keywords": [
+        "フローチャート",
+        "ダイアグラム",
+        "矢印",
+        "コネクタ",
+        "ワイヤーフレーム",
+        "フロー",
+        "図形",
+        "アイコン",
+        "ジャーニー",
+        "プロセス",
+        "Express"
+      ],
+      "keywordsEn": [
+        "flowchart",
+        "diagram",
+        "arrows",
+        "connectors",
+        "wireframe",
+        "flow",
+        "shapes",
+        "icons",
+        "journey",
+        "process",
+        "express"
+      ],
+      "keywordsJa": [
+        "フローチャート",
+        "ダイアグラム",
+        "矢印",
+        "コネクタ",
+        "ワイヤーフレーム",
+        "フロー",
+        "図形",
+        "アイコン",
+        "ジャーニー",
+        "プロセス",
+        "Express"
+      ],
+      "keywordsKo": [
+        "플로우차트",
+        "다이어그램",
+        "화살표",
+        "커넥터",
+        "와이어프레임",
+        "플로우",
+        "도형",
+        "아이콘",
+        "여정",
+        "프로세스",
+        "Express"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3g31l40n"
+    },
+    {
+      "id": "figma",
+      "addOnId": "w48170n2m",
+      "isNew": true,
+      "nameEn": "Figma",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "With the Figma add-on for Adobe Express, you can bring your Figma files directly into Express without rebuilding your designs from scratch.\n\nCreative teams design in Figma, but content often needs to be updated and used by others across the organization. This can lead to broken files, extra work, or brand inconsistencies. \n\nThe Figma add-on bridges that gap, making it possible for everyone to work in the tool of their choice while easily adapting and sharing content between teams. \n\nTo import content, paste your Figma design URL to load your Figma pages in the add-on. Then, either import the entire page with all the sections and frames recreated in Adobe Express, or use the layer browser to pick and choose specific content. \n\nUsers have the choice to \"natively\" import content, which recreates editable layers with as much accuracy as possible, or to rasterize specific layers to ensure exact visual accuracy.",
+      "descriptionEn": "With the Figma add-on for Adobe Express, you can bring your Figma files directly into Express without rebuilding your designs from scratch.\n\nCreative teams design in Figma, but content often needs to be updated and used by others across the organization. This can lead to broken files, extra work, or brand inconsistencies. \n\nThe Figma add-on bridges that gap, making it possible for everyone to work in the tool of their choice while easily adapting and sharing content between teams. \n\nTo import content, paste your Figma design URL to load your Figma pages in the add-on. Then, either import the entire page with all the sections and frames recreated in Adobe Express, or use the layer browser to pick and choose specific content. \n\nUsers have the choice to \"natively\" import content, which recreates editable layers with as much accuracy as possible, or to rasterize specific layers to ensure exact visual accuracy.",
+      "descriptionJa": "Adobe Express用のFigmaアドオンを使用すれば、Figmaファイルを直接Expressに取り込み、ゼロからデザインを再構築する必要がありません。\n\nクリエイティブチームはFigmaでデザインしますが、コンテンツは組織全体で更新・使用される必要があります。これにより、ファイルの破損、余分な作業、またはブランド不統一が生じることがあります。\n\nFigmaアドオンはこのギャップを埋め、すべてのユーザーが自分の選択したツールで作業しながら、チーム間でコンテンツを簡単に適応・共有できるようにします。\n\nコンテンツをインポートするには、FigmaデザインURLを貼り付けてアドオンでFigmaページを読み込みます。その後、すべてのセクションとフレームをAdobe Expressで再作成されたページ全体をインポートするか、レイヤーブラウザを使用して特定のコンテンツを選別できます。\n\nユーザーは、編集可能なレイヤーを可能な限り正確に再作成する「ネイティブ」インポートを選択するか、特定のレイヤーをラスタライズして完全な視覚的正確性を確保するかを選択できます。",
+      "descriptionKo": "Adobe Express용 Figma 애드온을 사용하면 Figma 파일을 Express에 직접 가져와 처음부터 디자인을 다시 만들 필요가 없습니다.\n\n크리에이티브 팀은 Figma에서 디자인하지만, 콘텐츠는 조직 전체에서 업데이트되고 사용되어야 합니다. 이로 인해 파일 손상, 추가 작업 또는 브랜드 불일치가 발생할 수 있습니다.\n\nFigma 애드온은 이 간격을 좁혀 모든 사용자가 자신이 선택한 도구에서 작업하면서 팀 간에 콘텐츠를 쉽게 조정하고 공유할 수 있게 합니다.\n\n콘텐츠를 가져오려면 Figma 디자인 URL을 붙여넣어 애드온에서 Figma 페이지를 로드합니다. 그런 다음 모든 섹션과 프레임이 Adobe Express에서 재작성된 전체 페이지를 가져오거나, 레이어 브라우저를 사용하여 특정 콘텐츠를 선택적으로 가져올 수 있습니다.\n\n사용자는 편집 가능한 레이어를 최대한 정확하게 재작성하는 \"네이티브\" 가져오기를 선택하거나, 특정 레이어를 래스터화하여 정확한 시각적 충실도를 보장할 수 있습니다.",
+      "keywords": [
+        "Figma",
+        "インポート",
+        "変換",
+        "アップロード",
+        "FigJam"
+      ],
+      "keywordsEn": [
+        "figma",
+        "import",
+        "convert",
+        "upload",
+        "figjam"
+      ],
+      "keywordsJa": [
+        "Figma",
+        "インポート",
+        "変換",
+        "アップロード",
+        "FigJam"
+      ],
+      "keywordsKo": [
+        "Figma",
+        "가져오기",
+        "변환",
+        "업로드",
+        "FigJam"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w48170n2m"
+    },
+    {
+      "id": "klipy",
+      "addOnId": "w4g8g87i9",
+      "isNew": true,
+      "nameEn": "KLIPY",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Search and drop dynamic content directly into your Adobe Express designs with a single click. With a massive library of over 10 million high-quality GIFs, Clips, and Stickers, KLIPY gives your non-commercial projects instant personality.\n\nWhether you're working on social media posts or professional presentations, you can find every mood, cultural moment, and the internet’s best memes for your designs with KLIPY's highly relevant search.",
+      "descriptionEn": "Search and drop dynamic content directly into your Adobe Express designs with a single click. With a massive library of over 10 million high-quality GIFs, Clips, and Stickers, KLIPY gives your non-commercial projects instant personality.\n\nWhether you're working on social media posts or professional presentations, you can find every mood, cultural moment, and the internet’s best memes for your designs with KLIPY's highly relevant search.",
+      "descriptionJa": "1回のクリックでAdobe Expressのデザインに動的コンテンツを検索してドロップします。1,000万以上の高品質GIF、クリップ、ステッカーの膨大なライブラリを備えたKLIPYは、非営利プロジェクトに即座にパーソナリティを与えます。\n\nソーシャルメディア投稿から業務用プレゼンテーションまで、KLIPYの高度に関連性の高い検索で、あらゆるムード、文化的瞬間、インターネットの最高のミームをデザインに見つけることができます。",
+      "descriptionKo": "한 번의 클릭으로 Adobe Express 디자인에 동적 콘텐츠를 검색하여 드롭합니다. 1,000만 개 이상의 고품질 GIF, 클립 및 스티커로 이루어진 거대한 라이브러리를 갖춘 KLIPY는 비영리 프로젝트에 즉각적인 개성을 부여합니다.\n\n소셜 미디어 게시물부터 전문 프레젠테이션까지, KLIPY의 관련성 높은 검색으로 모든 분위기, 문화적 순간, 인터넷 최고의 밈을 디자인에서 찾을 수 있습니다.",
+      "keywords": [
+        "KLIPY",
+        "GIF",
+        "ステッカー",
+        "クリップ",
+        "リアクション",
+        "ミーム",
+        "ソーシャルメディア",
+        "トレンド",
+        "デザインアセット",
+        "アニメーション"
+      ],
+      "keywordsEn": [
+        "klipy",
+        "gifs",
+        "gif",
+        "stickers",
+        "clips",
+        "reactions",
+        "memes",
+        "social media",
+        "trending",
+        "design asset",
+        "animation"
+      ],
+      "keywordsJa": [
+        "KLIPY",
+        "GIF",
+        "ステッカー",
+        "クリップ",
+        "リアクション",
+        "ミーム",
+        "ソーシャルメディア",
+        "トレンド",
+        "デザインアセット",
+        "アニメーション"
+      ],
+      "keywordsKo": [
+        "KLIPY",
+        "GIF",
+        "스티커",
+        "클립",
+        "리액션",
+        "밈",
+        "소셜 미디어",
+        "트렌드",
+        "디자인 자산",
+        "애니메이션"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w4g8g87i9"
+    },
+    {
+      "id": "ai-room-paint",
+      "addOnId": "w4k01mk32",
+      "isNew": true,
+      "nameEn": "AI Room Paint",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI Room Paint helps you preview new wall colors and room paint styles from a photo. Upload a room image, choose a paint color or style, and generate a refreshed room preview with AI.\n\nUse it to explore wall color ideas for bedrooms, living rooms, offices, kitchens, rental spaces, home staging, interior design mockups, and renovation planning.\n\nThe result may vary depending on the uploaded image quality, lighting, room angle, wall visibility, furniture placement, and selected color.",
+      "descriptionEn": "AI Room Paint helps you preview new wall colors and room paint styles from a photo. Upload a room image, choose a paint color or style, and generate a refreshed room preview with AI.\n\nUse it to explore wall color ideas for bedrooms, living rooms, offices, kitchens, rental spaces, home staging, interior design mockups, and renovation planning.\n\nThe result may vary depending on the uploaded image quality, lighting, room angle, wall visibility, furniture placement, and selected color.",
+      "descriptionJa": "AI Room Paintは、写真から新しい壁色と部屋のペイントスタイルをプレビューできます。部屋の画像をアップロードし、ペイントカラーまたはスタイルを選択して、AIで更新された部屋のプレビューを生成します。\n\n寝室、リビング、オフィス、キッチン、賃貸スペース、ホームステージング、インテリアデザインモックアップ、リノベーション計画の壁色のアイデアを探索するのに使用できます。\n\n結果は、アップロード画像の品質、照明、部屋の角度、壁の見え方、家具の配置、選択された色によって異なる場合があります。",
+      "descriptionKo": "AI Room Paint는 사진에서 새로운 벽 색상과 방의 페인트 스타일을 미리 볼 수 있습니다. 방 이미지를 업로드하고, 페인트 색상 또는 스타일을 선택한 후 AI로 새로운 방 미리보기를 생성합니다.\n\n침실, 거실, 사무실, 주방, 임차 공간, 홈 스테이징, 인테리어 디자인 목업, 리노베이션 계획을 위한 벽 색상 아이디어를 탐색할 수 있습니다.\n\n결과는 업로드된 이미지 품질, 조명, 방의 각도, 벽의 보임새, 가구 배치 및 선택된 색상에 따라 다를 수 있습니다.",
+      "keywords": [
+        "ルームペイント",
+        "AIルームペイント",
+        "壁色チェンジャー",
+        "部屋の色チェンジャー",
+        "ペイントカラープレビュー"
+      ],
+      "keywordsEn": [
+        "room paint",
+        "AI room paint",
+        "wall color changer",
+        "room color changer",
+        "paint color preview"
+      ],
+      "keywordsJa": [
+        "ルームペイント",
+        "AIルームペイント",
+        "壁色チェンジャー",
+        "部屋の色チェンジャー",
+        "ペイントカラープレビュー"
+      ],
+      "keywordsKo": [
+        "방 페인트",
+        "AI 방 페인트",
+        "벽 색상 변경",
+        "방 색상 변경",
+        "페인트 색상 미리보기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w4k01mk32"
+    },
+    {
+      "id": "zuperix-dam-connector",
+      "addOnId": "w6n329ljj",
+      "isNew": true,
+      "nameEn": "Zuperix DAM Connector",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Access your official Zuperix DAM digital assets library directly inside Adobe Express.\n\nKey Features:\n- Streamlined side-by-side dropdown filters for Categories and Collections.\n- Unified toggle pair for Brand-Safe Approved Assets and natural semantic AI Search (available on Gold plans).\n- Symmetrical layout featuring rapid one-click asset insertion and drag-and-drop support straight to your active canvas.\n\nImprove your creative productivity by keeping all your approved brand elements instantly accessible!",
+      "descriptionEn": "Access your official Zuperix DAM digital assets library directly inside Adobe Express.\n\nKey Features:\n- Streamlined side-by-side dropdown filters for Categories and Collections.\n- Unified toggle pair for Brand-Safe Approved Assets and natural semantic AI Search (available on Gold plans).\n- Symmetrical layout featuring rapid one-click asset insertion and drag-and-drop support straight to your active canvas.\n\nImprove your creative productivity by keeping all your approved brand elements instantly accessible!",
+      "descriptionJa": "Adobe Express 内から Zuperix DAM のデジタルアセットライブラリに直接アクセスできます。\n\n主な機能:\n- カテゴリとコレクションの使いやすいドロップダウンフィルター\n- ブランドセーフな承認済みアセットと AI セマンティック検索（Gold プラン対応）の統合切り替え\n- ワンクリックでアセットを挿入でき、キャンバスへのドラッグ&ドロップにも対応\n\n承認されたブランド要素をいつでも素早くアクセスして、クリエイティブ作業の効率を向上させましょう！",
+      "descriptionKo": "Adobe Express 내에서 Zuperix DAM 디지털 자산 라이브러리에 직접 액세스할 수 있습니다.\n\n주요 기능:\n- 카테고리와 컬렉션을 위한 간편한 드롭다운 필터\n- 브랜드 안전 승인 자산과 AI 의미론적 검색(Gold 플랜 지원)의 통합 토글\n- 클릭 한 번으로 자산을 삽입하고 캔버스에 드래그 앤 드롭 지원\n\n승인된 브랜드 요소를 항상 빠르게 액세스하여 창의적 작업의 생산성을 높이세요!",
+      "keywords": [
+        "DAM",
+        "デジタルアセット管理",
+        "Zuperix",
+        "ブランドライブラリ",
+        "画像ライブラリ",
+        "アセットマネージャー",
+        "クラウドストレージ"
+      ],
+      "keywordsEn": [
+        "DAM",
+        "digital asset management",
+        "zuperix",
+        "brand library",
+        "image library",
+        "asset manager",
+        "cloud storage"
+      ],
+      "keywordsJa": [
+        "DAM",
+        "デジタルアセット管理",
+        "Zuperix",
+        "ブランドライブラリ",
+        "画像ライブラリ",
+        "アセットマネージャー",
+        "クラウドストレージ"
+      ],
+      "keywordsKo": [
+        "DAM",
+        "디지털 자산 관리",
+        "Zuperix",
+        "브랜드 라이브러리",
+        "이미지 라이브러리",
+        "자산 관리자",
+        "클라우드 스토리지"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w6n329ljj"
+    },
+    {
+      "id": "ai-image-denoiser",
+      "addOnId": "w7g7mni56",
+      "isNew": true,
+      "nameEn": "AI Image Denoiser",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI Image Denoiser helps reduce noise and grain while improving photo clarity. Upload an image, remove unwanted visual noise, and create a cleaner, sharper, clearer result for design projects, social posts, product images, portraits, old photos, low-light shots, and creative content.\n\nUse it to improve grainy, low-quality, blurry-looking, or noisy images while keeping the original photo content as the focus.\n\nResults may vary depending on image quality, noise level, blur level, resolution, lighting, compression artifacts, and the uploaded image type.",
+      "descriptionEn": "AI Image Denoiser helps reduce noise and grain while improving photo clarity. Upload an image, remove unwanted visual noise, and create a cleaner, sharper, clearer result for design projects, social posts, product images, portraits, old photos, low-light shots, and creative content.\n\nUse it to improve grainy, low-quality, blurry-looking, or noisy images while keeping the original photo content as the focus.\n\nResults may vary depending on image quality, noise level, blur level, resolution, lighting, compression artifacts, and the uploaded image type.",
+      "descriptionJa": "AI Image Denoiser は、ノイズとグレインを軽減しながら写真の鮮明さを向上させます。画像をアップロードして不要な視覚ノイズを除去し、デザインプロジェクト、ソーシャルメディア投稿、商品画像、ポートレート、古い写真、低照度撮影、クリエイティブコンテンツなどに使える、よりクリーンでシャープな結果を作成できます。\n\nグレインが多い、低品質、ぼやけている、またはノイズが多い画像を改善しながら、元の写真のコンテンツを活かします。\n\n結果は、画像品質、ノイズレベル、ブラーレベル、解像度、照明、圧縮アーティファクト、アップロード画像のタイプによって異なる場合があります。",
+      "descriptionKo": "AI Image Denoiser는 노이즈와 그레인을 줄이면서 사진의 선명도를 개선합니다. 이미지를 업로드하여 원치 않는 시각적 노이즈를 제거하고 디자인 프로젝트, 소셜 미디어 게시물, 제품 이미지, 포트레이트, 오래된 사진, 저조도 촬영, 창의적인 콘텐츠 등에 사용할 수 있는 더욱 깔끔하고 선명한 결과를 만듭니다.\n\n그레인이 많거나 저품질, 흐릿하거나 노이즈가 많은 이미지를 개선하면서 원본 사진의 내용을 유지합니다.\n\n결과는 이미지 품질, 노이즈 레벨, 블러 레벨, 해상도, 조명, 압축 아티팩트 및 업로드된 이미지 유형에 따라 다를 수 있습니다.",
+      "keywords": [
+        "画像ノイズ除去",
+        "AI 画像ノイズ除去",
+        "写真ノイズ除去",
+        "画像ノイズ削除",
+        "写真ノイズ削除"
+      ],
+      "keywordsEn": [
+        "image denoiser",
+        "AI image denoiser",
+        "photo denoiser",
+        "image noise remover",
+        "photo noise remover"
+      ],
+      "keywordsJa": [
+        "画像ノイズ除去",
+        "AI 画像ノイズ除去",
+        "写真ノイズ除去",
+        "画像ノイズ削除",
+        "写真ノイズ削除"
+      ],
+      "keywordsKo": [
+        "이미지 노이즈 제거",
+        "AI 이미지 노이즈 제거",
+        "사진 노이즈 제거",
+        "이미지 노이즈 제거",
+        "사진 노이즈 제거"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w7g7mni56"
+    },
+    {
+      "id": "text-embroidery",
+      "addOnId": "w7nk004j7",
+      "isNew": true,
+      "nameEn": "Text Embroidery",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Text Embroidery helps turn words into embroidered-style text artwork. Enter your text, choose a style, and generate stitched lettering for posters, social posts, thumbnails, invitations, apparel mockups, craft designs, product visuals, and creative projects.\n\nUse it to create thread-style text, fabric lettering, stitched typography, and decorative embroidery-inspired design elements.\n\nResults may vary depending on the text, selected style, layout, color, texture, and generation settings.",
+      "descriptionEn": "Text Embroidery helps turn words into embroidered-style text artwork. Enter your text, choose a style, and generate stitched lettering for posters, social posts, thumbnails, invitations, apparel mockups, craft designs, product visuals, and creative projects.\n\nUse it to create thread-style text, fabric lettering, stitched typography, and decorative embroidery-inspired design elements.\n\nResults may vary depending on the text, selected style, layout, color, texture, and generation settings.",
+      "descriptionJa": "Text Embroidery は、テキストを刺繍風のアート作品に変換できます。テキストを入力してスタイルを選択すれば、ポスター、ソーシャル投稿、サムネイル、招待状、アパレルモックアップ、クラフトデザイン、商品画像、クリエイティブプロジェクトなどに使える刺繍風のレタリングを生成できます。\n\nスレッド風テキスト、ファブリックレタリング、ステッチ風タイポグラフィ、刺繍インスピレーションのデザイン要素を作成するのに活用できます。\n\n結果は、テキスト、選択したスタイル、レイアウト、色、テクスチャ、生成設定によって異なる場合があります。",
+      "descriptionKo": "Text Embroidery는 텍스트를 자수 스타일의 예술 작품으로 변환합니다. 텍스트를 입력하고 스타일을 선택하면 포스터, 소셜 미디어 게시물, 썸네일, 초대장, 의류 목업, 크래프트 디자인, 제품 이미지, 창의적 프로젝트 등에 사용할 수 있는 자수 스타일의 글자를 생성합니다.\n\n실 스타일의 텍스트, 패브릭 레터링, 스티치 타이포그래피 및 자수 영감의 디자인 요소를 만드는 데 사용할 수 있습니다.\n\n결과는 텍스트, 선택한 스타일, 레이아웃, 색상, 텍스처 및 생성 설정에 따라 다를 수 있습니다.",
+      "keywords": [
+        "テキスト刺繍",
+        "刺繍テキスト",
+        "刺繍文字",
+        "ステッチテキスト",
+        "ステッチ文字",
+        "スレッド文字"
+      ],
+      "keywordsEn": [
+        "text embroidery",
+        "embroidery text",
+        "embroidered text",
+        "stitched text",
+        "stitch text",
+        "thread text"
+      ],
+      "keywordsJa": [
+        "テキスト刺繍",
+        "刺繍テキスト",
+        "刺繍文字",
+        "ステッチテキスト",
+        "ステッチ文字",
+        "スレッド文字"
+      ],
+      "keywordsKo": [
+        "텍스트 자수",
+        "자수 텍스트",
+        "자수 글자",
+        "스티치 텍스트",
+        "스티치 글자",
+        "실 글자"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w7nk004j7"
+    },
+    {
+      "id": "silhouette-creator",
+      "addOnId": "w82431726",
+      "isNew": true,
+      "nameEn": "Silhouette Creator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Silhouette Creator helps turn photos into clean silhouette-style artwork. Upload an image and create a bold, simplified silhouette result for posters, profile graphics, stickers, thumbnails, social posts, logos, cutout-style designs, and creative projects.\n\nUse it to transform portraits, people, animals, objects, and simple scenes into high-contrast silhouette designs that are easy to use in visual layouts.\n\nResults may vary depending on image quality, subject visibility, background complexity, lighting, pose, edges, and the uploaded image type.",
+      "descriptionEn": "Silhouette Creator helps turn photos into clean silhouette-style artwork. Upload an image and create a bold, simplified silhouette result for posters, profile graphics, stickers, thumbnails, social posts, logos, cutout-style designs, and creative projects.\n\nUse it to transform portraits, people, animals, objects, and simple scenes into high-contrast silhouette designs that are easy to use in visual layouts.\n\nResults may vary depending on image quality, subject visibility, background complexity, lighting, pose, edges, and the uploaded image type.",
+      "descriptionJa": "Silhouette Creator は、写真をシルエット風のアート作品に変換できます。画像をアップロードすれば、ポスター、プロフィール画像、ステッカー、サムネイル、ソーシャル投稿、ロゴ、カットアウトスタイルのデザイン、クリエイティブプロジェクトなどに使える大胆でシンプルなシルエット作品を作成できます。\n\nポートレート、人物、動物、物体、シンプルなシーンを、ビジュアルレイアウトで簡単に使用できるハイコントラストのシルエットデザインに変換できます。\n\n結果は、画像品質、被写体の見え方、背景の複雑さ、照明、ポーズ、エッジ、アップロード画像のタイプによって異なる場合があります。",
+      "descriptionKo": "Silhouette Creator는 사진을 실루엣 스타일의 예술 작품으로 변환합니다. 이미지를 업로드하면 포스터, 프로필 그래픽, 스티커, 썸네일, 소셜 미디어 게시물, 로고, 컷아웃 스타일의 디자인 및 창의적 프로젝트 등에 사용할 수 있는 대담하고 단순화된 실루엣 결과를 생성합니다.\n\n초상화, 사람, 동물, 물체 및 간단한 장면을 시각적 레이아웃에서 쉽게 사용할 수 있는 고대비 실루엣 디자인으로 변환할 수 있습니다.\n\n결과는 이미지 품질, 피사체 가시성, 배경 복잡도, 조명, 포즈, 엣지 및 업로드된 이미지 유형에 따라 다를 수 있습니다.",
+      "keywords": [
+        "シルエット作成",
+        "シルエットメーカー",
+        "写真をシルエットに",
+        "シルエットアート",
+        "黒いシルエット"
+      ],
+      "keywordsEn": [
+        "silhouette creator",
+        "silhouette maker",
+        "photo to silhouette",
+        "silhouette art",
+        "black silhouette"
+      ],
+      "keywordsJa": [
+        "シルエット作成",
+        "シルエットメーカー",
+        "写真をシルエットに",
+        "シルエットアート",
+        "黒いシルエット"
+      ],
+      "keywordsKo": [
+        "실루엣 작성",
+        "실루엣 제작",
+        "사진을 실루엣으로",
+        "실루엣 아트",
+        "검은색 실루엣"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w82431726"
+    },
+    {
+      "id": "photo-shapes-by-bjorn",
+      "addOnId": "w8gjn0h97",
+      "isNew": true,
+      "nameEn": "Photo Shapes by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Design frames photos.\nChoose from different frames:\n- Rectangle\n- Round corner rectangle\n- N-gon - any edge count\n- Star - any point count\n- Heart\n- Circle\n- Ellipse\n\nApply image effects such as:\n- Grayscale\n- Blur\n- Pixelation\n- Transparency\n\nPlay with a \"inner hole\" effect to design interesting custom frames.",
+      "descriptionEn": "Design frames photos.\nChoose from different frames:\n- Rectangle\n- Round corner rectangle\n- N-gon - any edge count\n- Star - any point count\n- Heart\n- Circle\n- Ellipse\n\nApply image effects such as:\n- Grayscale\n- Blur\n- Pixelation\n- Transparency\n\nPlay with a \"inner hole\" effect to design interesting custom frames.",
+      "descriptionJa": "写真をデザインフレームで枠付けできます。様々なフレーム形状から選択できます:\n- 矩形\n- 角丸矩形\n- N角形（任意の辺数）\n- 星形（任意のポイント数）\n- ハート\n- 円\n- 楕円\n\n以下のような画像エフェクトを適用できます:\n- グレースケール\n- ブラー\n- ピクセレーション\n- 透明度\n\n「内側の穴」エフェクトを試して、ユニークなカスタムフレームをデザインできます。",
+      "descriptionKo": "사진을 디자인 프레임으로 장식할 수 있습니다. 다양한 프레임 형태에서 선택할 수 있습니다:\n- 직사각형\n- 둥근 모서리 직사각형\n- N각형(임의의 변 개수)\n- 별(임의의 포인트 개수)\n- 하트\n- 원\n- 타원\n\n다음과 같은 이미지 효과를 적용할 수 있습니다:\n- 그레이스케일\n- 블러\n- 픽셀화\n- 투명도\n\n\"내부 구멍\" 효과를 사용하여 흥미로운 맞춤 프레임을 디자인할 수 있습니다.",
+      "keywords": [
+        "枠付き写真",
+        "写真フレーム",
+        "ピクセレーション"
+      ],
+      "keywordsEn": [
+        "Framed photos",
+        "photo frames",
+        "pixelation"
+      ],
+      "keywordsJa": [
+        "枠付き写真",
+        "写真フレーム",
+        "ピクセレーション"
+      ],
+      "keywordsKo": [
+        "프레임 사진",
+        "사진 프레임",
+        "픽셀화"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w8gjn0h97"
+    },
+    {
+      "id": "avatarsmith-ai",
+      "addOnId": "w8mm5k588",
+      "isNew": true,
+      "nameEn": "AvatarSmith AI",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AvatarSmith AI is an AI-powered add-on that transforms your text descriptions into a stylized character portrait. Simply describe the avatar you envision, and the AI recreates your vision in 6 distinct art styles. Choose whether you're aiming for anime charm, retro pixel vibes, low-poly 3D simplicity, a realistic look, or a classic cartoon aesthetic. If you need inspiration, 'Prompt Suggestions' can help you craft the perfect description. With support for various aspect ratios, your avatar is ready to use. Ideal for game avatars, profile images, content creation, or creative storytelling.",
+      "descriptionEn": "AvatarSmith AI is an AI-powered add-on that transforms your text descriptions into a stylized character portrait. Simply describe the avatar you envision, and the AI recreates your vision in 6 distinct art styles. Choose whether you're aiming for anime charm, retro pixel vibes, low-poly 3D simplicity, a realistic look, or a classic cartoon aesthetic. If you need inspiration, 'Prompt Suggestions' can help you craft the perfect description. With support for various aspect ratios, your avatar is ready to use. Ideal for game avatars, profile images, content creation, or creative storytelling.",
+      "descriptionJa": "AvatarSmith AIは、テキスト説明をスタイリッシュなキャラクターポートレートに変換するAI搭載アドオンです。想像するアバターを説明するだけで、AIが6つのアートスタイルであなたのビジョンを再現します。アニメ、レトロピクセル、ロー・ポリ3D、リアル、クラシックカートゥーンから選べます。説明文に迷ったら「プロンプト提案」機能が役立ちます。複数のアスペクト比に対応しており、作成したアバターはすぐに使用可能。ゲームアバター、プロフィール画像、コンテンツ制作、クリエイティブなストーリーテリングに最適です。",
+      "descriptionKo": "AvatarSmith AI는 텍스트 설명을 세련된 캐릭터 초상화로 변환하는 AI 기반 애드온입니다. 원하는 아바타를 설명하면 AI가 6가지 아트 스타일로 당신의 비전을 구현합니다. 애니메, 레트로 픽셀, 로우폴리 3D, 사실적인 표현, 클래식 만화 스타일 중에서 선택할 수 있습니다. 설명이 필요하면 '프롬프트 제안'이 도움이 됩니다. 다양한 가로세로 비율을 지원하며, 제작된 아바타는 바로 사용 가능합니다. 게임 아바타, 프로필 이미지, 콘텐츠 제작, 창의적인 스토리텔링에 이상적입니다.",
+      "keywords": [
+        "AIアバター",
+        "アバター生成",
+        "キャラクター作成",
+        "AI画像生成",
+        "テキストからアバター",
+        "アニメ",
+        "ピクセルアート",
+        "ロー・ポリ"
+      ],
+      "keywordsEn": [
+        "AI avatar",
+        "avatar generator",
+        "character creator",
+        "AI art",
+        "text-to-avatar",
+        "anime",
+        "pixel art",
+        "low poly"
+      ],
+      "keywordsJa": [
+        "AIアバター",
+        "アバター生成",
+        "キャラクター作成",
+        "AI画像生成",
+        "テキストからアバター",
+        "アニメ",
+        "ピクセルアート",
+        "ロー・ポリ"
+      ],
+      "keywordsKo": [
+        "AI 아바타",
+        "아바타 생성",
+        "캐릭터 제작",
+        "AI 미술",
+        "텍스트-아바타",
+        "애니메",
+        "픽셀 아트",
+        "로우폴리"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w8mm5k588"
+    },
+    {
+      "id": "ai-voice-translator",
+      "addOnId": "wggg5gh2k",
+      "isNew": true,
+      "nameEn": "AI Voice Translator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI Voice Translator helps convert spoken audio into another language while generating translated speech with a similar voice style.\n\nUpload an audio file, choose the source and target languages, and create a translated audio result. The add-on can be used for video voiceovers, social content, tutorials, presentations, product demos, educational content, and multilingual communication.\n\nThe output may vary depending on audio quality, speaker clarity, background noise, language pair, and voice characteristics.",
+      "descriptionEn": "AI Voice Translator helps convert spoken audio into another language while generating translated speech with a similar voice style.\n\nUpload an audio file, choose the source and target languages, and create a translated audio result. The add-on can be used for video voiceovers, social content, tutorials, presentations, product demos, educational content, and multilingual communication.\n\nThe output may vary depending on audio quality, speaker clarity, background noise, language pair, and voice characteristics.",
+      "descriptionJa": "AI Voice Translatorは、音声オーディオを別の言語に変換し、似た音声スタイルで翻訳音声を生成するアドオンです。\n\nオーディオファイルをアップロードして、ソース言語とターゲット言語を選択するだけで、翻訳されたオーディオが完成します。ビデオのボイスオーバー、ソーシャルコンテンツ、チュートリアル、プレゼンテーション、製品デモ、教育コンテンツ、多言語コミュニケーションに活用できます。\n\n出力品質はオーディオの品質、話者の明瞭さ、背景ノイズ、言語ペア、音声特性によって異なります。",
+      "descriptionKo": "AI Voice Translator는 음성 오디오를 다른 언어로 변환하고 유사한 음성 스타일로 번역된 음성을 생성하는 애드온입니다.\n\n오디오 파일을 업로드하고 소스 언어와 대상 언어를 선택하면 번역된 오디오가 완성됩니다. 비디오 보이스오버, 소셜 콘텐츠, 튜토리얼, 프레젠테이션, 제품 데모, 교육 콘텐츠, 다국어 커뮤니케이션에 사용할 수 있습니다.\n\n출력 품질은 오디오 품질, 화자의 명확성, 배경 노이즈, 언어 쌍, 음성 특성에 따라 달라집니다.",
+      "keywords": [
+        "音声翻訳",
+        "AI音声翻訳",
+        "オーディオ翻訳",
+        "音声クローニング",
+        "音声翻訳"
+      ],
+      "keywordsEn": [
+        "voice translator",
+        "AI voice translator",
+        "audio translator",
+        "voice cloning",
+        "speech translator"
+      ],
+      "keywordsJa": [
+        "音声翻訳",
+        "AI音声翻訳",
+        "オーディオ翻訳",
+        "音声クローニング",
+        "音声翻訳"
+      ],
+      "keywordsKo": [
+        "음성 번역",
+        "AI 음성 번역",
+        "오디오 번역",
+        "음성 클로닝",
+        "음성 번역기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wggg5gh2k"
+    },
+    {
+      "id": "tickers-by-bjorn",
+      "addOnId": "wgj750gk5",
+      "isNew": true,
+      "nameEn": "Tickers by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create tickers (animated GIFs). Use up to three bands. Each band can slide in a different direction, use a different font size and color.",
+      "descriptionEn": "Create tickers (animated GIFs). Use up to three bands. Each band can slide in a different direction, use a different font size and color.",
+      "descriptionJa": "ティッカー（アニメーションGIF）を作成できます。最大3つのバンドを使用でき、各バンドは異なる方向にスライド、異なるフォントサイズと色を設定できます。",
+      "descriptionKo": "티커(애니메이션 GIF)를 만들 수 있습니다. 최대 3개의 밴드를 사용할 수 있으며, 각 밴드는 다른 방향으로 슬라이드하고 다른 폰트 크기와 색상을 설정할 수 있습니다.",
+      "keywords": [
+        "ティッカー",
+        "GIF",
+        "アニメーション"
+      ],
+      "keywordsEn": [
+        "tickers",
+        "GIF",
+        "animation"
+      ],
+      "keywordsJa": [
+        "ティッカー",
+        "GIF",
+        "アニメーション"
+      ],
+      "keywordsKo": [
+        "티커",
+        "GIF",
+        "애니메이션"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgj750gk5"
+    },
+    {
+      "id": "callouts-by-bjorn",
+      "addOnId": "wgm99992l",
+      "isNew": true,
+      "nameEn": "Callouts by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Design callout shapes using various properties such as:\n- tip style: bubbles, arrow, standard\n- tip base\n- tip target point\n- tip curveness\n- shadow effect\n- \"inner hole\" effect",
+      "descriptionEn": "Design callout shapes using various properties such as:\n- tip style: bubbles, arrow, standard\n- tip base\n- tip target point\n- tip curveness\n- shadow effect\n- \"inner hole\" effect",
+      "descriptionJa": "以下のようなプロパティを使用してコールアウト図形をデザインできます：\n- チップスタイル：バブル、矢印、標準\n- チップベース\n- チップターゲットポイント\n- チップの曲率\n- シャドウエフェクト\n- 「内側ホール」エフェクト",
+      "descriptionKo": "다음과 같은 속성을 사용하여 콜아웃 도형을 디자인할 수 있습니다：\n- 팁 스타일: 풍선, 화살표, 표준\n- 팁 베이스\n- 팁 대상 지점\n- 팁 곡률\n- 그림자 효과\n- \"내부 홀\" 효과",
+      "keywords": [
+        "コールアウト"
+      ],
+      "keywordsEn": [
+        "Callouts"
+      ],
+      "keywordsJa": [
+        "コールアウト"
+      ],
+      "keywordsKo": [
+        "콜아웃"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgm99992l"
+    },
+    {
+      "id": "iconsmith-ai",
+      "addOnId": "wj02n0723",
+      "isNew": true,
+      "nameEn": "IconSmith AI",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "IconSmith AI is an innovative add-on that turns your photos into unique AI-generated icons. Simply upload any image, and our AI instantly transforms it into 4 distinct visual styles: clean Flat, vibrant Cartoon, retro Pixel Art, and sophisticated Low Poly. No complex text prompts required—just use your own images to create perfectly matched assets for your project.\nIt’s ideal for building web/app interfaces, creating custom avatars, designing indie game items, and elevating social media content. Easily add creations to your canvas with a double-click or drag-and-drop. Your generated history is safely stored for 7 days.\nGet 1 free credit refilled every week to start creating!",
+      "descriptionEn": "IconSmith AI is an innovative add-on that turns your photos into unique AI-generated icons. Simply upload any image, and our AI instantly transforms it into 4 distinct visual styles: clean Flat, vibrant Cartoon, retro Pixel Art, and sophisticated Low Poly. No complex text prompts required—just use your own images to create perfectly matched assets for your project.\nIt’s ideal for building web/app interfaces, creating custom avatars, designing indie game items, and elevating social media content. Easily add creations to your canvas with a double-click or drag-and-drop. Your generated history is safely stored for 7 days.\nGet 1 free credit refilled every week to start creating!",
+      "descriptionJa": "IconSmith AIは、写真をユニークなAI生成アイコンに変換する革新的なアドオンです。任意の画像をアップロードするだけで、AIがシンプルなフラット、カラフルなカートゥーン、レトロなピクセルアート、洗練されたロー・ポリの4つのビジュアルスタイルに即座に変換します。複雑なテキストプロンプトは不要。あなたの写真を使ってプロジェクト用の完全にマッチしたアセットを作成できます。\nWebおよびアプリのインターフェース構築、カスタムアバター作成、インディーゲームアイテムデザイン、ソーシャルメディアコンテンツの向上に最適です。ダブルクリックまたはドラッグ&ドロップでキャンバスに簡単に追加できます。生成履歴は7日間安全に保存されます。\n毎週1つの無料クレジットが補充されるので、今すぐ制作を始められます！",
+      "descriptionKo": "IconSmith AI는 사진을 독특한 AI 생성 아이콘으로 변환하는 혁신적인 애드온입니다. 원하는 이미지를 업로드하기만 하면 AI가 깔끔한 플랫, 생생한 카툰, 레트로 픽셀 아트, 세련된 로우폴리의 4가지 시각 스타일로 즉시 변환합니다. 복잡한 텍스트 프롬프트는 필요 없습니다. 당신의 사진으로 프로젝트에 완벽하게 맞는 에셋을 만들 수 있습니다.\nWeb/앱 인터페이스 구축, 커스텀 아바타 생성, 인디 게임 아이템 디자인, 소셜 미디어 콘텐츠 향상에 이상적입니다. 더블 클릭이나 드래그 앤 드롭으로 캔버스에 쉽게 추가할 수 있습니다. 생성 기록은 7일간 안전하게 저장됩니다.\n매주 1개의 무료 크레딧이 충전되므로 지금 바로 시작할 수 있습니다!",
+      "keywords": [
+        "AIアイコン生成",
+        "写真からアイコン",
+        "ピクセルアート",
+        "ロー・ポリ",
+        "フラット",
+        "カートゥーン",
+        "カスタムアバター",
+        "UIアセット"
+      ],
+      "keywordsEn": [
+        "AI icon generator",
+        "photo to icon",
+        "pixel art",
+        "low poly",
+        "flat",
+        "cartoon",
+        "custom avatar",
+        "UI assets"
+      ],
+      "keywordsJa": [
+        "AIアイコン生成",
+        "写真からアイコン",
+        "ピクセルアート",
+        "ロー・ポリ",
+        "フラット",
+        "カートゥーン",
+        "カスタムアバター",
+        "UIアセット"
+      ],
+      "keywordsKo": [
+        "AI 아이콘 생성",
+        "사진-아이콘",
+        "픽셀 아트",
+        "로우폴리",
+        "플랫",
+        "카툰",
+        "커스텀 아바타",
+        "UI 에셋"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj02n0723"
+    },
+    {
+      "id": "text-to-table-ai",
+      "addOnId": "wk91ihl19",
+      "isNew": true,
+      "nameEn": "Text to Table AI",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Text to Table AI helps convert plain text into structured tables. Paste or enter text, and let AI organize the information into rows and columns for clearer presentation.\n\nUse it to create tables from notes, lists, product details, comparison content, meeting notes, schedules, feature lists, pricing information, and other structured text. It can help make messy information easier to read, edit, and use in your designs.\n\nResults may vary depending on the input text quality, formatting, structure, language, and amount of information provided.",
+      "descriptionEn": "Text to Table AI helps convert plain text into structured tables. Paste or enter text, and let AI organize the information into rows and columns for clearer presentation.\n\nUse it to create tables from notes, lists, product details, comparison content, meeting notes, schedules, feature lists, pricing information, and other structured text. It can help make messy information easier to read, edit, and use in your designs.\n\nResults may vary depending on the input text quality, formatting, structure, language, and amount of information provided.",
+      "descriptionJa": "Text to Table AIは、プレーンテキストを構造化されたテーブルに変換するのに役立ちます。テキストを貼り付けるか入力すると、AIが情報を行と列に整理して、より明確に表示します。\n\nノート、リスト、商品詳細、比較コンテンツ、会議メモ、スケジュール、機能一覧、価格情報、その他の構造化されたテキストからテーブルを作成できます。散らかった情報を読みやすく、編集しやすく、デザインで使いやすくするのに役立ちます。\n\n結果は、入力テキストの品質、フォーマット、構造、言語、および提供される情報量によって異なる場合があります。",
+      "descriptionKo": "Text to Table AIは일반 텍스트를 구조화된 표로 변환하는 데 도움을 줍니다. 텍스트를 붙여넣거나 입력하면 AI가 정보를 행과 열로 정렬하여 더 명확하게 표시합니다.\n\n노트, 목록, 제품 상세, 비교 콘텐츠, 회의록, 일정, 기능 목록, 가격 정보 및 기타 구조화된 텍스트로부터 표를 생성할 수 있습니다. 복잡한 정보를 더 읽기 쉽고 편집하기 쉬우며 디자인에서 활용하기 좋게 만드는 데 도움이 됩니다.\n\n결과는 입력 텍스트의 품질, 형식, 구조, 언어 및 제공된 정보의 양에 따라 달라질 수 있습니다.",
+      "keywords": [
+        "テキストからテーブル",
+        "AI テーブル生成",
+        "テーブル生成ツール",
+        "テキスト表変換",
+        "テキストをテーブルに変換"
+      ],
+      "keywordsEn": [
+        "text to table",
+        "AI table generator",
+        "table generator",
+        "text table converter",
+        "convert text to table"
+      ],
+      "keywordsJa": [
+        "テキストからテーブル",
+        "AI テーブル生成",
+        "テーブル生成ツール",
+        "テキスト表変換",
+        "テキストをテーブルに変換"
+      ],
+      "keywordsKo": [
+        "텍스트 테이블 변환",
+        "AI 표 생성기",
+        "표 생성 도구",
+        "텍스트 표 변환기",
+        "텍스트를 표로 변환"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk91ihl19"
+    },
+    {
+      "id": "checkerboards-by-bjorn",
+      "addOnId": "wl0k7i8k4",
+      "isNew": true,
+      "nameEn": "Checkerboards by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Quickly design unique checkerboard background images using parameterized templates.\nProperties of checkerboard images:\n- Coloring scheme - two colors (classic); color list; start/stop colors\n- Column width (% of background width)\n- Row height (% of background height)\n- Force squares: Column width = Row height\n- Color by row or by column\n- Reverse algorithm\n- Color list\n- Start color\n- Stop color\n- Enable opacity (start / stop)\n- Start opacity\n- Stop opacity",
+      "descriptionEn": "Quickly design unique checkerboard background images using parameterized templates.\nProperties of checkerboard images:\n- Coloring scheme - two colors (classic); color list; start/stop colors\n- Column width (% of background width)\n- Row height (% of background height)\n- Force squares: Column width = Row height\n- Color by row or by column\n- Reverse algorithm\n- Color list\n- Start color\n- Stop color\n- Enable opacity (start / stop)\n- Start opacity\n- Stop opacity",
+      "descriptionJa": "パラメータ化されたテンプレートを使用して、独特なチェッカーボード背景画像を素早くデザインします。\nチェッカーボード画像の特徴:\n- カラースキーム - 2色（クラシック）、カラーリスト、開始/終了色\n- 列幅（背景幅の%）\n- 行高さ（背景高さの%）\n- 正方形の強制：列幅 = 行高さ\n- 行または列ごとの色付け\n- アルゴリズム反転\n- カラーリスト\n- 開始色\n- 終了色\n- 不透明度の有効化（開始/終了）\n- 開始不透明度\n- 終了不透明度",
+      "descriptionKo": "매개변수화된 템플릿을 사용하여 고유한 체스판 배경 이미지를 빠르게 디자인합니다.\n체스판 이미지의 특징:\n- 색상 구성 - 2가지 색(클래식), 색상 목록, 시작/종료 색상\n- 열 너비(배경 너비의 %)\n- 행 높이(배경 높이의 %)\n- 정사각형 강제: 열 너비 = 행 높이\n- 행 또는 열 단위 색상 지정\n- 알고리즘 반전\n- 색상 목록\n- 시작 색상\n- 종료 색상\n- 불투명도 활성화(시작/종료)\n- 시작 불투명도\n- 종료 불투명도",
+      "keywords": [
+        "背景",
+        "チェッカーボード"
+      ],
+      "keywordsEn": [
+        "backgrounds",
+        "checkerboards"
+      ],
+      "keywordsJa": [
+        "背景",
+        "チェッカーボード"
+      ],
+      "keywordsKo": [
+        "배경",
+        "체스판"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl0k7i8k4"
+    },
+    {
+      "id": "ai-food-enhancer",
+      "addOnId": "wm225h7mi",
+      "isNew": true,
+      "nameEn": "AI Food Enhancer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "AI Food Enhancer helps improve food photos and make dishes look more appealing for menus, social posts, recipes, restaurant content, delivery listings, and marketing materials.\n\nUpload a food image, enhance the visual quality, and create a cleaner, brighter, more appetizing result. It can help improve lighting, color, clarity, and overall presentation while keeping the original dish as the focus.\n\nResults may vary depending on the uploaded image quality, lighting, angle, background, and food type.",
+      "descriptionEn": "AI Food Enhancer helps improve food photos and make dishes look more appealing for menus, social posts, recipes, restaurant content, delivery listings, and marketing materials.\n\nUpload a food image, enhance the visual quality, and create a cleaner, brighter, more appetizing result. It can help improve lighting, color, clarity, and overall presentation while keeping the original dish as the focus.\n\nResults may vary depending on the uploaded image quality, lighting, angle, background, and food type.",
+      "descriptionJa": "AI Food Enhancerは、食べ物の写真を改善し、メニュー、ソーシャルポスト、レシピ、レストランコンテンツ、デリバリーリスト、マーケティング資料などで料理をより魅力的に見せるのに役立ちます。\n\n食べ物の画像をアップロードして視覚的な品質を向上させ、より鮮明で明るく食欲をそそる結果を作成します。元の料理をフォーカスに保ちながら、照明、色、明確さ、全体的なプレゼンテーションを改善するのに役立ちます。\n\n結果は、アップロードされた画像の品質、照明、角度、背景、および食べ物の種類によって異なる場合があります。",
+      "descriptionKo": "AI Food Enhancer는 음식 사진을 개선하고 메뉴, 소셜 포스트, 레시피, 레스토랑 콘텐츠, 배달 목록 및 마케팅 자료에서 요리를 더 매력적으로 보이게 합니다.\n\n음식 이미지를 업로드하고 시각적 품질을 개선하여 더 깨끗하고 밝으며 입맛을 돋우는 결과물을 만듭니다. 원래 요리를 중심으로 유지하면서 조명, 색상, 선명도 및 전체적인 표현을 개선하는 데 도움이 됩니다.\n\n결과는 업로드된 이미지의 품질, 조명, 각도, 배경 및 음식 종류에 따라 달라질 수 있습니다.",
+      "keywords": [
+        "食べ物エンハンサー",
+        "AI 食べ物エンハンサー",
+        "食べ物写真エディター",
+        "食べ物写真改善",
+        "食べ物写真を改善"
+      ],
+      "keywordsEn": [
+        "food enhancer",
+        "AI food enhancer",
+        "food photo editor",
+        "food photo enhancer",
+        "enhance food photos"
+      ],
+      "keywordsJa": [
+        "食べ物エンハンサー",
+        "AI 食べ物エンハンサー",
+        "食べ物写真エディター",
+        "食べ物写真改善",
+        "食べ物写真を改善"
+      ],
+      "keywordsKo": [
+        "음식 강화 도구",
+        "AI 음식 강화",
+        "음식 사진 편집기",
+        "음식 사진 개선",
+        "음식 사진 향상"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm225h7mi"
+    },
+    {
+      "id": "meeting-transcriber",
+      "addOnId": "wm2jg0im6",
+      "isNew": true,
+      "nameEn": "Meeting Transcriber",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Meeting Transcriber helps convert meeting recordings into clear text transcripts. Upload an audio or video file, and generate a written transcript that can be used for meeting notes, interviews, calls, webinars, team discussions, lessons, and business content.\n\nUse it to review conversations, capture key information, save time on manual note-taking, and make meeting content easier to search, edit, and share.\n\nResults may vary depending on audio quality, speaker clarity, background noise, accents, number of speakers, and file quality.",
+      "descriptionEn": "Meeting Transcriber helps convert meeting recordings into clear text transcripts. Upload an audio or video file, and generate a written transcript that can be used for meeting notes, interviews, calls, webinars, team discussions, lessons, and business content.\n\nUse it to review conversations, capture key information, save time on manual note-taking, and make meeting content easier to search, edit, and share.\n\nResults may vary depending on audio quality, speaker clarity, background noise, accents, number of speakers, and file quality.",
+      "descriptionJa": "Meeting Transcriber は、会議記録を明確なテキストトランスクリプトに変換するのに役立ちます。オーディオまたはビデオファイルをアップロードして、会議メモ、インタビュー、通話、ウェビナー、チーム討議、レッスン、ビジネスコンテンツに使用できるテキストトランスクリプトを生成します。\n\n会話を確認し、重要な情報をキャプチャし、手動でのメモ取りの時間を節約し、会議コンテンツを検索、編集、共有しやすくするのに役立ちます。\n\n結果は、オーディオ品質、スピーカーの明確さ、バックグラウンドノイズ、アクセント、スピーカー数、ファイル品質によって異なる場合があります。",
+      "descriptionKo": "Meeting Transcriber는 회의 녹음을 명확한 텍스트 기록으로 변환하는 데 도움을 줍니다. 오디오 또는 비디오 파일을 업로드하면 회의록, 인터뷰, 통화, 웨비나, 팀 토론, 강의 및 비즈니스 콘텐츠에 사용할 수 있는 텍스트 기록을 생성합니다.\n\n대화를 검토하고 핵심 정보를 기록하며 수동 메모 작성 시간을 절약하고 회의 내용을 더 쉽게 검색, 편집 및 공유할 수 있게 합니다.\n\n결과는 오디오 품질, 스피커 명확도, 배경 소음, 억양, 스피커 수 및 파일 품질에 따라 달라질 수 있습니다.",
+      "keywords": [
+        "会議トランスクリプター",
+        "会議トランスクリプション",
+        "ビデオトランスクリプション",
+        "オーディオトランスクリプション",
+        "ビデオからテキスト"
+      ],
+      "keywordsEn": [
+        "meeting transcriber",
+        "meeting transcription",
+        "video transcription",
+        "audio transcription",
+        "video to text"
+      ],
+      "keywordsJa": [
+        "会議トランスクリプター",
+        "会議トランスクリプション",
+        "ビデオトランスクリプション",
+        "オーディオトランスクリプション",
+        "ビデオからテキスト"
+      ],
+      "keywordsKo": [
+        "회의 기록기",
+        "회의 기록",
+        "비디오 변환",
+        "오디오 변환",
+        "비디오를 텍스트로"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm2jg0im6"
+    },
+    {
+      "id": "barcodes-by-bjorn",
+      "addOnId": "wm5nn2m00",
+      "isNew": true,
+      "nameEn": "Barcodes by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Creates barcodes in various formats, have fun with animated ones. Play with shadow effect.",
+      "descriptionEn": "Creates barcodes in various formats, have fun with animated ones. Play with shadow effect.",
+      "descriptionJa": "様々な形式のバーコードを作成し、アニメーション版で楽しむことができます。シャドウエフェクトで遊べます。",
+      "descriptionKo": "다양한 형식의 바코드를 생성하고 애니메이션 버전으로 즐길 수 있습니다. 그림자 효과를 활용해 보세요.",
+      "keywords": [
+        "バーコード",
+        "EAN13"
+      ],
+      "keywordsEn": [
+        "barcodes",
+        "EAN13"
+      ],
+      "keywordsJa": [
+        "バーコード",
+        "EAN13"
+      ],
+      "keywordsKo": [
+        "바코드",
+        "EAN13"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm5nn2m00"
     }
   ],
   "metadata": {
-    "totalCount": 552,
-    "lastUpdated": "2026-05-22",
+    "totalCount": 572,
+    "lastUpdated": "2026-06-02",
     "source": "Web research and official documentation",
     "categories": {
       "accessibility": "アクセシビリティ",
