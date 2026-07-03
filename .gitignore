@@ -18,6 +18,9 @@ cloudflare-worker/.wrangler/
 xpost-skill/
 handoff_archive/
 
+# Playwright 永続プロファイル（Adobe セッション Cookie を含む・非公開）
+.playwright-profile/
+
 # Python キャッシュ
 __pycache__/
 *.pyc
