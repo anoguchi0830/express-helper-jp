@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import ReactDOM from 'react-dom/client';
 import addOnUISdk from 'https://new.express.adobe.com/static/add-on-sdk/sdk.js';
 import { Theme } from '@swc-react/theme';
@@ -25,28 +25,38 @@ import './styles/styles.css';
 // 検索ロジック（関連度スコアリング付き）
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-// スコア: 名前一致 3pt / キーワード 2pt / カテゴリ 2pt / 説明 1pt
-function scoreAddon(addon, lowerQuery, locale) {
+// 検索インデックス構築（小文字化済み文字列を事前計算し、キーストロークごとの toLowerCase を回避）
+// keywords は改行結合（検索欄は単一行入力のためクエリに改行が入らず、境界をまたぐ誤一致は起きない）
+function buildSearchIndex(addons, locale) {
   const localeSuffix = locale.charAt(0).toUpperCase() + locale.slice(1);
-  const name = (getLocalizedField(addon, 'name', locale) || '').toLowerCase();
-  const desc = (getLocalizedField(addon, 'description', locale) || '').toLowerCase();
-  const kws  = addon[`keywords${localeSuffix}`] || addon.keywordsEn || addon.keywords || [];
-  const cat  = getLocalizedCategory(addon.category, locale).toLowerCase();
+  return addons.map(addon => {
+    const kws = addon[`keywords${localeSuffix}`] || addon.keywordsEn || addon.keywords || [];
+    return {
+      addon,
+      name: (getLocalizedField(addon, 'name', locale) || '').toLowerCase(),
+      desc: (getLocalizedField(addon, 'description', locale) || '').toLowerCase(),
+      kws:  kws.map(kw => kw.toLowerCase()).join('\n'),
+      cat:  getLocalizedCategory(addon.category, locale).toLowerCase()
+    };
+  });
+}
 
+// スコア: 名前一致 3pt / キーワード 2pt / カテゴリ 2pt / 説明 1pt
+function scoreAddon(entry, lowerQuery) {
   let score = 0;
-  if (name.includes(lowerQuery))                        score += 3;
-  if (kws.some(kw => kw.toLowerCase().includes(lowerQuery))) score += 2;
-  if (cat.includes(lowerQuery))                         score += 2;
-  if (desc.includes(lowerQuery))                        score += 1;
+  if (entry.name.includes(lowerQuery)) score += 3;
+  if (entry.kws.includes(lowerQuery))  score += 2;
+  if (entry.cat.includes(lowerQuery))  score += 2;
+  if (entry.desc.includes(lowerQuery)) score += 1;
   return score;
 }
 
-function searchAddons(addons, query, locale) {
+function searchAddons(searchIndex, query) {
   if (!query.trim()) return [];
   const lowerQuery = query.toLowerCase();
 
-  return addons
-    .map(addon => ({ addon, score: scoreAddon(addon, lowerQuery, locale) }))
+  return searchIndex
+    .map(entry => ({ addon: entry.addon, score: scoreAddon(entry, lowerQuery) }))
     .filter(({ score }) => score > 0)
     .sort((a, b) => b.score - a.score)   // 関連度降順
     .map(({ addon }) => addon);
@@ -160,7 +170,7 @@ function AddonList({ addons, locale, onSelect, openInExpress }) {
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 function App({ addonsData }) {
-  const ADDONS = addonsData.addons.filter(a => a.marketplaceUrl);
+  const ADDONS = useMemo(() => addonsData.addons.filter(a => a.marketplaceUrl), [addonsData]);
   const [locale, setLocale]                 = useState(detectLanguage());
   const [searchQuery, setSearchQuery]       = useState('');
   const [selectedAddon, setSelectedAddon]   = useState(null);
@@ -180,6 +190,14 @@ function App({ addonsData }) {
   useEffect(() => {
     contentRef.current?.scrollTo({ top: 0, behavior: 'instant' });
   }, [view]);
+
+  // アンマウント時にタイマーを破棄
+  useEffect(() => {
+    return () => {
+      clearTimeout(toastTimerRef.current);
+      clearTimeout(trackTimerRef.current);
+    };
+  }, []);
 
   // 匿名キーワード送信（UI をブロックしない、失敗は無視）
   const trackSearch = (query) => {
@@ -276,19 +294,30 @@ function App({ addonsData }) {
     }
   };
 
-  // 派生データ
-  const searchResults   = sortAddons(searchAddons(ADDONS, searchQuery, locale), sortId === 'default' ? 'default' : sortId, locale);
-  const featuredAddons  = ADDONS.filter(a => a.featured);
-  const newAddons       = ADDONS.filter(a => a.isNew).slice(0, 6);
-  const allAddons       = sortAddons(ADDONS, sortId, locale);
-  const categoryAddons  = sortAddons(
-    selectedCategory ? ADDONS.filter(a => a.category === selectedCategory) : [],
-    sortId, locale
+  // 派生データ（useMemo で再レンダー時の再計算を回避）
+  const searchIndex = useMemo(() => buildSearchIndex(ADDONS, locale), [ADDONS, locale]);
+
+  const searchResults = useMemo(
+    () => sortAddons(searchAddons(searchIndex, searchQuery), sortId, locale),
+    [searchIndex, searchQuery, sortId, locale]
+  );
+  const featuredAddons = useMemo(() => ADDONS.filter(a => a.featured), [ADDONS]);
+  const newAddons      = useMemo(() => ADDONS.filter(a => a.isNew).slice(0, 6), [ADDONS]);
+  const allAddons      = useMemo(() => sortAddons(ADDONS, sortId, locale), [ADDONS, sortId, locale]);
+  const categoryAddons = useMemo(
+    () => sortAddons(
+      selectedCategory ? ADDONS.filter(a => a.category === selectedCategory) : [],
+      sortId, locale
+    ),
+    [ADDONS, selectedCategory, sortId, locale]
   );
 
-  const categories = Object.keys(addonsData.metadata.categories)
-    .map(id => ({ id, count: ADDONS.filter(a => a.category === id).length }))
-    .filter(c => c.count > 0);
+  const categories = useMemo(
+    () => Object.keys(addonsData.metadata.categories)
+      .map(id => ({ id, count: ADDONS.filter(a => a.category === id).length }))
+      .filter(c => c.count > 0),
+    [ADDONS, addonsData.metadata.categories]
+  );
 
   return (
     <div className="panel-container">
