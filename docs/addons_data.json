@@ -29346,7 +29346,7 @@
     {
       "id": "human-copy-studio",
       "addOnId": "w0j8ngmg1",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Human Copy Studio",
       "nameJa": "",
       "nameKo": "",
@@ -29402,7 +29402,7 @@
     {
       "id": "image-texture",
       "addOnId": "w10732k1g",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Image Texture",
       "nameJa": "",
       "nameKo": "",
@@ -29458,7 +29458,7 @@
     {
       "id": "carousel-maker",
       "addOnId": "w12hjj304",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Carousel Maker",
       "nameJa": "",
       "nameKo": "",
@@ -29506,7 +29506,7 @@
     {
       "id": "ci-media-cloud",
       "addOnId": "w16m218l1",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Ci Media Cloud",
       "nameJa": "",
       "nameKo": "",
@@ -29566,7 +29566,7 @@
     {
       "id": "type-motion",
       "addOnId": "w1gi33g4m",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Type Motion",
       "nameJa": "",
       "nameKo": "",
@@ -29618,7 +29618,7 @@
     {
       "id": "light-lab",
       "addOnId": "w1h7615ml",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Light Lab",
       "nameJa": "",
       "nameKo": "",
@@ -29666,7 +29666,7 @@
     {
       "id": "zipline",
       "addOnId": "w45g14559",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "ZIPline",
       "nameJa": "",
       "nameKo": "",
@@ -29710,7 +29710,7 @@
     {
       "id": "qr-clouds-by-bjorn",
       "addOnId": "w60i0g15i",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "QR Clouds by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -29754,7 +29754,7 @@
     {
       "id": "fluidfit-ai",
       "addOnId": "w626iiii1",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Fluidfit AI",
       "nameJa": "",
       "nameKo": "",
@@ -29810,7 +29810,7 @@
     {
       "id": "ad-creative-maker",
       "addOnId": "w77il9509",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Ad Creative Maker",
       "nameJa": "",
       "nameKo": "",
@@ -29870,7 +29870,7 @@
     {
       "id": "raw-svg-by-bjorn",
       "addOnId": "w7kkg2h15",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Raw SVG by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -29898,7 +29898,7 @@
     {
       "id": "youtube-thumbnail-maker",
       "addOnId": "w85k0h8mi",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "YouTube Thumbnail Maker",
       "nameJa": "",
       "nameKo": "",
@@ -29946,7 +29946,7 @@
     {
       "id": "social-post-maker",
       "addOnId": "wgjj44998",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Social Post Maker",
       "nameJa": "",
       "nameKo": "",
@@ -29994,7 +29994,7 @@
     {
       "id": "spectrum-supreme",
       "addOnId": "wh1g5i4gl",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Spectrum Supreme",
       "nameJa": "",
       "nameKo": "",
@@ -30066,7 +30066,7 @@
     {
       "id": "reusables-by-bjorn",
       "addOnId": "wh3n3h9i9",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Reusables by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -30106,7 +30106,7 @@
     {
       "id": "boolean-boutique",
       "addOnId": "wj25ikgnj",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Boolean Boutique",
       "nameJa": "",
       "nameKo": "",
@@ -30170,7 +30170,7 @@
     {
       "id": "creative-image-studio",
       "addOnId": "wj812m2mn",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Creative Image Studio",
       "nameJa": "",
       "nameKo": "",
@@ -30190,7 +30190,7 @@
     {
       "id": "type-lettering",
       "addOnId": "wkn6nmi83",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Type Lettering",
       "nameJa": "",
       "nameKo": "",
@@ -30242,7 +30242,7 @@
     {
       "id": "warp-wonder",
       "addOnId": "wm33i21m3",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Warp Wonder",
       "nameJa": "",
       "nameKo": "",
@@ -30306,7 +30306,7 @@
     {
       "id": "qr-sentences-by-bjorn",
       "addOnId": "wn5j74l37",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "QR Sentences by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -30342,7 +30342,7 @@
     {
       "id": "3d-text-effects",
       "addOnId": "wn768767n",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "3D Text Effects",
       "nameJa": "",
       "nameKo": "",
@@ -30390,7 +30390,7 @@
     {
       "id": "calligraphy-maker",
       "addOnId": "wnj9648i9",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Calligraphy Maker",
       "nameJa": "",
       "nameKo": "",
@@ -30442,7 +30442,7 @@
     {
       "id": "stroke-stylus",
       "addOnId": "wnjj34mn3",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Stroke Stylus",
       "nameJa": "",
       "nameKo": "",
@@ -30510,11 +30510,1071 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wnjj34mn3"
+    },
+    {
+      "id": "side-by-side-by-bjorn",
+      "addOnId": "w184667jk",
+      "isNew": true,
+      "nameEn": "Side by Side by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Generate side-by-side images of project pages or any uploaded photo or image.",
+      "descriptionEn": "Generate side-by-side images of project pages or any uploaded photo or image.",
+      "descriptionJa": "プロジェクトページや、アップロードした写真・画像を並べて表示する画像を生成します。",
+      "descriptionKo": "프로젝트 페이지 또는 업로드한 사진이나 이미지를 나란히 배치한 이미지를 생성합니다.",
+      "keywords": [
+        "side-by-side image",
+        "side-by-side",
+        "PNG エクスポート"
+      ],
+      "keywordsEn": [
+        "side-by-side image",
+        "side-by-side",
+        "png export"
+      ],
+      "keywordsJa": [
+        "side-by-side image",
+        "side-by-side",
+        "PNG エクスポート"
+      ],
+      "keywordsKo": [
+        "side-by-side image",
+        "side-by-side",
+        "PNG 내보내기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w184667jk"
+    },
+    {
+      "id": "photomend",
+      "addOnId": "w1j238kln",
+      "isNew": true,
+      "nameEn": "PhotoMend",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Improve low-quality images in a few clicks. This add-on helps you enhance one or multiple images with AI for clearer, sharper results.\n\nUse Smart Enhance to automatically choose the best treatment for each image. Upscale increases resolution and improves detail. Fix Blur repairs blurry or pixelated images. Restore Old Photo helps recover faded, scratched, or damaged photos.\n\nPreview the result and add the improved image directly to your Adobe Express design.",
+      "descriptionEn": "Improve low-quality images in a few clicks. This add-on helps you enhance one or multiple images with AI for clearer, sharper results.\n\nUse Smart Enhance to automatically choose the best treatment for each image. Upscale increases resolution and improves detail. Fix Blur repairs blurry or pixelated images. Restore Old Photo helps recover faded, scratched, or damaged photos.\n\nPreview the result and add the improved image directly to your Adobe Express design.",
+      "descriptionJa": "低品質な画像を数クリックで改善します。AIを使用して1つまたは複数の画像を強化し、より鮮明でシャープな結果を得ることができます。\n\nスマートエンハンスで各画像に最適な処理を自動選択。アップスケールで解像度を上げディテールを改善。ぼかし修正でぼやけたりピクセル化した画像を修復。古い写真復元で色褪せ、傷、損傷した写真を復元します。\n\nプレビューで結果を確認し、改善された画像をAdobe Expressデザインに直接追加できます。",
+      "descriptionKo": "저품질 이미지를 몇 번의 클릭으로 개선합니다. AI를 사용하여 하나 또는 여러 이미지를 향상시켜 더 선명하고 선하게 만듭니다.\n\n스마트 향상으로 각 이미지에 최적의 처리를 자동 선택합니다. 확대는 해상도를 높이고 디테일을 개선합니다. 흐림 수정은 흐릿하거나 픽셀화된 이미지를 복구합니다. 오래된 사진 복원은 바래진, 긁힌 또는 손상된 사진을 복원합니다.\n\n결과를 미리보기하고 개선된 이미지를 Adobe Express 디자인에 직접 추가할 수 있습니다.",
+      "keywords": [
+        "image enhancer",
+        "写真 アップスケール",
+        "fix blur",
+        "restore old photo",
+        "pixelation fix",
+        "batch editing"
+      ],
+      "keywordsEn": [
+        "image enhancer",
+        "photo upscale",
+        "fix blur",
+        "restore old photo",
+        "pixelation fix",
+        "batch editing"
+      ],
+      "keywordsJa": [
+        "image enhancer",
+        "写真 アップスケール",
+        "fix blur",
+        "restore old photo",
+        "pixelation fix",
+        "batch editing"
+      ],
+      "keywordsKo": [
+        "image enhancer",
+        "사진 업스케일",
+        "fix blur",
+        "restore old photo",
+        "pixelation fix",
+        "batch editing"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1j238kln"
+    },
+    {
+      "id": "memory-match-maker",
+      "addOnId": "w2hn92864",
+      "isNew": true,
+      "nameEn": "Memory Match Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create printable memory match game boards for classrooms, family activities, learning games, and creative projects. Build a board from your own text or images, or describe a theme and let AI create the artwork.\n\nHow it works:\n\n1. Choose Custom or AI mode.\n2. Select one of five board sizes, from 2 x 2 to 5 x 4.\n3. Add text or JPG, PNG, or WEBP images for each pair, or enter an AI theme.\n4. Create the board, review it, and add it directly to your design.\n\nEach custom item is duplicated into a matching pair and shuffled across the board. AI mode creates a complete themed board. New users receive 1 free credit to try the add-on. Each board generation uses 1 credit. Once the free credit is exhausted, users must purchase additional credits or a paid plan to continue. The free credit is provided once per user, does not expire, and is not refreshed.",
+      "descriptionEn": "Create printable memory match game boards for classrooms, family activities, learning games, and creative projects. Build a board from your own text or images, or describe a theme and let AI create the artwork.\n\nHow it works:\n\n1. Choose Custom or AI mode.\n2. Select one of five board sizes, from 2 x 2 to 5 x 4.\n3. Add text or JPG, PNG, or WEBP images for each pair, or enter an AI theme.\n4. Create the board, review it, and add it directly to your design.\n\nEach custom item is duplicated into a matching pair and shuffled across the board. AI mode creates a complete themed board. New users receive 1 free credit to try the add-on. Each board generation uses 1 credit. Once the free credit is exhausted, users must purchase additional credits or a paid plan to continue. The free credit is provided once per user, does not expire, and is not refreshed.",
+      "descriptionJa": "教室、家族活動、学習ゲーム、クリエイティブプロジェクト向けの印刷可能なメモリマッチゲームボードを作成します。テキストや画像から独自のボードを構築するか、テーマを説明してAIに画像を作成させることができます。\n\n使い方：\n\n1. カスタムモードまたはAIモードを選択します。\n2. 2×2から5×4までの5つのボードサイズから選択します。\n3. 各ペアのテキストまたはJPG、PNG、WEBP画像を追加するか、AIテーマを入力します。\n4. ボードを作成、確認してデザインに直接追加します。\n\nカスタムアイテムは自動的に複製されてペアを形成し、ボード全体にシャッフルされます。AIモードはテーマ付きの完全なボードを作成します。新規ユーザーは1つの無料クレジットを受け取ります。各ボード生成に1クレジットを使用します。無料クレジット使用後、継続するには追加クレジットの購入またはペイドプランが必要です。無料クレジットはユーザーあたり1回限り、有効期限なし、更新されません。",
+      "descriptionKo": "교실, 가족 활동, 학습 게임, 크리에이티브 프로젝트용 인쇄 가능한 메모리 매치 게임 보드를 만듭니다. 자신의 텍스트나 이미지로 보드를 구성하거나 테마를 설명하고 AI에게 아트워크를 만들게 할 수 있습니다.\n\n사용 방법:\n\n1. 사용자 정의 또는 AI 모드를 선택합니다.\n2. 2×2부터 5×4까지 5가지 보드 크기 중 하나를 선택합니다.\n3. 각 쌍의 텍스트 또는 JPG, PNG, WEBP 이미지를 추가하거나 AI 테마를 입력합니다.\n4. 보드를 생성, 검토하여 디자인에 직접 추가합니다.\n\n각 사용자 정의 항목은 자동으로 복제되어 매칭 쌍을 형성하고 보드 전체에 무작위 배치됩니다. AI 모드는 완전한 테마 보드를 생성합니다. 신규 사용자는 1개의 무료 크레딧을 받습니다. 각 보드 생성에 1크레딧을 사용합니다. 무료 크레딧 사용 후 계속하려면 추가 크레딧을 구매하거나 유료 플랜이 필요합니다. 무료 크레딧은 사용자당 1회만 제공되며, 유효 기간이 없고 갱신되지 않습니다.",
+      "keywords": [
+        "マッチングゲーム",
+        "フラッシュカード",
+        "教室活動",
+        "印刷ゲーム",
+        "学習カード",
+        "メモリーカード"
+      ],
+      "keywordsEn": [
+        "matching game",
+        "flashcards",
+        "classroom activity",
+        "printable game",
+        "learning cards",
+        "memory cards"
+      ],
+      "keywordsJa": [
+        "マッチングゲーム",
+        "フラッシュカード",
+        "教室活動",
+        "印刷ゲーム",
+        "学習カード",
+        "メモリーカード"
+      ],
+      "keywordsKo": [
+        "매칭 게임",
+        "플래시카드",
+        "교실 활동",
+        "인쇄 게임",
+        "학습 카드",
+        "메모리 카드"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2hn92864"
+    },
+    {
+      "id": "emote-ai-voice",
+      "addOnId": "w2jk245i7",
+      "isNew": true,
+      "nameEn": "Emote AI Voice",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create expressive voiceovers from story text directly in Adobe Express. Enter or paste up to 500 characters, choose an output language, voice, and emotion, then generate an audio result for your design.\n\nChoose from emotions including happy, sad, angry, fearful, surprised, calm, fluent, and neutral. Browse voice previews across supported languages before generating.\n\nKey features:\n\n- Text-to-speech voice generation\n- Multiple languages and voice styles\n- Adjustable emotional delivery\n- Voice preview before generation\n- Audio ready to add to your project\n\nNew users receive 200 free credits. Each generated character uses 1 credit, so a 100-character voiceover uses 100 credits.",
+      "descriptionEn": "Create expressive voiceovers from story text directly in Adobe Express. Enter or paste up to 500 characters, choose an output language, voice, and emotion, then generate an audio result for your design.\n\nChoose from emotions including happy, sad, angry, fearful, surprised, calm, fluent, and neutral. Browse voice previews across supported languages before generating.\n\nKey features:\n\n- Text-to-speech voice generation\n- Multiple languages and voice styles\n- Adjustable emotional delivery\n- Voice preview before generation\n- Audio ready to add to your project\n\nNew users receive 200 free credits. Each generated character uses 1 credit, so a 100-character voiceover uses 100 credits.",
+      "descriptionJa": "Adobe Express内でストーリーテキストから表現力豊かなボイスオーバーを作成します。最大500文字を入力または貼り付け、出力言語、声、感情を選択し、デザイン用のオーディオを生成します。\n\n幸せ、悲しい、怒り、恐怖、驚き、落ち着き、流暢、中立などの感情から選べます。生成前に複数の言語と音声スタイルの音声プレビューを確認できます。\n\n主な機能：\n\n- テキストから音声への変換\n- 複数言語と音声スタイル\n- 調整可能な感情表現\n- 生成前の音声プレビュー\n- プロジェクトに追加可能なオーディオ\n\n新規ユーザーは200の無料クレジットを受け取ります。生成された文字ごとに1クレジットを使用するため、100文字のボイスオーバーは100クレジットを使用します。",
+      "descriptionKo": "Adobe Express에서 스토리 텍스트로 표현력 있는 음성 내레이션을 생성합니다. 최대 500자를 입력하거나 붙여넣고, 출력 언어, 음성, 감정을 선택한 후 디자인용 오디오를 생성합니다.\n\n행복, 슬픔, 분노, 두려움, 놀람, 차분함, 유창함, 중립 등의 감정 중에서 선택할 수 있습니다. 생성 전에 지원되는 언어 전반의 음성 미리보기를 검색할 수 있습니다.\n\n주요 기능:\n\n- 텍스트 음성 변환 생성\n- 다양한 언어 및 음성 스타일\n- 조정 가능한 감정 표현\n- 생성 전 음성 미리보기\n- 프로젝트에 추가 가능한 오디오\n\n신규 사용자는 200개의 무료 크레딧을 받습니다. 생성된 각 문자는 1크레딧을 사용하므로 100자 음성 내레이션은 100크레딧을 사용합니다.",
+      "keywords": [
+        "AI音声",
+        "テキスト読み上げ",
+        "ナレーション",
+        "narration",
+        "emotion",
+        "オーディオ",
+        "ストーリー"
+      ],
+      "keywordsEn": [
+        "AI voice",
+        "text to speech",
+        "voiceover",
+        "narration",
+        "emotion",
+        "audio",
+        "story"
+      ],
+      "keywordsJa": [
+        "AI音声",
+        "テキスト読み上げ",
+        "ナレーション",
+        "narration",
+        "emotion",
+        "オーディオ",
+        "ストーリー"
+      ],
+      "keywordsKo": [
+        "AI 음성",
+        "텍스트 음성 변환",
+        "나레이션",
+        "narration",
+        "emotion",
+        "오디오",
+        "스토리"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2jk245i7"
+    },
+    {
+      "id": "retro-photo-filter",
+      "addOnId": "w3627j76i",
+      "isNew": true,
+      "nameEn": "Retro Photo Filter",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Retro Photo Filter helps designers, photographers, and content creators turn an uploaded image into a styled retro photo for an Adobe Express design. Choose from 13 visual styles, including 70s Vintage, Film Noir, Sepia Classic, VHS Retro, Faded Film, Infrared, Technicolor, Tintype, Cyanotype, and Daguerreotype.\n\nHow it works:\n\n1. Upload a JPG, PNG, or WEBP image.\n2. Choose a retro style.\n3. Generate the filtered image and review the result.\n4. Add the result to your Adobe Express design or create another version.\n\nThe add-on is useful for posters, social media graphics, invitations, album artwork, editorial layouts, and themed photo projects. New users receive 1 free credit to try the add-on. Each generation uses 1 credit. After the one-time free credit is used, users must purchase additional credits or a paid plan to continue. Free credits do not expire and are not refreshed.",
+      "descriptionEn": "Retro Photo Filter helps designers, photographers, and content creators turn an uploaded image into a styled retro photo for an Adobe Express design. Choose from 13 visual styles, including 70s Vintage, Film Noir, Sepia Classic, VHS Retro, Faded Film, Infrared, Technicolor, Tintype, Cyanotype, and Daguerreotype.\n\nHow it works:\n\n1. Upload a JPG, PNG, or WEBP image.\n2. Choose a retro style.\n3. Generate the filtered image and review the result.\n4. Add the result to your Adobe Express design or create another version.\n\nThe add-on is useful for posters, social media graphics, invitations, album artwork, editorial layouts, and themed photo projects. New users receive 1 free credit to try the add-on. Each generation uses 1 credit. After the one-time free credit is used, users must purchase additional credits or a paid plan to continue. Free credits do not expire and are not refreshed.",
+      "descriptionJa": "Retro Photo Filterは、アップロードした画像をAdobe Expressのデザインにレトロ風のスタイル写真に変換します。70年代ビンテージ、フィルムノワール、セピアクラシック、VHSレトロ、フェードフィルム、赤外線、テクニカラー、タイプ、シアノタイプ、ダゲレオタイプなど、13種類のビジュアルスタイルから選べます。\n\n使い方：\n\n1. JPG、PNG、またはWEBP形式の画像をアップロード\n2. レトロスタイルを選択\n3. フィルター画像を生成して結果を確認\n4. 結果をAdobe Expressのデザインに追加するか、別バージョンを作成\n\nポスター、SNS投稿、招待状、アルバムアートワーク、編集レイアウト、テーマ別の写真プロジェクトに最適です。新規ユーザーは無料クレジット1個を使用できます。生成1回につき1クレジット消費されます。無料クレジット使用後は、追加クレジットまたは有料プランを購入して続行する必要があります。無料クレジットは有効期限なしで、更新されません。",
+      "descriptionKo": "Retro Photo Filter는 업로드한 이미지를 Adobe Express 디자인용 레트로 스타일 사진으로 변환해줍니다. 70년대 빈티지, 필름 누아르, 세피아 클래식, VHS 레트로, 페이드 필름, 적외선, 테크니컬러, 틴타입, 시아노타입, 다게레오타입 등 13가지 비주얼 스타일 중에서 선택할 수 있습니다.\n\n사용 방법:\n\n1. JPG, PNG 또는 WEBP 이미지 업로드\n2. 레트로 스타일 선택\n3. 필터링된 이미지 생성 및 결과 확인\n4. 결과를 Adobe Express 디자인에 추가하거나 다른 버전 생성\n\n포스터, 소셜 미디어 그래픽, 초대장, 앨범 아트워크, 편집 레이아웃 및 테마 별 사진 프로젝트에 유용합니다. 신규 사용자는 무료 크레딧 1개를 받습니다. 각 생성마다 1크레딧이 사용됩니다. 무료 크레딧 사용 후에는 추가 크레딧이나 유료 요금제를 구매해야 합니다. 무료 크레딧은 만료되지 않으며 갱신되지 않습니다.",
+      "keywords": [
+        "レトロ 写真",
+        "ヴィンテージ フィルター",
+        "film effect",
+        "sepia",
+        "VHS",
+        "写真エディター",
+        "AI写真",
+        "analog style"
+      ],
+      "keywordsEn": [
+        "retro photo",
+        "vintage filter",
+        "film effect",
+        "sepia",
+        "VHS",
+        "photo editor",
+        "AI photo",
+        "analog style"
+      ],
+      "keywordsJa": [
+        "レトロ 写真",
+        "ヴィンテージ フィルター",
+        "film effect",
+        "sepia",
+        "VHS",
+        "写真エディター",
+        "AI写真",
+        "analog style"
+      ],
+      "keywordsKo": [
+        "레트로 사진",
+        "빈티지 필터",
+        "film effect",
+        "sepia",
+        "VHS",
+        "사진 편집기",
+        "AI 사진",
+        "analog style"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w3627j76i"
+    },
+    {
+      "id": "bingo-card-maker",
+      "addOnId": "w416g9lm5",
+      "isNew": true,
+      "nameEn": "Bingo Card Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create custom bingo cards by personalizing styles, text, and adding images. Perfect for parties, events, and educational activities, giving your bingo games a unique touch.",
+      "descriptionEn": "Create custom bingo cards by personalizing styles, text, and adding images. Perfect for parties, events, and educational activities, giving your bingo games a unique touch.",
+      "descriptionJa": "スタイル、テキスト、画像をカスタマイズしてビンゴカードを作成できます。パーティー、イベント、教育活動に最適で、ビンゴゲームにユニークな彩りを加えられます。",
+      "descriptionKo": "스타일, 텍스트, 이미지를 개인화하여 맞춤형 빙고 카드를 만들 수 있습니다. 파티, 행사, 교육 활동에 완벽하며 빙고 게임에 독특한 스타일을 더해줍니다.",
+      "keywords": [
+        "ビンゴ",
+        "ビンゴカード",
+        "ビンゴジェネレーター",
+        "ビンゴカード生成ツール",
+        "ビンゴゲーム",
+        "ビンゴテンプレート",
+        "ビンゴカードゲーム"
+      ],
+      "keywordsEn": [
+        "bingo",
+        "bingo card",
+        "bingo generator",
+        "bingo card generator",
+        "bingo game",
+        "bingo template",
+        "bingo card game"
+      ],
+      "keywordsJa": [
+        "ビンゴ",
+        "ビンゴカード",
+        "ビンゴジェネレーター",
+        "ビンゴカード生成ツール",
+        "ビンゴゲーム",
+        "ビンゴテンプレート",
+        "ビンゴカードゲーム"
+      ],
+      "keywordsKo": [
+        "빙고",
+        "빙고 카드",
+        "빙고 생성기",
+        "빙고 카드 생성기",
+        "빙고 게임",
+        "빙고 템플릿",
+        "빙고 카드 게임"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w416g9lm5"
+    },
+    {
+      "id": "photo-fades-by-bjorn",
+      "addOnId": "w658klk0j",
+      "isNew": true,
+      "nameEn": "Photo Fades by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Have fun with collages of fading photos.\nSelect a photo, a layout, the main frame and then apply one of these effects.\n- Fade using transparency\n- Blur\n- Pixelate\n- Grayscale",
+      "descriptionEn": "Have fun with collages of fading photos.\nSelect a photo, a layout, the main frame and then apply one of these effects.\n- Fade using transparency\n- Blur\n- Pixelate\n- Grayscale",
+      "descriptionJa": "フェード写真のコラージュを楽しめます。写真、レイアウト、メインフレームを選択して、以下のエフェクトのいずれかを適用します。\n- 透明度を使用したフェード\n- ぼかし\n- ピクセル化\n- グレースケール",
+      "descriptionKo": "페이드된 사진의 콜라주로 재미있게 즐길 수 있습니다. 사진, 레이아웃, 메인 프레임을 선택한 후 다음 효과 중 하나를 적용합니다.\n- 투명도를 사용한 페이드\n- 블러\n- 픽셀화\n- 그레이스케일",
+      "keywords": [
+        "Photo fades",
+        "pixelate",
+        "ぼかし エフェクト",
+        "fade effect",
+        "ぼかし",
+        "fade"
+      ],
+      "keywordsEn": [
+        "Photo fades",
+        "pixelate",
+        "blur effect",
+        "fade effect",
+        "blur",
+        "fade"
+      ],
+      "keywordsJa": [
+        "Photo fades",
+        "pixelate",
+        "ぼかし エフェクト",
+        "fade effect",
+        "ぼかし",
+        "fade"
+      ],
+      "keywordsKo": [
+        "Photo fades",
+        "pixelate",
+        "흐림 효과",
+        "fade effect",
+        "흐림",
+        "fade"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w658klk0j"
+    },
+    {
+      "id": "video-translator",
+      "addOnId": "w7ig22nj5",
+      "isNew": true,
+      "nameEn": "Video Translator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Translate your video and audio into 100+ languages. Pick your media, choose a language and voice, and get the translated video in minutes. Break language barriers and grow your global audience.",
+      "descriptionEn": "Translate your video and audio into 100+ languages. Pick your media, choose a language and voice, and get the translated video in minutes. Break language barriers and grow your global audience.",
+      "descriptionJa": "ビデオとオーディオを100以上の言語に翻訳できます。メディアを選択して言語と音声を指定すれば、数分で翻訳されたビデオが完成します。言語の壁を取り払い、グローバルな視聴者を増やしましょう。",
+      "descriptionKo": "동영상과 오디오를 100개 이상의 언어로 번역합니다. 미디어를 선택하고 언어와 음성을 선택하면 몇 분 내에 번역된 동영상을 받을 수 있습니다. 언어 장벽을 없애고 글로벌 시청자를 확보하세요.",
+      "keywords": [
+        "翻訳 動画",
+        "翻訳 オーディオ",
+        "動画エディター",
+        "動画 翻訳",
+        "翻訳",
+        "audio translator"
+      ],
+      "keywordsEn": [
+        "translate video",
+        "translate audio",
+        "video editor",
+        "video translate",
+        "video translation",
+        "audio translator"
+      ],
+      "keywordsJa": [
+        "翻訳 動画",
+        "翻訳 オーディオ",
+        "動画エディター",
+        "動画 翻訳",
+        "翻訳",
+        "audio translator"
+      ],
+      "keywordsKo": [
+        "번역 동영상",
+        "번역 오디오",
+        "동영상 편집기",
+        "동영상 번역",
+        "번역",
+        "audio translator"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w7ig22nj5"
+    },
+    {
+      "id": "pen-pal",
+      "addOnId": "w88131mm2",
+      "isNew": true,
+      "nameEn": "Pen Pal",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Pen Pal adds a proper vector pen to Adobe Express: draw paths point by point, with corners or smooth bezier curves, then place them on your canvas as native, editable shapes.\n\nStart from scratch with the pen, or bring existing vectors in to edit: select a path on your canvas, or upload an SVG file, to bring it in as editable points. Move anchors, drag bezier handles, add or delete points, and turn any corner into a curve, a round, or a chamfer. Break a path open at a point, or drag its ends together to close or join it.\n\nStyle each path with a fill, a stroke, or both. Choose stroke ends and corners, and Pen Pal places them faithfully as vectors. Open and close paths, and transform them on a stage with rotate and scale.\n\nUndo and redo, snap to a grid, and use keyboard shortcuts throughout.\n\nPen Pal is free to use until the end of August 2026. After that it becomes a one-time purchase, with core drawing always available.",
+      "descriptionEn": "Pen Pal adds a proper vector pen to Adobe Express: draw paths point by point, with corners or smooth bezier curves, then place them on your canvas as native, editable shapes.\n\nStart from scratch with the pen, or bring existing vectors in to edit: select a path on your canvas, or upload an SVG file, to bring it in as editable points. Move anchors, drag bezier handles, add or delete points, and turn any corner into a curve, a round, or a chamfer. Break a path open at a point, or drag its ends together to close or join it.\n\nStyle each path with a fill, a stroke, or both. Choose stroke ends and corners, and Pen Pal places them faithfully as vectors. Open and close paths, and transform them on a stage with rotate and scale.\n\nUndo and redo, snap to a grid, and use keyboard shortcuts throughout.\n\nPen Pal is free to use until the end of August 2026. After that it becomes a one-time purchase, with core drawing always available.",
+      "descriptionJa": "Pen PalはAdobe Expressに本格的なベクターペンを追加します。点と点を結んでパスを描画でき、コーナーまたはスムーズなベジェ曲線を作成して、キャンバスにネイティブな編集可能なシェイプとして配置できます。\n\nペンでゼロから始めるか、既存のベクターを編集用に取り込めます。キャンバス上のパスを選択するか、SVGファイルをアップロードして編集可能なポイントとして取り込みます。アンカーを移動、ベジェハンドルをドラッグ、ポイントを追加・削除、コーナーを曲線・丸角・面取りに変更できます。ポイントでパスを開くか、その端をドラッグして閉じたり結合できます。\n\n各パスに塗りつぶし、ストローク、またはその両方でスタイルを設定します。ストロークの両端とコーナーを選択すると、Pen Palはそれらをベクターとして忠実に配置します。パスを開いたり閉じたり、ステージ上で回転・スケーリングして変形できます。\n\nやり直し・取り消し、グリッドにスナップ、キーボードショートカットが使用できます。\n\nPen Palは2026年8月末まで無料で使用できます。その後は1回限りの購入となり、コア描画機能は常に利用できます。",
+      "descriptionKo": "Pen Pal은 Adobe Express에 적절한 벡터 펜을 추가합니다. 점과 점을 연결하여 경로를 그릴 수 있으며, 모서리 또는 부드러운 베지에 곡선을 만들어 캔버스에 네이티브 편집 가능한 모양으로 배치합니다.\n\n펜으로 처음부터 시작하거나 기존 벡터를 편집을 위해 가져올 수 있습니다. 캔버스의 경로를 선택하거나 SVG 파일을 업로드하여 편집 가능한 포인트로 가져옵니다. 앵커 이동, 베지에 핸들 드래그, 포인트 추가/삭제, 모서리를 곡선, 둥근 모서리 또는 모따기로 변환할 수 있습니다. 포인트에서 경로를 열거나 끝을 드래그하여 닫거나 조인할 수 있습니다.\n\n각 경로에 채우기, 스트로크 또는 둘 다로 스타일을 지정합니다. 스트로크 끝과 모서리를 선택하면 Pen Pal이 이들을 벡터로 충실하게 배치합니다. 경로를 열고 닫으며, 회전 및 스케일 변환으로 스테이지에서 변형할 수 있습니다.\n\n실행 취소 및 재실행, 그리드에 스냅, 키보드 단축키를 사용할 수 있습니다.\n\nPen Pal은 2026년 8월 말까지 무료로 사용할 수 있습니다. 그 후에는 일회성 구매가 되며, 핵심 드로잉 기능은 항상 사용 가능합니다.",
+      "keywords": [
+        "pen",
+        "ベクター",
+        "draw",
+        "path",
+        "bezier",
+        "curve",
+        "SVG",
+        "outline",
+        "anchor",
+        "形状"
+      ],
+      "keywordsEn": [
+        "pen",
+        "vector",
+        "draw",
+        "path",
+        "bezier",
+        "curve",
+        "svg",
+        "outline",
+        "anchor",
+        "shape"
+      ],
+      "keywordsJa": [
+        "pen",
+        "ベクター",
+        "draw",
+        "path",
+        "bezier",
+        "curve",
+        "SVG",
+        "outline",
+        "anchor",
+        "形状"
+      ],
+      "keywordsKo": [
+        "pen",
+        "벡터",
+        "draw",
+        "path",
+        "bezier",
+        "curve",
+        "SVG",
+        "outline",
+        "anchor",
+        "도형"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w88131mm2"
+    },
+    {
+      "id": "pattern-builder",
+      "addOnId": "w91ki7hl4",
+      "isNew": true,
+      "nameEn": "Pattern Builder",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Transform your images into professional-grade, seamless patterns with Pattern Builder. No more complex software or tedious manual labor. Whether you are a professional designer, digital artist, or creative hobbyist, our intuitive, web-based tool lets you generate infinitely repeating patterns from any photo in seconds.\nPattern Builder puts powerful design controls at your fingertips. Easily adjust horizontal and vertical repetition, fine-tune your rotation, and experiment with professional layouts including Basic, Half-Brick, and Half-Drop. Every adjustment happens in real-time, giving you total creative control over the final result.\nDesigned to streamline your workflow, Pattern Builder is perfect for creating textile designs, custom wallpaper, digital backgrounds, or unique print projects. Export your work in high resolution and bring your ideas to life instantly. Stop wrestling with complicated software—start building your perfect pattern today.",
+      "descriptionEn": "Transform your images into professional-grade, seamless patterns with Pattern Builder. No more complex software or tedious manual labor. Whether you are a professional designer, digital artist, or creative hobbyist, our intuitive, web-based tool lets you generate infinitely repeating patterns from any photo in seconds.\nPattern Builder puts powerful design controls at your fingertips. Easily adjust horizontal and vertical repetition, fine-tune your rotation, and experiment with professional layouts including Basic, Half-Brick, and Half-Drop. Every adjustment happens in real-time, giving you total creative control over the final result.\nDesigned to streamline your workflow, Pattern Builder is perfect for creating textile designs, custom wallpaper, digital backgrounds, or unique print projects. Export your work in high resolution and bring your ideas to life instantly. Stop wrestling with complicated software—start building your perfect pattern today.",
+      "descriptionJa": "Pattern Builderで画像をプロフェッショナルなシームレスパターンに変換します。複雑なソフトウェアや手作業は不要。プロのデザイナー、デジタルアーティスト、クリエイティブなホビーストなら、直感的なウェブベースツールで任意の写真から数秒で無限に繰り返されるパターンを生成できます。\n\nPattern Builderは強力なデザインコントロールを手元に置きます。水平・垂直の繰り返しを簡単に調整し、回転を細調整でき、Basic、Half-Brick、Half-Dropなどのプロフェッショナルなレイアウトを試せます。すべての調整がリアルタイムで反映され、最終結果を完全にコントロールできます。\n\nワークフローを効率化するために設計されたPattern Builderは、テキスタイルデザイン、カスタム壁紙、デジタル背景、ユニークなプリント作品の作成に最適です。高解像度でエクスポートしてアイデアを即座に実現できます。複雑なソフトウェアとの闘いをやめて、今すぐ理想のパターン作成を始めましょう。",
+      "descriptionKo": "Pattern Builder로 이미지를 전문가 수준의 원활한 패턴으로 변환하세요. 복잡한 소프트웨어나 수작업은 필요 없습니다. 전문 디자이너, 디지털 아티스트, 창의적인 취미 활동가라면 직관적인 웹 기반 도구로 모든 사진에서 몇 초 안에 무한 반복 패턴을 생성할 수 있습니다.\n\nPattern Builder는 강력한 디자인 컨트롤을 손쉽게 사용할 수 있게 해줍니다. 가로 및 세로 반복을 쉽게 조정하고, 회전을 세밀하게 조정하며, Basic, Half-Brick, Half-Drop 등 전문적인 레이아웃을 실험할 수 있습니다. 모든 조정이 실시간으로 반영되어 최종 결과를 완전히 제어할 수 있습니다.\n\n워크플로를 간소화하기 위해 설계된 Pattern Builder는 텍스타일 디자인, 맞춤형 벽지, 디지털 배경 또는 고유한 인쇄 작품 제작에 완벽합니다. 고해상도로 내보내고 아이디어를 즉시 현실화하세요. 복잡한 소프트웨어와의 싸움을 멈추고 지금 바로 완벽한 패턴 만들기를 시작하세요.",
+      "keywords": [
+        "パターン",
+        "seamless",
+        "repeat",
+        "デザイン",
+        "textile",
+        "wallpaper",
+        "moodboard",
+        "fabric",
+        "kaleidoscope",
+        "tile"
+      ],
+      "keywordsEn": [
+        "pattern",
+        "seamless",
+        "repeat",
+        "design",
+        "textile",
+        "wallpaper",
+        "moodboard",
+        "fabric",
+        "kaleidoscope",
+        "tile"
+      ],
+      "keywordsJa": [
+        "パターン",
+        "seamless",
+        "repeat",
+        "デザイン",
+        "textile",
+        "wallpaper",
+        "moodboard",
+        "fabric",
+        "kaleidoscope",
+        "tile"
+      ],
+      "keywordsKo": [
+        "패턴",
+        "seamless",
+        "repeat",
+        "디자인",
+        "textile",
+        "wallpaper",
+        "moodboard",
+        "fabric",
+        "kaleidoscope",
+        "tile"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w91ki7hl4"
+    },
+    {
+      "id": "brand-icon-maker",
+      "addOnId": "wg9923g76",
+      "isNew": true,
+      "nameEn": "Brand Icon Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create a coordinated family of original icons for brand systems, websites, product interfaces, and marketing designs. Describe the icon meanings you need, add optional brand context, select a visual style and brand color, then generate a consistent icon sheet.\n\nHow it works:\n\n1. Describe the requested icon concepts.\n2. Choose 6 or 9 icons, a style, color, and optional transparent background.\n3. Generate and review the coordinated set.\n4. Add one selected icon or the complete sheet to your design.\n\nFeatures include six visual styles, custom brand colors, optional background removal, individual icon cropping, and full-sheet insertion.\n\nNew users receive 3 free credits to try the add-on. Each generation uses 1 credit. Free credits are provided once, do not expire, and are not refreshed. After they are used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionEn": "Create a coordinated family of original icons for brand systems, websites, product interfaces, and marketing designs. Describe the icon meanings you need, add optional brand context, select a visual style and brand color, then generate a consistent icon sheet.\n\nHow it works:\n\n1. Describe the requested icon concepts.\n2. Choose 6 or 9 icons, a style, color, and optional transparent background.\n3. Generate and review the coordinated set.\n4. Add one selected icon or the complete sheet to your design.\n\nFeatures include six visual styles, custom brand colors, optional background removal, individual icon cropping, and full-sheet insertion.\n\nNew users receive 3 free credits to try the add-on. Each generation uses 1 credit. Free credits are provided once, do not expire, and are not refreshed. After they are used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionJa": "ブランドシステム、ウェブサイト、製品インターフェース、マーケティングデザイン用のオリジナルアイコンファミリーを作成します。必要なアイコンの意味を説明し、オプションのブランドコンテキストを追加して、ビジュアルスタイルとブランドカラーを選択すれば、統一されたアイコンシートが生成されます。\n\n仕組み：\n\n1. リクエストするアイコンコンセプトを説明\n2. 6個または9個のアイコン、スタイル、カラー、オプションで背景透明を選択\n3. 統一されたセットを生成して確認\n4. 選択したアイコンまたは完全なシートをデザインに追加\n\n機能には6つのビジュアルスタイル、カスタムブランドカラー、オプションの背景削除、個別アイコン切り取り、フルシート挿入が含まれます。\n\n新規ユーザーはアドオンを試すための3つの無料クレジットを取得します。1回の生成で1クレジットを使用します。無料クレジットは1回のみ提供され、有効期限なし、更新されません。使用後は、追加クレジットまたは有料プランの購入が必要です。",
+      "descriptionKo": "브랜드 시스템, 웹사이트, 제품 인터페이스 및 마케팅 디자인용 원본 아이콘 패밀리를 만드세요. 필요한 아이콘의 의미를 설명하고 선택적 브랜드 컨텍스트를 추가한 후 시각적 스타일과 브랜드 색상을 선택하면 일관된 아이콘 시트가 생성됩니다.\n\n작동 방식:\n\n1. 요청한 아이콘 개념 설명\n2. 6개 또는 9개의 아이콘, 스타일, 색상 및 선택적 투명 배경 선택\n3. 조정된 세트 생성 및 검토\n4. 선택한 아이콘 또는 전체 시트를 디자인에 추가\n\n기능에는 6가지 시각적 스타일, 커스텀 브랜드 색상, 선택적 배경 제거, 개별 아이콘 자르기 및 전체 시트 삽입이 포함됩니다.\n\n새 사용자는 애드온을 시도할 수 있는 3개의 무료 크레딧을 받습니다. 각 생성은 1개의 크레딧을 사용합니다. 무료 크레딧은 한 번만 제공되며 만료되지 않고 새로 고쳐지지 않습니다. 사용 후 계속하려면 추가 크레딧이나 유료 플랜을 구매해야 합니다.",
+      "keywords": [
+        "ブランド アイコン",
+        "アイコンセット",
+        "アイコン ジェネレーター",
+        "visual identity",
+        "UI アイコン",
+        "マーケティング デザイン",
+        "symbols"
+      ],
+      "keywordsEn": [
+        "brand icons",
+        "icon set",
+        "icon generator",
+        "visual identity",
+        "UI icons",
+        "marketing design",
+        "symbols"
+      ],
+      "keywordsJa": [
+        "ブランド アイコン",
+        "アイコンセット",
+        "アイコン ジェネレーター",
+        "visual identity",
+        "UI アイコン",
+        "マーケティング デザイン",
+        "symbols"
+      ],
+      "keywordsKo": [
+        "브랜드 아이콘",
+        "아이콘 세트",
+        "아이콘 생성기",
+        "visual identity",
+        "UI 아이콘",
+        "마케팅 디자인",
+        "symbols"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg9923g76"
+    },
+    {
+      "id": "bulk-unblur-image",
+      "addOnId": "wgm6i945l",
+      "isNew": true,
+      "nameEn": "Bulk Unblur Image",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Restore clarity to blurry photos in batches for product images, social posts, archives, and design assets. Upload up to 20 JPG, PNG, or WEBP files and automatically enhance them in one streamlined workflow.\n\nHow it works:\n\n1. Select one or more images.\n2. Start the automatic enhancement process.\n3. Review each successfully enhanced result.\n4. Add one image or all results to your design.\n\nFeatures:\n\n- Batch processing for up to 20 images\n- Automatic AI-powered clarity and resolution enhancement\n- Per-image progress and failure handling\n- Individual or bulk insertion into Adobe Express\n\nNew users receive 3 free credits to try the add-on. Each successfully enhanced image uses 1 credit. Failed images are not charged. Free credits are provided once, do not expire, and are not refreshed. After they are used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionEn": "Restore clarity to blurry photos in batches for product images, social posts, archives, and design assets. Upload up to 20 JPG, PNG, or WEBP files and automatically enhance them in one streamlined workflow.\n\nHow it works:\n\n1. Select one or more images.\n2. Start the automatic enhancement process.\n3. Review each successfully enhanced result.\n4. Add one image or all results to your design.\n\nFeatures:\n\n- Batch processing for up to 20 images\n- Automatic AI-powered clarity and resolution enhancement\n- Per-image progress and failure handling\n- Individual or bulk insertion into Adobe Express\n\nNew users receive 3 free credits to try the add-on. Each successfully enhanced image uses 1 credit. Failed images are not charged. Free credits are provided once, do not expire, and are not refreshed. After they are used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionJa": "製品画像、ソーシャル投稿、アーカイブ、デザインアセット用にぼやけた写真をバッチで復元します。最大20個のJPG、PNG、またはWEBPファイルをアップロードして、1つの効率的なワークフローで自動的に強化します。\n\n仕組み：\n\n1. 1つ以上の画像を選択\n2. 自動強化プロセスを開始\n3. 正常に強化された各結果を確認\n4. 1つの画像またはすべての結果をAdobe Expressのデザインに追加\n\n機能：\n\n- 最大20画像のバッチ処理\n- AI駆動の自動的な鮮明度と解像度の強化\n- 画像ごとの進捗と障害処理\n- Adobe Expressへの個別またはバッチ挿入\n\n新規ユーザーはアドオンを試すための3つの無料クレジットを取得します。正常に強化された各画像で1クレジットを使用します。失敗した画像は課金されません。無料クレジットは1回のみ提供され、有効期限なし、更新されません。使用後は、追加クレジットまたは有料プランの購入が必要です。",
+      "descriptionKo": "제품 이미지, 소셜 포스트, 아카이브 및 디자인 자산용 흐릿한 사진을 일괄 복원하세요. 최대 20개의 JPG, PNG 또는 WEBP 파일을 업로드하고 하나의 효율적인 워크플로에서 자동으로 향상시킵니다.\n\n작동 방식:\n\n1. 하나 이상의 이미지 선택\n2. 자동 향상 프로세스 시작\n3. 성공적으로 향상된 각 결과 검토\n4. 하나의 이미지 또는 모든 결과를 Adobe Express 디자인에 추가\n\n기능:\n\n- 최대 20개 이미지에 대한 일괄 처리\n- AI 기반 선명도 및 해상도 자동 향상\n- 이미지별 진행 상황 및 오류 처리\n- Adobe Express에 개별 또는 일괄 삽입\n\n새 사용자는 애드온을 시도할 수 있는 3개의 무료 크레딧을 받습니다. 성공적으로 향상된 각 이미지는 1개의 크레딧을 사용합니다. 실패한 이미지는 청구되지 않습니다. 무료 크레딧은 한 번만 제공되며 만료되지 않고 새로 고쳐지지 않습니다. 사용 후 계속하려면 추가 크레딧이나 유료 플랜을 구매해야 합니다.",
+      "keywords": [
+        "unblur image",
+        "image enhancer",
+        "photo restoration",
+        "アップスケール",
+        "シャープ",
+        "batch",
+        "HD 写真"
+      ],
+      "keywordsEn": [
+        "unblur image",
+        "image enhancer",
+        "photo restoration",
+        "upscale",
+        "sharpen",
+        "batch",
+        "HD photo"
+      ],
+      "keywordsJa": [
+        "unblur image",
+        "image enhancer",
+        "photo restoration",
+        "アップスケール",
+        "シャープ",
+        "batch",
+        "HD 写真"
+      ],
+      "keywordsKo": [
+        "unblur image",
+        "image enhancer",
+        "photo restoration",
+        "업스케일",
+        "선명화",
+        "batch",
+        "HD 사진"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgm6i945l"
+    },
+    {
+      "id": "shadow-studio",
+      "addOnId": "wj2m12kjk",
+      "isNew": true,
+      "nameEn": "Shadow Studio",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Shadow Studio adds depth to your designs with seven shadow styles: basic, drop, dual, long, 3D perspective, inset, and contact. Drag the light source to position shadows in real time — or shape 3D and contact shadows by dragging directly on the preview. Fine-tune every parameter, build gradient shadows, and apply halftone or noise textures. Bring in any image by upload, drag-and-drop, or straight from your page, with optional one-click background removal. Animate between keyframes and export as MP4, or export the shadow alone — as a still to layer under your elements, or as a Multiply video layer added to your design automatically. Save your best setups as reusable presets.\n\nAll features are free until the end of August 2026.",
+      "descriptionEn": "Shadow Studio adds depth to your designs with seven shadow styles: basic, drop, dual, long, 3D perspective, inset, and contact. Drag the light source to position shadows in real time — or shape 3D and contact shadows by dragging directly on the preview. Fine-tune every parameter, build gradient shadows, and apply halftone or noise textures. Bring in any image by upload, drag-and-drop, or straight from your page, with optional one-click background removal. Animate between keyframes and export as MP4, or export the shadow alone — as a still to layer under your elements, or as a Multiply video layer added to your design automatically. Save your best setups as reusable presets.\n\nAll features are free until the end of August 2026.",
+      "descriptionJa": "Shadow Studioは7つのシャドウスタイル（基本、ドロップ、デュアル、ロング、3D遠近法、インセット、コンタクト）でデザインに奥行きを追加します。光源をドラッグしてシャドウをリアルタイムで配置するか、プレビューで直接ドラッグして3Dおよびコンタクトシャドウを形成します。すべてのパラメータを微調整し、グラデーションシャドウを構築し、ハーフトーンまたはノイズテクスチャを適用します。アップロード、ドラッグ&ドロップ、またはページから直接任意の画像を取り込め、ワンクリック背景削除が可能です。キーフレーム間でアニメーションさせてMP4としてエクスポートするか、シャドウのみをエクスポート（要素の下に重ねるスティル画像、または自動的にデザインに追加されるMultiplyビデオレイヤー）します。最適なセットアップを再利用可能なプリセットとして保存します。\n\nすべての機能は2026年8月末まで無料です。",
+      "descriptionKo": "Shadow Studio는 7가지 그림자 스타일(기본, 드롭, 듀얼, 롱, 3D 원근, 인세트, 컨택트)로 디자인에 깊이를 더합니다. 광원을 드래그하여 그림자를 실시간으로 배치하거나 미리보기에서 직접 드래그하여 3D 및 컨택트 그림자를 형성합니다. 모든 매개변수를 미세 조정하고, 그라데이션 그림자를 구축하며, 하프톤 또는 노이즈 텍스처를 적용합니다. 업로드, 드래그 앤 드롭 또는 페이지에서 직접 이미지를 가져올 수 있으며 원클릭 배경 제거가 가능합니다. 키프레임 사이에 애니메이션하고 MP4로 내보내거나, 그림자만 내보내기—요소 아래 레이어링할 스틸 또는 자동으로 디자인에 추가되는 Multiply 비디오 레이어로 내보냅니다. 최적의 설정을 재사용 가능한 사전 설정으로 저장합니다.\n\n2026년 8월 말까지 모든 기능이 무료입니다.",
+      "keywords": [
+        "シャドウ",
+        "ドロップシャドウ",
+        "ロングシャドウ",
+        "3Dシャドウ",
+        "シャドウジェネレーター",
+        "シャドウエフェクト",
+        "コンタクトシャドウ",
+        "インセット"
+      ],
+      "keywordsEn": [
+        "shadow",
+        "drop shadow",
+        "long shadow",
+        "3D shadow",
+        "shadow generator",
+        "shadow effects",
+        "contact shadow",
+        "inset"
+      ],
+      "keywordsJa": [
+        "シャドウ",
+        "ドロップシャドウ",
+        "ロングシャドウ",
+        "3Dシャドウ",
+        "シャドウジェネレーター",
+        "シャドウエフェクト",
+        "コンタクトシャドウ",
+        "インセット"
+      ],
+      "keywordsKo": [
+        "그림자",
+        "드롭 섀도우",
+        "롱 섀도우",
+        "3D 섀도우",
+        "섀도우 생성기",
+        "섀도우 효과",
+        "컨택트 섀도우",
+        "인세트"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj2m12kjk"
+    },
+    {
+      "id": "ai-logo-creator",
+      "addOnId": "wk20mljkg",
+      "isNew": true,
+      "nameEn": "AI Logo Creator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create original logo concepts for brands, projects, and campaigns without leaving Adobe Express. Enter a brand name and creative direction to generate a polished logo, or upload a reference image and describe a fresh visual direction. Review the result on a dedicated result screen, then add it directly to your active design.\n\nKey features:\n\n- Generate a logo from a brand name and written brief\n- Use a JPG, PNG, or WEBP reference image for a redesigned concept\n- Preview the generated logo before adding it to Adobe Express\n- Cancel generation from the progress screen\n\nNew users receive 1 free credit to try the add-on. Each logo generation uses 1 credit. After the free credit is used, additional credits are required to continue generating logos.",
+      "descriptionEn": "Create original logo concepts for brands, projects, and campaigns without leaving Adobe Express. Enter a brand name and creative direction to generate a polished logo, or upload a reference image and describe a fresh visual direction. Review the result on a dedicated result screen, then add it directly to your active design.\n\nKey features:\n\n- Generate a logo from a brand name and written brief\n- Use a JPG, PNG, or WEBP reference image for a redesigned concept\n- Preview the generated logo before adding it to Adobe Express\n- Cancel generation from the progress screen\n\nNew users receive 1 free credit to try the add-on. Each logo generation uses 1 credit. After the free credit is used, additional credits are required to continue generating logos.",
+      "descriptionJa": "Adobe Expressを離れることなく、ブランド、プロジェクト、キャンペーン用のオリジナルロゴコンセプトを作成します。ブランド名とクリエイティブディレクションを入力して洗練されたロゴを生成するか、参考画像をアップロードして新しいビジュアルディレクションを説明します。専用の結果画面でロゴをレビューしてから、アクティブなデザインに直接追加します。\n\n主な機能：\n\n- ブランド名と文字による説明からロゴを生成\n- JPG、PNG、またはWEBP参考画像を使用して再設計されたコンセプトを作成\n- Adobe Expressに追加する前に生成されたロゴをプレビュー\n- 進捗画面から生成をキャンセル\n\n新規ユーザーはアドオンを試すための1つの無料クレジットを取得します。各ロゴ生成で1クレジットを使用します。無料クレジットを使用した後は、ロゴの生成を続けるために追加クレジットが必要です。",
+      "descriptionKo": "Adobe Express를 떠나지 않고 브랜드, 프로젝트 및 캠페인용 오리지널 로고 콘셉트를 만드세요. 브랜드 명과 창의적인 방향을 입력하여 완성된 로고를 생성하거나, 참조 이미지를 업로드하고 새로운 시각적 방향을 설명하세요. 전용 결과 화면에서 생성된 로고를 검토한 다음 활성 디자인에 직접 추가합니다.\n\n주요 기능:\n\n- 브랜드 이름과 작성된 브리프에서 로고 생성\n- 재설계된 컨셉을 위해 JPG, PNG 또는 WEBP 참조 이미지 사용\n- Adobe Express에 추가하기 전에 생성된 로고 미리보기\n- 진행 상황 화면에서 생성 취소\n\n새 사용자는 애드온을 시도할 수 있는 1개의 무료 크레딧을 받습니다. 각 로고 생성은 1개의 크레딧을 사용합니다. 무료 크레딧을 사용한 후에는 로고 생성을 계속하기 위해 추가 크레딧이 필요합니다.",
+      "keywords": [
+        "ロゴメーカー",
+        "AIロゴ",
+        "ブランドアイデンティティ",
+        "ロゴ デザイン",
+        "text to logo",
+        "reference image",
+        "ブランディング"
+      ],
+      "keywordsEn": [
+        "logo maker",
+        "AI logo",
+        "brand identity",
+        "logo design",
+        "text to logo",
+        "reference image",
+        "branding"
+      ],
+      "keywordsJa": [
+        "ロゴメーカー",
+        "AIロゴ",
+        "ブランドアイデンティティ",
+        "ロゴ デザイン",
+        "text to logo",
+        "reference image",
+        "ブランディング"
+      ],
+      "keywordsKo": [
+        "로고 메이커",
+        "AI 로고",
+        "브랜드 아이덴티티",
+        "로고 디자인",
+        "text to logo",
+        "reference image",
+        "브랜딩"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk20mljkg"
+    },
+    {
+      "id": "blur-background-ai",
+      "addOnId": "wl656n5jk",
+      "isNew": true,
+      "nameEn": "Blur Background AI",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create natural depth-of-field and bokeh effects while keeping your main subject sharp. Upload a photo, choose a blur style, and add the result directly to your Adobe Express design.\n\nHow it works:\n\n1. Upload a JPG, PNG, or WEBP image.\n2. Choose from Classic, Cinematic, Dreamy, Heart, Star, Diamond, Hexagonal, or Neon.\n3. Apply lens blur and add the result to your design.\n\nFeatures:\n\n- AI-assisted subject focus and background blur\n- Eight lens and bokeh styles\n- Input image safety screening\n- Result preview and direct insertion\n\nThis add-on offers a free trial with a one-time allocation of 1 credit per user. Each generation uses 1 credit. Free credits do not expire and are not refreshed. After the free credit is used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionEn": "Create natural depth-of-field and bokeh effects while keeping your main subject sharp. Upload a photo, choose a blur style, and add the result directly to your Adobe Express design.\n\nHow it works:\n\n1. Upload a JPG, PNG, or WEBP image.\n2. Choose from Classic, Cinematic, Dreamy, Heart, Star, Diamond, Hexagonal, or Neon.\n3. Apply lens blur and add the result to your design.\n\nFeatures:\n\n- AI-assisted subject focus and background blur\n- Eight lens and bokeh styles\n- Input image safety screening\n- Result preview and direct insertion\n\nThis add-on offers a free trial with a one-time allocation of 1 credit per user. Each generation uses 1 credit. Free credits do not expire and are not refreshed. After the free credit is used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionJa": "被写体をシャープに保ちながら、自然なボケ効果を作成します。写真をアップロードしてぼかしスタイルを選択し、結果をAdobe Expressデザインに直接追加できます。\n\n使い方:\n\n1. JPG、PNG、またはWEBP形式の画像をアップロードします。\n2. クラシック、シネマティック、ドリーミー、ハート、スター、ダイヤモンド、ヘキサゴナル、ネオンから選択します。\n3. レンズブラーを適用してデザインに追加します。\n\n機能:\n\n- AI搭載の被写体フォーカスと背景ぼかし\n- 8種類のレンズとボケエフェクト\n- 入力画像のセーフティチェック\n- 結果プレビューと直接挿入\n\nこのアドオンは、1ユーザーあたり1クレジットの1回限りの無料トライアルを提供します。各生成に1クレジットを使用します。無料クレジットは有効期限がなく、リセットされません。無料クレジット使用後、ユーザーは追加クレジットまたは有料プランを購入して続行する必要があります。",
+      "descriptionKo": "피사체는 선명하게 유지하면서 자연스러운 뎁스 오브 필드와 보케 효과를 만들어 보세요. 사진을 업로드하고 블러 스타일을 선택한 후 Adobe Express 디자인에 바로 추가할 수 있습니다.\n\n사용 방법:\n\n1. JPG, PNG 또는 WEBP 형식의 이미지를 업로드합니다.\n2. 클래식, 시네마틱, 드리미, 하트, 스타, 다이아몬드, 육각형, 네온 중에서 선택합니다.\n3. 렌즈 블러를 적용하고 디자인에 추가합니다.\n\n기능:\n\n- AI 기반 피사체 포커스 및 배경 블러\n- 8가지 렌즈 및 보케 스타일\n- 입력 이미지 안전 검사\n- 결과 미리보기 및 직접 삽입\n\n이 애드온은 사용자당 1회 1크레딧의 무료 체험을 제공합니다. 각 생성에 1크레딧이 사용됩니다. 무료 크레딧은 만료되지 않으며 갱신되지 않습니다. 무료 크레딧을 사용한 후에는 추가 크레딧이나 유료 플랜을 구매하여 계속 사용할 수 있습니다.",
+      "keywords": [
+        "背景 ぼかし",
+        "lens blur",
+        "ボケ",
+        "depth of field",
+        "ポートレート",
+        "写真 エフェクト",
+        "AI写真"
+      ],
+      "keywordsEn": [
+        "background blur",
+        "lens blur",
+        "bokeh",
+        "depth of field",
+        "portrait",
+        "photo effect",
+        "AI photo"
+      ],
+      "keywordsJa": [
+        "背景 ぼかし",
+        "lens blur",
+        "ボケ",
+        "depth of field",
+        "ポートレート",
+        "写真 エフェクト",
+        "AI写真"
+      ],
+      "keywordsKo": [
+        "배경 흐림",
+        "lens blur",
+        "보케",
+        "depth of field",
+        "인물사진",
+        "사진 효과",
+        "AI 사진"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl656n5jk"
+    },
+    {
+      "id": "image-vectorizer",
+      "addOnId": "wlgg2njk2",
+      "isNew": true,
+      "nameEn": "Image Vectorizer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Image Vectorizer converts raster artwork into clean, scalable SVG vectors inside Adobe Express. Upload a JPEG or PNG image (max 12 MB), choose full color or black-and-white output, and get an editable vector you can add to your design or download.\n\nIdeal for logos, icons, illustrations, line art, and artwork that needs to scale without losing quality. Large images are automatically resized for processing when needed.\n\nWhat you can do:\n- Convert JPEG or PNG images into SVG vectors.\n- Choose full-color or black-and-white vector styles.\n- Preview the result and add it straight to your Adobe Express page.\n- Download the SVG for use outside Express.\n- Edit colors and shapes before placing the vector on your canvas.\n\nNew accounts receive 10 free credits, and affordable monthly, quarterly, or yearly plans unlock unlimited vectorizations.",
+      "descriptionEn": "Image Vectorizer converts raster artwork into clean, scalable SVG vectors inside Adobe Express. Upload a JPEG or PNG image (max 12 MB), choose full color or black-and-white output, and get an editable vector you can add to your design or download.\n\nIdeal for logos, icons, illustrations, line art, and artwork that needs to scale without losing quality. Large images are automatically resized for processing when needed.\n\nWhat you can do:\n- Convert JPEG or PNG images into SVG vectors.\n- Choose full-color or black-and-white vector styles.\n- Preview the result and add it straight to your Adobe Express page.\n- Download the SVG for use outside Express.\n- Edit colors and shapes before placing the vector on your canvas.\n\nNew accounts receive 10 free credits, and affordable monthly, quarterly, or yearly plans unlock unlimited vectorizations.",
+      "descriptionJa": "Image Vectorizerは、Adobe Express内でラスター画像をクリーンでスケーラブルなSVGベクターに変換します。JPEGまたはPNG画像（最大12 MB）をアップロードし、フルカラーまたは白黒出力を選択して、デザインに追加またはダウンロードできる編集可能なベクターを取得します。\n\nロゴ、アイコン、イラスト、ラインアート、品質を損なわずにスケーリングが必要なアートワークに最適です。大きな画像は必要に応じて処理用に自動的にリサイズされます。\n\nできること:\n- JPEGまたはPNG画像をSVGベクターに変換します。\n- フルカラーまたは白黒ベクタースタイルを選択できます。\n- 結果をプレビューしてAdobe Expressページに直接追加できます。\n- SVGをダウンロードしてExpress外で使用できます。\n- ベクターをキャンバスに配置する前に色と図形を編集できます。\n\n新規アカウントは10個の無料クレジットを受け取り、お手頃な月額、四半期、または年間プランでベクター化が無制限になります。",
+      "descriptionKo": "Image Vectorizer는 Adobe Express 내에서 래스터 이미지를 깔끔하고 확장 가능한 SVG 벡터로 변환합니다. JPEG 또는 PNG 이미지(최대 12MB)를 업로드하고 풀컬러 또는 흑백 출력을 선택한 후 디자인에 추가하거나 다운로드할 수 있는 편집 가능한 벡터를 얻습니다.\n\n로고, 아이콘, 일러스트레이션, 라인 아트, 품질 손실 없이 확장이 필요한 아트웍에 이상적입니다. 필요한 경우 대용량 이미지는 처리를 위해 자동으로 크기가 조정됩니다.\n\n할 수 있는 것:\n- JPEG 또는 PNG 이미지를 SVG 벡터로 변환합니다.\n- 풀컬러 또는 흑백 벡터 스타일을 선택할 수 있습니다.\n- 결과를 미리보고 Adobe Express 페이지에 바로 추가할 수 있습니다.\n- SVG를 다운로드하여 Express 외부에서 사용할 수 있습니다.\n- 캔버스에 벡터를 배치하기 전에 색상과 도형을 편집할 수 있습니다.\n\n새 계정은 10개의 무료 크레딧을 받으며, 저렴한 월간, 분기별 또는 연간 플랜으로 무제한 벡터화를 할 수 있습니다.",
+      "keywords": [
+        "image vectorizer",
+        "raster to vector",
+        "SVG converter",
+        "png to svg",
+        "logo vectorizer",
+        "ライン アート",
+        "trace image"
+      ],
+      "keywordsEn": [
+        "image vectorizer",
+        "raster to vector",
+        "SVG converter",
+        "png to svg",
+        "logo vectorizer",
+        "line art",
+        "trace image"
+      ],
+      "keywordsJa": [
+        "image vectorizer",
+        "raster to vector",
+        "SVG converter",
+        "png to svg",
+        "logo vectorizer",
+        "ライン アート",
+        "trace image"
+      ],
+      "keywordsKo": [
+        "image vectorizer",
+        "raster to vector",
+        "SVG converter",
+        "png to svg",
+        "logo vectorizer",
+        "선 아트",
+        "trace image"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wlgg2njk2"
+    },
+    {
+      "id": "ai-manga-panel-creator",
+      "addOnId": "wljkk90h2",
+      "isNew": true,
+      "nameEn": "AI Manga Panel Creator",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create original four-panel manga stories for Adobe Express. Upload an authorized character image, describe a story idea, choose a story type and a generic visual treatment, then generate one completed 2×2 manga page with a consistent recurring character. The add-on validates image format and size, checks requests before processing, shows a separate progress view with cancellation, and lets you add the finished manga page directly to the active design. Use it for short comic moments, mini lessons, compact adventures, and original brand narratives. New users receive 1 free credit to try the add-on. Each generation uses 1 credit.",
+      "descriptionEn": "Create original four-panel manga stories for Adobe Express. Upload an authorized character image, describe a story idea, choose a story type and a generic visual treatment, then generate one completed 2×2 manga page with a consistent recurring character. The add-on validates image format and size, checks requests before processing, shows a separate progress view with cancellation, and lets you add the finished manga page directly to the active design. Use it for short comic moments, mini lessons, compact adventures, and original brand narratives. New users receive 1 free credit to try the add-on. Each generation uses 1 credit.",
+      "descriptionJa": "Adobe Expressのオリジナル4コマ漫画ストーリーを作成します。認可されたキャラクター画像をアップロードし、ストーリーアイデアを説明し、ストーリータイプと汎用的なビジュアル表現を選択すると、一貫した繰り返しキャラクターを持つ完成した2×2漫画ページが生成されます。このアドオンは画像形式とサイズを検証し、処理前にリクエストをチェックし、キャンセル機能付きの別途のプログレスビューを表示し、完成した漫画ページをアクティブなデザインに直接追加できます。短いコミック、ミニレッスン、コンパクトなストーリー、オリジナルブランドナレーティブに使用します。新規ユーザーは1つの無料クレジットを受け取ってアドオンを試せます。各生成に1クレジットを使用します。",
+      "descriptionKo": "Adobe Express용 오리지널 4컷 만화 스토리를 만들어 보세요. 승인된 캐릭터 이미지를 업로드하고, 스토리 아이디어를 설명하고, 스토리 유형과 일반적인 시각 표현을 선택하면 일관된 반복 캐릭터가 포함된 완성된 2×2 만화 페이지가 생성됩니다. 이 애드온은 이미지 형식과 크기를 검증하고, 처리 전에 요청을 확인하고, 취소 기능이 있는 별도의 진행 상황 보기를 표시하며, 완성된 만화 페이지를 활성 디자인에 바로 추가할 수 있습니다. 짧은 코믹 순간, 미니 레슨, 간단한 모험, 오리지널 브랜드 내러티브에 사용하세요. 새 사용자는 애드온을 시도할 수 있는 무료 크레딧 1개를 받습니다. 각 생성에 1크레딧이 사용됩니다.",
+      "keywords": [
+        "マンガ メーカー",
+        "comic panel",
+        "four panel story",
+        "character consistency",
+        "コミック クリエイター",
+        "manga page"
+      ],
+      "keywordsEn": [
+        "manga maker",
+        "comic panel",
+        "four panel story",
+        "character consistency",
+        "comic creator",
+        "manga page"
+      ],
+      "keywordsJa": [
+        "マンガ メーカー",
+        "comic panel",
+        "four panel story",
+        "character consistency",
+        "コミック クリエイター",
+        "manga page"
+      ],
+      "keywordsKo": [
+        "만화 메이커",
+        "comic panel",
+        "four panel story",
+        "character consistency",
+        "만화 크리에이터",
+        "manga page"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wljkk90h2"
+    },
+    {
+      "id": "ai-product-model",
+      "addOnId": "wn2j4g356",
+      "isNew": true,
+      "nameEn": "AI Product Model",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create product-on-model visuals for e-commerce, fashion, and marketing. Upload a clear model photo and product image, then add an optional direction for pose, scene, lighting, or framing. The add-on checks that each image is placed in the correct field before generating a composed result ready for your design.\n\nHow it works:\n1. Add a model image and a product image.\n2. Enter an optional creative direction.\n3. Generate the result and add it to your design.\n\nKey features:\n- Model and product image validation\n- Optional pose, scene, and framing guidance\n- Product-on-model image generation\n- Direct insertion into your active design\n\nNew users receive 1 free credit to try the add-on. Each generation uses 1 credit.",
+      "descriptionEn": "Create product-on-model visuals for e-commerce, fashion, and marketing. Upload a clear model photo and product image, then add an optional direction for pose, scene, lighting, or framing. The add-on checks that each image is placed in the correct field before generating a composed result ready for your design.\n\nHow it works:\n1. Add a model image and a product image.\n2. Enter an optional creative direction.\n3. Generate the result and add it to your design.\n\nKey features:\n- Model and product image validation\n- Optional pose, scene, and framing guidance\n- Product-on-model image generation\n- Direct insertion into your active design\n\nNew users receive 1 free credit to try the add-on. Each generation uses 1 credit.",
+      "descriptionJa": "eコマース、ファッション、マーケティング向けに製品モデルビジュアルを作成します。明確なモデル写真と製品画像をアップロードし、ポーズ、シーン、ライティング、フレーミングのための追加指示を入力します。このアドオンは各画像が正しいフィールドに配置されていることを確認してから、デザイン用の合成結果を生成します。\n\n使い方:\n1. モデル画像と製品画像を追加します。\n2. オプションのクリエイティブディレクションを入力します。\n3. 結果を生成してデザインに追加します。\n\n主な機能:\n- モデルと製品画像の検証\n- ポーズ、シーン、フレーミングのガイダンスはオプション\n- 製品をモデルに合わせた画像生成\n- アクティブなデザインへの直接挿入\n\n新規ユーザーは1つの無料クレジットを受け取ってアドオンを試せます。各生成に1クレジットを使用します。",
+      "descriptionKo": "ecommerce, 패션, 마케팅을 위한 제품 모델 이미지를 만들어 보세요. 명확한 모델 사진과 제품 이미지를 업로드한 후 포즈, 장면, 조명 또는 프레이밍에 대한 추가 지시를 입력합니다. 이 애드온은 각 이미지가 올바른 필드에 배치되어 있는지 확인한 후 디자인 준비가 된 합성 결과를 생성합니다.\n\n사용 방법:\n1. 모델 이미지와 제품 이미지를 추가합니다.\n2. 선택적 창의적 지시를 입력합니다.\n3. 결과를 생성하고 디자인에 추가합니다.\n\n주요 기능:\n- 모델 및 제품 이미지 검증\n- 선택적 포즈, 장면 및 프레이밍 가이드\n- 제품과 모델이 함께 있는 이미지 생성\n- 활성 디자인에 바로 삽입\n\n새 사용자는 애드온을 시도할 수 있는 무료 크레딧 1개를 받습니다. 각 생성에 1크레딧이 사용됩니다.",
+      "keywords": [
+        "virtual model",
+        "商品写真",
+        "Eコマース",
+        "ファッション",
+        "モックアップ",
+        "マーケティング 画像"
+      ],
+      "keywordsEn": [
+        "virtual model",
+        "product photo",
+        "ecommerce",
+        "fashion",
+        "mockup",
+        "marketing image"
+      ],
+      "keywordsJa": [
+        "virtual model",
+        "商品写真",
+        "Eコマース",
+        "ファッション",
+        "モックアップ",
+        "マーケティング 画像"
+      ],
+      "keywordsKo": [
+        "virtual model",
+        "상품 사진",
+        "전자상거래",
+        "패션",
+        "목업",
+        "마케팅 이미지"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn2j4g356"
+    },
+    {
+      "id": "ai-banner-maker",
+      "addOnId": "wn2k5jh61",
+      "isNew": true,
+      "nameEn": "AI Banner Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create polished banners for marketing, social media, promotions, and campaigns. Start with a text description or upload a reference image, choose an aspect ratio, and generate a banner ready for your design.\n\nHow it works:\n\n1. Choose Text to banner or Image to banner.\n2. Add a description or reference image.\n3. Select an aspect ratio and create your banner.\n4. Preview the result and add it to your design.\n\nFeatures:\n\n- Text-to-banner and image-to-banner generation\n- Eight aspect ratios for square, portrait, landscape, and wide layouts\n- Prompt and uploaded-image safety screening\n- Direct insertion into Adobe Express\n\nThis add-on offers a free trial with a one-time allocation of 1 credit per user. Each generation uses 1 credit. Free credits do not expire and are not refreshed. After the free credit is used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionEn": "Create polished banners for marketing, social media, promotions, and campaigns. Start with a text description or upload a reference image, choose an aspect ratio, and generate a banner ready for your design.\n\nHow it works:\n\n1. Choose Text to banner or Image to banner.\n2. Add a description or reference image.\n3. Select an aspect ratio and create your banner.\n4. Preview the result and add it to your design.\n\nFeatures:\n\n- Text-to-banner and image-to-banner generation\n- Eight aspect ratios for square, portrait, landscape, and wide layouts\n- Prompt and uploaded-image safety screening\n- Direct insertion into Adobe Express\n\nThis add-on offers a free trial with a one-time allocation of 1 credit per user. Each generation uses 1 credit. Free credits do not expire and are not refreshed. After the free credit is used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionJa": "マーケティング、ソーシャルメディア、プロモーション、キャンペーン向けのポーランされたバナーを作成します。テキスト説明から始めるか参照画像をアップロードし、アスペクト比を選択して、デザイン用のバナーを生成します。\n\n使い方:\n\n1. テキストからバナーまたは画像からバナーを選択します。\n2. 説明または参照画像を追加します。\n3. アスペクト比を選択してバナーを作成します。\n4. 結果をプレビューしてデザインに追加します。\n\n機能:\n\n- テキストからバナーへ、画像からバナーへの生成\n- 正方形、縦、横、広幅レイアウト用の8つのアスペクト比\n- プロンプトとアップロード画像のセーフティスクリーニング\n- Adobe Expressへの直接挿入\n\nこのアドオンは、1ユーザーあたり1クレジットの1回限りの無料トライアルを提供します。各生成に1クレジットを使用します。無料クレジットは有効期限がなく、リセットされません。無料クレジット使用後、ユーザーは追加クレジットまたは有料プランを購入して続行する必要があります。",
+      "descriptionKo": "마케팅, 소셜 미디어, 프로모션 및 캠페인용 세련된 배너를 만들어 보세요. 텍스트 설명으로 시작하거나 참고 이미지를 업로드하고, 가로 세로 비율을 선택한 후 디자인 준비가 된 배너를 생성합니다.\n\n사용 방법:\n\n1. 텍스트에서 배너 또는 이미지에서 배너를 선택합니다.\n2. 설명 또는 참고 이미지를 추가합니다.\n3. 가로 세로 비율을 선택하고 배너를 만듭니다.\n4. 결과를 미리보고 디자인에 추가합니다.\n\n기능:\n\n- 텍스트에서 배너, 이미지에서 배너 생성\n- 정사각형, 세로, 가로, 와이드 레이아웃용 8가지 가로 세로 비율\n- 프롬프트 및 업로드된 이미지 안전 검사\n- Adobe Express에 바로 삽입\n\n이 애드온은 사용자당 1회 1크레딧의 무료 체험을 제공합니다. 각 생성에 1크레딧이 사용됩니다. 무료 크레딧은 만료되지 않으며 갱신되지 않습니다. 무료 크레딧을 사용한 후에는 추가 크레딧이나 유료 플랜을 구매하여 계속 사용할 수 있습니다.",
+      "keywords": [
+        "バナー メーカー",
+        "マーケティング バナー",
+        "ソーシャルメディア",
+        "広告 デザイン",
+        "promo graphic",
+        "AI画像"
+      ],
+      "keywordsEn": [
+        "banner maker",
+        "marketing banner",
+        "social media",
+        "ad design",
+        "promo graphic",
+        "AI image"
+      ],
+      "keywordsJa": [
+        "バナー メーカー",
+        "マーケティング バナー",
+        "ソーシャルメディア",
+        "広告 デザイン",
+        "promo graphic",
+        "AI画像"
+      ],
+      "keywordsKo": [
+        "배너 메이커",
+        "마케팅 배너",
+        "소셜 미디어",
+        "광고 디자인",
+        "promo graphic",
+        "AI 이미지"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn2k5jh61"
+    },
+    {
+      "id": "gif-export-by-bjorn",
+      "addOnId": "wn7555170",
+      "isNew": true,
+      "nameEn": "GIF Export by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn pages and designs into GIFs (or Lottie animations). Let pages slide vertically or horizontally. Use photo frames to spice things up. Insert generated GIF into design or download GIF (or Lottie) files.",
+      "descriptionEn": "Turn pages and designs into GIFs (or Lottie animations). Let pages slide vertically or horizontally. Use photo frames to spice things up. Insert generated GIF into design or download GIF (or Lottie) files.",
+      "descriptionJa": "ページやデザインをGIF（またはLottieアニメーション）に変換します。ページを縦または横にスライドさせたり、フォトフレームで表現を豊かにできます。生成されたGIFをデザインに挿入したり、GIF（またはLottie）ファイルをダウンロードできます。",
+      "descriptionKo": "페이지와 디자인을 GIF(또는 Lottie 애니메이션)로 변환합니다. 페이지를 세로 또는 가로로 슬라이드하거나 사진 프레임으로 다양한 효과를 낼 수 있습니다. 생성된 GIF를 디자인에 삽입하거나 GIF(또는 Lottie) 파일을 다운로드할 수 있습니다.",
+      "keywords": [
+        "GIF",
+        "GIF エクスポート",
+        "Lottie",
+        "Lottie export",
+        "アニメーション"
+      ],
+      "keywordsEn": [
+        "GIF",
+        "GIF export",
+        "Lottie",
+        "Lottie export",
+        "animation"
+      ],
+      "keywordsJa": [
+        "GIF",
+        "GIF エクスポート",
+        "Lottie",
+        "Lottie export",
+        "アニメーション"
+      ],
+      "keywordsKo": [
+        "GIF",
+        "GIF 내보내기",
+        "Lottie",
+        "Lottie export",
+        "애니메이션"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn7555170"
+    },
+    {
+      "id": "packed-photos-by-bjorn",
+      "addOnId": "wn9ih9ijj",
+      "isNew": true,
+      "nameEn": "Packed Photos by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Use one or more photos and quickly generate a collage of duplicates",
+      "descriptionEn": "Use one or more photos and quickly generate a collage of duplicates",
+      "descriptionJa": "1枚以上の写真を使用して、重複した写真のコラージュをすぐに生成できます。",
+      "descriptionKo": "1개 이상의 사진으로 중복된 사진 콜라주를 빠르게 생성합니다.",
+      "keywords": [
+        "写真",
+        "packed photos",
+        "コラージュ",
+        "フォトコラージュ"
+      ],
+      "keywordsEn": [
+        "Photo",
+        "packed photos",
+        "collage",
+        "photo collage"
+      ],
+      "keywordsJa": [
+        "写真",
+        "packed photos",
+        "コラージュ",
+        "フォトコラージュ"
+      ],
+      "keywordsKo": [
+        "사진",
+        "packed photos",
+        "콜라주",
+        "사진 콜라주"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn9ih9ijj"
     }
   ],
   "metadata": {
-    "totalCount": 680,
-    "lastUpdated": "2026-07-23",
+    "totalCount": 701,
+    "lastUpdated": "2026-08-04",
     "source": "Web research and official documentation",
     "categories": {
       "accessibility": "アクセシビリティ",
