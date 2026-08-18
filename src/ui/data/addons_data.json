@@ -30514,7 +30514,7 @@
     {
       "id": "side-by-side-by-bjorn",
       "addOnId": "w184667jk",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Side by Side by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -30550,7 +30550,7 @@
     {
       "id": "photomend",
       "addOnId": "w1j238kln",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "PhotoMend",
       "nameJa": "",
       "nameKo": "",
@@ -30598,7 +30598,7 @@
     {
       "id": "memory-match-maker",
       "addOnId": "w2hn92864",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Memory Match Maker",
       "nameJa": "",
       "nameKo": "",
@@ -30646,7 +30646,7 @@
     {
       "id": "emote-ai-voice",
       "addOnId": "w2jk245i7",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Emote AI Voice",
       "nameJa": "",
       "nameKo": "",
@@ -30698,7 +30698,7 @@
     {
       "id": "retro-photo-filter",
       "addOnId": "w3627j76i",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Retro Photo Filter",
       "nameJa": "",
       "nameKo": "",
@@ -30754,7 +30754,7 @@
     {
       "id": "bingo-card-maker",
       "addOnId": "w416g9lm5",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Bingo Card Maker",
       "nameJa": "",
       "nameKo": "",
@@ -30806,7 +30806,7 @@
     {
       "id": "photo-fades-by-bjorn",
       "addOnId": "w658klk0j",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Photo Fades by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -30854,7 +30854,7 @@
     {
       "id": "video-translator",
       "addOnId": "w7ig22nj5",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Video Translator",
       "nameJa": "",
       "nameKo": "",
@@ -30902,7 +30902,7 @@
     {
       "id": "pen-pal",
       "addOnId": "w88131mm2",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Pen Pal",
       "nameJa": "",
       "nameKo": "",
@@ -30966,7 +30966,7 @@
     {
       "id": "pattern-builder",
       "addOnId": "w91ki7hl4",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Pattern Builder",
       "nameJa": "",
       "nameKo": "",
@@ -31030,7 +31030,7 @@
     {
       "id": "brand-icon-maker",
       "addOnId": "wg9923g76",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Brand Icon Maker",
       "nameJa": "",
       "nameKo": "",
@@ -31082,7 +31082,7 @@
     {
       "id": "bulk-unblur-image",
       "addOnId": "wgm6i945l",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Bulk Unblur Image",
       "nameJa": "",
       "nameKo": "",
@@ -31134,7 +31134,7 @@
     {
       "id": "shadow-studio",
       "addOnId": "wj2m12kjk",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Shadow Studio",
       "nameJa": "",
       "nameKo": "",
@@ -31190,7 +31190,7 @@
     {
       "id": "ai-logo-creator",
       "addOnId": "wk20mljkg",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Logo Creator",
       "nameJa": "",
       "nameKo": "",
@@ -31242,7 +31242,7 @@
     {
       "id": "blur-background-ai",
       "addOnId": "wl656n5jk",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Blur Background AI",
       "nameJa": "",
       "nameKo": "",
@@ -31294,7 +31294,7 @@
     {
       "id": "image-vectorizer",
       "addOnId": "wlgg2njk2",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Image Vectorizer",
       "nameJa": "",
       "nameKo": "",
@@ -31346,7 +31346,7 @@
     {
       "id": "ai-manga-panel-creator",
       "addOnId": "wljkk90h2",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Manga Panel Creator",
       "nameJa": "",
       "nameKo": "",
@@ -31394,7 +31394,7 @@
     {
       "id": "ai-product-model",
       "addOnId": "wn2j4g356",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Product Model",
       "nameJa": "",
       "nameKo": "",
@@ -31442,7 +31442,7 @@
     {
       "id": "ai-banner-maker",
       "addOnId": "wn2k5jh61",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Banner Maker",
       "nameJa": "",
       "nameKo": "",
@@ -31490,7 +31490,7 @@
     {
       "id": "gif-export-by-bjorn",
       "addOnId": "wn7555170",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "GIF Export by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -31534,7 +31534,7 @@
     {
       "id": "packed-photos-by-bjorn",
       "addOnId": "wn9ih9ijj",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Packed Photos by Bjorn",
       "nameJa": "",
       "nameKo": "",
@@ -31570,11 +31570,619 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn9ih9ijj"
+    },
+    {
+      "id": "scenecraft-ai",
+      "addOnId": "w2l2ii610",
+      "isNew": true,
+      "nameEn": "Scenecraft AI",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "SceneCraft AI transforms a simple product image into a realistic product scene inside Adobe Express. Users upload products such as perfume bottles, coffee bags, candles, clothing, food products, and more, then choose a style such as Luxury, Kitchen, Office, Holiday, Minimal, or Seasonal. AI analyzes the product and generates a realistic setting around it while preserving the original product as the focus. The workflow is simple: upload a product, choose a scene, generate the result, and continue editing in Adobe Express. The result is automatically imported into Express, ready for resizing and adding text, logos, or pricing. The result can be used for social posts, ads, flyers, and product marketing. SceneCraft AI removes the need to manually search for backgrounds or build complex compositions. It helps small businesses, creators, and marketers create polished product visuals without professional photography or advanced editing skills, while keeping the workflow inside Adobe Express.",
+      "descriptionEn": "SceneCraft AI transforms a simple product image into a realistic product scene inside Adobe Express. Users upload products such as perfume bottles, coffee bags, candles, clothing, food products, and more, then choose a style such as Luxury, Kitchen, Office, Holiday, Minimal, or Seasonal. AI analyzes the product and generates a realistic setting around it while preserving the original product as the focus. The workflow is simple: upload a product, choose a scene, generate the result, and continue editing in Adobe Express. The result is automatically imported into Express, ready for resizing and adding text, logos, or pricing. The result can be used for social posts, ads, flyers, and product marketing. SceneCraft AI removes the need to manually search for backgrounds or build complex compositions. It helps small businesses, creators, and marketers create polished product visuals without professional photography or advanced editing skills, while keeping the workflow inside Adobe Express.",
+      "descriptionJa": "SceneCraft AIは、シンプルな商品画像をAdobe Express内でリアルな商品シーンに変換します。香水瓶、コーヒー袋、キャンドル、衣類、食品など、様々な商品をアップロードして、ラグジュアリー、キッチン、オフィス、ホリデー、ミニマル、シーズナルなどのスタイルを選択するだけ。AIが商品を分析し、元の商品をフォーカスとしながら、リアルな背景を自動生成します。ワークフローはシンプル：商品をアップロード→シーンを選択→生成→Adobe Expressで編集。結果は自動的にExpressにインポートされ、テキストやロゴ、価格の追加、リサイズが可能です。SNS投稿、広告、チラシ、商品マーケティングに活用できます。背景探しや複雑な構図作成が不要になり、小規模事業者、クリエイター、マーケターが高品質な商品ビジュアルをプロの撮影スキルなしで作成できます。",
+      "descriptionKo": "SceneCraft AI는 간단한 제품 이미지를 Adobe Express 내에서 현실감 있는 제품 장면으로 변환합니다. 향수병, 커피 봉지, 양초, 의류, 식품 등 다양한 제품을 업로드하고 럭셔리, 주방, 오피스, 홀리데이, 미니멀, 시즈널 등의 스타일을 선택하기만 하면 됩니다. AI가 제품을 분석하고 원본 제품을 중심으로 유지하면서 현실감 있는 배경을 자동 생성합니다. 워크플로우는 간단합니다: 제품 업로드 → 장면 선택 → 생성 → Adobe Express에서 편집. 결과는 자동으로 Express에 임포트되어 텍스트, 로고, 가격 추가 및 리사이징이 가능합니다. SNS 게시물, 광고, 전단지, 제품 마케팅에 활용할 수 있습니다. 배경 검색과 복잡한 구성 작업이 필요 없어 소상공인, 크리에이터, 마케터가 전문 촬영 기술 없이도 고품질의 제품 시각 자료를 만들 수 있습니다.",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2l2ii610"
+    },
+    {
+      "id": "ai-product-creative",
+      "addOnId": "w6iijj5jg",
+      "isNew": true,
+      "nameEn": "AI Product Creative",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn a single product image into studio photos, new backgrounds, campaign visuals, infographics, and marketplace listing sets. Refine any result with a prompt, then add it to your design.",
+      "descriptionEn": "Turn a single product image into studio photos, new backgrounds, campaign visuals, infographics, and marketplace listing sets. Refine any result with a prompt, then add it to your design.",
+      "descriptionJa": "1つの商品画像からスタジオ写真、新しい背景、キャンペーンビジュアル、インフォグラフィック、マーケットプレイスのリスト画像セットを生成します。プロンプトで結果を微調整してから、デザインに追加できます。",
+      "descriptionKo": "단일 제품 이미지에서 스튜디오 사진, 새로운 배경, 캠페인 비주얼, 인포그래픽, 마켓플레이스 리스팅 이미지 세트를 생성합니다. 프롬프트로 결과를 미세 조정한 후 디자인에 추가할 수 있습니다.",
+      "keywords": [
+        "商品撮影",
+        "画像生成",
+        "背景除去ツール",
+        "Eコマース"
+      ],
+      "keywordsEn": [
+        "AI product photography",
+        "product image generator",
+        "background remover",
+        "ecommerce listing images"
+      ],
+      "keywordsJa": [
+        "商品撮影",
+        "画像生成",
+        "背景除去ツール",
+        "Eコマース"
+      ],
+      "keywordsKo": [
+        "상품 촬영",
+        "이미지 생성",
+        "배경 제거 도구",
+        "전자상거래"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w6iijj5jg"
+    },
+    {
+      "id": "ai-voice-master",
+      "addOnId": "w6j2ji2n5",
+      "isNew": true,
+      "nameEn": "AI Voice Master",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Generate tailored AI voiceovers from your scripts, roles, scenarios, or custom descriptions. Fine-tune with feedback and auto-adjust scripts for more expressive output. Includes free credits.",
+      "descriptionEn": "Generate tailored AI voiceovers from your scripts, roles, scenarios, or custom descriptions. Fine-tune with feedback and auto-adjust scripts for more expressive output. Includes free credits.",
+      "descriptionJa": "スクリプト、役割、シナリオ、カスタム説明からカスタマイズされたAIナレーションを生成します。フィードバックで微調整し、より表現力豊かな出力のためにスクリプトを自動調整します。無料クレジット付き。",
+      "descriptionKo": "스크립트, 역할, 시나리오 또는 사용자 정의 설명에서 맞춤형 AI 음성을 생성합니다. 피드백으로 미세 조정하고 더욱 표현력 있는 출력을 위해 스크립트를 자동 조정합니다. 무료 크레딧 포함.",
+      "keywords": [
+        "ナレーション",
+        "AI音声",
+        "テキスト読み上げ",
+        "テキスト読み上げ",
+        "音声 ジェネレーター",
+        "音声 デザイン",
+        "カスタム 音声",
+        "voice narration"
+      ],
+      "keywordsEn": [
+        "AI voiceover",
+        "AI voice",
+        "TTS",
+        "text to speech",
+        "voice generator",
+        "voice design",
+        "custom voice",
+        "voice narration"
+      ],
+      "keywordsJa": [
+        "ナレーション",
+        "AI音声",
+        "テキスト読み上げ",
+        "テキスト読み上げ",
+        "音声 ジェネレーター",
+        "音声 デザイン",
+        "カスタム 音声",
+        "voice narration"
+      ],
+      "keywordsKo": [
+        "나레이션",
+        "AI 음성",
+        "TTS",
+        "텍스트 음성 변환",
+        "음성 생성기",
+        "음성 디자인",
+        "커스텀 음성",
+        "voice narration"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w6j2ji2n5"
+    },
+    {
+      "id": "doodl",
+      "addOnId": "w70kl0144",
+      "isNew": true,
+      "nameEn": "Doodl",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Doodl brings a library of free stock photos directly into your editor, so you can find and place images without leaving your document. Search by keyword and see results instantly, then filter by landscape, portrait, or square to match your design. Drag and drop a photo onto the canvas for precise placement, or click to insert it into the current page. Images are imported at full quality and optimized for fast loading. Every photo is completely free to use, with no credits, subscriptions, sign-in, or per-image licensing required. Commercial use is included, and attribution is not required. Enjoy endless scrolling with fresh results every time you open the panel. Doodl uses its own independent photo library—it is not Adobe Stock, so using it never consumes stock credits or requires a paid plan. Browse the full library at https://doodl.co.",
+      "descriptionEn": "Doodl brings a library of free stock photos directly into your editor, so you can find and place images without leaving your document. Search by keyword and see results instantly, then filter by landscape, portrait, or square to match your design. Drag and drop a photo onto the canvas for precise placement, or click to insert it into the current page. Images are imported at full quality and optimized for fast loading. Every photo is completely free to use, with no credits, subscriptions, sign-in, or per-image licensing required. Commercial use is included, and attribution is not required. Enjoy endless scrolling with fresh results every time you open the panel. Doodl uses its own independent photo library—it is not Adobe Stock, so using it never consumes stock credits or requires a paid plan. Browse the full library at https://doodl.co.",
+      "descriptionJa": "Doodlは、無料のストック写真ライブラリをエディターに直接導入し、ドキュメントを離れることなく画像を探して配置できます。キーワードで検索してすぐに結果を表示し、横向き、縦向き、正方形でフィルタリングしてデザインに合わせます。キャンバスに写真をドラッグ&ドロップして正確に配置するか、現在のページに挿入できます。画像は高品質でインポートされ、高速読み込みのために最適化されています。すべての写真は完全に無料で使用でき、クレジット、サブスクリプション、ログイン、画像ごとのライセンスは不要です。商用利用は含まれており、表記も必須ではありません。パネルを開くたびに新しい結果で無限スクロールをお楽しみください。DoodlはAdobe Stockではない独立した写真ライブラリを使用しているため、使用しても標準ストッククレジットを消費せず、有料プランも必要ありません。完全なライブラリは https://doodl.co で閲覧できます。",
+      "descriptionKo": "Doodl은 무료 스톡 사진 라이브러리를 에디터에 직접 불러와 문서를 떠나지 않고도 이미지를 검색하고 배치할 수 있습니다. 키워드로 검색하면 즉시 결과를 보여주고, 가로, 세로, 정사각형으로 필터링하여 디자인에 맞춥니다. 사진을 캔버스에 드래그 앤 드롭하여 정확하게 배치하거나 현재 페이지에 삽입할 수 있습니다. 이미지는 고품질로 임포트되며 빠른 로딩을 위해 최적화됩니다. 모든 사진은 완전히 무료로 사용할 수 있으며, 크레딧, 구독, 로그인 또는 이미지별 라이선스가 필요하지 않습니다. 상업용 사용이 포함되어 있으며 저작권 표시는 필수가 아닙니다. 패널을 열 때마다 새로운 결과로 무한 스크롤을 즐기세요. Doodl은 Adobe Stock이 아닌 독립적인 사진 라이브러리를 사용하므로 표준 스톡 크레딧을 소비하지 않으며 유료 요금제도 필요하지 않습니다. 전체 라이브러리는 https://doodl.co 에서 확인할 수 있습니다.",
+      "keywords": [
+        "ストック写真",
+        "ロイヤリティ 無料 画像",
+        "ストック写真",
+        "無料 画像",
+        "写真 ライブラリ",
+        "画像 検索"
+      ],
+      "keywordsEn": [
+        "free stock photos",
+        "royalty free images",
+        "stock photography",
+        "free images",
+        "photo library",
+        "image search"
+      ],
+      "keywordsJa": [
+        "ストック写真",
+        "ロイヤリティ 無料 画像",
+        "ストック写真",
+        "無料 画像",
+        "写真 ライブラリ",
+        "画像 検索"
+      ],
+      "keywordsKo": [
+        "스톡 사진",
+        "로열티 무료 이미지",
+        "스톡 사진",
+        "무료 이미지",
+        "사진 라이브러리",
+        "이미지 검색"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w70kl0144"
+    },
+    {
+      "id": "subtitle-to-speech",
+      "addOnId": "w8n13h8h5",
+      "isNew": true,
+      "nameEn": "Subtitle to Speech",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Subtitle to Speech converts subtitle files into natural AI-generated voice audio.\n\nUpload your subtitle file, select a language and voice, and generate realistic speech based on your subtitle timing.\n\nThe add-on helps creators transform written subtitles into high-quality voiceovers for videos, presentations, tutorials, courses, and other creative projects.\n\nFeatures include:\n• Convert subtitle files into AI voice audio\n• Generate natural voiceovers from subtitle timing\n• Support multiple languages and voice options\n• Create narration without recording your own voice\n• Turn existing subtitle content into ready-to-use speech audio\n\nSubtitle to Speech makes it easier to create accessible and localized audio content from existing written scripts.",
+      "descriptionEn": "Subtitle to Speech converts subtitle files into natural AI-generated voice audio.\n\nUpload your subtitle file, select a language and voice, and generate realistic speech based on your subtitle timing.\n\nThe add-on helps creators transform written subtitles into high-quality voiceovers for videos, presentations, tutorials, courses, and other creative projects.\n\nFeatures include:\n• Convert subtitle files into AI voice audio\n• Generate natural voiceovers from subtitle timing\n• Support multiple languages and voice options\n• Create narration without recording your own voice\n• Turn existing subtitle content into ready-to-use speech audio\n\nSubtitle to Speech makes it easier to create accessible and localized audio content from existing written scripts.",
+      "descriptionJa": "字幕ファイルをAIが生成した自然な音声オーディオに変換します。\n\n字幕ファイルをアップロードし、言語と声を選択すると、字幕のタイミングに合わせてリアルな音声が生成されます。\n\nこのアドオンは、クリエイターが書き起こされた字幕をビデオ、プレゼンテーション、チュートリアル、コース、その他のクリエイティブプロジェクト向けの高品質なナレーションに変換するのに役立ちます。\n\n機能：\n• 字幕ファイルをAI音声オーディオに変換\n• 字幕のタイミングから自然なナレーションを生成\n• 複数の言語と音声オプションをサポート\n• 自分で声を録音せずにナレーションを作成\n• 既存の字幕コンテンツを使用可能な音声オーディオに変換\n\nSubtitle to Speechを使用すれば、既存の書き起こしから、アクセシブルで多言語対応のオーディオコンテンツを簡単に作成できます。",
+      "descriptionKo": "자막 파일을 AI가 생성한 자연스러운 음성 오디오로 변환합니다.\n\n자막 파일을 업로드하고 언어와 목소리를 선택하면 자막 타이밍에 맞춘 현실적인 음성이 생성됩니다.\n\n이 애드온은 크리에이터가 작성된 자막을 비디오, 프레젠테이션, 튜토리얼, 강의 및 기타 창작 프로젝트를 위한 고품질 나레이션으로 변환하는 데 도움이 됩니다.\n\n기능:\n• 자막 파일을 AI 음성 오디오로 변환\n• 자막 타이밍에서 자연스러운 나레이션 생성\n• 여러 언어 및 음성 옵션 지원\n• 직접 녹음하지 않고 나레이션 제작\n• 기존 자막 콘텐츠를 바로 사용 가능한 음성으로 변환\n\nSubtitle to Speech로 기존 스크립트에서 접근 가능하고 지역화된 오디오 콘텐츠를 쉽게 만들 수 있습니다.",
+      "keywords": [
+        "subtitle to speech",
+        "AI音声",
+        "ナレーション",
+        "テキスト読み上げ",
+        "narration"
+      ],
+      "keywordsEn": [
+        "subtitle to speech",
+        "AI voice",
+        "voiceover",
+        "text to speech",
+        "narration"
+      ],
+      "keywordsJa": [
+        "subtitle to speech",
+        "AI音声",
+        "ナレーション",
+        "テキスト読み上げ",
+        "narration"
+      ],
+      "keywordsKo": [
+        "subtitle to speech",
+        "AI 음성",
+        "나레이션",
+        "텍스트 음성 변환",
+        "narration"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w8n13h8h5"
+    },
+    {
+      "id": "ai-paint-by-numbers",
+      "addOnId": "w9mg0m95g",
+      "isNew": true,
+      "nameEn": "AI Paint by Numbers",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn personal photos into clean paint-by-numbers worksheets for craft projects, classroom activities, gifts, and creative designs.\n\nHow it works:\n1. Upload one JPG, PNG, or WebP image up to 15MB.\n2. Choose 8, 12, 16, or 24 color sections.\n3. Select Simple, Balanced, or Detailed region complexity.\n4. Generate a numbered outline with a matching color legend, then add it to your design.\n\nFeatures:\n- AI-generated black-and-white contour regions\n- Consistent numbers for matching paint colors\n- Adjustable color count and detail level\n- Progress updates with cancellation\n- Direct insertion into your design\n\nNew users receive 3 free credits to try the add-on. Each generation uses 1 credit. Free credits are provided once, do not expire, and are not refreshed. After they are used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionEn": "Turn personal photos into clean paint-by-numbers worksheets for craft projects, classroom activities, gifts, and creative designs.\n\nHow it works:\n1. Upload one JPG, PNG, or WebP image up to 15MB.\n2. Choose 8, 12, 16, or 24 color sections.\n3. Select Simple, Balanced, or Detailed region complexity.\n4. Generate a numbered outline with a matching color legend, then add it to your design.\n\nFeatures:\n- AI-generated black-and-white contour regions\n- Consistent numbers for matching paint colors\n- Adjustable color count and detail level\n- Progress updates with cancellation\n- Direct insertion into your design\n\nNew users receive 3 free credits to try the add-on. Each generation uses 1 credit. Free credits are provided once, do not expire, and are not refreshed. After they are used, users must purchase additional credits or a paid plan to continue.",
+      "descriptionJa": "個人の写真をクリーンな塗り絵ワークシートに変換して、工作プロジェクト、授業活動、ギフト、クリエイティブデザインに利用できます。\n\n使い方：\n1. JPG、PNG、またはWebP形式の画像（最大15MB）をアップロード\n2. 8、12、16、または24色のセクションを選択\n3. シンプル、バランス、または詳細な領域の複雑さを選択\n4. 番号付きアウトラインと対応するカラーレジェンドを生成し、デザインに追加\n\n機能：\n• AIが生成する白黒輪郭領域\n• 塗料色とマッチングするための一貫した番号付け\n• 調整可能な色数と詳細レベル\n• 進捗更新と中止機能\n• デザインへの直接挿入\n\n新規ユーザーは3つの無料クレジットを取得してアドオンを試すことができます。各生成に1クレジット使用します。無料クレジットは一度だけ提供され、有効期限がなく、リセットされません。使用後、継続するにはユーザーが追加クレジットまたは有料プランを購入する必要があります。",
+      "descriptionKo": "개인 사진을 깔끔한 칠하기 워크시트로 변환하여 공예 프로젝트, 교실 활동, 선물, 창작 디자인에 사용할 수 있습니다.\n\n사용 방법:\n1. JPG, PNG 또는 WebP 형식의 이미지(최대 15MB)를 업로드\n2. 8, 12, 16 또는 24색 섹션 선택\n3. 심플, 균형, 또는 상세한 영역 복잡도 선택\n4. 번호가 매겨진 윤곽과 일치하는 색상 범례를 생성한 후 디자인에 추가\n\n기능:\n• AI가 생성하는 검은색 및 흰색 윤곽 영역\n• 페인트 색상 일치를 위한 일관된 번호 매기기\n• 조정 가능한 색상 수 및 세부 레벨\n• 진행 상황 업데이트 및 취소\n• 디자인에 직접 삽입\n\n신규 사용자는 3개의 무료 크레딧을 받아 애드온을 체험할 수 있습니다. 각 생성에 1크레딧을 사용합니다. 무료 크레딧은 한 번만 제공되며 만료되지 않으며 갱신되지 않습니다. 사용 후 계속 사용하려면 사용자가 추가 크레딧 또는 유료 요금제를 구매해야 합니다.",
+      "keywords": [
+        "写真をラインアートに変換",
+        "番号付き絵画",
+        "塗り絵ワークシート",
+        "塗り絵テンプレート",
+        "工作",
+        "アウトラインジェネレーター"
+      ],
+      "keywordsEn": [
+        "photo to line art",
+        "numbered painting",
+        "coloring worksheet",
+        "paint template",
+        "craft",
+        "outline generator"
+      ],
+      "keywordsJa": [
+        "写真をラインアートに変換",
+        "番号付き絵画",
+        "塗り絵ワークシート",
+        "塗り絵テンプレート",
+        "工作",
+        "アウトラインジェネレーター"
+      ],
+      "keywordsKo": [
+        "사진을 라인아트로 변환",
+        "번호 매겨진 그림",
+        "색칠하기 워크시트",
+        "칠하기 템플릿",
+        "공예",
+        "윤곽선 생성기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w9mg0m95g"
+    },
+    {
+      "id": "videovoice-translate",
+      "addOnId": "wgh867ji2",
+      "isNew": true,
+      "nameEn": "VideoVoice Translate",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "VideoVoice Translate helps you translate video and audio into your target language with AI-powered dubbing and subtitle translation.\n\nUpload a video or audio file, choose a target language, and generate translated subtitles or translated speech with subtitles. The add-on can automatically detect different speakers, keep speaker roles separated, and produce more natural localized results for conversations, interviews, podcasts, tutorials, and other multi-speaker content.\n\nYou can choose between two translation modes:\n- Subtitle Only — 10 credits/minute: Translates the spoken content into subtitles only. The original audio remains unchanged.\n- Translated Voice + Subtitles — 100 credits/minute: Generates translated speech together with translated subtitles. The add-on can clone the original speakers’ voices to preserve each speaker’s character and identity more naturally across languages.",
+      "descriptionEn": "VideoVoice Translate helps you translate video and audio into your target language with AI-powered dubbing and subtitle translation.\n\nUpload a video or audio file, choose a target language, and generate translated subtitles or translated speech with subtitles. The add-on can automatically detect different speakers, keep speaker roles separated, and produce more natural localized results for conversations, interviews, podcasts, tutorials, and other multi-speaker content.\n\nYou can choose between two translation modes:\n- Subtitle Only — 10 credits/minute: Translates the spoken content into subtitles only. The original audio remains unchanged.\n- Translated Voice + Subtitles — 100 credits/minute: Generates translated speech together with translated subtitles. The add-on can clone the original speakers’ voices to preserve each speaker’s character and identity more naturally across languages.",
+      "descriptionJa": "VideoVoice Translateは、AI搭載のダビングと字幕翻訳を使用してビデオとオーディオを対象言語に翻訳するのに役立ちます。\n\nビデオまたはオーディオファイルをアップロードし、対象言語を選択して、翻訳された字幕または翻訳された音声付き字幕を生成します。このアドオンは異なるスピーカーを自動検出し、スピーカーの役割を分離し、会話、インタビュー、ポッドキャスト、チュートリアル、およびその他のマルチスピーカーコンテンツに対してより自然でローカライズされた結果を生成できます。\n\n2つの翻訳モードから選択できます：\n- 字幕のみ — 10クレジット/分：話された内容を字幕のみに翻訳します。元のオーディオは変更されません。\n- 翻訳音声+字幕 — 100クレジット/分：翻訳された音声と翻訳された字幕を一緒に生成します。このアドオンは、元のスピーカーの声をクローンして、各スピーカーの特性とアイデンティティを言語全体でより自然に保持できます。",
+      "descriptionKo": "VideoVoice Translate는 AI 기반 더빙 및 자막 번역을 사용하여 비디오와 오디오를 대상 언어로 번역하는 데 도움이 됩니다.\n\n비디오 또는 오디오 파일을 업로드하고 대상 언어를 선택한 다음 번역된 자막 또는 번역된 음성이 포함된 자막을 생성합니다. 이 애드온은 서로 다른 스피커를 자동으로 감지하고 스피커 역할을 분리하며 대화, 인터뷰, 팟캐스트, 튜토리얼 및 기타 다중 스피커 콘텐츠에 대해 더 자연스럽고 지역화된 결과를 생성할 수 있습니다.\n\n두 가지 번역 모드 중에서 선택할 수 있습니다:\n- 자막만 — 분당 10크레딧: 음성 콘텐츠를 자막으로만 번역합니다. 원본 오디오는 변경되지 않습니다.\n- 번역 음성 + 자막 — 분당 100크레딧: 번역된 음성과 번역된 자막을 함께 생성합니다. 이 애드온은 원본 스피커의 음성을 복제하여 각 스피커의 특성과 정체성을 언어 전체에서 더 자연스럽게 유지할 수 있습니다.",
+      "keywords": [
+        "翻訳",
+        "AI吹き替え",
+        "speaker detection",
+        "字幕",
+        "voice cloning"
+      ],
+      "keywordsEn": [
+        "video translation",
+        "ai dubbing",
+        "speaker detection",
+        "subtitles",
+        "voice cloning"
+      ],
+      "keywordsJa": [
+        "翻訳",
+        "AI吹き替え",
+        "speaker detection",
+        "字幕",
+        "voice cloning"
+      ],
+      "keywordsKo": [
+        "번역",
+        "AI 더빙",
+        "speaker detection",
+        "자막",
+        "voice cloning"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgh867ji2"
+    },
+    {
+      "id": "nativ-localization",
+      "addOnId": "wh2256iki",
+      "isNew": true,
+      "nameEn": "Nativ Localization",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Nativ Localization brings on-brand, AI-powered translation into Adobe Express. Select text or image layers and localize them while preserving formatting and layout.\n\nWHAT YOU CAN DO\n• Localize one or multiple text layers while retaining fonts, sizes and styling.\n• Translate text inside images: use “Localize logo” for a stylized phrase or “Localize image” for busy artwork.\n• Add the result as a new on-canvas image or replace the original.\n• Use 100+ supported languages. The dropdown shows languages configured in your Nativ account; manage them in the dashboard, then sync.\n• Apply brand voice, glossaries, style guides and translation memory.\n\nFREE TRIAL & BILLING\nNew accounts receive 8,000 credits once at sign-up. Credits do not renew. The add-on shows available and required credits before each action. Additional credits are pay-as-you-go through Nativ; no subscription is required.\n\nSign in with Google or email. Cancel any run at any time.",
+      "descriptionEn": "Nativ Localization brings on-brand, AI-powered translation into Adobe Express. Select text or image layers and localize them while preserving formatting and layout.\n\nWHAT YOU CAN DO\n• Localize one or multiple text layers while retaining fonts, sizes and styling.\n• Translate text inside images: use “Localize logo” for a stylized phrase or “Localize image” for busy artwork.\n• Add the result as a new on-canvas image or replace the original.\n• Use 100+ supported languages. The dropdown shows languages configured in your Nativ account; manage them in the dashboard, then sync.\n• Apply brand voice, glossaries, style guides and translation memory.\n\nFREE TRIAL & BILLING\nNew accounts receive 8,000 credits once at sign-up. Credits do not renew. The add-on shows available and required credits before each action. Additional credits are pay-as-you-go through Nativ; no subscription is required.\n\nSign in with Google or email. Cancel any run at any time.",
+      "descriptionJa": "Nativ Localizationは、Adobe Expressにオンブランドで、AI搭載の翻訳をもたらします。テキストまたは画像レイヤーを選択して、フォーマットとレイアウトを保持しながらローカライズします。\n\nできること\n• 1つまたは複数のテキストレイヤーをローカライズしながら、フォント、サイズ、スタイルを保持します。\n• 画像内のテキストを翻訳：スタイルされたフレーズの場合は「ロゴをローカライズ」を、複雑なアートワークの場合は「画像をローカライズ」を使用します。\n• 結果を新しいキャンバス上の画像として追加するか、元の画像を置き換えます。\n• 100以上のサポート言語を使用します。ドロップダウンにはNativアカウントで設定された言語が表示されます。ダッシュボードで管理してから同期します。\n• ブランドボイス、用語集、スタイルガイド、翻訳メモリを適用します。\n\n無料トライアルと請求\n新規アカウントはサインアップ時に8,000クレジットを1回受け取ります。クレジットは更新されません。アドオンは各アクション前に利用可能および必要なクレジットを表示します。追加クレジットはNativを通じたペイアズユーゴー方式です。サブスクリプションは不要です。\n\nGoogleまたはメールでサインイン。いつでも実行をキャンセルできます。",
+      "descriptionKo": "Nativ Localization은 Adobe Express에 브랜드에 맞는 AI 기반 번역을 제공합니다. 텍스트 또는 이미지 레이어를 선택하고 형식과 레이아웃을 유지하면서 로컬라이즈합니다.\n\n할 수 있는 것\n• 글꼴, 크기 및 스타일을 유지하면서 하나 또는 여러 텍스트 레이어를 로컬라이즈합니다.\n• 이미지 내 텍스트 번역: 스타일이 지정된 문구의 경우 \"로고 로컬라이즈\"를 사용하고, 복잡한 아트워크의 경우 \"이미지 로컬라이즈\"를 사용합니다.\n• 결과를 새로운 캔버스 이미지로 추가하거나 원본을 바꿉니다.\n• 100개 이상의 지원 언어를 사용합니다. 드롭다운에 Nativ 계정에서 구성된 언어가 표시됩니다. 대시보드에서 관리한 후 동기화합니다.\n• 브랜드 보이스, 용어집, 스타일 가이드 및 번역 메모리를 적용합니다.\n\n무료 체험 및 청구\n새로운 계정은 가입 시 8,000크레딧을 한 번 받습니다. 크레딧은 갱신되지 않습니다. 애드온은 각 작업 전에 사용 가능한 크레딧과 필요한 크레딧을 표시합니다. 추가 크레딧은 Nativ을 통한 종량제입니다. 구독은 필요 없습니다.\n\nGoogle 또는 이메일로 로그인. 언제든지 실행을 취소할 수 있습니다.",
+      "keywords": [
+        "ローカライゼーション",
+        "翻訳",
+        "翻訳",
+        "言語",
+        "多言語",
+        "翻訳",
+        "ブランド 音声",
+        "gloss"
+      ],
+      "keywordsEn": [
+        "localization",
+        "translation",
+        "translate",
+        "languages",
+        "multilingual",
+        "image translation",
+        "brand voice",
+        "gloss"
+      ],
+      "keywordsJa": [
+        "ローカライゼーション",
+        "翻訳",
+        "翻訳",
+        "言語",
+        "多言語",
+        "翻訳",
+        "ブランド 音声",
+        "gloss"
+      ],
+      "keywordsKo": [
+        "현지화",
+        "번역",
+        "번역",
+        "언어",
+        "다국어",
+        "번역",
+        "브랜드 음성",
+        "gloss"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wh2256iki"
+    },
+    {
+      "id": "filter-fx",
+      "addOnId": "wj7n586m6",
+      "isNew": true,
+      "nameEn": "Filter FX",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Free until 31 August 2026.\n\nTurn any photo into print-inspired graphic art, then place it as a picture or as editable vector shapes you can recolour on the page.\n\nSix effects, deeply adjustable. Halftone with ten pattern geometries including concentric, rays and spiral, each with a movable centre. Pixelate across five tile shapes including interlocking triangles and isometric diamonds. Text characters that rebuild your image from type. Clamp for two-tone stencils through to layered paper cut-outs. Film grain, colour noise and scanlines. RGB split and glow.\n\nVector mode is the difference. Halftone, pixelate, clamp and text can be added as real shapes rather than a flattened picture, merged by colour so the palette you choose is the object count. Recolour, rescale and edit them like anything else on your page.\n\nAnimate any look. Capture a start and an end, add drift, rotation or live grain, and export MP4 or GIF.\n\nEverything runs in your browser. No accounts, no uploads.",
+      "descriptionEn": "Free until 31 August 2026.\n\nTurn any photo into print-inspired graphic art, then place it as a picture or as editable vector shapes you can recolour on the page.\n\nSix effects, deeply adjustable. Halftone with ten pattern geometries including concentric, rays and spiral, each with a movable centre. Pixelate across five tile shapes including interlocking triangles and isometric diamonds. Text characters that rebuild your image from type. Clamp for two-tone stencils through to layered paper cut-outs. Film grain, colour noise and scanlines. RGB split and glow.\n\nVector mode is the difference. Halftone, pixelate, clamp and text can be added as real shapes rather than a flattened picture, merged by colour so the palette you choose is the object count. Recolour, rescale and edit them like anything else on your page.\n\nAnimate any look. Capture a start and an end, add drift, rotation or live grain, and export MP4 or GIF.\n\nEverything runs in your browser. No accounts, no uploads.",
+      "descriptionJa": "2026年8月31日まで無料。\n\nあらゆる写真を印刷にインスパイアされたグラフィックアートに変換し、それを画像として配置するか、ページ上で色を再設定できる編集可能なベクターシェイプとして配置します。\n\n6つのエフェクト、深くカスタマイズ可能。同心円、光線、スパイラルなど10のパターン形状を含むハーフトーン。各々のパターンは移動可能な中心を持ちます。インターロック三角形と等角ダイヤモンドを含む5つのタイル形状全体にわたるピクセル化。画像を字体から再構築するテキスト文字。2色ステンシルから層状紙切り絵までのクランプ。フィルムグレイン、カラーノイズ、スキャンライン。RGBスプリットとグロー。\n\nベクターモードが違いです。ハーフトーン、ピクセル化、クランプ、テキストはフラット化された画像ではなく、実際のシェイプとして追加できます。色でマージされるため、選択したパレットはオブジェクト数です。ページ上の他のもののように色を変更、スケール変更、編集できます。\n\nあらゆるルックをアニメーション化します。開始と終了をキャプチャし、ドリフト、回転、またはライブグレインを追加してMP4またはGIFをエクスポートします。\n\nすべてがブラウザで実行されます。アカウント、アップロードは必要ありません。",
+      "descriptionKo": "2026년 8월 31일까지 무료.\n\n모든 사진을 인쇄에서 영감을 받은 그래픽 아트로 변환한 후 그림으로 배치하거나 페이지에서 색상을 다시 지정할 수 있는 편집 가능한 벡터 모양으로 배치합니다.\n\n6가지 이펙트, 깊게 조정 가능. 동심원, 광선, 나선을 포함한 10가지 패턴 기하학을 포함한 하프톤. 각각 이동 가능한 중심을 가집니다. 맞물리는 삼각형과 등각 다이아몬드를 포함한 5개의 타일 모양에 걸친 픽셀화. 유형에서 이미지를 재구축하는 텍스트 문자. 2톤 스텐실부터 층화된 종이 컷아웃까지 클램프. 필름 그레인, 컬러 노이즈, 스캔라인. RGB 분할 및 글로우.\n\n벡터 모드가 다릅니다. 하프톤, 픽셀화, 클램프 및 텍스트를 평탄화된 그림이 아닌 실제 모양으로 추가할 수 있습니다. 색상으로 병합되므로 선택한 팔레트가 개체 수입니다. 페이지의 다른 항목처럼 색상 재지정, 크기 조정 및 편집할 수 있습니다.\n\n모든 모양을 애니메이션으로 만듭니다. 시작과 끝을 캡처하고 드리프트, 회전 또는 라이브 그레인을 추가한 후 MP4 또는 GIF로 내보냅니다.\n\n모든 것이 브라우저에서 실행됩니다. 계정, 업로드 불필요.",
+      "keywords": [
+        "halftone",
+        "pixelate",
+        "ascii",
+        "stencil",
+        "ポスター",
+        "レトロ",
+        "film grain",
+        "ベクター 形状",
+        "riso"
+      ],
+      "keywordsEn": [
+        "halftone",
+        "pixelate",
+        "ascii",
+        "stencil",
+        "poster",
+        "retro",
+        "film grain",
+        "vector shapes",
+        "riso"
+      ],
+      "keywordsJa": [
+        "halftone",
+        "pixelate",
+        "ascii",
+        "stencil",
+        "ポスター",
+        "レトロ",
+        "film grain",
+        "ベクター 形状",
+        "riso"
+      ],
+      "keywordsKo": [
+        "halftone",
+        "pixelate",
+        "ascii",
+        "stencil",
+        "포스터",
+        "레트로",
+        "film grain",
+        "벡터 도형",
+        "riso"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj7n586m6"
+    },
+    {
+      "id": "image-resize-and-convert",
+      "addOnId": "wk53h3805",
+      "isNew": true,
+      "nameEn": "Image Resize and Convert",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Need a reliable way to manage image sizes and formats without leaving your design workspace? The Image Resize and Convert add-on is the ultimate free tool designed to streamline your Adobe Express workflow.\n\nWhether you are prepping assets for social media, optimizing graphics, or converting phone photos, this tool handles it all locally. Effortlessly upload standard images or HEIC files and transform them instantly.\n\nKey Features:\n• Precision Resizing: Scale your images exactly to the pixel. Use the aspect ratio lock to ensure your graphics never get distorted.\n• Format Conversion: Seamlessly convert uploads (including Apple HEIC) into widely compatible JPG, PNG, or WEBP formats.\n• Dual Export Options: Save the newly resized image directly to your local computer, or insert it straight into your active Adobe Express canvas with a single click.\n• Privacy First: Everything runs securely within your browser. No external servers means your files remain private.\n• 100% Free !!!!",
+      "descriptionEn": "Need a reliable way to manage image sizes and formats without leaving your design workspace? The Image Resize and Convert add-on is the ultimate free tool designed to streamline your Adobe Express workflow.\n\nWhether you are prepping assets for social media, optimizing graphics, or converting phone photos, this tool handles it all locally. Effortlessly upload standard images or HEIC files and transform them instantly.\n\nKey Features:\n• Precision Resizing: Scale your images exactly to the pixel. Use the aspect ratio lock to ensure your graphics never get distorted.\n• Format Conversion: Seamlessly convert uploads (including Apple HEIC) into widely compatible JPG, PNG, or WEBP formats.\n• Dual Export Options: Save the newly resized image directly to your local computer, or insert it straight into your active Adobe Express canvas with a single click.\n• Privacy First: Everything runs securely within your browser. No external servers means your files remain private.\n• 100% Free !!!!",
+      "descriptionJa": "デザインワークスペースを離れることなく、画像のサイズとフォーマットを効率的に管理できます。Image Resize and Convertは、Adobe Expressのワークフローを最適化するための無料ツールです。\n\nソーシャルメディア向けのアセット準備、グラフィックスの最適化、スマートフォン写真の変換など、あらゆる処理をローカルで実行できます。標準画像やHEICファイルを簡単にアップロードして、即座に変換します。\n\n主な機能:\n• 高精度リサイズ：ピクセル単位で正確にスケーリング。アスペクト比ロック機能で画像の歪みを防止します。\n• フォーマット変換：アップロードしたファイル（Apple HEICを含む）をJPG、PNG、WebP形式に変換できます。\n• 2つのエクスポートオプション：リサイズした画像をローカルコンピュータに保存するか、Adobe Expressキャンバスに直接挿入できます。\n• プライバシー重視：すべての処理はブラウザ内で完結。外部サーバーを使用しないため、ファイルは安全です。\n• 100%無料です！",
+      "descriptionKo": "디자인 작업 공간을 벗어나지 않고 이미지 크기와 형식을 효율적으로 관리할 수 있습니다. Image Resize and Convert는 Adobe Express 워크플로우를 최적화하는 무료 도구입니다.\n\n소셜 미디어용 자산 준비, 그래픽 최적화, 스마트폰 사진 변환 등 모든 작업을 로컬에서 처리할 수 있습니다. 표준 이미지나 HEIC 파일을 간편하게 업로드하여 즉시 변환합니다.\n\n주요 기능:\n• 정밀 리사이징：픽셀 단위로 정확하게 크기 조정. 종횡비 잠금 기능으로 이미지 왜곡 방지\n• 형식 변환：업로드한 파일(Apple HEIC 포함)을 JPG, PNG, WebP 형식으로 변환\n• 2가지 내보내기 옵션：리사이즈된 이미지를 로컬 컴퓨터에 저장하거나 Adobe Express 캔버스에 직접 삽입 가능\n• 개인정보 보호 중심：모든 처리는 브라우저 내에서 완료. 외부 서버 미사용으로 파일 안전 보장\n• 100% 무료입니다！",
+      "keywords": [
+        "画像",
+        "リサイズ",
+        "変換",
+        "productivity"
+      ],
+      "keywordsEn": [
+        "images",
+        "resize",
+        "convert",
+        "productivity"
+      ],
+      "keywordsJa": [
+        "画像",
+        "リサイズ",
+        "変換",
+        "productivity"
+      ],
+      "keywordsKo": [
+        "이미지",
+        "크기 조정",
+        "변환",
+        "productivity"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk53h3805"
+    },
+    {
+      "id": "zip-import",
+      "addOnId": "wlnl7218m",
+      "isNew": true,
+      "nameEn": "ZIP Import",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Are you tired of the tedious process of downloading a .zip file, extracting it on your computer, and manually uploading each file into Adobe Express? The Zip Import add-on is here to completely streamline your creative workflow!!\n\nZip Import is a powerful productivity tool that lets you upload and unpack compressed .zip folders directly within your workspace. With just a single click, you can instantly bulk-import entire collections of design assets into your active project.\n\nImportant Usage Details:\n• Supported Formats: Extracts and imports PNG, JPG, JPEG, and PDF files.\n• Size Limitations: Supports .zip files up to a maximum of 50 MB.\n• File Security: Please note that password-protected .zip files are not supported.\n\nKey Features:\n• Seamless Extraction: Select your .zip file and let the add-on handle the rest right inside your browser.\n• Image & PDF Support: Optimized to instantly extract and import your image files and multi-page PDF documents.\n• Massive Time Saver and 100% Free!!!!",
+      "descriptionEn": "Are you tired of the tedious process of downloading a .zip file, extracting it on your computer, and manually uploading each file into Adobe Express? The Zip Import add-on is here to completely streamline your creative workflow!!\n\nZip Import is a powerful productivity tool that lets you upload and unpack compressed .zip folders directly within your workspace. With just a single click, you can instantly bulk-import entire collections of design assets into your active project.\n\nImportant Usage Details:\n• Supported Formats: Extracts and imports PNG, JPG, JPEG, and PDF files.\n• Size Limitations: Supports .zip files up to a maximum of 50 MB.\n• File Security: Please note that password-protected .zip files are not supported.\n\nKey Features:\n• Seamless Extraction: Select your .zip file and let the add-on handle the rest right inside your browser.\n• Image & PDF Support: Optimized to instantly extract and import your image files and multi-page PDF documents.\n• Massive Time Saver and 100% Free!!!!",
+      "descriptionJa": ".zipファイルをダウンロードして解凍し、ファイルを1つずつAdobe Expressにアップロードする煩雑なプロセスにうんざりしていませんか？Zip Importアドオンがあれば、クリエイティブワークフローを大幅に短縮できます！\n\nZip Importは、圧縮された.zipフォルダをワークスペース内で直接アップロードして展開できる強力な生産性ツールです。クリック1つで、デザインアセット全体を現在のプロジェクトに一括インポートできます。\n\n使用に関する重要な詳細:\n• 対応フォーマット：PNG、JPG、JPEG、PDFファイルを抽出・インポートします。\n• サイズ制限：最大50MBの.zipファイルに対応しています。\n• ファイルセキュリティ：パスワード保護されたZipファイルには対応していません。\n\n主な機能:\n• シームレスな展開：.zipファイルを選択すると、ブラウザ内で自動的に処理されます。\n• 画像とPDFのサポート：画像ファイルと複数ページのPDFドキュメントを即座に抽出・インポートします。\n• 大幅な時間短縮と100%無料！",
+      "descriptionKo": ".zip 파일을 다운로드하고 압축 해제한 후 파일을 하나씩 Adobe Express에 업로드하는 번거로운 과정에 지쳤다면, Zip Import 애드온이 해결해줍니다!\n\nZip Import는 압축된 .zip 폴더를 작업 공간 내에서 직접 업로드하고 압축 해제할 수 있는 강력한 생산성 도구입니다. 클릭 하나로 전체 디자인 자산 컬렉션을 현재 프로젝트에 일괄 가져올 수 있습니다.\n\n사용 관련 중요 사항:\n• 지원 형식：PNG, JPG, JPEG, PDF 파일을 추출 및 가져옵니다.\n• 크기 제한：최대 50MB의 .zip 파일을 지원합니다.\n• 파일 보안：암호로 보호된 .zip 파일은 지원하지 않습니다.\n\n주요 기능:\n• 원활한 추출：.zip 파일을 선택하면 브라우저 내에서 자동으로 처리됩니다.\n• 이미지 및 PDF 지원：이미지 파일과 다중 페이지 PDF 문서를 즉시 추출하여 가져옵니다.\n• 대폭적인 시간 단축 및 100% 무료！",
+      "keywords": [
+        "zip",
+        "PDF",
+        "PNG",
+        "jpeg",
+        "JPEG",
+        "productivity tool"
+      ],
+      "keywordsEn": [
+        "zip",
+        "pdf",
+        "png",
+        "jpeg",
+        "jpg",
+        "productivity tool"
+      ],
+      "keywordsJa": [
+        "zip",
+        "PDF",
+        "PNG",
+        "jpeg",
+        "JPEG",
+        "productivity tool"
+      ],
+      "keywordsKo": [
+        "zip",
+        "PDF",
+        "PNG",
+        "jpeg",
+        "JPEG",
+        "productivity tool"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wlnl7218m"
+    },
+    {
+      "id": "mix-maestro",
+      "addOnId": "wm33ngh27",
+      "isNew": true,
+      "nameEn": "Mix Maestro",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Mix Maestro blends two images into one, right on your Adobe Express design. Drop in a base and a blend image, pick from sixteen blend modes shown as live thumbnails of your actual photos, and mix them with masks, cut-outs and double exposures.\n\nShape exactly where the two images meet: reach for a ready-made mask — fades, vignettes, splits, a wave — or build one in the pattern generator, with dots, diamonds, triangles, lines and dashes riding a gradient. Prefer to work by hand? Paint the mask directly on the preview with a soft airbrush or splatter brush.\n\nPull an image straight from your page — including a single object you've selected — or upload your own. Set any frame ratio, and animate between two looks to export a wipe or dissolve as MP4 or GIF.\n\nEverything runs in your browser. No accounts, no third-party servers, nothing to install.\n\nFree until 31 August 2026.",
+      "descriptionEn": "Mix Maestro blends two images into one, right on your Adobe Express design. Drop in a base and a blend image, pick from sixteen blend modes shown as live thumbnails of your actual photos, and mix them with masks, cut-outs and double exposures.\n\nShape exactly where the two images meet: reach for a ready-made mask — fades, vignettes, splits, a wave — or build one in the pattern generator, with dots, diamonds, triangles, lines and dashes riding a gradient. Prefer to work by hand? Paint the mask directly on the preview with a soft airbrush or splatter brush.\n\nPull an image straight from your page — including a single object you've selected — or upload your own. Set any frame ratio, and animate between two looks to export a wipe or dissolve as MP4 or GIF.\n\nEverything runs in your browser. No accounts, no third-party servers, nothing to install.\n\nFree until 31 August 2026.",
+      "descriptionJa": "Adobe Expressのデザインキャンバス上で2つの画像をブレンドできます。ベースイメージとブレンドイメージを配置し、実際の写真のライブサムネイルで表示される16種類のブレンドモードから選択して、マスク、カットアウト、ダブルエクスポージャーで画像を合成します。\n\n2つの画像の境界線を正確にコントロール：フェード、ビネット、分割、波などのマスクをそのまま使用するか、パターンジェネレータで、ドット、ダイヤモンド、三角形、線、ダッシュをグラデーション上に配置してマスクを作成できます。手作業がお好みですか？プレビュー上にソフトエアブラシやスプラッターブラシで直接マスクを描画できます。\n\nページから画像を選択（選択したオブジェクトも対応）するか、自分の画像をアップロード。任意のフレームアスペクト比を設定し、2つのルック間でアニメーション化してMP4またはGIFにエクスポートできます。\n\nすべての処理はブラウザ内で完結。アカウント、外部サーバー、インストール不要。\n\n2026年8月31日まで無料。",
+      "descriptionKo": "Adobe Express 디자인 캔버스에서 두 이미지를 블렌딩할 수 있습니다. 베이스 이미지와 블렌드 이미지를 배치하고, 실제 사진의 라이브 썸네일로 표시되는 16가지 블렌드 모드 중 선택하여 마스크, 컷아웃, 더블 익스포저로 이미지를 합성합니다.\n\n두 이미지의 경계선을 정밀하게 제어：페이드, 비네트, 분할, 물결 등의 기성 마스크를 사용하거나, 패턴 생성기에서 점, 다이아몬드, 삼각형, 선, 대시를 그래디언트 위에 배치하여 마스크를 만듭니다. 손으로 작업하고 싶으신가요? 부드러운 에어브러시나 스플래터 브러시로 미리보기 위에 직접 마스크를 그릴 수 있습니다.\n\n페이지에서 이미지를 가져오거나(선택한 객체도 포함) 자신의 이미지를 업로드합니다. 원하는 프레임 비율을 설정하고 두 가지 모양 간 애니메이션을 설정한 후 MP4 또는 GIF로 내보낼 수 있습니다.\n\n모든 처리는 브라우저 내에서 완료됩니다. 계정, 외부 서버, 설치 불필요.\n\n2026년 8월 31일까지 무료.",
+      "keywords": [
+        "blend",
+        "double exposure",
+        "マスク",
+        "halftone",
+        "グラデーション",
+        "mix images",
+        "オーバーレイ",
+        "写真 エフェクト",
+        "composite",
+        "montage"
+      ],
+      "keywordsEn": [
+        "blend",
+        "double exposure",
+        "mask",
+        "halftone",
+        "gradient",
+        "mix images",
+        "overlay",
+        "photo effects",
+        "composite",
+        "montage"
+      ],
+      "keywordsJa": [
+        "blend",
+        "double exposure",
+        "マスク",
+        "halftone",
+        "グラデーション",
+        "mix images",
+        "オーバーレイ",
+        "写真 エフェクト",
+        "composite",
+        "montage"
+      ],
+      "keywordsKo": [
+        "blend",
+        "double exposure",
+        "마스크",
+        "halftone",
+        "그라데이션",
+        "mix images",
+        "오버레이",
+        "사진 효과",
+        "composite",
+        "montage"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm33ngh27"
+    },
+    {
+      "id": "reveal-effects-by-bjorn",
+      "addOnId": "wn2h05gmm",
+      "isNew": true,
+      "nameEn": "Reveal Effects by Bjorn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn photos or designs into \"reveal animations\". Export as GIF or Lottie.",
+      "descriptionEn": "Turn photos or designs into \"reveal animations\". Export as GIF or Lottie.",
+      "descriptionJa": "写真やデザインを「リビールアニメーション」に変換します。GIFまたはLottieでエクスポートできます。",
+      "descriptionKo": "사진이나 디자인을 '리빌 애니메이션'으로 변환합니다. GIF 또는 Lottie로 내보낼 수 있습니다.",
+      "keywords": [
+        "GIF",
+        "Lottie",
+        "アニメーション",
+        "reveal effect"
+      ],
+      "keywordsEn": [
+        "GIF",
+        "Lottie",
+        "animation",
+        "reveal effect"
+      ],
+      "keywordsJa": [
+        "GIF",
+        "Lottie",
+        "アニメーション",
+        "reveal effect"
+      ],
+      "keywordsKo": [
+        "GIF",
+        "Lottie",
+        "애니메이션",
+        "reveal effect"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn2h05gmm"
     }
   ],
   "metadata": {
-    "totalCount": 701,
-    "lastUpdated": "2026-08-04",
+    "totalCount": 714,
+    "lastUpdated": "2026-08-18",
     "source": "Web research and official documentation",
     "categories": {
       "accessibility": "アクセシビリティ",
