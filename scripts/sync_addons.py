@@ -55,8 +55,8 @@ def capture_token(timeout_sec: int) -> str:
         from playwright.sync_api import sync_playwright
     except ImportError:
         print(
-            "[ERROR] playwright がインストールされていません。"
-            " ./venv/bin/pip install playwright を実行してください。",
+            f"[ERROR] playwright がインストールされていません。"
+            f" {sys.executable} -m pip install playwright を実行してください。",
             file=sys.stderr,
         )
         sys.exit(1)

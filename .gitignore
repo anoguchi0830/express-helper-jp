@@ -26,6 +26,7 @@ __pycache__/
 *.pyc
 *.pyo
 venv/
+.venv/
 
 # Cloudflare Worker（プロジェクト本体と分離）
 cloudflare-worker/
