@@ -33078,7 +33078,7 @@
     {
       "id": "ai-video-replace",
       "addOnId": "w05688635",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Video Replace",
       "nameJa": "",
       "nameKo": "",
@@ -33126,7 +33126,7 @@
     {
       "id": "ai-fire-font-text",
       "addOnId": "w0hm300jg",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Fire Font Text",
       "nameJa": "",
       "nameKo": "",
@@ -33186,7 +33186,7 @@
     {
       "id": "slidedeck-creator",
       "addOnId": "w15k2k7mj",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "SlideDeck Creator",
       "nameJa": "",
       "nameKo": "",
@@ -33246,7 +33246,7 @@
     {
       "id": "wubble",
       "addOnId": "w17jm8519",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Wubble",
       "nameJa": "",
       "nameKo": "",
@@ -33294,7 +33294,7 @@
     {
       "id": "render-room",
       "addOnId": "w1l9jl9j5",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Render Room",
       "nameJa": "",
       "nameKo": "",
@@ -33362,7 +33362,7 @@
     {
       "id": "minimal-photo",
       "addOnId": "w1ngnij39",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Minimal Photo",
       "nameJa": "",
       "nameKo": "",
@@ -33410,7 +33410,7 @@
     {
       "id": "page-numbers-and-footers",
       "addOnId": "w2j7h32hm",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Page Numbers and Footers",
       "nameJa": "",
       "nameKo": "",
@@ -33470,7 +33470,7 @@
     {
       "id": "sketch-studio",
       "addOnId": "w3095n8i7",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Sketch Studio",
       "nameJa": "",
       "nameKo": "",
@@ -33526,7 +33526,7 @@
     {
       "id": "ai-video-editor",
       "addOnId": "w3h91i72g",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Video Editor",
       "nameJa": "",
       "nameKo": "",
@@ -33574,7 +33574,7 @@
     {
       "id": "photo-to-headshot",
       "addOnId": "w3n4k4095",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Photo to Headshot",
       "nameJa": "",
       "nameKo": "",
@@ -33622,7 +33622,7 @@
     {
       "id": "ai-doodle-maker",
       "addOnId": "w41j0nk68",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Doodle Maker",
       "nameJa": "",
       "nameKo": "",
@@ -33682,7 +33682,7 @@
     {
       "id": "ai-pattern-maker",
       "addOnId": "w4k0721i6",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Pattern Maker",
       "nameJa": "",
       "nameKo": "",
@@ -33742,7 +33742,7 @@
     {
       "id": "uniqode-dynamic-qr-codes",
       "addOnId": "w4m232l05",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Uniqode Dynamic QR Codes",
       "nameJa": "",
       "nameKo": "",
@@ -33790,7 +33790,7 @@
     {
       "id": "publora",
       "addOnId": "w5m31i4jk",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Publora",
       "nameJa": "",
       "nameKo": "",
@@ -33846,7 +33846,7 @@
     {
       "id": "visual-story-maker",
       "addOnId": "w6ik24304",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Visual Story Maker",
       "nameJa": "",
       "nameKo": "",
@@ -33866,7 +33866,7 @@
     {
       "id": "ai-design-generator",
       "addOnId": "w947h3n3g",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Design Generator",
       "nameJa": "",
       "nameKo": "",
@@ -33918,7 +33918,7 @@
     {
       "id": "ai-emoji-stickers",
       "addOnId": "w98nig0nk",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI emoji stickers",
       "nameJa": "",
       "nameKo": "",
@@ -33986,7 +33986,7 @@
     {
       "id": "bulk-document-generator",
       "addOnId": "wg9l832m6",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Bulk Document Generator",
       "nameJa": "",
       "nameKo": "",
@@ -34006,7 +34006,7 @@
     {
       "id": "soft-clay-maker",
       "addOnId": "wgh98526h",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Soft Clay Maker",
       "nameJa": "",
       "nameKo": "",
@@ -34062,7 +34062,7 @@
     {
       "id": "old-photo-restoration",
       "addOnId": "wi6m05h3l",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Old Photo Restoration",
       "nameJa": "",
       "nameKo": "",
@@ -34106,7 +34106,7 @@
     {
       "id": "lipsync",
       "addOnId": "wi97jgm4m",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "lipsync",
       "nameJa": "",
       "nameKo": "",
@@ -34162,7 +34162,7 @@
     {
       "id": "ai-study-notes",
       "addOnId": "wj1g6gkll",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Study Notes",
       "nameJa": "",
       "nameKo": "",
@@ -34214,7 +34214,7 @@
     {
       "id": "ai-art-generator",
       "addOnId": "wjjkmlm44",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Art Generator",
       "nameJa": "",
       "nameKo": "",
@@ -34270,7 +34270,7 @@
     {
       "id": "ai-character-pose",
       "addOnId": "wjlni653l",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Character Pose",
       "nameJa": "",
       "nameKo": "",
@@ -34322,7 +34322,7 @@
     {
       "id": "drawinglab",
       "addOnId": "wm20milh4",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "DrawingLab",
       "nameJa": "",
       "nameKo": "",
@@ -34342,7 +34342,7 @@
     {
       "id": "stop-motion-video",
       "addOnId": "wm60913n5",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Stop Motion Video",
       "nameJa": "",
       "nameKo": "",
@@ -34394,7 +34394,7 @@
     {
       "id": "ai-image-translator",
       "addOnId": "wmjn630m8",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Image Translator",
       "nameJa": "",
       "nameKo": "",
@@ -34442,7 +34442,7 @@
     {
       "id": "convert-image-to-layers",
       "addOnId": "wn0nk1nkm",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Convert Image to Layers",
       "nameJa": "",
       "nameKo": "",
@@ -34479,7 +34479,7 @@
     {
       "id": "ai-movie-poster-maker",
       "addOnId": "wnl6jg442",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Movie Poster Maker",
       "nameJa": "",
       "nameKo": "",
@@ -34535,7 +34535,7 @@
     {
       "id": "brandsync-crm",
       "addOnId": "wnm8k2n34",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "BrandSync CRM",
       "nameJa": "",
       "nameKo": "",
@@ -34583,11 +34583,531 @@
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wnm8k2n34"
+    },
+    {
+      "id": "ai-voice-maker",
+      "addOnId": "w1k36g86j",
+      "isNew": true,
+      "nameEn": "AI Voice Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn text into expressive AI voiceovers in Adobe Express. Enter or paste up to 500 characters, choose a language, voice and emotion, then generate, preview and add the audio to your design.\n\nExplore voice samples before generating. Choose emotional delivery such as happy, calm, sad or surprised. Create narration for presentations, social videos and stories, with 17 output language options.\n\nFree trial: New accounts receive 200 one-time credits. Each character of your submitted text uses 1 credit after successful generation; leading and trailing spaces are excluded. For example, 100 characters use 100 credits. This is a character allowance, not 200 generations. AI Voice Maker shares its account and credit balance with Emote AI Voice; existing accounts do not receive another trial allocation. View pricing in the add-on for paid options after your credits run out.",
+      "descriptionEn": "Turn text into expressive AI voiceovers in Adobe Express. Enter or paste up to 500 characters, choose a language, voice and emotion, then generate, preview and add the audio to your design.\n\nExplore voice samples before generating. Choose emotional delivery such as happy, calm, sad or surprised. Create narration for presentations, social videos and stories, with 17 output language options.\n\nFree trial: New accounts receive 200 one-time credits. Each character of your submitted text uses 1 credit after successful generation; leading and trailing spaces are excluded. For example, 100 characters use 100 credits. This is a character allowance, not 200 generations. AI Voice Maker shares its account and credit balance with Emote AI Voice; existing accounts do not receive another trial allocation. View pricing in the add-on for paid options after your credits run out.",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "AI音声",
+        "テキスト読み上げ",
+        "ナレーション",
+        "narration",
+        "スピーチ ジェネレーター",
+        "多言語"
+      ],
+      "keywordsEn": [
+        "AI voice",
+        "text to speech",
+        "voiceover",
+        "narration",
+        "speech generator",
+        "multilingual audio"
+      ],
+      "keywordsJa": [
+        "AI音声",
+        "テキスト読み上げ",
+        "ナレーション",
+        "narration",
+        "スピーチ ジェネレーター",
+        "多言語"
+      ],
+      "keywordsKo": [
+        "AI 음성",
+        "텍스트 음성 변환",
+        "나레이션",
+        "narration",
+        "음성 생성기",
+        "다국어"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w1k36g86j"
+    },
+    {
+      "id": "packshot-maker",
+      "addOnId": "w27ngn5j5",
+      "isNew": true,
+      "nameEn": "Packshot Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Effortlessly convert product or on-model images into clean, professional packshots. Ideal for enhancing marketing materials, online stores, and promotional content.\n\nHow it works\n\nAutomatic product selection: by default, Packshot Maker picks one product, the most prominent one in your photo.\n\nChoose which items to include: use the optional \"Which item?\" field to name the product you want, for example \"the handbag\". You can also name several products from the same photo, for example \"the necklace and the earrings\", and they will appear together in one packshot. Enter only item names. Details about background, lighting or styling are ignored.",
+      "descriptionEn": "Effortlessly convert product or on-model images into clean, professional packshots. Ideal for enhancing marketing materials, online stores, and promotional content.\n\nHow it works\n\nAutomatic product selection: by default, Packshot Maker picks one product, the most prominent one in your photo.\n\nChoose which items to include: use the optional \"Which item?\" field to name the product you want, for example \"the handbag\". You can also name several products from the same photo, for example \"the necklace and the earrings\", and they will appear together in one packshot. Enter only item names. Details about background, lighting or styling are ignored.",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "packshot maker",
+        "商品撮影",
+        "商品写真",
+        "Eコマース",
+        "画像生成"
+      ],
+      "keywordsEn": [
+        "packshot maker",
+        "product photography",
+        "product photo editor",
+        "ecommerce images",
+        "product image generator"
+      ],
+      "keywordsJa": [
+        "packshot maker",
+        "商品撮影",
+        "商品写真",
+        "Eコマース",
+        "画像生成"
+      ],
+      "keywordsKo": [
+        "packshot maker",
+        "상품 촬영",
+        "상품 사진",
+        "전자상거래",
+        "이미지 생성"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w27ngn5j5"
+    },
+    {
+      "id": "accent-letters",
+      "addOnId": "w2n6il912",
+      "isNew": true,
+      "nameEn": "Accent Letters",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Every accented Latin letter, ready to drop into your design.\n\nAccent Letters puts 682 accented characters from 55 languages in a panel beside your canvas. Click one and it goes into the open document as text you can move, restyle and resize.\n\nSearch by the letter itself, by its name (\"e acute\", \"o slash\", \"c cedilla\"), or by what the accent looks like: \"two dots\" finds every diaeresis, \"hat\" finds all 50 circumflexes and carons. One click filters to Spanish, French, German, Portuguese, Italian, Polish, Vietnamese or Turkish.\n\nEvery letter also shows its Unicode code point, HTML entity, Windows Alt code and the languages that use it, so you can check you have the right character and not a lookalike.\n\nThe data is generated from the Unicode Character Database and CLDR, the same data behind accentletters.wiki.\n\nFree, no account, no ads, and nothing is sent anywhere: the whole letter set ships inside the add-on and makes no network requests.",
+      "descriptionEn": "Every accented Latin letter, ready to drop into your design.\n\nAccent Letters puts 682 accented characters from 55 languages in a panel beside your canvas. Click one and it goes into the open document as text you can move, restyle and resize.\n\nSearch by the letter itself, by its name (\"e acute\", \"o slash\", \"c cedilla\"), or by what the accent looks like: \"two dots\" finds every diaeresis, \"hat\" finds all 50 circumflexes and carons. One click filters to Spanish, French, German, Portuguese, Italian, Polish, Vietnamese or Turkish.\n\nEvery letter also shows its Unicode code point, HTML entity, Windows Alt code and the languages that use it, so you can check you have the right character and not a lookalike.\n\nThe data is generated from the Unicode Character Database and CLDR, the same data behind accentletters.wiki.\n\nFree, no account, no ads, and nothing is sent anywhere: the whole letter set ships inside the add-on and makes no network requests.",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "accents",
+        "diacritics",
+        "accented letters",
+        "special characters",
+        "unicode"
+      ],
+      "keywordsEn": [
+        "accents",
+        "diacritics",
+        "accented letters",
+        "special characters",
+        "unicode"
+      ],
+      "keywordsJa": [
+        "accents",
+        "diacritics",
+        "accented letters",
+        "special characters",
+        "unicode"
+      ],
+      "keywordsKo": [
+        "accents",
+        "diacritics",
+        "accented letters",
+        "special characters",
+        "unicode"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2n6il912"
+    },
+    {
+      "id": "infyicon-free-icons",
+      "addOnId": "w545ikhj9",
+      "isNew": true,
+      "nameEn": "Infyicon Free Icons",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Search Infyicon's library of 161,000+ free hand-crafted icons without leaving Adobe Express. Type a word, pick a style — outline, filled, colour outline or colour filled — and click any icon to add it to your page as a real vector (SVG), or drag it straight onto the canvas. Icons scale to any size with no pixelation and you can recolour them with Express's own tools.\n\nEvery icon is free for personal and commercial use with attribution to infyicon.com (see infyicon.com/license). No account, no API key, no sign-in.\n\nFeatures\n• Instant search across 161,000+ icons, with quick-pick topics\n• Four consistent styles: outline, filled, colour outline, colour filled\n• Click to insert as SVG vector — crisp at any size\n• Drag & drop onto the canvas\n• Light and dark theme support\n\nMade by Infyicon — infyicon.com",
+      "descriptionEn": "Search Infyicon's library of 161,000+ free hand-crafted icons without leaving Adobe Express. Type a word, pick a style — outline, filled, colour outline or colour filled — and click any icon to add it to your page as a real vector (SVG), or drag it straight onto the canvas. Icons scale to any size with no pixelation and you can recolour them with Express's own tools.\n\nEvery icon is free for personal and commercial use with attribution to infyicon.com (see infyicon.com/license). No account, no API key, no sign-in.\n\nFeatures\n• Instant search across 161,000+ icons, with quick-pick topics\n• Four consistent styles: outline, filled, colour outline, colour filled\n• Click to insert as SVG vector — crisp at any size\n• Drag & drop onto the canvas\n• Light and dark theme support\n\nMade by Infyicon — infyicon.com",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "アイコン",
+        "無料 アイコン",
+        "SVG",
+        "ベクター",
+        "outline",
+        "filled",
+        "UI アイコン",
+        "symbols",
+        "pictograms",
+        "infyicon"
+      ],
+      "keywordsEn": [
+        "icons",
+        "free icons",
+        "svg",
+        "vector",
+        "outline",
+        "filled",
+        "ui icons",
+        "symbols",
+        "pictograms",
+        "infyicon"
+      ],
+      "keywordsJa": [
+        "アイコン",
+        "無料 アイコン",
+        "SVG",
+        "ベクター",
+        "outline",
+        "filled",
+        "UI アイコン",
+        "symbols",
+        "pictograms",
+        "infyicon"
+      ],
+      "keywordsKo": [
+        "아이콘",
+        "무료 아이콘",
+        "SVG",
+        "벡터",
+        "outline",
+        "filled",
+        "UI 아이콘",
+        "symbols",
+        "pictograms",
+        "infyicon"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w545ikhj9"
+    },
+    {
+      "id": "blind-watermark-wmgg",
+      "addOnId": "w546n01i7",
+      "isNew": true,
+      "nameEn": "Blind Watermark wmgg",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Blind Watermark (Invisible watermarking), for images.\n100% local, 0% uploads.\n\nEmbed a cryptographically-signed invisible signature into your work. It survives screenshots, compression, rotation, and cropping. Verification is always free.\n\nFree tier for daily use.\n\nwmgg",
+      "descriptionEn": "Blind Watermark (Invisible watermarking), for images.\n100% local, 0% uploads.\n\nEmbed a cryptographically-signed invisible signature into your work. It survives screenshots, compression, rotation, and cropping. Verification is always free.\n\nFree tier for daily use.\n\nwmgg",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "透かし",
+        "blind watermark",
+        "invisible watermark",
+        "画像 透かし"
+      ],
+      "keywordsEn": [
+        "watermark",
+        "blind watermark",
+        "invisible watermark",
+        "image watermark"
+      ],
+      "keywordsJa": [
+        "透かし",
+        "blind watermark",
+        "invisible watermark",
+        "画像 透かし"
+      ],
+      "keywordsKo": [
+        "워터마크",
+        "blind watermark",
+        "invisible watermark",
+        "이미지 워터마크"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w546n01i7"
+    },
+    {
+      "id": "openasset-dam",
+      "addOnId": "w6ig7l8im",
+      "isNew": true,
+      "nameEn": "OpenAsset DAM",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "OpenAsset DAM connects directly to Adobe Express, so your marketing and comms team never has to leave their design to find the right asset.\n\nSearch your OpenAsset DAM library by filename, caption, description, or keyword, or use AI visual search when you don't know exactly what you're looking for. Browse by Album, Project, or Employee to pull from a familiar structure, or filter by File Category and Access Level to stay within the assets you're cleared to use.\n\nOnce you've found the right image, video, or audio drag it straight into your Adobe Express design. No downloading, no uploading, no duplicate files sitting on someone's desktop.\n\nBuilt for AEC marketing and business development teams who live in OpenAsset DAM for asset management and Adobe Express for fast-turn social and communications content.\n\nSupports images and video. Available on the desktop web version of Adobe Express.\n\nThis launches as an unrestricted beta, open to every OpenAsset DAM and Adobe Express customer.",
+      "descriptionEn": "OpenAsset DAM connects directly to Adobe Express, so your marketing and comms team never has to leave their design to find the right asset.\n\nSearch your OpenAsset DAM library by filename, caption, description, or keyword, or use AI visual search when you don't know exactly what you're looking for. Browse by Album, Project, or Employee to pull from a familiar structure, or filter by File Category and Access Level to stay within the assets you're cleared to use.\n\nOnce you've found the right image, video, or audio drag it straight into your Adobe Express design. No downloading, no uploading, no duplicate files sitting on someone's desktop.\n\nBuilt for AEC marketing and business development teams who live in OpenAsset DAM for asset management and Adobe Express for fast-turn social and communications content.\n\nSupports images and video. Available on the desktop web version of Adobe Express.\n\nThis launches as an unrestricted beta, open to every OpenAsset DAM and Adobe Express customer.",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "OpenAsset",
+        "DAM",
+        "AEC",
+        "アセット管理",
+        "建築",
+        "engineering",
+        "construction"
+      ],
+      "keywordsEn": [
+        "OpenAsset",
+        "DAM",
+        "AEC",
+        "digital asset management",
+        "architecture",
+        "engineering",
+        "construction"
+      ],
+      "keywordsJa": [
+        "OpenAsset",
+        "DAM",
+        "AEC",
+        "アセット管理",
+        "建築",
+        "engineering",
+        "construction"
+      ],
+      "keywordsKo": [
+        "OpenAsset",
+        "DAM",
+        "AEC",
+        "에셋 관리",
+        "건축",
+        "engineering",
+        "construction"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w6ig7l8im"
+    },
+    {
+      "id": "bead-pattern",
+      "addOnId": "w7021knl8",
+      "isNew": true,
+      "nameEn": "Bead Pattern",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn your images into numbered fuse bead charts in Adobe Express. Upload a JPG, PNG or WEBP image up to 10MB. Choose a longest edge of 29, 58 or 87 beads and a palette of up to 6, 12, 18 or 24 colors.\n\nOptional AI background cleanup places your subject on white before conversion. It is enabled by default and may alter details. Switch it off to convert the original image locally without uploading it for AI processing.\n\nPreview your pattern and add the full numbered chart with its color legend and material counts to your design. Transparent areas become empty pegs; opaque white remains a bead color.\n\nNew Adobe users currently receive 2 trial credits. Each successful conversion uses 1 credit; adding the chart does not use extra credits. Paid options are available through View pricing.\n\nColors are approximate, not manufacturer codes. Size estimates assume 5mm beads; actual print scale depends on your design settings.",
+      "descriptionEn": "Turn your images into numbered fuse bead charts in Adobe Express. Upload a JPG, PNG or WEBP image up to 10MB. Choose a longest edge of 29, 58 or 87 beads and a palette of up to 6, 12, 18 or 24 colors.\n\nOptional AI background cleanup places your subject on white before conversion. It is enabled by default and may alter details. Switch it off to convert the original image locally without uploading it for AI processing.\n\nPreview your pattern and add the full numbered chart with its color legend and material counts to your design. Transparent areas become empty pegs; opaque white remains a bead color.\n\nNew Adobe users currently receive 2 trial credits. Each successful conversion uses 1 credit; adding the chart does not use extra credits. Paid options are available through View pricing.\n\nColors are approximate, not manufacturer codes. Size estimates assume 5mm beads; actual print scale depends on your design settings.",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "bead pattern",
+        "fuse beads",
+        "ピクセルアート",
+        "bead chart",
+        "pegboard",
+        "craft",
+        "カラーパレット"
+      ],
+      "keywordsEn": [
+        "bead pattern",
+        "fuse beads",
+        "pixel art",
+        "bead chart",
+        "pegboard",
+        "craft",
+        "color palette"
+      ],
+      "keywordsJa": [
+        "bead pattern",
+        "fuse beads",
+        "ピクセルアート",
+        "bead chart",
+        "pegboard",
+        "craft",
+        "カラーパレット"
+      ],
+      "keywordsKo": [
+        "bead pattern",
+        "fuse beads",
+        "픽셀 아트",
+        "bead chart",
+        "pegboard",
+        "craft",
+        "색상 팔레트"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w7021knl8"
+    },
+    {
+      "id": "campaign-export-pack",
+      "addOnId": "wi300h9kk",
+      "isNew": true,
+      "nameEn": "Campaign Export Pack",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Build a ready-to-share asset package without leaving Adobe Express. Free access includes unlimited current-page, original-size PNG export packs with a CSV manifest and summary. There is no time limit or export quota. A $9.99 one-time Plus upgrade adds all-page export, JPG and PDF, image profiles, JPG quality, and custom filename templates.\n\nApply consistent folder and filename rules, handle duplicate names safely, and include a UTF-8 CSV manifest plus a text summary in every ZIP. Filename tokens cover campaign, page, index, size, format, and date.\n\nThe optional one-time Plus upgrade changes only Campaign Export Pack access. If a document contains content the current user cannot export, the host displays its own export-access flow before the add-on continues. No separate account is required. Document content is packaged in the browser and is not sent to Mars Studio. Optional Stripe checkout is handled by Mars Studio.",
+      "descriptionEn": "Build a ready-to-share asset package without leaving Adobe Express. Free access includes unlimited current-page, original-size PNG export packs with a CSV manifest and summary. There is no time limit or export quota. A $9.99 one-time Plus upgrade adds all-page export, JPG and PDF, image profiles, JPG quality, and custom filename templates.\n\nApply consistent folder and filename rules, handle duplicate names safely, and include a UTF-8 CSV manifest plus a text summary in every ZIP. Filename tokens cover campaign, page, index, size, format, and date.\n\nThe optional one-time Plus upgrade changes only Campaign Export Pack access. If a document contains content the current user cannot export, the host displays its own export-access flow before the add-on continues. No separate account is required. Document content is packaged in the browser and is not sent to Mars Studio. Optional Stripe checkout is handled by Mars Studio.",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "キャンペーン エクスポート",
+        "asset package",
+        "PNG",
+        "JPEG",
+        "PDF",
+        "filenames",
+        "CSV",
+        "マーケティング ワークフロー"
+      ],
+      "keywordsEn": [
+        "campaign export",
+        "asset package",
+        "PNG",
+        "JPG",
+        "PDF",
+        "filenames",
+        "CSV",
+        "marketing workflow"
+      ],
+      "keywordsJa": [
+        "キャンペーン エクスポート",
+        "asset package",
+        "PNG",
+        "JPEG",
+        "PDF",
+        "filenames",
+        "CSV",
+        "マーケティング ワークフロー"
+      ],
+      "keywordsKo": [
+        "캠페인 내보내기",
+        "asset package",
+        "PNG",
+        "JPEG",
+        "PDF",
+        "filenames",
+        "CSV",
+        "마케팅 워크플로"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wi300h9kk"
+    },
+    {
+      "id": "big-head",
+      "addOnId": "wk16jkjkg",
+      "isNew": true,
+      "nameEn": "Big Head",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn photos of people and pets into playful big-head portraits in Adobe Express. Upload a JPG, PNG or WebP image up to 10 MB, then choose Subtle, Cute or Extra big. Big Head uses AI to enlarge the head while aiming to preserve recognizable features, clothing, pose and background.\n\nPreview your portrait and add it to your design as a single image. Create fun profile pictures, pet portraits, greeting cards and social posts. Use a clear photo with the entire head visible and space around it.\n\nNew Adobe users receive 2 free credits, enough for 2 successful images. Each successful generation uses 1 credit for non-subscribers. After the trial, buy credits or subscribe through external FastSpring checkout. This add-on is sold separately from Adobe plans.\n\nOnly upload images you have permission to use. Images are sent to external AI services for processing. Content safety checks apply. AI results may vary; review them before use.",
+      "descriptionEn": "Turn photos of people and pets into playful big-head portraits in Adobe Express. Upload a JPG, PNG or WebP image up to 10 MB, then choose Subtle, Cute or Extra big. Big Head uses AI to enlarge the head while aiming to preserve recognizable features, clothing, pose and background.\n\nPreview your portrait and add it to your design as a single image. Create fun profile pictures, pet portraits, greeting cards and social posts. Use a clear photo with the entire head visible and space around it.\n\nNew Adobe users receive 2 free credits, enough for 2 successful images. Each successful generation uses 1 credit for non-subscribers. After the trial, buy credits or subscribe through external FastSpring checkout. This add-on is sold separately from Adobe plans.\n\nOnly upload images you have permission to use. Images are sent to external AI services for processing. Content safety checks apply. AI results may vary; review them before use.",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "big head",
+        "AI画像",
+        "caricature",
+        "ポートレート",
+        "pet portrait",
+        "bobblehead",
+        "写真エディター"
+      ],
+      "keywordsEn": [
+        "big head",
+        "ai image",
+        "caricature",
+        "portrait",
+        "pet portrait",
+        "bobblehead",
+        "photo editor"
+      ],
+      "keywordsJa": [
+        "big head",
+        "AI画像",
+        "caricature",
+        "ポートレート",
+        "pet portrait",
+        "bobblehead",
+        "写真エディター"
+      ],
+      "keywordsKo": [
+        "big head",
+        "AI 이미지",
+        "caricature",
+        "인물사진",
+        "pet portrait",
+        "bobblehead",
+        "사진 편집기"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wk16jkjkg"
+    },
+    {
+      "id": "kreeloop",
+      "addOnId": "wlnj499hh",
+      "isNew": true,
+      "nameEn": "Kreeloop",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Most design feedback is silence, or a thumbs up from someone who did not look. Kreeloop measures.\n\nTell it what you are working toward: a high end feel, a scroll stopping post, a stronger brand. Pick a tone and let it read your page. Nothing needs to be selected.\n\nBefore it comments, Kreeloop computes real numbers from your design: the contrast of every text element against what sits behind it, the type scale, the number of typefaces, margins, and anything hidden behind a shape. These are marked MEASURED and carry the figure. You also get ratings across six craft areas, one click fixes and headline ideas. Anything applied can be undone.\n\nIf the design already works, it says so and gives you no fix list.\n\nTHE DAILY AI POOL\n\nAnalyses run on Google Gemini through a shared free tier all users draw from. It refills daily around midnight Pacific, and each connection is capped at 10 analyses a minute. If it empties, paste your own free key in Settings.\n\nNo account, no signup.",
+      "descriptionEn": "Most design feedback is silence, or a thumbs up from someone who did not look. Kreeloop measures.\n\nTell it what you are working toward: a high end feel, a scroll stopping post, a stronger brand. Pick a tone and let it read your page. Nothing needs to be selected.\n\nBefore it comments, Kreeloop computes real numbers from your design: the contrast of every text element against what sits behind it, the type scale, the number of typefaces, margins, and anything hidden behind a shape. These are marked MEASURED and carry the figure. You also get ratings across six craft areas, one click fixes and headline ideas. Anything applied can be undone.\n\nIf the design already works, it says so and gives you no fix list.\n\nTHE DAILY AI POOL\n\nAnalyses run on Google Gemini through a shared free tier all users draw from. It refills daily around midnight Pacific, and each connection is capped at 10 analyses a minute. If it empties, paste your own free key in Settings.\n\nNo account, no signup.",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [
+        "デザイン フィードバック",
+        "AI mentor",
+        "design critique",
+        "ブランディング",
+        "タイポグラフィ",
+        "カラー"
+      ],
+      "keywordsEn": [
+        "design feedback",
+        "AI mentor",
+        "design critique",
+        "branding",
+        "typography",
+        "color"
+      ],
+      "keywordsJa": [
+        "デザイン フィードバック",
+        "AI mentor",
+        "design critique",
+        "ブランディング",
+        "タイポグラフィ",
+        "カラー"
+      ],
+      "keywordsKo": [
+        "디자인 피드백",
+        "AI mentor",
+        "design critique",
+        "브랜딩",
+        "타이포그래피",
+        "색상"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wlnj499hh"
+    },
+    {
+      "id": "ai-virtual-tryon",
+      "addOnId": "wm31g6462",
+      "isNew": true,
+      "nameEn": "AI Virtual TryOn",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Display fashion items on models or shoppers using their photos. Perfect for creating campaign content or enhancing customer experiences with a virtual fitting room.",
+      "descriptionEn": "Display fashion items on models or shoppers using their photos. Perfect for creating campaign content or enhancing customer experiences with a virtual fitting room.",
+      "descriptionJa": "",
+      "descriptionKo": "",
+      "keywords": [],
+      "keywordsEn": [],
+      "keywordsJa": [],
+      "keywordsKo": [],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm31g6462"
     }
   ],
   "metadata": {
-    "totalCount": 764,
-    "lastUpdated": "2026-09-18",
+    "totalCount": 775,
+    "lastUpdated": "2026-09-28",
     "source": "Web research and official documentation",
     "categories": {
       "accessibility": "アクセシビリティ",
