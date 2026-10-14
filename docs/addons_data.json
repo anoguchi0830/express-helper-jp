@@ -34587,7 +34587,7 @@
     {
       "id": "ai-voice-maker",
       "addOnId": "w1k36g86j",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Voice Maker",
       "nameJa": "",
       "nameKo": "",
@@ -34595,8 +34595,8 @@
       "categoryJa": "ユーティリティ",
       "description": "Turn text into expressive AI voiceovers in Adobe Express. Enter or paste up to 500 characters, choose a language, voice and emotion, then generate, preview and add the audio to your design.\n\nExplore voice samples before generating. Choose emotional delivery such as happy, calm, sad or surprised. Create narration for presentations, social videos and stories, with 17 output language options.\n\nFree trial: New accounts receive 200 one-time credits. Each character of your submitted text uses 1 credit after successful generation; leading and trailing spaces are excluded. For example, 100 characters use 100 credits. This is a character allowance, not 200 generations. AI Voice Maker shares its account and credit balance with Emote AI Voice; existing accounts do not receive another trial allocation. View pricing in the add-on for paid options after your credits run out.",
       "descriptionEn": "Turn text into expressive AI voiceovers in Adobe Express. Enter or paste up to 500 characters, choose a language, voice and emotion, then generate, preview and add the audio to your design.\n\nExplore voice samples before generating. Choose emotional delivery such as happy, calm, sad or surprised. Create narration for presentations, social videos and stories, with 17 output language options.\n\nFree trial: New accounts receive 200 one-time credits. Each character of your submitted text uses 1 credit after successful generation; leading and trailing spaces are excluded. For example, 100 characters use 100 credits. This is a character allowance, not 200 generations. AI Voice Maker shares its account and credit balance with Emote AI Voice; existing accounts do not receive another trial allocation. View pricing in the add-on for paid options after your credits run out.",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "テキストをAdobe Express内で表現力豊かなAIナレーションに変換できます。最大500文字のテキストを入力または貼り付け、言語・声・感情を選択してから生成・プレビューし、デザインにオーディオを追加できます。\n\n生成前に音声サンプルを確認できます。幸せ、落ち着き、悲しみ、驚きなどの感情的な表現を選択できます。プレゼンテーション、ソーシャルビデオ、ストーリーのナレーション作成に対応。17言語での出力オプションがあります。\n\n無料トライアル：新規アカウントには200クレジットが付与されます。テキスト送信1文字につき1クレジットが消費されます（先頭・末尾のスペースは除外）。例えば100文字は100クレジット使用します。これは1度の生成200回分ではなく、文字単位の配分です。AI Voice MakerはEmote AI Voiceとアカウント・クレジット残高を共有しており、既存アカウントは追加のトライアル配分を受け取りません。クレジット切れ後の有料オプションについてはアドオン内で料金をご確認ください。",
+      "descriptionKo": "Adobe Express에서 텍스트를 표현력 있는 AI 음성으로 변환합니다. 최대 500글자의 텍스트를 입력하거나 붙여넣고, 언어·음성·감정을 선택한 후 생성하고 미리보기한 뒤 오디오를 디자인에 추가할 수 있습니다.\n\n생성하기 전에 음성 샘플을 탐색할 수 있습니다. 행복함, 차분함, 슬픔, 놀람 같은 감정 표현을 선택하세요. 프레젠테이션, 소셜 비디오, 스토리의 나레이션을 만들 수 있으며 17개 언어로 출력할 수 있습니다.\n\n무료 체험: 신규 계정은 200크레딧을 받습니다. 제출된 텍스트의 각 문자마다 생성 성공 후 1크레딧을 사용합니다(선행 및 후행 공백은 제외). 예를 들어 100글자는 100크레딧을 사용합니다. 이는 200회 생성이 아닌 문자 배분입니다. AI Voice Maker는 Emote AI Voice와 계정 및 크레딧 잔액을 공유하며, 기존 계정은 추가 체험판 배분을 받지 않습니다. 크레딧이 소진된 후 유료 옵션의 가격은 애드온에서 확인하세요.",
       "keywords": [
         "AI音声",
         "テキスト読み上げ",
@@ -34635,7 +34635,7 @@
     {
       "id": "packshot-maker",
       "addOnId": "w27ngn5j5",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Packshot Maker",
       "nameJa": "",
       "nameKo": "",
@@ -34643,8 +34643,8 @@
       "categoryJa": "ユーティリティ",
       "description": "Effortlessly convert product or on-model images into clean, professional packshots. Ideal for enhancing marketing materials, online stores, and promotional content.\n\nHow it works\n\nAutomatic product selection: by default, Packshot Maker picks one product, the most prominent one in your photo.\n\nChoose which items to include: use the optional \"Which item?\" field to name the product you want, for example \"the handbag\". You can also name several products from the same photo, for example \"the necklace and the earrings\", and they will appear together in one packshot. Enter only item names. Details about background, lighting or styling are ignored.",
       "descriptionEn": "Effortlessly convert product or on-model images into clean, professional packshots. Ideal for enhancing marketing materials, online stores, and promotional content.\n\nHow it works\n\nAutomatic product selection: by default, Packshot Maker picks one product, the most prominent one in your photo.\n\nChoose which items to include: use the optional \"Which item?\" field to name the product you want, for example \"the handbag\". You can also name several products from the same photo, for example \"the necklace and the earrings\", and they will appear together in one packshot. Enter only item names. Details about background, lighting or styling are ignored.",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "商品写真やオンモデル画像を、クリーンでプロフェッショナルなパックショットに簡単に変換できます。マーケティング素材、オンラインストア、プロモーション用コンテンツの向上に最適です。\n\n使い方\n\n自動商品選択：デフォルトでは、Packshot Makerが写真内で最も目立つ商品1つを選択します。\n\n表示する商品を選択：オプションの「Which item?」フィールドを使用して、例えば「ハンドバッグ」のように希望する商品名を入力できます。同じ写真から複数の商品を指定することもでき、例えば「ネックレスとイヤリング」と入力すると、それらが1つのパックショットに一緒に表示されます。商品名のみを入力してください。背景、照明、スタイリングについての詳細は無視されます。",
+      "descriptionKo": "제품 사진이나 온모델 이미지를 깔끔하고 전문적인 팩샷으로 손쉽게 변환합니다. 마케팅 자료, 온라인 스토어, 홍보 콘텐츠 향상에 이상적입니다.\n\n작동 방식\n\n자동 상품 선택: 기본적으로 Packshot Maker는 사진에서 가장 눈에 띄는 상품 1개를 선택합니다.\n\n포함할 항목 선택: 선택 사항인 \"Which item?\" 필드를 사용하여 원하는 상품명을 입력할 수 있습니다. 예를 들어 \"핸드백\"이라고 입력할 수 있습니다. 같은 사진에서 여러 상품을 지정할 수도 있으며, 예를 들어 \"목걸이와 귀걸이\"라고 입력하면 하나의 팩샷에 함께 표시됩니다. 상품명만 입력하세요. 배경, 조명, 스타일링에 대한 세부 사항은 무시됩니다.",
       "keywords": [
         "packshot maker",
         "商品撮影",
@@ -34679,7 +34679,7 @@
     {
       "id": "accent-letters",
       "addOnId": "w2n6il912",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Accent Letters",
       "nameJa": "",
       "nameKo": "",
@@ -34687,14 +34687,14 @@
       "categoryJa": "ユーティリティ",
       "description": "Every accented Latin letter, ready to drop into your design.\n\nAccent Letters puts 682 accented characters from 55 languages in a panel beside your canvas. Click one and it goes into the open document as text you can move, restyle and resize.\n\nSearch by the letter itself, by its name (\"e acute\", \"o slash\", \"c cedilla\"), or by what the accent looks like: \"two dots\" finds every diaeresis, \"hat\" finds all 50 circumflexes and carons. One click filters to Spanish, French, German, Portuguese, Italian, Polish, Vietnamese or Turkish.\n\nEvery letter also shows its Unicode code point, HTML entity, Windows Alt code and the languages that use it, so you can check you have the right character and not a lookalike.\n\nThe data is generated from the Unicode Character Database and CLDR, the same data behind accentletters.wiki.\n\nFree, no account, no ads, and nothing is sent anywhere: the whole letter set ships inside the add-on and makes no network requests.",
       "descriptionEn": "Every accented Latin letter, ready to drop into your design.\n\nAccent Letters puts 682 accented characters from 55 languages in a panel beside your canvas. Click one and it goes into the open document as text you can move, restyle and resize.\n\nSearch by the letter itself, by its name (\"e acute\", \"o slash\", \"c cedilla\"), or by what the accent looks like: \"two dots\" finds every diaeresis, \"hat\" finds all 50 circumflexes and carons. One click filters to Spanish, French, German, Portuguese, Italian, Polish, Vietnamese or Turkish.\n\nEvery letter also shows its Unicode code point, HTML entity, Windows Alt code and the languages that use it, so you can check you have the right character and not a lookalike.\n\nThe data is generated from the Unicode Character Database and CLDR, the same data behind accentletters.wiki.\n\nFree, no account, no ads, and nothing is sent anywhere: the whole letter set ships inside the add-on and makes no network requests.",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "55言語の682個のアクセント付きラテン文字がすべてそろっています。\n\nAccent Lettersは、キャンバス横のパネルに682個のアクセント付き文字を配置。1つクリックするとオープンドキュメントにテキストとして挿入でき、移動・スタイル変更・リサイズできます。\n\n文字そのもの、名前（\"e acute\"、\"o slash\"、\"c cedilla\"）、またはアクセントの形状（\"two dots\"でダイアレシスをすべて検出、\"hat\"で全50個の曲折アクセントとキャロンを検出）で検索できます。1クリックでスペイン語、フランス語、ドイツ語、ポルトガル語、イタリア語、ポーランド語、ベトナム語、トルコ語にフィルタリング可能。\n\n各文字には、Unicode符号位置、HTML実体、Windows Altコード、およびそれを使用する言語が表示されるため、正しい文字であることを確認でき、類似の文字との区別がつきます。\n\nデータはUnicode Character DatabaseとCLDRから生成され、accentletters.wikiの背後にある同じデータです。\n\n無料でアカウント不要、広告なし、データを送信しません。文字セット全体がアドオン内に含まれており、ネットワークリクエストは発生しません。",
+      "descriptionKo": "55개 언어의 682개 악센트 부호가 있는 라틴 문자를 모두 제공합니다.\n\nAccent Letters는 캔버스 옆의 패널에 682개의 악센트 부호가 있는 문자를 배치합니다. 하나를 클릭하면 오픈 문서에 텍스트로 삽입되며, 이동·스타일 변경·크기 조정이 가능합니다.\n\n문자 자체, 이름(\"e acute\", \"o slash\", \"c cedilla\") 또는 악센트 모양(\"two dots\"로 모든 움라우트 검색, \"hat\"으로 50개의 곡절 악센트와 캐론 검색)으로 검색할 수 있습니다. 한 번의 클릭으로 스페인어, 프랑스어, 독일어, 포르투갈어, 이탈리아어, 폴란드어, 베트남어, 터키어로 필터링할 수 있습니다.\n\n각 문자에는 유니코드 코드 포인트, HTML 엔티티, Windows Alt 코드 및 이를 사용하는 언어가 표시되므로 올바른 문자임을 확인하고 유사 문자를 구별할 수 있습니다.\n\n데이터는 유니코드 문자 데이터베이스와 CLDR에서 생성되며, accentletters.wiki 뒤에 있는 동일한 데이터입니다.\n\n무료이며 계정 불필요, 광고 없음, 어디론가 데이터를 보내지 않습니다. 전체 문자 세트가 애드온 내에 포함되어 있으며 네트워크 요청을 하지 않습니다.",
       "keywords": [
-        "accents",
-        "diacritics",
-        "accented letters",
-        "special characters",
-        "unicode"
+        "アクセント",
+        "ダイアクリティカルマーク",
+        "アクセント付き文字",
+        "特殊文字",
+        "Unicode"
       ],
       "keywordsEn": [
         "accents",
@@ -34704,18 +34704,18 @@
         "unicode"
       ],
       "keywordsJa": [
-        "accents",
-        "diacritics",
-        "accented letters",
-        "special characters",
-        "unicode"
+        "アクセント",
+        "ダイアクリティカルマーク",
+        "アクセント付き文字",
+        "特殊文字",
+        "Unicode"
       ],
       "keywordsKo": [
-        "accents",
-        "diacritics",
-        "accented letters",
-        "special characters",
-        "unicode"
+        "악센트",
+        "발음 구별 기호",
+        "악센트 문자",
+        "특수 문자",
+        "유니코드"
       ],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2n6il912"
@@ -34723,7 +34723,7 @@
     {
       "id": "infyicon-free-icons",
       "addOnId": "w545ikhj9",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Infyicon Free Icons",
       "nameJa": "",
       "nameKo": "",
@@ -34731,8 +34731,8 @@
       "categoryJa": "ユーティリティ",
       "description": "Search Infyicon's library of 161,000+ free hand-crafted icons without leaving Adobe Express. Type a word, pick a style — outline, filled, colour outline or colour filled — and click any icon to add it to your page as a real vector (SVG), or drag it straight onto the canvas. Icons scale to any size with no pixelation and you can recolour them with Express's own tools.\n\nEvery icon is free for personal and commercial use with attribution to infyicon.com (see infyicon.com/license). No account, no API key, no sign-in.\n\nFeatures\n• Instant search across 161,000+ icons, with quick-pick topics\n• Four consistent styles: outline, filled, colour outline, colour filled\n• Click to insert as SVG vector — crisp at any size\n• Drag & drop onto the canvas\n• Light and dark theme support\n\nMade by Infyicon — infyicon.com",
       "descriptionEn": "Search Infyicon's library of 161,000+ free hand-crafted icons without leaving Adobe Express. Type a word, pick a style — outline, filled, colour outline or colour filled — and click any icon to add it to your page as a real vector (SVG), or drag it straight onto the canvas. Icons scale to any size with no pixelation and you can recolour them with Express's own tools.\n\nEvery icon is free for personal and commercial use with attribution to infyicon.com (see infyicon.com/license). No account, no API key, no sign-in.\n\nFeatures\n• Instant search across 161,000+ icons, with quick-pick topics\n• Four consistent styles: outline, filled, colour outline, colour filled\n• Click to insert as SVG vector — crisp at any size\n• Drag & drop onto the canvas\n• Light and dark theme support\n\nMade by Infyicon — infyicon.com",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "Adobe Expressを離れることなく、Infyiconの161,000以上の無料手描きアイコンライブラリを検索できます。単語を入力し、スタイル（アウトライン、フィルド、カラーアウトライン、カラーフィルド）を選択して、任意のアイコンをクリックするとページにリアルベクトル（SVG）として追加できます。キャンバスにドラッグして直接配置することもできます。アイコンは任意のサイズにスケール可能で、ピクセル化されず、Express独自のツールで色を変更できます。\n\nすべてのアイコンは個人および商業使用が無料で、infyicon.comへの帰属が必要です（infyicon.com/licenseを参照）。アカウント、APIキー、サインイン不要。\n\n機能\n• 161,000以上のアイコンをインスタント検索、クイックピックトピック付き\n• 4つの統一スタイル：アウトライン、フィルド、カラーアウトライン、カラーフィルド\n• クリックでSVGベクトルとして挿入―どのサイズでも鮮明\n• キャンバスへのドラッグ&ドロップ\n• ライトおよびダークテーマ対応\n\nInfyicon作成―infyicon.com",
+      "descriptionKo": "Adobe Express를 떠나지 않고 Infyicon의 161,000개 이상의 무료 손그림 아이콘 라이브러리를 검색할 수 있습니다. 단어를 입력하고 스타일(아웃라인, 채워짐, 컬러 아웃라인, 컬러 채워짐)을 선택한 후 아이콘을 클릭하면 페이지에 실제 벡터(SVG)로 추가됩니다. 캔버스로 직접 드래그할 수도 있습니다. 아이콘은 모든 크기로 확대 가능하며 픽셀화되지 않고 Express의 도구로 색상을 변경할 수 있습니다.\n\n모든 아이콘은 개인 및 상업용으로 무료이며 infyicon.com 귀속이 필요합니다(infyicon.com/license 참조). 계정, API 키, 로그인 불필요.\n\n기능\n• 161,000개 이상의 아이콘에 대한 즉시 검색, 빠른 선택 주제 포함\n• 4가지 일관된 스타일: 아웃라인, 채워짐, 컬러 아웃라인, 컬러 채워짐\n• 클릭하여 SVG 벡터로 삽입 — 모든 크기에서 선명\n• 캔버스로 드래그&드롭\n• 라이트 및 다크 테마 지원\n\nInfyicon 제작 — infyicon.com",
       "keywords": [
         "アイコン",
         "無料 アイコン",
@@ -34787,7 +34787,7 @@
     {
       "id": "blind-watermark-wmgg",
       "addOnId": "w546n01i7",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Blind Watermark wmgg",
       "nameJa": "",
       "nameKo": "",
@@ -34795,8 +34795,8 @@
       "categoryJa": "ユーティリティ",
       "description": "Blind Watermark (Invisible watermarking), for images.\n100% local, 0% uploads.\n\nEmbed a cryptographically-signed invisible signature into your work. It survives screenshots, compression, rotation, and cropping. Verification is always free.\n\nFree tier for daily use.\n\nwmgg",
       "descriptionEn": "Blind Watermark (Invisible watermarking), for images.\n100% local, 0% uploads.\n\nEmbed a cryptographically-signed invisible signature into your work. It survives screenshots, compression, rotation, and cropping. Verification is always free.\n\nFree tier for daily use.\n\nwmgg",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "画像用のブラインド透かし（見えない透かし）。\n100% ローカル処理、アップロードなし。\n\n暗号署名された目に見えない署名を作品に埋め込みます。スクリーンショット、圧縮、回転、トリミングにも対応します。検証は常に無料です。\n\n日々の使用に無料プランをご利用ください。\n\nwmgg",
+      "descriptionKo": "이미지용 블라인드 워터마크(보이지 않는 워터마크).\n100% 로컬 처리, 업로드 없음.\n\n암호화된 서명이 적용된 보이지 않는 서명을 작업물에 삽입합니다. 스크린샷, 압축, 회전, 자르기를 견딥니다. 검증은 항상 무료입니다.\n\n일상적인 사용을 위한 무료 플랜을 이용하세요.\n\nwmgg",
       "keywords": [
         "透かし",
         "blind watermark",
@@ -34827,7 +34827,7 @@
     {
       "id": "openasset-dam",
       "addOnId": "w6ig7l8im",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "OpenAsset DAM",
       "nameJa": "",
       "nameKo": "",
@@ -34835,8 +34835,8 @@
       "categoryJa": "ユーティリティ",
       "description": "OpenAsset DAM connects directly to Adobe Express, so your marketing and comms team never has to leave their design to find the right asset.\n\nSearch your OpenAsset DAM library by filename, caption, description, or keyword, or use AI visual search when you don't know exactly what you're looking for. Browse by Album, Project, or Employee to pull from a familiar structure, or filter by File Category and Access Level to stay within the assets you're cleared to use.\n\nOnce you've found the right image, video, or audio drag it straight into your Adobe Express design. No downloading, no uploading, no duplicate files sitting on someone's desktop.\n\nBuilt for AEC marketing and business development teams who live in OpenAsset DAM for asset management and Adobe Express for fast-turn social and communications content.\n\nSupports images and video. Available on the desktop web version of Adobe Express.\n\nThis launches as an unrestricted beta, open to every OpenAsset DAM and Adobe Express customer.",
       "descriptionEn": "OpenAsset DAM connects directly to Adobe Express, so your marketing and comms team never has to leave their design to find the right asset.\n\nSearch your OpenAsset DAM library by filename, caption, description, or keyword, or use AI visual search when you don't know exactly what you're looking for. Browse by Album, Project, or Employee to pull from a familiar structure, or filter by File Category and Access Level to stay within the assets you're cleared to use.\n\nOnce you've found the right image, video, or audio drag it straight into your Adobe Express design. No downloading, no uploading, no duplicate files sitting on someone's desktop.\n\nBuilt for AEC marketing and business development teams who live in OpenAsset DAM for asset management and Adobe Express for fast-turn social and communications content.\n\nSupports images and video. Available on the desktop web version of Adobe Express.\n\nThis launches as an unrestricted beta, open to every OpenAsset DAM and Adobe Express customer.",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "OpenAsset DAM は Adobe Express に直接接続するため、マーケティング・コミュニケーションチームは設計を離れることなく必要なアセットを見つけられます。\n\nファイル名、キャプション、説明、キーワードで OpenAsset DAM ライブラリを検索するか、探しているものが明確でない場合は AI ビジュアル検索を使用します。アルバム、プロジェクト、従業員で閲覧するか、ファイルカテゴリーとアクセスレベルでフィルタリングして、利用可能なアセットに留まります。\n\n必要な画像、ビデオ、またはオーディオが見つかったら、Adobe Express デザインに直接ドラッグします。ダウンロード、アップロード、デスクトップに散在する重複ファイルは不要です。\n\nアセット管理に OpenAsset DAM を、迅速なソーシャル・コミュニケーションコンテンツ制作に Adobe Express を使用する建築・エンジニアリング・建設業界のマーケティング・事業開発チーム向けに構築されています。\n\n画像とビデオに対応。Adobe Express のデスクトップ Web 版で利用可能です。\n\nすべての OpenAsset DAM と Adobe Express ユーザーを対象とした無制限ベータとしてリリースされています。",
+      "descriptionKo": "OpenAsset DAM은 Adobe Express에 직접 연결되므로 마케팅 및 커뮤니케이션 팀이 디자인을 떠나지 않고도 필요한 자산을 찾을 수 있습니다.\n\n파일명, 캡션, 설명, 키워드로 OpenAsset DAM 라이브러리를 검색하거나 원하는 항목이 명확하지 않을 때 AI 시각 검색을 사용합니다. 앨범, 프로젝트, 직원별로 검색하거나 파일 카테고리와 액세스 수준으로 필터링하여 사용 권한이 있는 자산만 필터링합니다.\n\n올바른 이미지, 비디오 또는 오디오를 찾은 후 Adobe Express 디자인으로 바로 드래그합니다. 다운로드, 업로드, 누군가의 데스크톱에 앉아있는 중복 파일이 필요 없습니다.\n\n자산 관리를 위해 OpenAsset DAM을, 빠른 소셜 및 커뮤니케이션 콘텐츠 제작을 위해 Adobe Express를 사용하는 건축, 엔지니어링, 건설 업계의 마케팅 및 사업 개발 팀을 위해 제작되었습니다.\n\n이미지 및 비디오 지원. Adobe Express 데스크톱 웹 버전에서 사용 가능합니다.\n\n모든 OpenAsset DAM 및 Adobe Express 고객을 위한 무제한 베타로 출시됩니다.",
       "keywords": [
         "OpenAsset",
         "DAM",
@@ -34879,7 +34879,7 @@
     {
       "id": "bead-pattern",
       "addOnId": "w7021knl8",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Bead Pattern",
       "nameJa": "",
       "nameKo": "",
@@ -34887,8 +34887,8 @@
       "categoryJa": "ユーティリティ",
       "description": "Turn your images into numbered fuse bead charts in Adobe Express. Upload a JPG, PNG or WEBP image up to 10MB. Choose a longest edge of 29, 58 or 87 beads and a palette of up to 6, 12, 18 or 24 colors.\n\nOptional AI background cleanup places your subject on white before conversion. It is enabled by default and may alter details. Switch it off to convert the original image locally without uploading it for AI processing.\n\nPreview your pattern and add the full numbered chart with its color legend and material counts to your design. Transparent areas become empty pegs; opaque white remains a bead color.\n\nNew Adobe users currently receive 2 trial credits. Each successful conversion uses 1 credit; adding the chart does not use extra credits. Paid options are available through View pricing.\n\nColors are approximate, not manufacturer codes. Size estimates assume 5mm beads; actual print scale depends on your design settings.",
       "descriptionEn": "Turn your images into numbered fuse bead charts in Adobe Express. Upload a JPG, PNG or WEBP image up to 10MB. Choose a longest edge of 29, 58 or 87 beads and a palette of up to 6, 12, 18 or 24 colors.\n\nOptional AI background cleanup places your subject on white before conversion. It is enabled by default and may alter details. Switch it off to convert the original image locally without uploading it for AI processing.\n\nPreview your pattern and add the full numbered chart with its color legend and material counts to your design. Transparent areas become empty pegs; opaque white remains a bead color.\n\nNew Adobe users currently receive 2 trial credits. Each successful conversion uses 1 credit; adding the chart does not use extra credits. Paid options are available through View pricing.\n\nColors are approximate, not manufacturer codes. Size estimates assume 5mm beads; actual print scale depends on your design settings.",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "Adobe Express で画像をナンバリング付きビーズチャートに変換します。JPG、PNG、WEBP 形式の 10MB 以下の画像をアップロードします。最長辺を 29、58、87 ビーズから選択し、6、12、18、24 色のパレットを選択します。\n\nオプションの AI 背景クリーンアップにより、変換前に被写体を白い背景に配置します。デフォルトで有効になっており、細部が変わる場合があります。無効にすると、AI 処理用にアップロードすることなく、ローカルで元の画像を変換します。\n\nパターンをプレビューし、色凡例と材料数が記載された完全なナンバリング付きチャートをデザインに追加します。透明部分は空のペグになり、不透明な白はビーズの色のままになります。\n\n新しい Adobe ユーザーは現在 2 個の試用クレジットを受け取ります。正常な変換ごとに 1 クレジットを使用します。チャートの追加には追加クレジットは不要です。有料オプションは「価格を表示」から利用できます。\n\n色は近似値であり、メーカーコードではありません。サイズの見積もりは 5mm ビーズを想定しています。実際の印刷スケールはデザイン設定によって異なります。",
+      "descriptionKo": "Adobe Express에서 이미지를 번호가 매겨진 비즈 패턴으로 변환합니다. 10MB 이하의 JPG, PNG 또는 WEBP 이미지를 업로드합니다. 최대 길이를 29, 58 또는 87 비즈로 선택하고 최대 6, 12, 18 또는 24 색의 팔레트를 선택합니다.\n\n선택적 AI 배경 정리는 변환 전에 피사체를 흰색 배경에 배치합니다. 기본적으로 활성화되어 있으며 세부 사항을 변경할 수 있습니다. 비활성화하여 AI 처리를 위해 업로드하지 않고 원본 이미지를 로컬로 변환합니다.\n\n패턴을 미리 보고 색상 범례 및 재료 수가 포함된 완전한 번호가 매겨진 차트를 디자인에 추가합니다. 투명 영역은 빈 페그가 되고 불투명한 흰색은 비즈 색상으로 유지됩니다.\n\n새로운 Adobe 사용자는 현재 2개의 평가판 크레딧을 받습니다. 성공적인 변환마다 1개의 크레딧을 사용합니다. 차트 추가는 추가 크레딧을 사용하지 않습니다. 유료 옵션은 가격 보기를 통해 사용할 수 있습니다.\n\n색상은 근사값이며 제조업체 코드가 아닙니다. 크기 추정치는 5mm 비즈를 가정합니다. 실제 인쇄 스케일은 디자인 설정에 따라 다릅니다.",
       "keywords": [
         "bead pattern",
         "fuse beads",
@@ -34931,7 +34931,7 @@
     {
       "id": "campaign-export-pack",
       "addOnId": "wi300h9kk",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Campaign Export Pack",
       "nameJa": "",
       "nameKo": "",
@@ -34939,8 +34939,8 @@
       "categoryJa": "ユーティリティ",
       "description": "Build a ready-to-share asset package without leaving Adobe Express. Free access includes unlimited current-page, original-size PNG export packs with a CSV manifest and summary. There is no time limit or export quota. A $9.99 one-time Plus upgrade adds all-page export, JPG and PDF, image profiles, JPG quality, and custom filename templates.\n\nApply consistent folder and filename rules, handle duplicate names safely, and include a UTF-8 CSV manifest plus a text summary in every ZIP. Filename tokens cover campaign, page, index, size, format, and date.\n\nThe optional one-time Plus upgrade changes only Campaign Export Pack access. If a document contains content the current user cannot export, the host displays its own export-access flow before the add-on continues. No separate account is required. Document content is packaged in the browser and is not sent to Mars Studio. Optional Stripe checkout is handled by Mars Studio.",
       "descriptionEn": "Build a ready-to-share asset package without leaving Adobe Express. Free access includes unlimited current-page, original-size PNG export packs with a CSV manifest and summary. There is no time limit or export quota. A $9.99 one-time Plus upgrade adds all-page export, JPG and PDF, image profiles, JPG quality, and custom filename templates.\n\nApply consistent folder and filename rules, handle duplicate names safely, and include a UTF-8 CSV manifest plus a text summary in every ZIP. Filename tokens cover campaign, page, index, size, format, and date.\n\nThe optional one-time Plus upgrade changes only Campaign Export Pack access. If a document contains content the current user cannot export, the host displays its own export-access flow before the add-on continues. No separate account is required. Document content is packaged in the browser and is not sent to Mars Studio. Optional Stripe checkout is handled by Mars Studio.",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "Adobe Express から離れることなく、共有可能なアセットパッケージを作成します。無料アクセスには、CSV マニフェストおよび概要付きのアンリミテッド現在ページ・オリジナルサイズ PNG エクスポートパックが含まれます。時間制限やエクスポート制限はありません。$9.99 の 1 回限りの Plus アップグレードで、全ページエクスポート、JPG、PDF、画像プロファイル、JPG 品質、カスタムファイル名テンプレートが追加されます。\n\n一貫したフォルダーおよびファイル名ルールを適用し、重複する名前を安全に処理し、すべての ZIP に UTF-8 CSV マニフェストとテキスト概要を含めます。ファイル名トークンはキャンペーン、ページ、インデックス、サイズ、形式、日付をカバーします。\n\nオプションの 1 回限りの Plus アップグレードは、Campaign Export Pack アクセスのみを変更します。ドキュメントに現在のユーザーがエクスポートできないコンテンツが含まれている場合、ホストはアドオンが続行する前に独自のエクスポートアクセスフローを表示します。別のアカウントは不要です。ドキュメントコンテンツはブラウザーでパッケージ化され、Mars Studio に送信されません。オプションの Stripe チェックアウトは Mars Studio で処理されます。",
+      "descriptionKo": "Adobe Express를 떠나지 않고 공유 가능한 자산 패키지를 작성합니다. 무료 액세스에는 CSV 매니페스트 및 요약이 포함된 무제한 현재 페이지, 원본 크기 PNG 내보내기 패키지가 포함됩니다. 시간 제한이나 내보내기 할당량이 없습니다. $9.99 일회성 Plus 업그레이드는 전체 페이지 내보내기, JPG 및 PDF, 이미지 프로필, JPG 품질 및 사용자 지정 파일명 템플릿을 추가합니다.\n\n일관된 폴더 및 파일명 규칙을 적용하고, 중복 이름을 안전하게 처리하며, 모든 ZIP에 UTF-8 CSV 매니페스트 및 텍스트 요약을 포함합니다. 파일명 토큰은 캠페인, 페이지, 인덱스, 크기, 형식 및 날짜를 포함합니다.\n\n선택적 일회성 Plus 업그레이드는 Campaign Export Pack 액세스만 변경합니다. 문서에 현재 사용자가 내보낼 수 없는 콘텐츠가 포함된 경우 호스트는 추가 기능이 계속되기 전에 자체 내보내기 액세스 흐름을 표시합니다. 별도의 계정이 필요하지 않습니다. 문서 콘텐츠는 브라우저에서 패키지화되며 Mars Studio로 전송되지 않습니다. 선택적 Stripe 체크아웃은 Mars Studio에서 처리됩니다.",
       "keywords": [
         "キャンペーン エクスポート",
         "asset package",
@@ -34987,7 +34987,7 @@
     {
       "id": "big-head",
       "addOnId": "wk16jkjkg",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Big Head",
       "nameJa": "",
       "nameKo": "",
@@ -34995,8 +34995,8 @@
       "categoryJa": "ユーティリティ",
       "description": "Turn photos of people and pets into playful big-head portraits in Adobe Express. Upload a JPG, PNG or WebP image up to 10 MB, then choose Subtle, Cute or Extra big. Big Head uses AI to enlarge the head while aiming to preserve recognizable features, clothing, pose and background.\n\nPreview your portrait and add it to your design as a single image. Create fun profile pictures, pet portraits, greeting cards and social posts. Use a clear photo with the entire head visible and space around it.\n\nNew Adobe users receive 2 free credits, enough for 2 successful images. Each successful generation uses 1 credit for non-subscribers. After the trial, buy credits or subscribe through external FastSpring checkout. This add-on is sold separately from Adobe plans.\n\nOnly upload images you have permission to use. Images are sent to external AI services for processing. Content safety checks apply. AI results may vary; review them before use.",
       "descriptionEn": "Turn photos of people and pets into playful big-head portraits in Adobe Express. Upload a JPG, PNG or WebP image up to 10 MB, then choose Subtle, Cute or Extra big. Big Head uses AI to enlarge the head while aiming to preserve recognizable features, clothing, pose and background.\n\nPreview your portrait and add it to your design as a single image. Create fun profile pictures, pet portraits, greeting cards and social posts. Use a clear photo with the entire head visible and space around it.\n\nNew Adobe users receive 2 free credits, enough for 2 successful images. Each successful generation uses 1 credit for non-subscribers. After the trial, buy credits or subscribe through external FastSpring checkout. This add-on is sold separately from Adobe plans.\n\nOnly upload images you have permission to use. Images are sent to external AI services for processing. Content safety checks apply. AI results may vary; review them before use.",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "Adobe Express で人物とペットの写真を楽しいビッグヘッドポートレートに変換します。10 MB 以下の JPG、PNG、WebP 形式の画像をアップロードして、Subtle、Cute、Extra big から選択します。Big Head は AI を使用して頭部を拡大しながら、認識可能な特徴、衣服、ポーズ、背景を保持することを目指しています。\n\nポートレートをプレビューし、単一の画像としてデザインに追加します。楽しいプロフィール画像、ペットポートレート、グリーティングカード、ソーシャル投稿を作成できます。頭全体が見える透明感のある写真と周囲のスペースを使用してください。\n\n新しい Adobe ユーザーは 2 つの無料クレジットを受け取ります。これは 2 つの正常に生成された画像に十分です。試用後、非サブスクライバーの各正常な生成は 1 クレジットを使用します。クレジットを購入するか、外部 FastSpring チェックアウト経由でサブスクリプションします。このアドオンは Adobe プランとは別に販売されています。\n\n使用権を持つ画像のみをアップロードしてください。画像は処理のために外部 AI サービスに送信されます。コンテンツ安全チェックが適用されます。AI の結果は異なる場合があります。使用前に確認してください。",
+      "descriptionKo": "Adobe Express에서 사람과 반려동물의 사진을 재미있는 큰 머리 초상화로 변환합니다. 10MB 이하의 JPG, PNG 또는 WebP 이미지를 업로드한 후 Subtle, Cute 또는 Extra big을 선택합니다. Big Head는 AI를 사용하여 머리를 확대하면서 인식 가능한 특징, 의류, 자세 및 배경을 보존하려고 합니다.\n\n초상화를 미리 보고 단일 이미지로 디자인에 추가합니다. 재미있는 프로필 사진, 반려동물 초상화, 인사말 카드 및 소셜 게시물을 만듭니다. 전체 머리가 보이는 선명한 사진과 주변 공간을 사용하세요.\n\n새로운 Adobe 사용자는 2개의 무료 크레딧을 받습니다. 이는 2개의 성공적인 이미지에 충분합니다. 시험 후 크레딧을 구매하거나 외부 FastSpring 체크아웃을 통해 구독합니다. 이 추가 기능은 Adobe 플랜과 별개로 판매됩니다.\n\n사용 권한이 있는 이미지만 업로드하세요. 이미지는 처리를 위해 외부 AI 서비스로 전송됩니다. 콘텐츠 안전 검사가 적용됩니다. AI 결과는 다를 수 있습니다. 사용하기 전에 검토하세요.",
       "keywords": [
         "big head",
         "AI画像",
@@ -35039,7 +35039,7 @@
     {
       "id": "kreeloop",
       "addOnId": "wlnj499hh",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "Kreeloop",
       "nameJa": "",
       "nameKo": "",
@@ -35047,8 +35047,8 @@
       "categoryJa": "ユーティリティ",
       "description": "Most design feedback is silence, or a thumbs up from someone who did not look. Kreeloop measures.\n\nTell it what you are working toward: a high end feel, a scroll stopping post, a stronger brand. Pick a tone and let it read your page. Nothing needs to be selected.\n\nBefore it comments, Kreeloop computes real numbers from your design: the contrast of every text element against what sits behind it, the type scale, the number of typefaces, margins, and anything hidden behind a shape. These are marked MEASURED and carry the figure. You also get ratings across six craft areas, one click fixes and headline ideas. Anything applied can be undone.\n\nIf the design already works, it says so and gives you no fix list.\n\nTHE DAILY AI POOL\n\nAnalyses run on Google Gemini through a shared free tier all users draw from. It refills daily around midnight Pacific, and each connection is capped at 10 analyses a minute. If it empties, paste your own free key in Settings.\n\nNo account, no signup.",
       "descriptionEn": "Most design feedback is silence, or a thumbs up from someone who did not look. Kreeloop measures.\n\nTell it what you are working toward: a high end feel, a scroll stopping post, a stronger brand. Pick a tone and let it read your page. Nothing needs to be selected.\n\nBefore it comments, Kreeloop computes real numbers from your design: the contrast of every text element against what sits behind it, the type scale, the number of typefaces, margins, and anything hidden behind a shape. These are marked MEASURED and carry the figure. You also get ratings across six craft areas, one click fixes and headline ideas. Anything applied can be undone.\n\nIf the design already works, it says so and gives you no fix list.\n\nTHE DAILY AI POOL\n\nAnalyses run on Google Gemini through a shared free tier all users draw from. It refills daily around midnight Pacific, and each connection is capped at 10 analyses a minute. If it empties, paste your own free key in Settings.\n\nNo account, no signup.",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "デザインフィードバックは沈黙か生返事ばかり。Kreeloopは数値で測ります。\n\n目指すもの（高級感、スクロール停止率、ブランド力）を伝えてトーンを選ぶと、ページを読み込んで分析します。選択は不要です。\n\nコメント前に、Kreeloopはデザインから実数を算出します。背景に対するテキスト要素のコントラスト、タイプスケール、使用フォント数、マージン、図形の裏にあるもの。これらは「計測値」として表示されます。6つのスキル領域の評価、ワンクリック修正、ヘッドラインの提案も得られます。すべて取り消し可能です。\n\nデザインが既に完成していれば、修正リストは提示されません。\n\n日々のAIプール\n\n分析はGoogle Geminiで実行され、全ユーザーで共有される無料枠から引き出します。太平洋時間の毎日真夜中頃に補充され、1分あたり10分析に制限されます。空になったら、Settings で無料キーを貼り付けてください。\n\nアカウント、サインアップ不要。",
+      "descriptionKo": "디자인 피드백은 침묵 아니면 대충한 반응뿐. Kreeloop은 수치로 측정합니다.\n\n목표를 말하고(고급스러운 느낌, 스크롤 멈추는 콘텐츠, 강한 브랜드) 톤을 고르면 페이지를 읽고 분석합니다. 선택할 필요가 없습니다.\n\n의견을 주기 전에 Kreeloop은 디자인에서 실제 수치를 계산합니다. 배경에 대한 텍스트 요소의 대비, 타입 스케일, 사용된 폰트 수, 여백, 도형 뒤의 요소들. 이들은 '계측값'으로 표시됩니다. 6가지 기술 영역의 평가, 한 번 클릭 수정, 헤드라인 아이디어도 제공합니다. 모두 취소 가능합니다.\n\n이미 완성된 디자인이면 수정 목록 없이 확인만 받습니다.\n\n매일의 AI 풀\n\n분석은 Google Gemini에서 실행되며 모든 사용자가 공유하는 무료 한도에서 사용합니다. 태평양 시간 매일 자정쯤 보충되고, 분당 10개 분석으로 제한됩니다. 소진되면 설정에서 무료 키를 붙여넣으세요.\n\n계정, 가입 불필요.",
       "keywords": [
         "デザイン フィードバック",
         "AI mentor",
@@ -35087,7 +35087,7 @@
     {
       "id": "ai-virtual-tryon",
       "addOnId": "wm31g6462",
-      "isNew": true,
+      "isNew": false,
       "nameEn": "AI Virtual TryOn",
       "nameJa": "",
       "nameKo": "",
@@ -35095,19 +35095,1227 @@
       "categoryJa": "ユーティリティ",
       "description": "Display fashion items on models or shoppers using their photos. Perfect for creating campaign content or enhancing customer experiences with a virtual fitting room.",
       "descriptionEn": "Display fashion items on models or shoppers using their photos. Perfect for creating campaign content or enhancing customer experiences with a virtual fitting room.",
-      "descriptionJa": "",
-      "descriptionKo": "",
+      "descriptionJa": "写真を使ってモデルやショッパーにファッションアイテムを試着させます。キャンペーンコンテンツの制作やバーチャル試着室でカスタマー体験を向上させるのに最適です。",
+      "descriptionKo": "사진을 사용하여 모델이나 쇼퍼에게 패션 아이템을 입혀봅니다. 캠페인 콘텐츠 제작이나 가상 피팅룸으로 고객 경험을 향상시키는 데 완벽합니다.",
       "keywords": [],
       "keywordsEn": [],
       "keywordsJa": [],
       "keywordsKo": [],
       "featured": false,
       "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wm31g6462"
+    },
+    {
+      "id": "smart-brand-stylist",
+      "addOnId": "w08i99m37",
+      "isNew": true,
+      "nameEn": "Smart Brand Stylist",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Upload your logo or enter your website and Smart Brand Stylist builds a brand kit in seconds: your colors, a heading and body font pairing, and a place to keep them while you design.\n\nColors: pull the main colors from your logo or website. Click a swatch to recolor whatever is selected, or add the whole palette to the page.\n\nFonts: choose from curated pairings, use a font already on your canvas, or let AI match a pairing to your logo. Apply the heading or body font to any text in one click.\n\nCopy: describe your brand, pick a tone, and get five AI-written taglines, headlines, button labels, social captions or about blurbs. Add one to the page in your brand font and color, or replace selected text.\n\nAudit: scan the page for off-brand colors and fonts, see what is off, then fix everything at once. Undo works as normal.\n\nYour brand kit is saved between sessions. Logo color analysis runs on your device. AI features use a secure helper service and need no account or sign-in.",
+      "descriptionEn": "Upload your logo or enter your website and Smart Brand Stylist builds a brand kit in seconds: your colors, a heading and body font pairing, and a place to keep them while you design.\n\nColors: pull the main colors from your logo or website. Click a swatch to recolor whatever is selected, or add the whole palette to the page.\n\nFonts: choose from curated pairings, use a font already on your canvas, or let AI match a pairing to your logo. Apply the heading or body font to any text in one click.\n\nCopy: describe your brand, pick a tone, and get five AI-written taglines, headlines, button labels, social captions or about blurbs. Add one to the page in your brand font and color, or replace selected text.\n\nAudit: scan the page for off-brand colors and fonts, see what is off, then fix everything at once. Undo works as normal.\n\nYour brand kit is saved between sessions. Logo color analysis runs on your device. AI features use a secure helper service and need no account or sign-in.",
+      "descriptionJa": "ロゴまたはウェブサイトをアップロード、または入力すると、Smart Brand Stylist が数秒でブランドキットを作成します。色、見出しと本文フォントのペアリング、それらを保管する場所が含まれます。\n\n色：ロゴまたはウェブサイトから主要な色を抽出。スウォッチをクリックして選択したものを色変更するか、パレット全体をページに追加します。\n\nフォント：厳選されたペアリングから選ぶか、キャンバス上のフォントを使うか、AIにロゴにマッチするペアリングを見つけさせます。見出しまたは本文フォントをテキストにワンクリックで適用できます。\n\nコピー：ブランドを説明し、トーンを選ぶと、AIが作成した5つのキャッチコピー、ヘッドライン、ボタンラベル、ソーシャルキャプション、またはアバウトブラーブが得られます。ブランドフォントと色で1つをページに追加するか、選択テキストを置き換えます。\n\n監査：ページをスキャンしてオフブランドの色とフォントを検出、何が違うかを確認して一度に修正。取り消しは通常通り機能します。\n\nブランドキットはセッション間で保存されます。ロゴ色分析はデバイスで実行。AI機能は安全なヘルパーサービスを使用し、アカウントやサインインは不要。",
+      "descriptionKo": "로고를 업로드하거나 웹사이트를 입력하면 Smart Brand Stylist가 몇 초 만에 브랜드 키트를 생성합니다. 색상, 제목과 본문 글꼴 조합, 그리고 디자인할 때 이들을 보관할 공간이 포함됩니다.\n\n색상: 로고나 웹사이트에서 주요 색상을 추출합니다. 색상 견본을 클릭하여 선택한 항목을 다시 칠하거나 전체 팔레트를 페이지에 추가합니다.\n\n글꼴: 엄선된 조합에서 선택하거나, 캔버스에 이미 있는 글꼴을 사용하거나, AI가 로고에 맞는 조합을 찾도록 합니다. 제목 또는 본문 글꼴을 한 번 클릭으로 모든 텍스트에 적용합니다.\n\n텍스트: 브랜드를 설명하고 톤을 선택하면 5가지 AI 작성 태그라인, 제목, 버튼 레이블, 소셜 캡션 또는 소개 텍스트를 받습니다. 하나를 브랜드 글꼴과 색상으로 페이지에 추가하거나 선택한 텍스트를 바꿉니다.\n\n감시: 페이지에서 오프브랜드 색상과 글꼴을 스캔하고, 뭐가 잘못되었는지 확인한 후 한 번에 모두 수정합니다. 취소는 정상 작동합니다.\n\n브랜드 키트는 세션 간에 저장됩니다. 로고 색상 분석은 기기에서 실행됩니다. AI 기능은 보안 도우미 서비스를 사용하며 계정이나 로그인이 필요하지 않습니다.",
+      "keywords": [
+        "ブランドキット",
+        "ロゴ",
+        "カラーパレット",
+        "フォント",
+        "brand colors",
+        "copywriting",
+        "consistency"
+      ],
+      "keywordsEn": [
+        "brand kit",
+        "logo",
+        "color palette",
+        "fonts",
+        "brand colors",
+        "copywriting",
+        "consistency"
+      ],
+      "keywordsJa": [
+        "ブランドキット",
+        "ロゴ",
+        "カラーパレット",
+        "フォント",
+        "brand colors",
+        "copywriting",
+        "consistency"
+      ],
+      "keywordsKo": [
+        "브랜드 키트",
+        "로고",
+        "색상 팔레트",
+        "폰트",
+        "brand colors",
+        "copywriting",
+        "consistency"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w08i99m37"
+    },
+    {
+      "id": "clipwave-video-image-tool",
+      "addOnId": "w146ji23m",
+      "isNew": true,
+      "nameEn": "Clipwave Video Image Tool",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Clipwave Video Image Tool generates AI images and video inside Adobe Express and places the result onto your open page. No new tab, no download, no re-upload.\n\nDescribe what you want, pick a style and a mood, press Generate. The panel reads the open page, so the format matches your canvas, and the cost in credits is shown before anything is spent, with your remaining balance next to it. Then click Add to page or drag the thumbnail onto the canvas. Video jobs show elapsed time and can be cancelled.\n\nThe models run on manymotions.com, so a ClipWave plan is needed: paste your API key once and the panel keeps it in this browser only. Every monthly plan starts with a 3-day trial for $1 that includes credits (650 on Starter). A ClipWave plan applies only to this add-on; payment and cancellation happen on manymotions.com, outside Adobe Express.\n\nContent you generate is owned by you, subject to the AI model providers' terms. AI output can be inaccurate: review every result before publishing.",
+      "descriptionEn": "Clipwave Video Image Tool generates AI images and video inside Adobe Express and places the result onto your open page. No new tab, no download, no re-upload.\n\nDescribe what you want, pick a style and a mood, press Generate. The panel reads the open page, so the format matches your canvas, and the cost in credits is shown before anything is spent, with your remaining balance next to it. Then click Add to page or drag the thumbnail onto the canvas. Video jobs show elapsed time and can be cancelled.\n\nThe models run on manymotions.com, so a ClipWave plan is needed: paste your API key once and the panel keeps it in this browser only. Every monthly plan starts with a 3-day trial for $1 that includes credits (650 on Starter). A ClipWave plan applies only to this add-on; payment and cancellation happen on manymotions.com, outside Adobe Express.\n\nContent you generate is owned by you, subject to the AI model providers' terms. AI output can be inaccurate: review every result before publishing.",
+      "descriptionJa": "Clipwave Video Image Tool は Adobe Express 内で AI 画像と動画を生成し、結果を開いているページに配置します。新しいタブ、ダウンロード、再アップロードは不要。\n\n作りたいものを説明し、スタイルとムードを選んで生成をクリック。パネルは開いているページを読み込むため、形式がキャンバスにマッチし、費用がクレジット表示され、残高がその横に表示されます。ページに追加するか、サムネイルをキャンバスにドラッグします。動画ジョブは経過時間を表示でき、キャンセル可能。\n\nモデルは manymotions.com で実行されるため ClipWave プランが必要です。API キーを一度貼り付ければ、このブラウザのみに保管されます。毎月のプランは 1 ドルの 3 日間無料トライアルで始まり、クレジット（Starter は 650）が含まれます。ClipWave プランはこのアドオンのみに適用。支払いとキャンセルは Adobe Express 外の manymotions.com で行われます。\n\n生成したコンテンツはあなたが所有し、AI モデルプロバイダーの利用規約の対象です。AI 出力は不正確な場合があります。公開前に必ず確認してください。",
+      "descriptionKo": "Clipwave Video Image Tool은 Adobe Express 내에서 AI 이미지와 동영상을 생성하고 결과를 열려 있는 페이지에 배치합니다. 새 탭, 다운로드, 재업로드 없음.\n\n원하는 것을 설명하고, 스타일과 무드를 선택한 후 생성을 누릅니다. 패널이 열려 있는 페이지를 읽으므로 형식이 캔버스와 일치하고, 비용이 크레딧으로 표시되며, 남은 잔액이 옆에 표시됩니다. 페이지에 추가하거나 썸네일을 캔버스로 드래그합니다. 동영상 작업은 경과 시간을 표시하며 취소할 수 있습니다.\n\n모델은 manymotions.com에서 실행되므로 ClipWave 플랜이 필요합니다. API 키를 한 번 붙여넣으면 이 브라우저에만 유지됩니다. 모든 월간 플랜은 크레딧이 포함된 $1의 3일 무료 체험으로 시작됩니다(Starter는 650). ClipWave 플랜은 이 애드온에만 적용되며, 결제 및 취소는 Adobe Express 외부의 manymotions.com에서 이루어집니다.\n\n생성한 콘텐츠는 귀하가 소유하며 AI 모델 공급자의 약관의 적용을 받습니다. AI 출력은 부정확할 수 있습니다. 게시 전에 모든 결과를 검토하세요.",
+      "keywords": [
+        "画像生成",
+        "動画生成ツール",
+        "text to image",
+        "text to video",
+        "生成AI",
+        "ClipWave"
+      ],
+      "keywordsEn": [
+        "AI image generator",
+        "AI video generator",
+        "text to image",
+        "text to video",
+        "generative AI",
+        "ClipWave"
+      ],
+      "keywordsJa": [
+        "画像生成",
+        "動画生成ツール",
+        "text to image",
+        "text to video",
+        "生成AI",
+        "ClipWave"
+      ],
+      "keywordsKo": [
+        "이미지 생성",
+        "동영상 생성 도구",
+        "text to image",
+        "text to video",
+        "생성형 AI",
+        "ClipWave"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w146ji23m"
+    },
+    {
+      "id": "frame-maker",
+      "addOnId": "w16l7jlh3",
+      "isNew": true,
+      "nameEn": "Frame Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Frame Maker creates image-filled frames from shapes, text, and designs inside Adobe Express. Choose a preset shape or custom outline, fill text with a photo, or convert a transparent PNG into a frame. Preview the fill, adjust scale and position, add an outline, then place a transparent PNG on your page.\n\nWhat you can do:\n- Build frames from triangles, stars, arrows, and more—or edit your own outline.\n- Fill text with photos for bold posters, logos, and social graphics.\n- Convert a PNG into a frame using entire-image, color, or transparency detection.\n- Fine-tune scale, rotation, and outline, then add the result to your design.\n\nRequires Google or Adobe sign-in (creates your Frame Maker account) and internet. New accounts get 10 free exports; each Add to design uses 1 free export. When free exports run out, Add to design is blocked until you subscribe. Open Get plans in the add-on to buy Monthly, Quarterly, or Yearly unlimited plans on the billing page.",
+      "descriptionEn": "Frame Maker creates image-filled frames from shapes, text, and designs inside Adobe Express. Choose a preset shape or custom outline, fill text with a photo, or convert a transparent PNG into a frame. Preview the fill, adjust scale and position, add an outline, then place a transparent PNG on your page.\n\nWhat you can do:\n- Build frames from triangles, stars, arrows, and more—or edit your own outline.\n- Fill text with photos for bold posters, logos, and social graphics.\n- Convert a PNG into a frame using entire-image, color, or transparency detection.\n- Fine-tune scale, rotation, and outline, then add the result to your design.\n\nRequires Google or Adobe sign-in (creates your Frame Maker account) and internet. New accounts get 10 free exports; each Add to design uses 1 free export. When free exports run out, Add to design is blocked until you subscribe. Open Get plans in the add-on to buy Monthly, Quarterly, or Yearly unlimited plans on the billing page.",
+      "descriptionJa": "Frame Maker は Adobe Express の図形、テキスト、デザインから画像入りフレームを作成します。プリセット図形またはカスタムアウトラインを選択、写真でテキストを塗りつぶすか、透明な PNG をフレームに変換します。塗りつぶしをプレビュー、スケールと位置を調整、アウトラインを追加してから、透明な PNG をページに配置します。\n\n機能：\n- 三角形、星、矢印などからフレームを構築するか、独自のアウトラインを編集します。\n- 写真でテキストを塗りつぶし、大胆なポスター、ロゴ、ソーシャルグラフィックスを作成。\n- PNG を全画像、色、または透明度検出を使用してフレームに変換します。\n- スケール、回転、アウトラインを微調整してから結果をデザインに追加します。\n\nGoogle または Adobe でのサインイン（Frame Maker アカウントを作成）とインターネットが必要。新規アカウントは 10 回の無料エクスポート付き。各「デザインに追加」で 1 回無料エクスポートを使用。無料エクスポートがなくなると、購読までデザインに追加がブロックされます。アドオンの「プランを取得」を開いて、月間、四半期、年間無制限プランを購入ページで購入してください。",
+      "descriptionKo": "Frame Maker는 Adobe Express의 도형, 텍스트 및 디자인에서 이미지로 채운 프레임을 만듭니다. 사전 설정된 도형 또는 사용자 정의 윤곽을 선택하고, 텍스트를 사진으로 채우거나 투명 PNG를 프레임으로 변환합니다. 채우기를 미리 보고, 크기와 위치를 조정하고, 윤곽을 추가한 다음 투명 PNG를 페이지에 배치합니다.\n\n기능:\n- 삼각형, 별, 화살표 등에서 프레임을 만들거나 자신의 윤곽을 편집합니다.\n- 사진으로 텍스트를 채워 대담한 포스터, 로고 및 소셜 그래픽을 만듭니다.\n- 전체 이미지, 색상 또는 투명도 감지를 사용하여 PNG를 프레임으로 변환합니다.\n- 크기, 회전 및 윤곽을 미세 조정한 후 결과를 디자인에 추가합니다.\n\nGoogle 또는 Adobe 로그인 필요(Frame Maker 계정 생성) 및 인터넷. 새 계정은 10회 무료 내보내기 제공. 각 디자인에 추가는 1회 무료 내보내기 사용. 무료 내보내기가 소진되면 구독할 때까지 디자인에 추가가 차단됩니다. 애드온에서 플랜 가져오기를 열어 청구 페이지에서 월간, 분기, 연간 무제한 플랜을 구매하세요.",
+      "keywords": [
+        "フレーム メーカー",
+        "フォトフレーム",
+        "形状 マスク",
+        "テキスト フレーム",
+        "image fill",
+        "clip path"
+      ],
+      "keywordsEn": [
+        "frame maker",
+        "photo frame",
+        "shape mask",
+        "text frame",
+        "image fill",
+        "clip path"
+      ],
+      "keywordsJa": [
+        "フレーム メーカー",
+        "フォトフレーム",
+        "形状 マスク",
+        "テキスト フレーム",
+        "image fill",
+        "clip path"
+      ],
+      "keywordsKo": [
+        "프레임 메이커",
+        "사진 프레임",
+        "도형 마스크",
+        "텍스트 프레임",
+        "image fill",
+        "clip path"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w16l7jlh3"
+    },
+    {
+      "id": "hermoso",
+      "addOnId": "w2326mg74",
+      "isNew": true,
+      "nameEn": "Hermoso",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Hermoso is marketing on autopilot, right inside Adobe Express.\n\nDescribe the ad you want in one line and Hermoso uses generative AI to make it for your brand: an image or a short video in your colors and style, using your own product photos when you choose to. Pick the format and the AI model, and see the exact credit price and confirm it before anything runs. Once a request starts it cannot be stopped. When it is ready, add it to your design in one click.\n\nYour Hermoso Library lives in the panel too, and you can schedule the post or turn it into a paid ad from Hermoso.\n\nCredits: a new Hermoso account gets 30 free credits once (claimed in the Hermoso web app), plus more to earn there. After that, credits come with a paid plan or a credit pack bought in the Hermoso web app. Descriptions are checked by a content filter and only models with built-in safety filters are offered. AI-generated content: check it before you publish.",
+      "descriptionEn": "Hermoso is marketing on autopilot, right inside Adobe Express.\n\nDescribe the ad you want in one line and Hermoso uses generative AI to make it for your brand: an image or a short video in your colors and style, using your own product photos when you choose to. Pick the format and the AI model, and see the exact credit price and confirm it before anything runs. Once a request starts it cannot be stopped. When it is ready, add it to your design in one click.\n\nYour Hermoso Library lives in the panel too, and you can schedule the post or turn it into a paid ad from Hermoso.\n\nCredits: a new Hermoso account gets 30 free credits once (claimed in the Hermoso web app), plus more to earn there. After that, credits come with a paid plan or a credit pack bought in the Hermoso web app. Descriptions are checked by a content filter and only models with built-in safety filters are offered. AI-generated content: check it before you publish.",
+      "descriptionJa": "Hermoso は Adobe Express 内で実現するマーケティング自動化です。\n\n作りたい広告を1行で説明すると、Hermoso は生成 AI を使ってあなたのブランド向けに制作します。画像または短いビデオを、ブランドカラー・スタイル、選んだ商品写真で作成。フォーマットと AI モデルを選択し、クレジット価格を確認してから実行します。リクエスト開始後は停止できません。完成後は 1 クリックでデザインに追加できます。\n\nHermoso ライブラリはパネルに統合されており、投稿のスケジュール設定や Hermoso から有料広告に変換できます。\n\nクレジット：新規アカウントは無料クレジット 30 を 1 回受け取り（Hermoso ウェブアプリで取得）、さらに稼ぐこともできます。その後、クレジットは有料プランまたは Hermoso ウェブアプリで購入したクレジットパックで取得します。説明はコンテンツフィルターでチェックされ、組み込みセーフティフィルター付きのモデルのみ提供されます。AI 生成コンテンツは公開前に確認してください。",
+      "descriptionKo": "Hermoso는 Adobe Express 내에서 마케팅을 자동화합니다.\n\n원하는 광고를 한 줄로 설명하면 Hermoso가 생성 AI를 사용하여 브랜드용으로 제작합니다. 브랜드 색상과 스타일로 이미지 또는 짧은 비디오를 만들고 선택한 상품 사진을 사용할 수 있습니다. 형식과 AI 모델을 선택하고 크레딧 가격을 확인한 후 실행합니다. 요청이 시작되면 중지할 수 없습니다. 완성되면 한 번의 클릭으로 디자인에 추가할 수 있습니다.\n\nHermoso 라이브러리는 패널에 통합되어 있으며 게시물을 예약하거나 Hermoso에서 유료 광고로 변환할 수 있습니다.\n\n크레딧: 신규 계정은 무료 크레딧 30을 1회 받고(Hermoso 웹앱에서 청구) 추가 크레딧을 획득할 수 있습니다. 그 후에는 유료 요금제 또는 Hermoso 웹앱에서 구입한 크레딧 팩으로 크레딧을 얻습니다. 설명은 콘텐츠 필터로 확인되며 내장 안전 필터가 있는 모델만 제공됩니다. AI 생성 콘텐츠는 게시하기 전에 확인하세요.",
+      "keywords": [
+        "広告",
+        "広告 メーカー",
+        "AI 広告",
+        "動画 広告",
+        "ソーシャルメディア",
+        "マーケティング",
+        "UGC",
+        "商品写真",
+        "ブランド",
+        "生成"
+      ],
+      "keywordsEn": [
+        "ads",
+        "ad maker",
+        "AI ads",
+        "video ads",
+        "social media",
+        "marketing",
+        "UGC",
+        "product photos",
+        "brand",
+        "generate"
+      ],
+      "keywordsJa": [
+        "広告",
+        "広告 メーカー",
+        "AI 広告",
+        "動画 広告",
+        "ソーシャルメディア",
+        "マーケティング",
+        "UGC",
+        "商品写真",
+        "ブランド",
+        "生成"
+      ],
+      "keywordsKo": [
+        "광고",
+        "광고 메이커",
+        "AI 광고",
+        "동영상 광고",
+        "소셜 미디어",
+        "마케팅",
+        "UGC",
+        "상품 사진",
+        "브랜드",
+        "생성"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w2326mg74"
+    },
+    {
+      "id": "kontainer-asset-picker",
+      "addOnId": "w29hh855i",
+      "isNew": true,
+      "nameEn": "Kontainer Asset Picker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Work faster and smarter in Adobe Express with direct access to your Kontainer DAM.\n\nThe Kontainer add-on brings your digital assets into Adobe Express. Search your library, browse folders and add images, animated GIFs and videos to your design with a click or by dragging them onto the page - no downloads, no manual uploads and no switching between systems.\n\nKey benefits\n- Access and add assets directly from Kontainer DAM\n- Always use the latest approved versions\n- Maintain brand consistency across all designs\n- Avoid duplicates and outdated files\n- Control access through user permissions\n\nHow it works\nOpen the add-on and connect with your Kontainer URL and your personal Kontainer key, which you find in your Kontainer profile. Requires a paid Kontainer subscription that includes the Adobe Express integration.\n\nSupported formats: AI, GIF, JPEG, PNG, PSD, SVG and WebP images plus MP4, MOV and M4V video. Photoshop (PSD) and Illustrator (AI) files are added as flattened images.\n\nSetup guide",
+      "descriptionEn": "Work faster and smarter in Adobe Express with direct access to your Kontainer DAM.\n\nThe Kontainer add-on brings your digital assets into Adobe Express. Search your library, browse folders and add images, animated GIFs and videos to your design with a click or by dragging them onto the page - no downloads, no manual uploads and no switching between systems.\n\nKey benefits\n- Access and add assets directly from Kontainer DAM\n- Always use the latest approved versions\n- Maintain brand consistency across all designs\n- Avoid duplicates and outdated files\n- Control access through user permissions\n\nHow it works\nOpen the add-on and connect with your Kontainer URL and your personal Kontainer key, which you find in your Kontainer profile. Requires a paid Kontainer subscription that includes the Adobe Express integration.\n\nSupported formats: AI, GIF, JPEG, PNG, PSD, SVG and WebP images plus MP4, MOV and M4V video. Photoshop (PSD) and Illustrator (AI) files are added as flattened images.\n\nSetup guide",
+      "descriptionJa": "Kontainer DAM への直接アクセスで、Adobe Express での作業がより速く、スマートになります。\n\nKontainer アドオンはデジタルアセットを Adobe Express に取り込みます。ライブラリを検索し、フォルダを閲覧して、画像、アニメーション GIF、ビデオをクリックまたはドラッグでデザインに追加。ダウンロード、手動アップロード、システム間の切り替え不要です。\n\n主な利点\n- Kontainer DAM から直接アセットにアクセス・追加\n- 常に最新の承認済みバージョンを使用\n- すべてのデザイン間でブランド一貫性を維持\n- 重複ファイルと旧バージョンを回避\n- ユーザー権限でアクセスを管理\n\n使い方\nアドオンを開き、Kontainer URL と Kontainer プロフィールにある個人用 Kontainer キーで接続します。Adobe Express 統合を含む有料 Kontainer サブスクリプションが必要です。\n\n対応フォーマット：AI、GIF、JPEG、PNG、PSD、SVG、WebP 画像および MP4、MOV、M4V ビデオ。Photoshop（PSD）と Illustrator（AI）ファイルはフラット画像として追加されます。",
+      "descriptionKo": "Kontainer DAM에 직접 액세스하여 Adobe Express에서 더 빠르고 스마트하게 작업하세요.\n\nKontainer 애드온은 디지털 자산을 Adobe Express로 가져옵니다. 라이브러리를 검색하고 폴더를 탐색한 후 클릭하거나 드래그하여 이미지, 애니메이션 GIF, 비디오를 디자인에 추가할 수 있습니다. 다운로드, 수동 업로드, 시스템 간 전환이 필요 없습니다.\n\n주요 이점\n- Kontainer DAM에서 직접 자산 액세스 및 추가\n- 항상 최신 승인된 버전 사용\n- 모든 디자인에서 브랜드 일관성 유지\n- 중복 및 오래된 파일 회피\n- 사용자 권한을 통한 액세스 제어\n\n작동 방식\n애드온을 열고 Kontainer URL 및 Kontainer 프로필에서 찾은 개인 Kontainer 키로 연결합니다. Adobe Express 통합을 포함하는 유료 Kontainer 구독이 필요합니다.\n\n지원 형식: AI, GIF, JPEG, PNG, PSD, SVG, WebP 이미지 및 MP4, MOV, M4V 비디오. Photoshop(PSD) 및 Illustrator(AI) 파일은 병합된 이미지로 추가됩니다.",
+      "keywords": [
+        "Kontainer",
+        "DAM",
+        "アセット管理",
+        "アセット",
+        "ブランド",
+        "画像",
+        "動画",
+        "PIM"
+      ],
+      "keywordsEn": [
+        "Kontainer",
+        "DAM",
+        "digital asset management",
+        "assets",
+        "brand",
+        "images",
+        "video",
+        "PIM"
+      ],
+      "keywordsJa": [
+        "Kontainer",
+        "DAM",
+        "アセット管理",
+        "アセット",
+        "ブランド",
+        "画像",
+        "動画",
+        "PIM"
+      ],
+      "keywordsKo": [
+        "Kontainer",
+        "DAM",
+        "에셋 관리",
+        "에셋",
+        "브랜드",
+        "이미지",
+        "동영상",
+        "PIM"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w29hh855i"
+    },
+    {
+      "id": "text-art",
+      "addOnId": "w4880ml3m",
+      "isNew": true,
+      "nameEn": "Text Art",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Text Art turns words into particle art in Adobe Express. Adjust density, particle size, and angles; optionally texture particles with your image; preview live; then add the result to your design.\n\nBuilt for logos, headlines, posters, thumbnails, social posts, and creative layouts.\n\nWhat you can do:\n- Type text (1–48 characters; at least one non-space character).\n- Tune density, min/max particle size, and random angles.\n- Upload a JPEG, PNG, or WEBP (max 10 MB) as particle texture.\n- Preview updates as you edit; clearing text clears the preview.\n- Add finished particle text to your design as a PNG.\n\nAccount and credits:\n- Google or Adobe sign-in is required before use. An internet connection is required.\n- New accounts include 3 free exports. Each successful Add to design counts as one export.\n- When free exports run out, export is blocked until you subscribe. Preview and settings still work.\n- Subscribe via Get plans in the panel for unlimited exports with no export cap.",
+      "descriptionEn": "Text Art turns words into particle art in Adobe Express. Adjust density, particle size, and angles; optionally texture particles with your image; preview live; then add the result to your design.\n\nBuilt for logos, headlines, posters, thumbnails, social posts, and creative layouts.\n\nWhat you can do:\n- Type text (1–48 characters; at least one non-space character).\n- Tune density, min/max particle size, and random angles.\n- Upload a JPEG, PNG, or WEBP (max 10 MB) as particle texture.\n- Preview updates as you edit; clearing text clears the preview.\n- Add finished particle text to your design as a PNG.\n\nAccount and credits:\n- Google or Adobe sign-in is required before use. An internet connection is required.\n- New accounts include 3 free exports. Each successful Add to design counts as one export.\n- When free exports run out, export is blocked until you subscribe. Preview and settings still work.\n- Subscribe via Get plans in the panel for unlimited exports with no export cap.",
+      "descriptionJa": "Text Art は Adobe Express でテキストをパーティクルアートに変換します。密度、パーティクルサイズ、角度を調整し、必要に応じて画像でパーティクルをテクスチャ化し、ライブプレビューしてからデザインに追加できます。\n\nロゴ、見出し、ポスター、サムネイル、ソーシャル投稿、クリエイティブレイアウトに最適です。\n\nできること：\n- テキスト入力（1～48 文字、最低 1 つの非空白文字）\n- 密度、パーティクル最小/最大サイズ、ランダム角度を調整\n- JPEG、PNG、WEBP をパーティクルテクスチャとしてアップロード（最大 10 MB）\n- 編集時にプレビューがリアルタイム更新。テキスト削除でプレビューもクリア\n- 完成したパーティクルテキストを PNG としてデザインに追加\n\nアカウント・クレジット：\n- 使用前に Google または Adobe ログインが必須。インターネット接続が必要です。\n- 新規アカウントは 3 回の無料エクスポートを含みます。「デザインに追加」の成功で 1 回消費されます。\n- 無料エクスポート終了後、サブスクリプションまでエクスポートがブロックされます。プレビューと設定は引き続き使用可能。\n- パネルの「プランを取得」でサブスクリプション可能。無制限エクスポートでエクスポート上限なし。",
+      "descriptionKo": "Text Art는 Adobe Express에서 텍스트를 파티클 아트로 변환합니다. 밀도, 파티클 크기, 각도를 조정하고, 선택적으로 이미지로 파티클을 텍스처링한 후 라이브 프리뷰를 통해 디자인에 추가할 수 있습니다.\n\n로고, 제목, 포스터, 썸네일, 소셜 게시물, 창의적인 레이아웃에 최적화되었습니다.\n\n할 수 있는 것:\n- 텍스트 입력(1~48자, 최소 1개의 공백 이외 문자)\n- 밀도, 최소/최대 파티클 크기, 무작위 각도 조정\n- JPEG, PNG 또는 WEBP를 파티클 텍스처로 업로드(최대 10MB)\n- 편집 중 실시간 프리뷰 업데이트. 텍스트 삭제 시 프리뷰도 초기화\n- 완성된 파티클 텍스트를 PNG로 디자인에 추가\n\n계정 및 크레딧:\n- 사용 전 Google 또는 Adobe 로그인 필수. 인터넷 연결 필요.\n- 새 계정은 3회 무료 내보내기 포함. 디자인에 추가 성공 시 1회 소비.\n- 무료 내보내기 소진 후 구독할 때까지 내보내기 차단. 프리뷰 및 설정은 계속 사용 가능.\n- 패널의 플랜 가져오기에서 구독 가능. 무제한 내보내기로 상한 없음.",
+      "keywords": [
+        "particle text",
+        "テキストアート",
+        "タイポグラフィ",
+        "テキストエフェクト",
+        "textured text",
+        "ポスター テキスト",
+        "ソーシャルメディア"
+      ],
+      "keywordsEn": [
+        "particle text",
+        "text art",
+        "typography",
+        "text effect",
+        "textured text",
+        "poster text",
+        "social media text"
+      ],
+      "keywordsJa": [
+        "particle text",
+        "テキストアート",
+        "タイポグラフィ",
+        "テキストエフェクト",
+        "textured text",
+        "ポスター テキスト",
+        "ソーシャルメディア"
+      ],
+      "keywordsKo": [
+        "particle text",
+        "텍스트 아트",
+        "타이포그래피",
+        "텍스트 효과",
+        "textured text",
+        "포스터 텍스트",
+        "소셜 미디어"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w4880ml3m"
+    },
+    {
+      "id": "ai-comic-maker",
+      "addOnId": "w4lm15nm6",
+      "isNew": true,
+      "nameEn": "AI Comic Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Describe a story in a sentence or two and AI Comic Maker turns it into a finished one-page comic, ready to add to your design.\n\n- 68 page layouts: four-panel gags, splash pages, shot-reverse-shot, phone-chat overlays and more, or let Auto pick one for your story\n- AI writes the panels, dialogue, captions and sound effects\n- Characters stay consistent from panel to panel\n- Put dialogue in quotes and it's lettered word for word, in the language you write in\n- Sizes: comic page 3:4, portrait 4:5, square, story 9:16 and widescreen 16:9\n- Refine any result with a short instruction\n- Add to your page, drag onto the canvas, or download",
+      "descriptionEn": "Describe a story in a sentence or two and AI Comic Maker turns it into a finished one-page comic, ready to add to your design.\n\n- 68 page layouts: four-panel gags, splash pages, shot-reverse-shot, phone-chat overlays and more, or let Auto pick one for your story\n- AI writes the panels, dialogue, captions and sound effects\n- Characters stay consistent from panel to panel\n- Put dialogue in quotes and it's lettered word for word, in the language you write in\n- Sizes: comic page 3:4, portrait 4:5, square, story 9:16 and widescreen 16:9\n- Refine any result with a short instruction\n- Add to your page, drag onto the canvas, or download",
+      "descriptionJa": "ストーリーを 1～2 文で説明すると、AI Comic Maker が完成した 1 ページのコミックに変換し、デザインに追加できます。\n\n- 68 ページレイアウト：4 コマギャグ、スプラッシュページ、ショット・リバース・ショット、電話チャットオーバーレイなど、または AI が自動選択\n- AI がパネル、セリフ、キャプション、効果音を生成\n- キャラクターはパネル全体で一貫性を維持\n- セリフを引用符で囲むと、書いた言語でそのままレタリング\n- サイズ：コミックページ 3:4、ポートレート 4:5、スクエア、ストーリー 9:16、ワイドスクリーン 16:9\n- 短い指示で任意の結果を調整\n- ページに追加、キャンバスにドラッグ、またはダウンロード",
+      "descriptionKo": "스토리를 한두 문장으로 설명하면 AI Comic Maker가 완성된 1페이지 만화로 변환하여 디자인에 추가할 수 있습니다.\n\n- 68가지 페이지 레이아웃: 4컷 개그, 스플래시 페이지, 숏-리버스-숏, 전화 채팅 오버레이 등, 또는 AI가 스토리에 맞게 자동 선택\n- AI가 패널, 대사, 캡션, 효과음 생성\n- 캐릭터가 패널 전체에서 일관성 유지\n- 대사를 따옴표로 묶으면 작성한 언어로 그대로 레터링\n- 크기: 만화 페이지 3:4, 세로 4:5, 정사각형, 스토리 9:16, 와이드스크린 16:9\n- 짧은 지시로 결과 조정 가능\n- 페이지에 추가, 캔버스에 드래그 또는 다운로드",
+      "keywords": [
+        "AIコミック",
+        "コミック メーカー",
+        "comic strip",
+        "storyboard",
+        "マンガ",
+        "コミック ジェネレーター",
+        "text to comic",
+        "ストーリー",
+        "カートゥーン"
+      ],
+      "keywordsEn": [
+        "ai comic",
+        "comic maker",
+        "comic strip",
+        "storyboard",
+        "manga",
+        "comic generator",
+        "text to comic",
+        "story",
+        "cartoon"
+      ],
+      "keywordsJa": [
+        "AIコミック",
+        "コミック メーカー",
+        "comic strip",
+        "storyboard",
+        "マンガ",
+        "コミック ジェネレーター",
+        "text to comic",
+        "ストーリー",
+        "カートゥーン"
+      ],
+      "keywordsKo": [
+        "AI 만화",
+        "만화 메이커",
+        "comic strip",
+        "storyboard",
+        "만화",
+        "만화 생성기",
+        "text to comic",
+        "스토리",
+        "카툰"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w4lm15nm6"
+    },
+    {
+      "id": "label-maker",
+      "addOnId": "w5ki9m911",
+      "isNew": true,
+      "nameEn": "Label Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create labels with OpenTemply Label Maker. Bulk create, mail merge, customize, and print labels from your data. Create address labels, mailing labels, shipping labels, product labels, name badges, name tags, stickers, tags, envelopes, QR code labels, and barcode labels.\n\nGenerate hundreds of labels in one workflow. Merge names, addresses, product details, logos, barcodes, QR codes, and other data with precise layouts and print alignment.\n\nUse customizable label templates and search by product number or label size. Whether you need a bulk label maker, mail merge label maker, address label maker, shipping label maker, name badge maker, sticker maker, envelope maker, QR code label maker, or barcode label maker, OpenTemply helps you create print-ready labels and envelopes faster.\n\nCompatible with popular label formats, including Avery®, Herma®, and other standard formats. Trademarks belong to their respective owners. OpenTemply is independent and not affiliated with or endorsed by them.",
+      "descriptionEn": "Create labels with OpenTemply Label Maker. Bulk create, mail merge, customize, and print labels from your data. Create address labels, mailing labels, shipping labels, product labels, name badges, name tags, stickers, tags, envelopes, QR code labels, and barcode labels.\n\nGenerate hundreds of labels in one workflow. Merge names, addresses, product details, logos, barcodes, QR codes, and other data with precise layouts and print alignment.\n\nUse customizable label templates and search by product number or label size. Whether you need a bulk label maker, mail merge label maker, address label maker, shipping label maker, name badge maker, sticker maker, envelope maker, QR code label maker, or barcode label maker, OpenTemply helps you create print-ready labels and envelopes faster.\n\nCompatible with popular label formats, including Avery®, Herma®, and other standard formats. Trademarks belong to their respective owners. OpenTemply is independent and not affiliated with or endorsed by them.",
+      "descriptionJa": "OpenTemply Label Maker でラベルを作成できます。データから一括作成、差し込み、カスタマイズ、印刷します。住所ラベル、郵送ラベル、配送ラベル、商品ラベル、名札、タグ、ステッカー、QR コードラベル、バーコードラベルを作成できます。\n\n1 つのワークフローで数百のラベルを生成します。名前、住所、商品詳細、ロゴ、バーコード、QR コード、その他のデータを正確なレイアウトと印刷配置で差し込みます。\n\nカスタマイズ可能なラベルテンプレートを使用し、製品番号またはラベルサイズで検索できます。一括ラベルメーカー、差し込みラベルメーカー、住所ラベルメーカー、配送ラベルメーカー、名札メーカー、ステッカーメーカー、封筒メーカー、QR コードラベルメーカー、バーコードラベルメーカーなど、OpenTemply は印刷対応のラベルと封筒をより速く作成するのに役立ちます。\n\nAvery®、Herma® など、一般的なラベル形式に対応。商標は各所有者に帰属します。OpenTemply は独立したもので、これらとの提携や推奨はありません。",
+      "descriptionKo": "OpenTemply Label Maker로 라벨을 만들 수 있습니다. 데이터에서 일괄 생성, 병합, 사용자 정의 및 인쇄합니다. 주소 라벨, 우편 라벨, 배송 라벨, 상품 라벨, 이름표, 태그, 스티커, QR 코드 라벨, 바코드 라벨을 만들 수 있습니다.\n\n하나의 워크플로우에서 수백 개의 라벨을 생성합니다. 이름, 주소, 상품 세부 정보, 로고, 바코드, QR 코드 등의 데이터를 정밀한 레이아웃과 인쇄 정렬로 병합합니다.\n\n사용자 정의 가능한 라벨 템플릿을 사용하고 제품 번호 또는 라벨 크기로 검색할 수 있습니다. 일괄 라벨 메이커, 병합 라벨 메이커, 주소 라벨 메이커, 배송 라벨 메이커, 이름표 메이커, 스티커 메이커, 봉투 메이커, QR 코드 라벨 메이커, 바코드 라벨 메이커 등 OpenTemply는 인쇄 가능한 라벨과 봉투를 더 빠르게 만드는 데 도움을 줍니다.\n\nAvery®, Herma® 등 인기 있는 라벨 형식과 호환. 상표는 각 소유자에게 귀속됩니다. OpenTemply는 독립적이며 이들과 관련이 없으며 승인되지 않았습니다.",
+      "keywords": [
+        "ラベルメーカー",
+        "merge labels",
+        "bulk create labels",
+        "batch create labels",
+        "avery labels",
+        "バーコード"
+      ],
+      "keywordsEn": [
+        "label maker",
+        "merge labels",
+        "bulk create labels",
+        "batch create labels",
+        "avery labels",
+        "barcode labels"
+      ],
+      "keywordsJa": [
+        "ラベルメーカー",
+        "merge labels",
+        "bulk create labels",
+        "batch create labels",
+        "avery labels",
+        "バーコード"
+      ],
+      "keywordsKo": [
+        "라벨 메이커",
+        "merge labels",
+        "bulk create labels",
+        "batch create labels",
+        "avery labels",
+        "바코드"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w5ki9m911"
+    },
+    {
+      "id": "football-shirt-designer",
+      "addOnId": "w66kkn532",
+      "isNew": true,
+      "nameEn": "Football Shirt Designer",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Design and customise your own football shirt with the Football Shirt Designer add-on for Adobe Express.\n\nExplore colours, patterns and graphics to create a jersey that reflects your team, community or personal style. Start with a crew-neck or V-neck template, then customise your design with independent controls for the body, collar, shoulders, side panels, sleeve cuffs and trim.\n\nUpload your own team badges, sponsor logos and pictures. Adjust their size and position, add player names and numbers, and experiment with colour combinations to bring your ideas to life.\n\nInsert your shirt into Adobe Express as editable artwork, where you can arrange and refine individual design elements.\n\nWhen you’re ready, use the AI mock-up feature to transform your edited shirt artwork into a realistic jersey visual. The AI uses your design as its reference, no text prompt is required.\n\nFootball Shirt Designer is free to use and suitable for students, educators, football fans and creatives!",
+      "descriptionEn": "Design and customise your own football shirt with the Football Shirt Designer add-on for Adobe Express.\n\nExplore colours, patterns and graphics to create a jersey that reflects your team, community or personal style. Start with a crew-neck or V-neck template, then customise your design with independent controls for the body, collar, shoulders, side panels, sleeve cuffs and trim.\n\nUpload your own team badges, sponsor logos and pictures. Adjust their size and position, add player names and numbers, and experiment with colour combinations to bring your ideas to life.\n\nInsert your shirt into Adobe Express as editable artwork, where you can arrange and refine individual design elements.\n\nWhen you’re ready, use the AI mock-up feature to transform your edited shirt artwork into a realistic jersey visual. The AI uses your design as its reference, no text prompt is required.\n\nFootball Shirt Designer is free to use and suitable for students, educators, football fans and creatives!",
+      "descriptionJa": "Adobe Expressの Football Shirt Designer アドオンでオリジナルのサッカーユニフォームをデザイン・カスタマイズできます。\n\n色、パターン、グラフィックスを組み合わせて、チーム、コミュニティ、個人のスタイルを表現したジャージを作成。クルーネックまたはVネックのテンプレートから始めて、ボディ、襟、肩、サイドパネル、袖口などを自由にカスタマイズできます。\n\nチームバッジ、スポンサーロゴ、写真をアップロードして、サイズや位置を調整。選手名や番号を追加したり、色の組み合わせを試したりして、アイデアを形にしましょう。\n\nシャツをAdobe Expressに編集可能なアートワークとして挿入して、各デザイン要素を細かく調整できます。\n\n完成したら、AI モックアップ機能を使ってシャツアートワークをリアルなジャージビジュアルに変換。AIがデザインを参考にするので、テキストプロンプトは不要です。\n\nFootball Shirt Designerは無料で使用でき、学生、教育者、サッカーファン、クリエイターに最適です。",
+      "descriptionKo": "Adobe Express의 Football Shirt Designer 애드온으로 나만의 축구 유니폼을 디자인하고 커스터마이즈할 수 있습니다.\n\n색상, 패턴, 그래픽을 조합하여 팀, 커뮤니티, 개인 스타일을 표현한 저지를 제작합니다. 크루넥 또는 V넥 템플릿에서 시작하여 몸통, 칼라, 어깨, 사이드 패널, 소매 커프 등을 자유롭게 커스터마이즈할 수 있습니다.\n\n팀 배지, 스폰서 로고, 사진을 업로드하고 크기와 위치를 조정합니다. 선수 이름과 번호를 추가하고 색상 조합을 시도하여 아이디어를 현실화하세요.\n\n셔츠를 Adobe Express에 편집 가능한 아트워크로 삽입하여 각 디자인 요소를 세밀하게 조정할 수 있습니다.\n\n완성 후 AI 목업 기능을 사용하여 셔츠 아트워크를 실제 저지 이미지로 변환합니다. AI가 디자인을 참고하므로 텍스트 프롬프트는 필요하지 않습니다.\n\nFootball Shirt Designer는 무료이며 학생, 교육자, 축구 팬, 크리에이터에게 적합합니다.",
+      "keywords": [
+        "football shirt",
+        "football kit",
+        "jersey design",
+        "キット デザイン",
+        "sports design",
+        "shirt designer"
+      ],
+      "keywordsEn": [
+        "football shirt",
+        "football kit",
+        "jersey design",
+        "kit design",
+        "sports design",
+        "shirt designer"
+      ],
+      "keywordsJa": [
+        "football shirt",
+        "football kit",
+        "jersey design",
+        "キット デザイン",
+        "sports design",
+        "shirt designer"
+      ],
+      "keywordsKo": [
+        "football shirt",
+        "football kit",
+        "jersey design",
+        "키트 디자인",
+        "sports design",
+        "shirt designer"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w66kkn532"
+    },
+    {
+      "id": "social-card-maker",
+      "addOnId": "w830n11k6",
+      "isNew": true,
+      "nameEn": "Social Card Maker",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn any topic into an illustrated social media card. Type what your post is about, and AI writes short, punchy copy that fits the layout, then draws the card in a style matched to your topic.\n\nPick from 19 layouts – quote typography, text above image, two-panel comparisons, bold big type, annotated hero scenes and more – or choose Auto and let AI pick the best layout for your topic. Make cards in portrait 3:4 or 4:5, square 1:1, or story 9:16, ready for Instagram, Threads, LinkedIn, Facebook and Pinterest.\n\nAdd the finished card to your design with one click or drag it straight onto the page, then keep editing in Adobe Express. You can also download it.",
+      "descriptionEn": "Turn any topic into an illustrated social media card. Type what your post is about, and AI writes short, punchy copy that fits the layout, then draws the card in a style matched to your topic.\n\nPick from 19 layouts – quote typography, text above image, two-panel comparisons, bold big type, annotated hero scenes and more – or choose Auto and let AI pick the best layout for your topic. Make cards in portrait 3:4 or 4:5, square 1:1, or story 9:16, ready for Instagram, Threads, LinkedIn, Facebook and Pinterest.\n\nAdd the finished card to your design with one click or drag it straight onto the page, then keep editing in Adobe Express. You can also download it.",
+      "descriptionJa": "任意のトピックを入力するだけで、AIが短く、キャッチーなコピーを作成し、トピックに合わせたスタイルでイラスト付きのソーシャルメディアカードを自動生成します。\n\n19種類のレイアウトから選択できます。引用タイポグラフィ、画像上のテキスト、2パネル比較、大きなタイプ、注釈付きヒーロー画像など、様々なパターンに対応。または「自動」を選んでAIに最適なレイアウトを選ばせることもできます。Instagram、Threads、LinkedIn、Facebook、Pinterestに対応した、ポートレート 3:4 または 4:5、スクエア 1:1、ストーリー 9:16 でカード作成。\n\n完成したカードは1クリックでデザインに追加したり、ページにドラッグしたりできます。Adobe Expressで引き続き編集するか、ダウンロードすることもできます。",
+      "descriptionKo": "어떤 주제든 입력하면 AI가 짧고 임팩트 있는 카피를 작성하고 주제에 맞는 스타일로 일러스트가 있는 소셜 미디어 카드를 자동 생성합니다.\n\n19가지 레이아웃에서 선택할 수 있습니다. 인용 타이포그래피, 이미지 위의 텍스트, 2패널 비교, 큰 텍스트, 주석이 있는 히어로 이미지 등 다양한 패턴을 지원합니다. 또는 \"자동\"을 선택하여 AI가 최적의 레이아웃을 선택하도록 할 수도 있습니다. Instagram, Threads, LinkedIn, Facebook, Pinterest에 대응한 세로 3:4 또는 4:5, 정사각형 1:1, 스토리 9:16 형식으로 카드를 제작합니다.\n\n완성된 카드는 한 번의 클릭으로 디자인에 추가하거나 페이지에 드래그할 수 있습니다. Adobe Express에서 계속 편집하거나 다운로드할 수 있습니다.",
+      "keywords": [
+        "social card",
+        "ソーシャルメディア",
+        "quote card",
+        "Instagram 投稿",
+        "AI card maker",
+        "投稿",
+        "インフォグラフィック"
+      ],
+      "keywordsEn": [
+        "social card",
+        "social media post",
+        "quote card",
+        "instagram post",
+        "AI card maker",
+        "post",
+        "infographic"
+      ],
+      "keywordsJa": [
+        "social card",
+        "ソーシャルメディア",
+        "quote card",
+        "Instagram 投稿",
+        "AI card maker",
+        "投稿",
+        "インフォグラフィック"
+      ],
+      "keywordsKo": [
+        "social card",
+        "소셜 미디어",
+        "quote card",
+        "Instagram 게시물",
+        "AI card maker",
+        "게시물",
+        "인포그래픽"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=w830n11k6"
+    },
+    {
+      "id": "bulk-create-pages-plus",
+      "addOnId": "wg6i27420",
+      "isNew": true,
+      "nameEn": "Bulk Create Pages Plus",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "With Bulk Create and Generate, you can use an existing template or design in Adobe Express to quickly create multiple variations by merging text, images, barcodes, and QR codes with your data.\n\nStart by creating your base design. This can be a single page built from scratch or created using an Adobe Express template. Your new design variations will be generated from this starting page.\n\nNext, launch Bulk Create and Generate and set up a .csv file containing the data for your variations. Select the images, text boxes, and barcode or QR code elements in your design that you want to merge with new content.\n\nThen, add your replacement content to your .csv file. You can merge locally stored images referenced by filename, text strings, text-to-image prompts, and barcode data. Choose from 100+ barcode types and QR Code to create data-driven variations for each page.\n\nFinally, upload your completed .csv file and let Bulk Create and Generate automatically merge your data into dozens of pages.",
+      "descriptionEn": "With Bulk Create and Generate, you can use an existing template or design in Adobe Express to quickly create multiple variations by merging text, images, barcodes, and QR codes with your data.\n\nStart by creating your base design. This can be a single page built from scratch or created using an Adobe Express template. Your new design variations will be generated from this starting page.\n\nNext, launch Bulk Create and Generate and set up a .csv file containing the data for your variations. Select the images, text boxes, and barcode or QR code elements in your design that you want to merge with new content.\n\nThen, add your replacement content to your .csv file. You can merge locally stored images referenced by filename, text strings, text-to-image prompts, and barcode data. Choose from 100+ barcode types and QR Code to create data-driven variations for each page.\n\nFinally, upload your completed .csv file and let Bulk Create and Generate automatically merge your data into dozens of pages.",
+      "descriptionJa": "Bulk Create and Generateを使用して、Adobe Expressの既存テンプレートまたはデザインから、テキスト、画像、バーコード、QRコードをデータとマージして、複数のバリエーションを素早く作成できます。\n\nベースデザインを作成することから始めます。スクラッチで構築したシングルページでも、Adobe Expressテンプレートを使用して作成したページでも構いません。新しいデザインバリエーションはこのスターティングページから生成されます。\n\n次に、Bulk Create and Generateを起動し、バリエーション用のデータを含む.csvファイルをセットアップします。デザイン内の画像、テキストボックス、バーコード、またはQRコード要素で、新しいコンテンツとマージしたい要素を選択します。\n\nその後、置換コンテンツを.csvファイルに追加します。ファイル名で参照されるローカル保存画像、テキスト文字列、テキスト画像プロンプト、バーコードデータをマージできます。100以上のバーコードタイプとQRコードから選択して、各ページ用のデータドリブンなバリエーションを作成します。\n\n最後に、完成した.csvファイルをアップロードすると、Bulk Create and Generateが自動的にデータを数十ページにマージします。",
+      "descriptionKo": "Bulk Create and Generate를 사용하면 Adobe Express의 기존 템플릿 또는 디자인에서 텍스트, 이미지, 바코드, QR 코드를 데이터와 병합하여 여러 변형을 빠르게 생성할 수 있습니다.\n\n기본 디자인을 만드는 것부터 시작합니다. 처음부터 구축한 단일 페이지든 Adobe Express 템플릿으로 만든 페이지든 상관없습니다. 새로운 디자인 변형은 이 시작 페이지에서 생성됩니다.\n\n다음으로 Bulk Create and Generate를 시작하고 변형용 데이터를 포함한 .csv 파일을 설정합니다. 디자인의 이미지, 텍스트 상자, 바코드 또는 QR 코드 요소 중 새로운 콘텐츠와 병합하고 싶은 요소를 선택합니다.\n\n그 다음 .csv 파일에 대체 콘텐츠를 추가합니다. 파일명으로 참조되는 로컬 저장 이미지, 텍스트 문자열, 텍스트 이미지 프롬프트, 바코드 데이터를 병합할 수 있습니다. 100개 이상의 바코드 유형과 QR 코드에서 선택하여 각 페이지용 데이터 기반 변형을 생성합니다.\n\n마지막으로 완성된 .csv 파일을 업로드하면 Bulk Create and Generate가 자동으로 데이터를 수십 페이지로 병합합니다.",
+      "keywords": [
+        "bulk create and generate",
+        "merge images",
+        "バーコード",
+        "batch create pages",
+        "bulk create pages from CSV"
+      ],
+      "keywordsEn": [
+        "bulk create and generate",
+        "merge images",
+        "merge barcodes",
+        "batch create pages",
+        "bulk create pages from CSV"
+      ],
+      "keywordsJa": [
+        "bulk create and generate",
+        "merge images",
+        "バーコード",
+        "batch create pages",
+        "bulk create pages from CSV"
+      ],
+      "keywordsKo": [
+        "bulk create and generate",
+        "merge images",
+        "바코드",
+        "batch create pages",
+        "bulk create pages from CSV"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wg6i27420"
+    },
+    {
+      "id": "epson-print",
+      "addOnId": "wgni352h6",
+      "isNew": true,
+      "nameEn": "Epson Print",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Epson Print is an add-on that allows you to send designs and ideas created in Adobe Express directly to Epson printing apps for easy printing.\n\nAll files are managed in Adobe Express, so there's no need to organize PDFs on your computer.\n\nThis eliminates the hassle of accumulating downloaded files every time you make small modifications to your design.\n\nBy reducing work time and eliminating file management hassles, it provides an environment where you can focus on the design itself.\n\nSupported OS:\nWindows 10 x64 and Windows 11.\n\nRequirements:\nEpson Print Automate (version 4.1.0.0 or later) and the corresponding printer driver must be installed on your PC.",
+      "descriptionEn": "Epson Print is an add-on that allows you to send designs and ideas created in Adobe Express directly to Epson printing apps for easy printing.\n\nAll files are managed in Adobe Express, so there's no need to organize PDFs on your computer.\n\nThis eliminates the hassle of accumulating downloaded files every time you make small modifications to your design.\n\nBy reducing work time and eliminating file management hassles, it provides an environment where you can focus on the design itself.\n\nSupported OS:\nWindows 10 x64 and Windows 11.\n\nRequirements:\nEpson Print Automate (version 4.1.0.0 or later) and the corresponding printer driver must be installed on your PC.",
+      "descriptionJa": "Epson Printは、Adobe Expressで作成したデザインとアイデアをEpsonプリンティングアプリに直接送信して、簡単に印刷できるアドオンです。\n\nすべてのファイルはAdobe Expressで管理されるため、コンピュータ上のPDFを整理する必要がありません。\n\nデザインに小さな変更を加えるたびにダウンロードファイルが蓄積される手間がなくなります。\n\n作業時間を短縮し、ファイル管理の手間を省くことで、デザイン自体に集中できる環境を提供します。\n\n対応OS:\nWindows 10 x64およびWindows 11。\n\n要件:\nEpson Print Automate（バージョン4.1.0.0以降）と対応するプリンタドライバがPCにインストールされている必要があります。",
+      "descriptionKo": "Epson Print는 Adobe Express에서 만든 디자인과 아이디어를 Epson 인쇄 앱으로 직접 전송하여 쉽게 인쇄할 수 있는 애드온입니다.\n\n모든 파일이 Adobe Express에서 관리되므로 컴퓨터에서 PDF를 정렬할 필요가 없습니다.\n\n디자인을 약간 수정할 때마다 다운로드 파일이 쌓이는 번거로움이 사라집니다.\n\n작업 시간을 단축하고 파일 관리 번거로움을 없애 디자인 자체에 집중할 수 있는 환경을 제공합니다.\n\n지원되는 OS:\nWindows 10 x64 및 Windows 11.\n\n요구 사항:\nEpson Print Automate(버전 4.1.0.0 이상)와 해당 프린터 드라이버가 PC에 설치되어 있어야 합니다.",
+      "keywords": [
+        "Epson",
+        "印刷",
+        "Automate"
+      ],
+      "keywordsEn": [
+        "Epson",
+        "Print",
+        "Automate"
+      ],
+      "keywordsJa": [
+        "Epson",
+        "印刷",
+        "Automate"
+      ],
+      "keywordsKo": [
+        "Epson",
+        "인쇄",
+        "Automate"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wgni352h6"
+    },
+    {
+      "id": "ai-marketplace-listing",
+      "addOnId": "wh8h841kn",
+      "isNew": true,
+      "nameEn": "AI Marketplace Listing",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn one product photo into a listing-ready marketplace image without leaving Adobe Express.\n\nUpload your product photo, paste your product details (features, specs, what's in the box, reviews or promotions), pick an image type and generate. Only the facts you provide appear as text in the image, so nothing is invented.\n\nChoose from 24 listing image types: hero shot, multi-angle display, detail close-up, feature callouts, specs and dimensions, lifestyle scene, in-use demo, usage steps, comparison, size guide, FAQ, certifications, reviews, brand story, new arrival, promotion, key visual and more. Or let Auto pick the best type for your product.\n\nSizes: Auto, square 1:1, portrait 4:5 and 3:4, story 9:16 and banner 16:9.\n\nNeed a tweak? Refine the result with a short instruction. Add any image to your design in one click, drag it onto the page, or download it.",
+      "descriptionEn": "Turn one product photo into a listing-ready marketplace image without leaving Adobe Express.\n\nUpload your product photo, paste your product details (features, specs, what's in the box, reviews or promotions), pick an image type and generate. Only the facts you provide appear as text in the image, so nothing is invented.\n\nChoose from 24 listing image types: hero shot, multi-angle display, detail close-up, feature callouts, specs and dimensions, lifestyle scene, in-use demo, usage steps, comparison, size guide, FAQ, certifications, reviews, brand story, new arrival, promotion, key visual and more. Or let Auto pick the best type for your product.\n\nSizes: Auto, square 1:1, portrait 4:5 and 3:4, story 9:16 and banner 16:9.\n\nNeed a tweak? Refine the result with a short instruction. Add any image to your design in one click, drag it onto the page, or download it.",
+      "descriptionJa": "Adobe Expressを離れることなく、1つの商品写真をマーケットプレイス対応の画像に変換できます。\n\n商品写真をアップロードして、商品情報（機能、仕様、内容物、レビュー、プロモーション）をペーストし、画像タイプを選択して生成します。提供したファクトのみが画像内のテキストとして表示されるため、創作されたテキストは含まれません。\n\n24種類のリスティング画像タイプから選択できます。ヒーロー画像、マルチアングル表示、詳細クローズアップ、機能のコールアウト、仕様と寸法、ライフスタイル画像、使用デモ、使用ステップ、比較、サイズガイド、FAQ、認定、レビュー、ブランドストーリー、新着、プロモーション、キービジュアルなど。または「自動」で商品に最適なタイプを選ばせることもできます。\n\nサイズ：自動、スクエア 1:1、ポートレート 4:5 と 3:4、ストーリー 9:16、バナー 16:9。\n\n調整が必要ですか？短い指示で結果を調整できます。画像をワンクリックでデザインに追加したり、ページにドラッグしたり、ダウンロードしたりできます。",
+      "descriptionKo": "Adobe Express를 떠나지 않고 하나의 제품 사진을 마켓플레이스 준비 이미지로 변환할 수 있습니다.\n\n제품 사진을 업로드하고 제품 정보(기능, 사양, 내용물, 리뷰, 프로모션)를 붙여넣은 후 이미지 유형을 선택하고 생성합니다. 제공한 정보만 이미지의 텍스트로 나타나므로 창작된 텍스트는 포함되지 않습니다.\n\n24가지 리스팅 이미지 유형에서 선택할 수 있습니다. 히어로 샷, 멀티앵글 표시, 상세 클로즈업, 기능 콜아웃, 사양 및 치수, 라이프스타일 장면, 사용 데모, 사용 단계, 비교, 사이즈 가이드, FAQ, 인증, 리뷰, 브랜드 스토리, 신상품, 프로모션, 핵심 비주얼 등이 있습니다. 또는 \"자동\"을 선택하여 AI가 제품에 가장 적합한 유형을 선택하게 할 수도 있습니다.\n\n크기: 자동, 정사각형 1:1, 세로 4:5 및 3:4, 스토리 9:16, 배너 16:9.\n\n조정이 필요하신가요? 짧은 지시로 결과를 조정할 수 있습니다. 이미지를 한 번의 클릭으로 디자인에 추가하거나 페이지에 드래그하거나 다운로드할 수 있습니다.",
+      "keywords": [
+        "商品写真",
+        "Eコマース",
+        "marketplace listing",
+        "製品 画像",
+        "listing image",
+        "online store",
+        "AI画像"
+      ],
+      "keywordsEn": [
+        "product photo",
+        "ecommerce",
+        "marketplace listing",
+        "product image",
+        "listing image",
+        "online store",
+        "AI image"
+      ],
+      "keywordsJa": [
+        "商品写真",
+        "Eコマース",
+        "marketplace listing",
+        "製品 画像",
+        "listing image",
+        "online store",
+        "AI画像"
+      ],
+      "keywordsKo": [
+        "상품 사진",
+        "전자상거래",
+        "marketplace listing",
+        "제품 이미지",
+        "listing image",
+        "online store",
+        "AI 이미지"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wh8h841kn"
+    },
+    {
+      "id": "asana",
+      "addOnId": "whh8ml0l1",
+      "isNew": true,
+      "nameEn": "Asana",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Stop switching tabs to hand off design work: review, export, and attach Adobe Express pages to the right Asana task in just a few clicks, right from the canvas.",
+      "descriptionEn": "Stop switching tabs to hand off design work: review, export, and attach Adobe Express pages to the right Asana task in just a few clicks, right from the canvas.",
+      "descriptionJa": "タブを切り替える手間を省きます。Adobe Expressのページをレビュー・エクスポートして、キャンバスから数クリックでAsanaのタスクに添付できます。",
+      "descriptionKo": "탭 전환 없이 작업을 진행하세요. Adobe Express 페이지를 검토하고 내보낸 후 캔버스에서 몇 번의 클릭만으로 Asana 작업에 첨부할 수 있습니다.",
+      "keywords": [
+        "Asana",
+        "タスク管理",
+        "プロジェクト管理",
+        "エクスポート",
+        "attachment",
+        "ワークフロー",
+        "コラボレーション"
+      ],
+      "keywordsEn": [
+        "Asana",
+        "task management",
+        "project management",
+        "export",
+        "attachment",
+        "workflow",
+        "collaboration"
+      ],
+      "keywordsJa": [
+        "Asana",
+        "タスク管理",
+        "プロジェクト管理",
+        "エクスポート",
+        "attachment",
+        "ワークフロー",
+        "コラボレーション"
+      ],
+      "keywordsKo": [
+        "Asana",
+        "업무 관리",
+        "프로젝트 관리",
+        "내보내기",
+        "attachment",
+        "워크플로",
+        "협업"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=whh8ml0l1"
+    },
+    {
+      "id": "ticket-coupon-numbering",
+      "addOnId": "wi6128nj0",
+      "isNew": true,
+      "nameEn": "Ticket Coupon Numbering",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Turn one Adobe Express design into a numbered, print-ready sheet of tickets, coupons, vouchers, or cards. Set a starting number, quantity, step, prefix, suffix, and leading zeros, then arrange the sequence on A4 or US Letter paper with margins, gutters, and cut marks.\n\nFree access creates up to 24 items with a standard layout. A $7.99 one-time Plus upgrade unlocks runs up to 1,000, matching numbers on tear-off sections, a unique QR code for every item, cut-and-stack ordering, custom rows and columns, and saved production presets.\n\nPreview the first and last sheet before export, and confirm the requested total, generated total, duplicate count, and missing count. The current design is processed in the browser and downloaded as a PDF. Document content is not transmitted to Mars Studio. Optional checkout is handled by Stripe, and no separate account is required.",
+      "descriptionEn": "Turn one Adobe Express design into a numbered, print-ready sheet of tickets, coupons, vouchers, or cards. Set a starting number, quantity, step, prefix, suffix, and leading zeros, then arrange the sequence on A4 or US Letter paper with margins, gutters, and cut marks.\n\nFree access creates up to 24 items with a standard layout. A $7.99 one-time Plus upgrade unlocks runs up to 1,000, matching numbers on tear-off sections, a unique QR code for every item, cut-and-stack ordering, custom rows and columns, and saved production presets.\n\nPreview the first and last sheet before export, and confirm the requested total, generated total, duplicate count, and missing count. The current design is processed in the browser and downloaded as a PDF. Document content is not transmitted to Mars Studio. Optional checkout is handled by Stripe, and no separate account is required.",
+      "descriptionJa": "Adobe Expressのデザイン1つから、番号付きで印刷対応のチケット、クーポン、バウチャー、カードシートを生成できます。開始番号、数量、間隔、接頭辞、接尾辞、ゼロパディングを設定し、余白・間隔・カット線付きでA4またはレターサイズに配置します。\n\n無料版は最大24アイテムを標準レイアウトで作成できます。$7.99の1回限りのPlus アップグレードで、1,000個までの実行、切り取り部分への番号マッチング、各アイテムへのユニークなQRコード、カット・スタック順序、カスタム行・列、保存済みプロダクションプリセットが利用できます。\n\nエクスポート前に最初と最後のシートをプレビュー可能。リクエスト数、生成数、重複数、欠落数を確認できます。デザインはブラウザで処理され、PDFとしてダウンロードされます。ドキュメントコンテンツはMars Studioに送信されません。チェックアウトはStripeで処理され、別途アカウントは不要です。",
+      "descriptionKo": "Adobe Express 디자인 하나로 번호가 매겨진 인쇄 준비 완료 상태의 티켓, 쿠폰, 바우처, 카드 시트를 만들 수 있습니다. 시작 번호, 수량, 단계, 접두사, 접미사, 선행 0을 설정한 후 여백, 거터, 자르기 선이 있는 A4 또는 US Letter 용지에 배열합니다.\n\n무료 버전은 표준 레이아웃으로 최대 24개 항목을 만들 수 있습니다. $7.99의 일회성 Plus 업그레이드로 1,000개까지의 실행, 떨어내는 부분의 번호 매칭, 각 항목의 고유 QR 코드, 자르기 및 스택 순서, 사용자 정의 행과 열, 저장된 프로덕션 사전 설정이 가능합니다.\n\n내보내기 전에 첫 번째와 마지막 시트를 미리 보고 요청된 총합, 생성된 총합, 중복 수, 누락 수를 확인할 수 있습니다. 현재 디자인은 브라우저에서 처리되어 PDF로 다운로드됩니다. 문서 콘텐츠는 Mars Studio로 전송되지 않습니다. 선택적 결제는 Stripe에서 처리되며 별도 계정이 필요하지 않습니다.",
+      "keywords": [
+        "ticket numbers",
+        "coupons",
+        "serial numbers",
+        "raffle tickets",
+        "QRコード",
+        "print layout",
+        "cut marks",
+        "numbering"
+      ],
+      "keywordsEn": [
+        "ticket numbers",
+        "coupons",
+        "serial numbers",
+        "raffle tickets",
+        "QR codes",
+        "print layout",
+        "cut marks",
+        "numbering"
+      ],
+      "keywordsJa": [
+        "ticket numbers",
+        "coupons",
+        "serial numbers",
+        "raffle tickets",
+        "QRコード",
+        "print layout",
+        "cut marks",
+        "numbering"
+      ],
+      "keywordsKo": [
+        "ticket numbers",
+        "coupons",
+        "serial numbers",
+        "raffle tickets",
+        "QR코드",
+        "print layout",
+        "cut marks",
+        "numbering"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wi6128nj0"
+    },
+    {
+      "id": "auto-contents-and-tabs",
+      "addOnId": "wj03ggi82",
+      "isNew": true,
+      "nameEn": "Auto Contents and Tabs",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Build a connected PDF from one chapter list in Adobe Express. Choose chapter start pages, generate clickable contents, add optional edge tabs and return links, and export chapter bookmarks together.\n\nSave the setup with your design. After reordering pages, refresh and export again: targets follow their original pages. Deleted targets require a new selection rather than silently linking elsewhere.\n\nChoose three contents styles, insert contents after the cover or at the front, or link entries on an existing contents page. Preview actual PDF destinations before downloading.\n\nFree supports 10 source pages and 3 chapters, with no watermark. Plus supports 100 source pages and 30 chapters for $9.99 once.\n\nUse the Add-on's Export PDF button. The Express canvas, ordinary downloads and share links stay unchanged. Documents remain in your browser. Individual page links are also available in Express; this Add-on builds navigation in batches.",
+      "descriptionEn": "Build a connected PDF from one chapter list in Adobe Express. Choose chapter start pages, generate clickable contents, add optional edge tabs and return links, and export chapter bookmarks together.\n\nSave the setup with your design. After reordering pages, refresh and export again: targets follow their original pages. Deleted targets require a new selection rather than silently linking elsewhere.\n\nChoose three contents styles, insert contents after the cover or at the front, or link entries on an existing contents page. Preview actual PDF destinations before downloading.\n\nFree supports 10 source pages and 3 chapters, with no watermark. Plus supports 100 source pages and 30 chapters for $9.99 once.\n\nUse the Add-on's Export PDF button. The Express canvas, ordinary downloads and share links stay unchanged. Documents remain in your browser. Individual page links are also available in Express; this Add-on builds navigation in batches.",
+      "descriptionJa": "Adobe Expressの1つの章リストから、連携したPDFを作成します。章の開始ページを選択し、クリック可能な目次を生成、オプションで縁タブと戻るリンクを追加し、章のブックマークをまとめてエクスポートします。\n\nセットアップをデザインと一緒に保存できます。ページの順序を変更した後、リフレッシュしてもう一度エクスポート：ターゲットは元のページに従います。削除されたターゲットは、別の場所に暗黙的にリンクするのではなく、新しい選択が必要です。\n\n3つの目次スタイルから選択、表紙の後または前面に目次を挿入、または既存の目次ページにエントリをリンクできます。ダウンロード前にPDFの実際の移動先をプレビューできます。\n\n無料版は10ソースページと3章に対応、ウォーターマークなし。Plusは100ソースページと30章に対応し、$9.99の1回限りです。\n\nアドオンのExport PDFボタンを使用してください。Expressキャンバス、通常のダウンロード、共有リンクは変わりません。ドキュメントはブラウザ内に留まります。個別ページリンクはExpressでも利用可能。このアドオンはバッチでナビゲーションを構築します。",
+      "descriptionKo": "Adobe Express의 하나의 장 목록으로 연결된 PDF를 만듭니다. 장 시작 페이지를 선택하고 클릭 가능한 목차를 생성한 후 선택적으로 가장자리 탭과 돌아가기 링크를 추가하며 장 북마크를 함께 내보냅니다.\n\n설정을 디자인과 함께 저장할 수 있습니다. 페이지를 재배열한 후 새로 고치고 다시 내보내기: 대상이 원래 페이지를 따릅니다. 삭제된 대상은 자동으로 다른 곳으로 링크되지 않고 새로운 선택이 필요합니다.\n\n3가지 목차 스타일 중 선택, 표지 뒤 또는 앞에 목차 삽입, 또는 기존 목차 페이지에 항목을 링크할 수 있습니다. 다운로드하기 전에 실제 PDF 대상을 미리 볼 수 있습니다.\n\n무료 버전은 10개의 소스 페이지와 3개 장을 지원하며 워터마크가 없습니다. Plus는 100개의 소스 페이지와 30개 장을 지원하며 $9.99 일회성입니다.\n\n애드온의 Export PDF 버튼을 사용하세요. Express 캔버스, 일반 다운로드 및 공유 링크는 변경되지 않습니다. 문서는 브라우저에 남아 있습니다. 개별 페이지 링크도 Express에서 사용 가능하며, 이 애드온은 일괄적으로 네비게이션을 구축합니다.",
+      "keywords": [
+        "contents",
+        "table of contents",
+        "chapter tabs",
+        "PDF bookmarks",
+        "navigation",
+        "ドキュメント"
+      ],
+      "keywordsEn": [
+        "contents",
+        "table of contents",
+        "chapter tabs",
+        "PDF bookmarks",
+        "navigation",
+        "documents"
+      ],
+      "keywordsJa": [
+        "contents",
+        "table of contents",
+        "chapter tabs",
+        "PDF bookmarks",
+        "navigation",
+        "ドキュメント"
+      ],
+      "keywordsKo": [
+        "contents",
+        "table of contents",
+        "chapter tabs",
+        "PDF bookmarks",
+        "navigation",
+        "문서"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj03ggi82"
+    },
+    {
+      "id": "kyutcode-art-qr",
+      "addOnId": "wj300877m",
+      "isNew": true,
+      "nameEn": "Kyutcode Art QR",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create illustrated QR codes for menus, websites, shops, and more. Enter a link and describe a scene to generate two designs, then add your chosen image directly to your Adobe Express project. Each design is checked with QR decoders before delivery; test it on your own phone before printing. Connect a Kyutcode account to use your available credits. Free generations include Kyutcode branding; paid credits unlock full-resolution, unbranded downloads. AI-generated artwork can vary.",
+      "descriptionEn": "Create illustrated QR codes for menus, websites, shops, and more. Enter a link and describe a scene to generate two designs, then add your chosen image directly to your Adobe Express project. Each design is checked with QR decoders before delivery; test it on your own phone before printing. Connect a Kyutcode account to use your available credits. Free generations include Kyutcode branding; paid credits unlock full-resolution, unbranded downloads. AI-generated artwork can vary.",
+      "descriptionJa": "メニュー、ウェブサイト、ショップなど向けのイラスト入りQRコードを作成します。リンクを入力してシーンを説明すると、2つのデザインが生成され、選択したイメージをAdobe Expressプロジェクトに直接追加できます。各デザインは配信前にQRデコーダーで確認済み。印刷前に自分のスマートフォンでテストしてください。Kyutcodeアカウントを接続して利用可能なクレジットを使用できます。無料生成にはKyutcodeブランド表示が含まれます。有料クレジットで高解像度・ブランドなしのダウンロードが可能です。AIが生成したアートワークは異なる場合があります。",
+      "descriptionKo": "메뉴, 웹사이트, 매장 등을 위한 일러스트 QR 코드를 만드세요. 링크를 입력하고 장면을 설명하면 2가지 디자인이 생성되며, 선택한 이미지를 Adobe Express 프로젝트에 직접 추가할 수 있습니다. 각 디자인은 제공 전에 QR 디코더로 확인됩니다. 인쇄하기 전에 자신의 휴대폰에서 테스트하세요. Kyutcode 계정을 연결하여 사용 가능한 크레딧을 사용할 수 있습니다. 무료 생성에는 Kyutcode 브랜딩이 포함되고, 유료 크레딧로 고해상도 및 브랜딩 없는 다운로드가 가능합니다. AI로 생성된 아트워크는 다를 수 있습니다.",
+      "keywords": [
+        "QRコード",
+        "アート",
+        "menu",
+        "イラスト"
+      ],
+      "keywordsEn": [
+        "QR code",
+        "art",
+        "menu",
+        "illustration"
+      ],
+      "keywordsJa": [
+        "QRコード",
+        "アート",
+        "menu",
+        "イラスト"
+      ],
+      "keywordsKo": [
+        "QR코드",
+        "아트",
+        "menu",
+        "일러스트"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj300877m"
+    },
+    {
+      "id": "emoji-background-gen",
+      "addOnId": "wj823k372",
+      "isNew": true,
+      "nameEn": "Emoji Background Gen",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create playful emoji patterns. Pick an emoji, adjust density, size, rotation, blur, and background color, then randomize the pattern. Insert a PNG for a quick background, or choose editable emoji layers when you want to adjust elements individually (editable layers omit blur). Use the current page size or a preset.",
+      "descriptionEn": "Create playful emoji patterns. Pick an emoji, adjust density, size, rotation, blur, and background color, then randomize the pattern. Insert a PNG for a quick background, or choose editable emoji layers when you want to adjust elements individually (editable layers omit blur). Use the current page size or a preset.",
+      "descriptionJa": "楽しい絵文字パターンを作成します。絵文字を選択し、密度、サイズ、回転、ぼかし、背景色を調整してからパターンをランダム化します。PNGを挿入すれば素早く背景に、または編集可能な絵文字レイヤーを選択して個別に要素を調整できます（編集可能レイヤーはぼかしを省略）。現在のページサイズまたはプリセットを使用できます。",
+      "descriptionKo": "재미있는 이모지 패턴을 만드세요. 이모지를 선택한 후 밀도, 크기, 회전, 흐림, 배경색을 조정하고 패턴을 무작위로 설정합니다. PNG를 삽입하면 빠른 배경 생성이 가능하거나, 편집 가능한 이모지 레이어를 선택하여 개별적으로 요소를 조정할 수 있습니다(편집 가능한 레이어는 흐림 효과 제외). 현재 페이지 크기 또는 프리셋을 사용할 수 있습니다.",
+      "keywords": [
+        "絵文字 背景",
+        "絵文字 パターン",
+        "emoji wallpaper",
+        "パターン ジェネレーター",
+        "backgrounds"
+      ],
+      "keywordsEn": [
+        "emoji background",
+        "emoji pattern",
+        "emoji wallpaper",
+        "pattern generator",
+        "backgrounds"
+      ],
+      "keywordsJa": [
+        "絵文字 背景",
+        "絵文字 パターン",
+        "emoji wallpaper",
+        "パターン ジェネレーター",
+        "backgrounds"
+      ],
+      "keywordsKo": [
+        "이모지 배경",
+        "이모지 패턴",
+        "emoji wallpaper",
+        "패턴 생성기",
+        "backgrounds"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wj823k372"
+    },
+    {
+      "id": "image-blender",
+      "addOnId": "wji000ln8",
+      "isNew": true,
+      "nameEn": "Image Blender",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Image Blender helps you fade one image or blend two images inside Adobe Express. Upload JPEG, PNG, or WebP (up to 10 MB), preview live, then add the result to your design in one click.\n\nFade soft edges with linear or radial gradients, or paint with a brush—including past the image edge for clean borders. Blend a top image over a base with pro modes such as Multiply, Screen, Overlay, Lighten, and Darken. Adjust strength, fit or resize the overlay, and place it exactly where you want.\n\nBuilt for social posts, posters, thumbnails, product shots, collages, and layered graphics.\n\nWhat you can do:\n- Fade with linear, radial, or brush tools and live preview.\n- Blend two images with pro blend modes and strength control.\n- Resize, position, and rotate the overlay image.\n- Add the finished image directly to your Adobe Express design.\n\nNew users get 10 free exports. Each export uses 1 credit. Subscribe for unlimited exports.",
+      "descriptionEn": "Image Blender helps you fade one image or blend two images inside Adobe Express. Upload JPEG, PNG, or WebP (up to 10 MB), preview live, then add the result to your design in one click.\n\nFade soft edges with linear or radial gradients, or paint with a brush—including past the image edge for clean borders. Blend a top image over a base with pro modes such as Multiply, Screen, Overlay, Lighten, and Darken. Adjust strength, fit or resize the overlay, and place it exactly where you want.\n\nBuilt for social posts, posters, thumbnails, product shots, collages, and layered graphics.\n\nWhat you can do:\n- Fade with linear, radial, or brush tools and live preview.\n- Blend two images with pro blend modes and strength control.\n- Resize, position, and rotate the overlay image.\n- Add the finished image directly to your Adobe Express design.\n\nNew users get 10 free exports. Each export uses 1 credit. Subscribe for unlimited exports.",
+      "descriptionJa": "Image Blenderを使用して、Adobe Express内で1つの画像をフェードしたり、2つの画像をブレンドしたりできます。JPEG、PNG、またはWebP（最大10 MB）をアップロードし、ライブプレビューを確認してから、ワンクリックで結果をデザインに追加します。\n\n直線または放射状グラデーション、またはブラシでソフトエッジをフェードできます。画像の端を越えて描画し、クリーンな枠線を作成します。Multiply、Screen、Overlay、Lighten、Darkenなどのプロモードで、トップ画像をベースの上にブレンドします。強度を調整し、オーバーレイのサイズを変更し、任意の場所に配置します。\n\nソーシャルポスト、ポスター、サムネイル、商品写真、コラージュ、レイヤー処理されたグラフィックスに最適です。\n\n実行可能な操作:\n- 直線、放射状、ブラシツールでフェードし、ライブプレビューを確認します。\n- 2つの画像をプロブレンドモードと強度コントロールでブレンドします。\n- オーバーレイ画像のサイズ変更、配置、回転を行います。\n- 完成した画像をAdobe Expressデザインに直接追加します。\n\n新規ユーザーは10回の無料エクスポートを取得します。各エクスポートは1クレジットを使用します。無制限のエクスポートにはサブスクリプションが必要です。",
+      "descriptionKo": "Image Blender를 사용하여 Adobe Express 내에서 이미지를 페이드하거나 두 이미지를 블렌드할 수 있습니다. JPEG, PNG 또는 WebP(최대 10MB)를 업로드하고 라이브 미리보기를 확인한 후 한 번의 클릭으로 결과를 디자인에 추가합니다.\n\n선형 또는 방사형 그래디언트로 소프트 엣지를 페이드하거나 브러시로 그립니다. 이미지 가장자리를 넘어 그려서 깔끔한 테두리를 만듭니다. Multiply, Screen, Overlay, Lighten, Darken 등의 프로 블렌드 모드로 상단 이미지를 기본 이미지 위에 블렌드합니다. 강도를 조정하고 오버레이 크기를 조정하며 정확한 위치에 배치합니다.\n\n소셜 포스트, 포스터, 썸네일, 상품 사진, 콜라주 및 레이어 그래픽에 최적화되었습니다.\n\n수행할 수 있는 작업:\n- 선형, 방사형 또는 브러시 도구로 페이드하고 라이브 미리보기를 확인합니다.\n- 프로 블렌드 모드와 강도 제어로 두 이미지를 블렌드합니다.\n- 오버레이 이미지를 크기 조정, 배치 및 회전합니다.\n- 완성된 이미지를 Adobe Express 디자인에 직접 추가합니다.\n\n신규 사용자는 10회 무료 내보내기를 받습니다. 각 내보내기는 1크레딧을 사용합니다. 무제한 내보내기를 원하면 구독하세요.",
+      "keywords": [
+        "image blend",
+        "fade",
+        "soft edge",
+        "brush fade",
+        "blend modes",
+        "オーバーレイ",
+        "multiply",
+        "photo merge"
+      ],
+      "keywordsEn": [
+        "image blend",
+        "fade",
+        "soft edge",
+        "brush fade",
+        "blend modes",
+        "overlay",
+        "multiply",
+        "photo merge"
+      ],
+      "keywordsJa": [
+        "image blend",
+        "fade",
+        "soft edge",
+        "brush fade",
+        "blend modes",
+        "オーバーレイ",
+        "multiply",
+        "photo merge"
+      ],
+      "keywordsKo": [
+        "image blend",
+        "fade",
+        "soft edge",
+        "brush fade",
+        "blend modes",
+        "오버레이",
+        "multiply",
+        "photo merge"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wji000ln8"
+    },
+    {
+      "id": "campaign-iq",
+      "addOnId": "wkkk5483l",
+      "isNew": true,
+      "nameEn": "Campaign IQ",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "CampaignIQ reviews the current Adobe Express page using design heuristics for layout, typography, accessibility, branding, calls to action, and platform fit. Choose Instagram, Facebook, LinkedIn, Poster, Slides, or Email, then run analysis. Get a score, issues, recommendations, and a PDF snapshot. Analysis runs locally without uploading document content. CampaignIQ does not modify your design. On pages with multiple scenes, it analyzes the first scene. Text embedded in images is not recognized; image descriptions and estimated contrast need manual review. Scores do not predict campaign performance or certify accessibility or advertising-policy compliance.",
+      "descriptionEn": "CampaignIQ reviews the current Adobe Express page using design heuristics for layout, typography, accessibility, branding, calls to action, and platform fit. Choose Instagram, Facebook, LinkedIn, Poster, Slides, or Email, then run analysis. Get a score, issues, recommendations, and a PDF snapshot. Analysis runs locally without uploading document content. CampaignIQ does not modify your design. On pages with multiple scenes, it analyzes the first scene. Text embedded in images is not recognized; image descriptions and estimated contrast need manual review. Scores do not predict campaign performance or certify accessibility or advertising-policy compliance.",
+      "descriptionJa": "CampaignIQは、レイアウト、タイポグラフィ、アクセシビリティ、ブランディング、行動喚起、プラットフォーム適合性についてのデザインヒューリスティクスを使用して、現在のAdobe Expressページをレビューします。Instagram、Facebook、LinkedIn、ポスター、スライド、またはメールを選択し、分析を実行します。スコア、問題、推奨事項、PDFスナップショットを取得します。分析はドキュメントコンテンツをアップロードせずにローカルで実行されます。CampaignIQはデザインを変更しません。複数のシーンがあるページでは、最初のシーンを分析します。画像に埋め込まれたテキストは認識されません。画像の説明と推定コントラストは手動で確認が必要です。スコアはキャンペーンパフォーマンスの予測、アクセシビリティや広告ポリシーコンプライアンスの認証を行いません。",
+      "descriptionKo": "CampaignIQ는 레이아웃, 타이포그래피, 접근성, 브랜딩, 클릭 유도문안 및 플랫폼 적합성에 대한 디자인 휴리스틱을 사용하여 현재 Adobe Express 페이지를 검토합니다. Instagram, Facebook, LinkedIn, 포스터, 슬라이드 또는 이메일을 선택한 후 분석을 실행합니다. 점수, 문제, 권장사항 및 PDF 스냅샷을 받습니다. 분석은 문서 콘텐츠를 업로드하지 않고 로컬에서 실행됩니다. CampaignIQ는 디자인을 수정하지 않습니다. 여러 장면이 있는 페이지에서는 첫 번째 장면을 분석합니다. 이미지에 포함된 텍스트는 인식되지 않습니다. 이미지 설명 및 예상 명암비는 수동으로 검토해야 합니다. 점수는 캠페인 성과를 예측하거나 접근성 또는 광고 정책 준수를 인증하지 않습니다.",
+      "keywords": [
+        "キャンペーン",
+        "デザイン",
+        "タイポグラフィ",
+        "layout",
+        "ブランディング",
+        "PDF",
+        "analysis"
+      ],
+      "keywordsEn": [
+        "campaign",
+        "design",
+        "typography",
+        "layout",
+        "branding",
+        "PDF",
+        "analysis"
+      ],
+      "keywordsJa": [
+        "キャンペーン",
+        "デザイン",
+        "タイポグラフィ",
+        "layout",
+        "ブランディング",
+        "PDF",
+        "analysis"
+      ],
+      "keywordsKo": [
+        "캠페인",
+        "디자인",
+        "타이포그래피",
+        "layout",
+        "브랜딩",
+        "PDF",
+        "analysis"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wkkk5483l"
+    },
+    {
+      "id": "bottle-labels",
+      "addOnId": "wl6gh1lj1",
+      "isNew": true,
+      "nameEn": "Bottle Labels",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Stop guessing what size label you need. Load a print-ready template sized for your bottle, with 1/8\" bleed already set up, and start designing.\n\nTemplates for:\nWater bottles (8.25\" x 1.75\")\nDropper bottles (3\" x 2\")\nWine bottles (3.5\" x 4\")\nBeer bottles (4\" x 3.5\")\nMore bottle types coming soon!\n\nHow it works:\n- Preview: a live mockup wraps your label around a real bottle as you design. It's a visualization only.\n- Download: the print-ready PDF contains your label artwork from the canvas, with bleed, not the bottle mockup. Available to everyone.\n- Order (US only): \"Continue to Bottle Your Brand\" sends your artwork to the matching order page on BottleYourBrand.com. Outside the US, download the PDF and print it locally.\n- Bleed guides: Adobe Express shows these on paid plans only, and add-ons can't turn them on. Free plan users get matching tips in the add-on, and every PDF includes the bleed.\n\nWatch a quick walkthrough: https://youtu.be/QctUzC8hz6E",
+      "descriptionEn": "Stop guessing what size label you need. Load a print-ready template sized for your bottle, with 1/8\" bleed already set up, and start designing.\n\nTemplates for:\nWater bottles (8.25\" x 1.75\")\nDropper bottles (3\" x 2\")\nWine bottles (3.5\" x 4\")\nBeer bottles (4\" x 3.5\")\nMore bottle types coming soon!\n\nHow it works:\n- Preview: a live mockup wraps your label around a real bottle as you design. It's a visualization only.\n- Download: the print-ready PDF contains your label artwork from the canvas, with bleed, not the bottle mockup. Available to everyone.\n- Order (US only): \"Continue to Bottle Your Brand\" sends your artwork to the matching order page on BottleYourBrand.com. Outside the US, download the PDF and print it locally.\n- Bleed guides: Adobe Express shows these on paid plans only, and add-ons can't turn them on. Free plan users get matching tips in the add-on, and every PDF includes the bleed.\n\nWatch a quick walkthrough: https://youtu.be/QctUzC8hz6E",
+      "descriptionJa": "必要なラベルのサイズを推測する必要はありません。ボトル用に設計されたプリント対応テンプレートを読み込み、1/8インチのブリードが既に設定されており、デザインを開始します。\n\nテンプレート対応:\nウォーターボトル（8.25インチ × 1.75インチ）\nドロッパーボトル（3インチ × 2インチ）\nワインボトル（3.5インチ × 4インチ）\nビールボトル（4インチ × 3.5インチ）\nその他のボトルタイプは近日対応予定です！\n\n仕組み:\n- プレビュー：デザイン中に、ラベルを実際のボトルの周りに折り返すライブモックアップです。可視化のみです。\n- ダウンロード：プリント対応PDFには、キャンバスのラベルアートワーク（ブリード付き）が含まれ、ボトルモックアップは含まれません。全員が利用可能です。\n- 注文（米国のみ）：「Continue to Bottle Your Brand」をクリックすると、BottleYourBrand.comの対応する注文ページにアートワークが送信されます。米国以外では、PDFをダウンロードしてローカルで印刷します。\n- ブリードガイド：Adobe Expressはこれを有料プランでのみ表示し、アドオンはオンにできません。無料プラン ユーザーはアドオン内で一致するヒントを受け取り、すべてのPDFにはブリードが含まれます。\n\nクイックウォークスルーを視聴：https://youtu.be/QctUzC8hz6E",
+      "descriptionKo": "필요한 라벨 크기를 추측할 필요가 없습니다. 병용으로 설계된 프린트 준비 템플릿을 로드하고 1/8인치 블리드가 이미 설정되어 있으며 디자인을 시작합니다.\n\n템플릿 대상:\n워터 보틀(8.25인치 × 1.75인치)\n드로퍼 보틀(3인치 × 2인치)\n와인 병(3.5인치 × 4인치)\n맥주 병(4인치 × 3.5인치)\n더 많은 병 유형이 곧 추가될 예정입니다!\n\n작동 방식:\n- 미리보기: 라이브 목업은 디자인할 때 레이블을 실제 병 주위에 감쌉니다. 시각화만 가능합니다.\n- 다운로드: 프린트 준비 PDF에는 캔버스의 레이블 아트워크(블리드 포함)가 포함되며 병 목업은 포함되지 않습니다. 모든 사람이 사용 가능합니다.\n- 주문(미국만 해당): \"Continue to Bottle Your Brand\"를 클릭하면 BottleYourBrand.com의 해당 주문 페이지로 아트워크가 전송됩니다. 미국 이외의 지역에서는 PDF를 다운로드하여 로컬에서 인쇄합니다.\n- 블리드 가이드: Adobe Express는 이를 유료 플랜에서만 표시하며 추가 기능은 켤 수 없습니다. 무료 플랜 사용자는 추가 기능에서 일치하는 팁을 받으며 모든 PDF에는 블리드가 포함됩니다.\n\n빠른 둘러보기 보기: https://youtu.be/QctUzC8hz6E",
+      "keywords": [
+        "ボトル ラベル",
+        "water bottle labels",
+        "dropper bottle labels",
+        "wine labels",
+        "beer labels",
+        "食べ物 ラベル"
+      ],
+      "keywordsEn": [
+        "bottle labels",
+        "water bottle labels",
+        "dropper bottle labels",
+        "wine labels",
+        "beer labels",
+        "food labels"
+      ],
+      "keywordsJa": [
+        "ボトル ラベル",
+        "water bottle labels",
+        "dropper bottle labels",
+        "wine labels",
+        "beer labels",
+        "食べ物 ラベル"
+      ],
+      "keywordsKo": [
+        "병 라벨",
+        "water bottle labels",
+        "dropper bottle labels",
+        "wine labels",
+        "beer labels",
+        "음식 라벨"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl6gh1lj1"
+    },
+    {
+      "id": "dither-studio-image-gen",
+      "addOnId": "wl73n0904",
+      "isNew": true,
+      "nameEn": "Dither Studio Image Gen",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Create dithered image effects in Adobe Express. Explore halftone and ordered patterns, tune colors and detail, and insert the result into your design. Five free insertions let you try Dither Studio before choosing a paid plan.",
+      "descriptionEn": "Create dithered image effects in Adobe Express. Explore halftone and ordered patterns, tune colors and detail, and insert the result into your design. Five free insertions let you try Dither Studio before choosing a paid plan.",
+      "descriptionJa": "Adobe Expressでディザー画像効果を作成します。ハーフトーンと順序付きパターンを探索し、色と詳細を調整して、結果をデザインに挿入します。5回の無料挿入により、有料プランを選択する前にDither Studioを試すことができます。",
+      "descriptionKo": "Adobe Express에서 디더 이미지 효과를 만듭니다. 하프톤 및 순서 지정 패턴을 탐색하고 색상과 세부 정보를 조정한 후 결과를 디자인에 삽입합니다. 5회 무료 삽입을 통해 유료 플랜을 선택하기 전에 Dither Studio를 시도해볼 수 있습니다.",
+      "keywords": [
+        "dither",
+        "halftone",
+        "画像 エフェクト",
+        "レトロ",
+        "ピクセルアート"
+      ],
+      "keywordsEn": [
+        "dither",
+        "halftone",
+        "image effect",
+        "retro",
+        "pixel art"
+      ],
+      "keywordsJa": [
+        "dither",
+        "halftone",
+        "画像 エフェクト",
+        "レトロ",
+        "ピクセルアート"
+      ],
+      "keywordsKo": [
+        "dither",
+        "halftone",
+        "이미지 효과",
+        "레트로",
+        "픽셀 아트"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wl73n0904"
+    },
+    {
+      "id": "ai-background-remover",
+      "addOnId": "wn1k68h2g",
+      "isNew": true,
+      "nameEn": "AI Background Remover",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Remove image backgrounds in seconds with an AI background remover built for professional photo cutouts. Automatically detect people, products, hair, fur, and complex edges to create a clean transparent background with minimal effort.\n\nChoose Fast, Balanced, or Precise AI background removal for every image. Fine-tune results using background eraser and restore brushes, edge cleanup, feathering, zoom, before-and-after comparison, undo, and redo.\n\nReplace backgrounds with solid colors.\n\nProcess up to 20 images with Batch Studio, prepare marketplace-ready product photography, and export high-quality PNG, JPG. This AI photo background remover combines automatic background removal, detailed editing, and creative background replacement in one workflow.",
+      "descriptionEn": "Remove image backgrounds in seconds with an AI background remover built for professional photo cutouts. Automatically detect people, products, hair, fur, and complex edges to create a clean transparent background with minimal effort.\n\nChoose Fast, Balanced, or Precise AI background removal for every image. Fine-tune results using background eraser and restore brushes, edge cleanup, feathering, zoom, before-and-after comparison, undo, and redo.\n\nReplace backgrounds with solid colors.\n\nProcess up to 20 images with Batch Studio, prepare marketplace-ready product photography, and export high-quality PNG, JPG. This AI photo background remover combines automatic background removal, detailed editing, and creative background replacement in one workflow.",
+      "descriptionJa": "プロフェッショナルな写真のカットアウト用に構築されたAI背景削除ツールで、数秒で画像背景を削除します。人物、製品、髪、毛皮、複雑なエッジを自動的に検出して、最小限の手間でクリーンな透明背景を作成します。\n\n各画像に対して、高速、バランス、または精密なAI背景削除を選択します。背景消しゴムブラシと復元ブラシ、エッジクリーンアップ、フェザリング、ズーム、ビフォーアフター比較、取り消し、やり直しを使用して結果を微調整します。\n\n背景を単色に置き換えます。\n\nBatch Studioで最大20個の画像を処理し、マーケットプレイス対応の商品写真を準備し、高品質のPNG、JPGをエクスポートします。このAI写真背景削除ツールは、自動背景削除、詳細な編集、創造的な背景置換を1つのワークフローで組み合わせます。",
+      "descriptionKo": "전문적인 사진 컷아웃을 위해 구축된 AI 배경 제거기로 몇 초 만에 이미지 배경을 제거합니다. 사람, 제품, 머리카락, 모피 및 복잡한 모서리를 자동으로 감지하여 최소한의 노력으로 깨끗한 투명 배경을 만듭니다.\n\n각 이미지에 대해 빠른, 균형잡힌 또는 정밀한 AI 배경 제거를 선택합니다. 배경 지우개 브러시 및 복원 브러시, 가장자리 정리, 페더링, 줌, 비포앤애프터 비교, 실행 취소 및 재실행을 사용하여 결과를 미세 조정합니다.\n\n배경을 단색으로 바꿉니다.\n\nBatch Studio에서 최대 20개의 이미지를 처리하고 마켓플레이스 준비 제품 사진을 준비하며 고품질 PNG, JPG를 내보냅니다. 이 AI 사진 배경 제거 도구는 자동 배경 제거, 상세한 편집 및 창의적인 배경 교체를 하나의 워크플로우로 결합합니다.",
+      "keywords": [
+        "背景除去ツール",
+        "背景除去",
+        "背景除去ツール",
+        "背景除去ツール",
+        "透明"
+      ],
+      "keywordsEn": [
+        "background remover",
+        "remove background",
+        "image background remover",
+        "AI background remover",
+        "transparent"
+      ],
+      "keywordsJa": [
+        "背景除去ツール",
+        "背景除去",
+        "背景除去ツール",
+        "背景除去ツール",
+        "透明"
+      ],
+      "keywordsKo": [
+        "배경 제거 도구",
+        "배경 제거",
+        "배경 제거 도구",
+        "배경 제거 도구",
+        "투명"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wn1k68h2g"
+    },
+    {
+      "id": "voicelabs-voiceover",
+      "addOnId": "wnn8il4h1",
+      "isNew": true,
+      "nameEn": "VoiceLabs Voiceover",
+      "nameJa": "",
+      "nameKo": "",
+      "category": "utility",
+      "categoryJa": "ユーティリティ",
+      "description": "Type a script, pick a voice and add a natural-sounding voiceover to your Adobe Express design in seconds.\n\nHow it works:\n1. Sign in with your VoiceLabs account.\n2. Choose a voice: VoiceLabs built-in voices, or a voice you created yourself in VoiceLabs.\n3. Type or paste your script and press Generate preview to listen.\n4. Press Add to page. The audio lands on your page timeline, ready for videos, reels and presentations.\n\nGood for product promos, social videos, explainers, tutorials and slide narration.\n\nThe audio is AI-generated by VoiceLabs from the text you type. This add-on never clones a voice; voices you cloned in the VoiceLabs studio need the speaker's consent.\n\nRequires a VoiceLabs Pro subscription (US$8/month or US$59/year) with a 7-day free trial, managed at voicelabs.now. Cancel any time from your VoiceLabs billing page.",
+      "descriptionEn": "Type a script, pick a voice and add a natural-sounding voiceover to your Adobe Express design in seconds.\n\nHow it works:\n1. Sign in with your VoiceLabs account.\n2. Choose a voice: VoiceLabs built-in voices, or a voice you created yourself in VoiceLabs.\n3. Type or paste your script and press Generate preview to listen.\n4. Press Add to page. The audio lands on your page timeline, ready for videos, reels and presentations.\n\nGood for product promos, social videos, explainers, tutorials and slide narration.\n\nThe audio is AI-generated by VoiceLabs from the text you type. This add-on never clones a voice; voices you cloned in the VoiceLabs studio need the speaker's consent.\n\nRequires a VoiceLabs Pro subscription (US$8/month or US$59/year) with a 7-day free trial, managed at voicelabs.now. Cancel any time from your VoiceLabs billing page.",
+      "descriptionJa": "スクリプトを入力して音声を選ぶだけで、Adobe Expressのデザインに自然な音声ナレーションを数秒で追加できます。\n\n使い方：\n1. VoiceLabsアカウントでサインインします。\n2. 音声を選択：VoiceLabsの組み込み音声、または自分で作成した音声から選べます。\n3. スクリプトを入力または貼り付けて「Generate preview」を押して確認します。\n4. 「Add to page」を押すと、音声がページのタイムラインに追加され、動画、リール、プレゼンテーション作成に使用できます。\n\n商品プロモ、SNS動画、解説動画、チュートリアル、スライドのナレーションに最適です。\n\n音声はVoiceLabsのAI技術によって生成されます。このアドオンは音声クローニング機能がなく、VoiceLabs Studioで作成したクローン音声は話者の同意が必要です。\n\nVoiceLabs Proサブスクリプション（月額US$8または年額US$59）が必要です。7日間の無料トライアル付きで、voicelabs.nowで管理できます。VoiceLabsの請求ページからいつでもキャンセルできます。",
+      "descriptionKo": "스크립트를 입력하고 음성을 선택한 후 Adobe Express 디자인에 자연스러운 음성 내레이션을 수초 안에 추가하세요.\n\n사용 방법:\n1. VoiceLabs 계정으로 로그인합니다.\n2. 음성 선택：VoiceLabs 기본 음성 또는 VoiceLabs에서 직접 만든 음성 중 선택합니다.\n3. 스크립트를 입력하거나 붙여넣은 후 \"Generate preview\"를 눌러 확인합니다.\n4. \"Add to page\"를 누르면 음성이 페이지의 타임라인에 추가되어 동영상, 릴, 프레젠테이션 제작에 사용할 수 있습니다.\n\n제품 홍보, SNS 동영상, 설명 영상, 튜토리얼, 슬라이드 내레이션에 최적입니다.\n\n음성은 VoiceLabs의 AI 기술로 생성됩니다. 이 애드온은 음성 클로닝 기능이 없으며, VoiceLabs Studio에서 만든 클론 음성은 화자의 동의가 필요합니다.\n\nVoiceLabs Pro 구독(월 US$8 또는 연 US$59)이 필요합니다. 7일 무료 체험이 포함되며 voicelabs.now에서 관리할 수 있습니다. VoiceLabs 청구 페이지에서 언제든 취소할 수 있습니다.",
+      "keywords": [
+        "ナレーション",
+        "テキスト読み上げ",
+        "テキスト読み上げ",
+        "音声",
+        "narration",
+        "オーディオ",
+        "AI音声",
+        "動画",
+        "リール",
+        "プレゼンテーション"
+      ],
+      "keywordsEn": [
+        "voiceover",
+        "text to speech",
+        "tts",
+        "voice",
+        "narration",
+        "audio",
+        "ai voice",
+        "video",
+        "reels",
+        "presentation"
+      ],
+      "keywordsJa": [
+        "ナレーション",
+        "テキスト読み上げ",
+        "テキスト読み上げ",
+        "音声",
+        "narration",
+        "オーディオ",
+        "AI音声",
+        "動画",
+        "リール",
+        "プレゼンテーション"
+      ],
+      "keywordsKo": [
+        "나레이션",
+        "텍스트 음성 변환",
+        "TTS",
+        "음성",
+        "narration",
+        "오디오",
+        "AI 음성",
+        "동영상",
+        "릴",
+        "프레젠테이션"
+      ],
+      "featured": false,
+      "marketplaceUrl": "https://new.express.adobe.com/add-ons?addOnId=wnn8il4h1"
     }
   ],
   "metadata": {
-    "totalCount": 775,
-    "lastUpdated": "2026-09-28",
+    "totalCount": 799,
+    "lastUpdated": "2026-10-14",
     "source": "Web research and official documentation",
     "categories": {
       "accessibility": "アクセシビリティ",
