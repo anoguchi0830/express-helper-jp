@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Add-on Analyzer</title>
+<style>
+  :root { --bg:#F5F7FA; --fg:#1E1E1E; --sub:#666; --pri:#0066FF; --card:#fff; --line:#E3E7EE;
+          --c-inst:#0066FF; --c-unin:#E5484D; --c-inv:#12A594; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:14px/1.5 "Noto Sans JP",-apple-system,sans-serif; }
+  header { display:flex; align-items:center; gap:16px; padding:14px 24px; background:var(--card); border-bottom:1px solid var(--line); flex-wrap:wrap; }
+  h1 { font-size:18px; margin:0; }
+  main { max-width:1100px; margin:0 auto; padding:20px 24px 60px; }
+  button, select { font:inherit; padding:6px 12px; border:1px solid var(--line); background:#fff; border-radius:6px; cursor:pointer; }
+  button.primary { background:var(--pri); color:#fff; border-color:var(--pri); }
+  button.on { background:var(--pri); color:#fff; border-color:var(--pri); }
+  .drop { border:2px dashed #b9c4d6; border-radius:12px; padding:36px; text-align:center; color:var(--sub); background:#fff; }
+  .drop.over { border-color:var(--pri); background:#eef4ff; }
+  .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(170px,1fr)); gap:12px; margin:16px 0; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; }
+  .card .l { color:var(--sub); font-size:12px; }
+  .card .v { font-size:24px; font-weight:700; }
+  .card .d { font-size:12px; color:var(--sub); }
+  .flat { color:#666; }
+  .up { color:#12A594; } .down { color:#E5484D; }
+  .panel { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; margin:16px 0; }
+  .row { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-bottom:8px; }
+  .spacer { flex:1; }
+  table { width:100%; border-collapse:collapse; font-size:13px; }
+  th, td { padding:7px 8px; text-align:right; border-bottom:1px solid var(--line); white-space:nowrap; }
+  th:first-child, td:first-child { text-align:left; }
+  th { color:var(--sub); font-weight:600; cursor:pointer; user-select:none; }
+  tr.sel td { background:#eef4ff; }
+  tbody tr { cursor:pointer; }
+  svg text { font-size:11px; fill:#666; }
+  .note { color:var(--sub); font-size:12px; }
+  .warn { background:#FFF7E0; border:1px solid #F5D77A; padding:8px 12px; border-radius:8px; font-size:12px; margin:8px 0; }
+  #tip { position:fixed; pointer-events:none; background:#1E1E1E; color:#fff; padding:6px 9px; border-radius:6px; font-size:12px; display:none; white-space:pre; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Add-on Analyzer</h1>
+  <label><button class="primary" id="pick" data-i18n="add"></button><input id="file" type="file" accept=".csv" multiple hidden></label>
+  <span class="note" id="status"></span>
+  <span class="spacer"></span>
+  <button id="exp" data-i18n="exp"></button>
+  <button id="lang" title="Language / 言語"></button>
+  <button id="clr" data-i18n="clr"></button>
+</header>
+<main>
+  <div id="drop" class="drop"><span data-i18n="dropMain"></span><br>
+    <span class="note" data-i18n="dropNote"></span></div>
+  <div id="app" hidden>
+    <div id="warns"></div>
+    <div id="scope" class="note" style="margin-top:12px"></div>
+    <div class="cards" id="cards"></div>
+    <div class="panel">
+      <div class="row">
+        <select id="addon"></select>
+        <span id="metrics"></span>
+        <span class="spacer"></span>
+        <button id="ovl" data-i18n="ovl"></button>
+        <button id="xax" hidden></button>
+        <button id="scl" hidden></button>
+        <button id="cum" data-i18n="cum"></button>
+        <button id="ma" data-i18n="ma"></button>
+        <button id="rst" data-i18n="rst" data-i18n-title="rstTitle"></button>
+      </div>
+      <div id="legend" class="row"></div>
+      <div id="chart"></div>
+    </div>
+    <div class="panel">
+      <div class="row"><b data-i18n="cmp"></b><span class="note" data-i18n="cmpNote"></span></div>
+      <div style="overflow:auto"><table id="tbl"></table></div>
+    </div>
+  </div>
+</main>
+<div id="tip"></div>
+<script>
+'use strict';
+const KEY = 'addon-analyzer-v1';
+const METRICS = [
+  { id:'installs', label:'Installs', color:'var(--c-inst)' },
+  { id:'uninstalls', label:'Uninstalls', color:'var(--c-unin)' },
+  { id:'invocations', label:'Invocations', color:'var(--c-inv)' },
+];
+const $ = id => document.getElementById(id);
+const I18N = {
+  ja: {
+    add:'CSV を追加', exp:'統合データを書き出し', clr:'全データ削除',
+    dropMain:'Adobe Express の Submission 画面からダウンロードした CSV をここにドロップ(複数可・何度でも追加可)',
+    dropNote:'データはこのブラウザ内(localStorage)にのみ保存され、外部送信されません。同じ週は新しく読み込んだ値で上書きします。',
+    ovl:'全アドオン重ね表示', cum:'累計', ma:'4週移動平均', rst:'リセット', rstTitle:'グラフ設定を初期状態に戻す',
+    cmp:'アドオン比較', cmpNote:'(行クリックで上のグラフに反映・列見出しでソート)',
+    errHeader:'ヘッダー行(AddonName,Week,...)が見つかりません', errCols:'必須列がありません',
+    rows:n=>`${n}行`, snapped:n=>` (週境界の分割行 ${n} 件を結合)`, failed:m=>`失敗 (${m})`,
+    gap:(a,b,d)=>`${a} → ${b} の間隔が ${d} 日(年またぎ等で週が分割されている可能性。Installs/Invocations が別行になる例あり)`,
+    sum:'合計', scopeMulti:l=>`表示中アドオンの合計: ${l}`, none:'(なし)',
+    xRel:'X軸: 公開からの週数', xDate:'X軸: 日付', scale:'スケール: ', linear:'線形', log:'対数', norm:'正規化(各最大=100%)',
+    cTotalInst:'累計 Installs', cUninNet:(u,n)=>`Uninstalls ${u} → 純増 ${n}`,
+    cTotalInv:'累計 Invocations', cPerInst:v=>`Installs あたり ${v} 回`,
+    cLast4:'直近4週 Installs', cPrev4:v=>`前4週 ${v}`,
+    cLatest:'最新週', cWeek:w=>`${w} 週`, cChurn:'アンインストール率', cChurnSub:'累計 Uninstalls / Installs', cPeak:'ピーク週',
+    imported:'取込', warn:'データ注意:', wUnit:'週', cumTip:'累計', maTip:'4週平均',
+    colAddon:'アドオン', colNet:'純増', colChurn:'離脱率', colLast4:'直近4週', colTrend:'前4週比', colWeeks:'週数', spark:'直近26週',
+    confirmClr:'保存済みの全データを削除します。よろしいですか?(統合データの書き出しで事前にバックアップできます)',
+  },
+  en: {
+    add:'Add CSV', exp:'Export merged data', clr:'Delete all data',
+    dropMain:'Drop the CSV files downloaded from the Adobe Express Submission page here (multiple files OK, add as often as you like)',
+    dropNote:'Data is stored only in this browser (localStorage) and is never sent anywhere. A week that is imported again is overwritten with the newer values.',
+    ovl:'Overlay all add-ons', cum:'Cumulative', ma:'4-week avg', rst:'Reset', rstTitle:'Restore chart options to their defaults',
+    cmp:'Add-on comparison', cmpNote:'(click a row to show it in the chart · click a header to sort)',
+    errHeader:'Header row (AddonName,Week,...) not found', errCols:'Required columns are missing',
+    rows:n=>`${n} rows`, snapped:n=>` (merged ${n} split row${n>1?'s':''} at a week boundary)`, failed:m=>`failed (${m})`,
+    gap:(a,b,d)=>`${a} → ${b}: ${d}-day gap (a week may be split across a year boundary; Installs/Invocations can land on separate rows)`,
+    sum:'Total', scopeMulti:l=>`Total of visible add-ons: ${l}`, none:'(none)',
+    xRel:'X axis: weeks since launch', xDate:'X axis: date', scale:'Scale: ', linear:'Linear', log:'Log', norm:'Normalized (each max = 100%)',
+    cTotalInst:'Total Installs', cUninNet:(u,n)=>`Uninstalls ${u} → net ${n}`,
+    cTotalInv:'Total Invocations', cPerInst:v=>`${v} per install`,
+    cLast4:'Last 4 wks Installs', cPrev4:v=>`Prev 4 wks ${v}`,
+    cLatest:'Latest week', cWeek:w=>`week of ${w}`, cChurn:'Uninstall rate', cChurnSub:'Total Uninstalls / Installs', cPeak:'Peak week',
+    imported:'imported', warn:'Data notes:', wUnit:'w', cumTip:'cumulative', maTip:'4-wk avg',
+    colAddon:'Add-on', colNet:'Net', colChurn:'Churn', colLast4:'Last 4 wks', colTrend:'vs prev 4', colWeeks:'Weeks', spark:'Last 26 wks',
+    confirmClr:'This deletes all saved data. Continue? (You can back it up first with "Export merged data".)',
+  },
+};
+const LANG_KEY = 'addon-analyzer-lang';
+let lang = localStorage.getItem(LANG_KEY) || (/^ja/i.test(navigator.language || '') ? 'ja' : 'en');
+const tr = (k, ...a) => { const v = I18N[lang][k]; return typeof v === 'function' ? v(...a) : v; };
+function applyStatic() {
+  document.documentElement.lang = lang;
+  document.querySelectorAll('[data-i18n]').forEach(e => e.textContent = tr(e.dataset.i18n));
+  document.querySelectorAll('[data-i18n-title]').forEach(e => e.title = tr(e.dataset.i18nTitle));
+  $('lang').textContent = lang === 'ja' ? 'EN' : '日本語';
+}
+const PALETTE = ['#0066FF','#E5484D','#12A594','#F5A524','#8E4EC6','#E93D82','#00A2C7','#6E7B8B','#99D52A','#A18072'];
+const state = { rel:false, scale:'linear', overlay:true, hidden:new Set(), data:{}, addon:null, metric:'installs', cum:false, ma:true, sort:{k:'total',dir:-1}, meta:{} };
+
+// ---------- week normalisation ----------
+// Weeks start on Saturday. The CSV splits the week crossing Jan 1 into a non-Saturday row (e.g. Thu 01-01)
+// holding part of the metrics; snap forward to the next Saturday and sum so each week is one row.
+function snapWeek(w) {
+  const d = new Date(w + 'T00:00:00Z');
+  d.setUTCDate(d.getUTCDate() + (6 - d.getUTCDay() + 7) % 7);
+  return d.toISOString().slice(0, 10);
+}
+function addDays(w, n) { const d = new Date(w + 'T00:00:00Z'); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); }
+
+// ---------- parse ----------
+function splitCsvLine(line) {
+  const out = []; let cur = '', q = false;
+  for (let i = 0; i < line.length; i++) {
+    const c = line[i];
+    if (q) { if (c === '"') { if (line[i+1] === '"') { cur += '"'; i++; } else q = false; } else cur += c; }
+    else if (c === '"') q = true;
+    else if (c === ',') { out.push(cur); cur = ''; }
+    else cur += c;
+  }
+  out.push(cur); return out.map(s => s.trim());
+}
+function parseCsv(text) {
+  const lines = text.replace(/^﻿/, '').split(/\r?\n/);
+  const hi = lines.findIndex(l => /^AddonName\s*,/i.test(l.trim()));
+  if (hi < 0) throw new Error(tr('errHeader'));
+  const head = splitCsvLine(lines[hi]).map(h => h.toLowerCase());
+  const idx = n => head.indexOf(n);
+  const [ia, iw] = [idx('addonname'), idx('week')];
+  if (ia < 0 || iw < 0) throw new Error(tr('errCols'));
+  const syncNote = lines.slice(0, hi).map(l => l.replace(/^,+/, '').trim()).find(l => /synced/i.test(l)) || '';
+  const rows = [];
+  for (const l of lines.slice(hi + 1)) {
+    if (!l.trim()) continue;
+    const c = splitCsvLine(l);
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(c[iw] || '')) continue;
+    const row = { addon:c[ia], week:c[iw] };
+    for (const m of METRICS) { const i = idx(m.id); row[m.id] = i >= 0 ? (Number(c[i]) || 0) : 0; }
+    rows.push(row);
+  }
+  const byKey = new Map(); let snapped = 0;
+  for (const r of rows) {
+    const w = snapWeek(r.week); if (w !== r.week) snapped++;
+    const k = r.addon + '|' + w, a = byKey.get(k);
+    if (a) METRICS.forEach(m => a[m.id] += r[m.id]); else byKey.set(k, { ...r, week:w });
+  }
+  return { rows:[...byKey.values()], syncNote, snapped };
+}
+
+// ---------- store ----------
+function save() { localStorage.setItem(KEY, JSON.stringify({ data:state.data, meta:state.meta })); }
+function load() {
+  try { const s = JSON.parse(localStorage.getItem(KEY) || 'null'); if (s) { state.data = migrate(s.data || {}); state.meta = s.meta || {}; } } catch {}
+}
+function migrate(data) {
+  const out = {};
+  for (const [a, weeks] of Object.entries(data)) {
+    out[a] = {};
+    for (const [w, v] of Object.entries(weeks)) {
+      const k = snapWeek(w), t = (out[a][k] ||= { installs:0, uninstalls:0, invocations:0 });
+      METRICS.forEach(m => t[m.id] += v[m.id] || 0);
+    }
+  }
+  return out;
+}
+function merge(rows) {
+  let n = 0;
+  for (const r of rows) {
+    const a = (state.data[r.addon] ||= {});
+    // Same addon+week: the later import overwrites the earlier one.
+    a[r.week] = { installs:r.installs, uninstalls:r.uninstalls, invocations:r.invocations };
+    n++;
+  }
+  return n;
+}
+async function importFiles(files) {
+  const msgs = [];
+  for (const f of files) {
+    try {
+      const { rows, syncNote, snapped } = parseCsv(await f.text());
+      const n = merge(rows);
+      const names = [...new Set(rows.map(r => r.addon))];
+      names.forEach(nm => { state.meta[nm] = { imported:new Date().toISOString(), sync:syncNote }; });
+      msgs.push(`${f.name}: ${names.join(', ')} ${tr('rows', n)}` + (snapped ? tr('snapped', snapped) : ''));
+    } catch (e) { msgs.push(`${f.name}: ${tr('failed', e.message)}`); }
+  }
+  save();
+  $('status').textContent = msgs.join(' / ');
+  render();
+}
+
+// ---------- calc ----------
+const sum = (a, k) => a.reduce((s, x) => s + x[k], 0);
+function series(addon) {
+  return Object.entries(state.data[addon] || {}).map(([week, v]) => ({ week, ...v })).sort((a, b) => a.week.localeCompare(b.week));
+}
+function aggSeries(names) {
+  const m = {};
+  for (const n of names) for (const x of series(n)) {
+    const a = (m[x.week] ||= { week:x.week, installs:0, uninstalls:0, invocations:0 });
+    METRICS.forEach(k => a[k.id] += x[k.id]);
+  }
+  return Object.values(m).sort((a, b) => a.week.localeCompare(b.week));
+}
+function stats(addon) { return statsFromSeries(addon, series(addon)); }
+function statsFromSeries(addon, s) {
+  const n = s.length;
+  const last4 = s.slice(-4), prev4 = s.slice(-8, -4);
+  const t = { addon, weeks:n, total:sum(s,'installs'), unin:sum(s,'uninstalls'), inv:sum(s,'invocations') };
+  t.net = t.total - t.unin;
+  t.last4 = sum(last4,'installs'); t.prev4 = sum(prev4,'installs');
+  t.trend = prev4.length && t.prev4 > 0 ? (t.last4 - t.prev4) / t.prev4 : null;
+  t.churn = t.total ? t.unin / t.total : 0;
+  t.perInstall = t.total ? t.inv / t.total : 0;
+  t.last = s[n-1]; t.peak = s.reduce((m, x) => x.installs > (m?.installs ?? -1) ? x : m, null);
+  return t;
+}
+function checks(addon) {
+  const s = series(addon), w = [];
+  const dates = s.map(x => new Date(x.week + 'T00:00:00Z').getTime());
+  for (let i = 1; i < s.length; i++) {
+    const d = (dates[i] - dates[i-1]) / 864e5;
+    if (d !== 7) w.push(tr('gap', s[i-1].week, s[i].week, d));
+  }
+  return w;
+}
+const fmt = n => n.toLocaleString(lang === 'ja' ? 'ja-JP' : 'en-US');
+const pct = (x, d=1) => x == null ? '–' : (x*100).toFixed(d) + '%';
+const delta = x => x == null ? '–' : Math.abs(x) < 0.05 ? `<span class="flat">± ${Math.abs(x*100).toFixed(0)}%</span>` : `<span class="${x>=0?'up':'down'}">${x>=0?'▲':'▼'} ${Math.abs(x*100).toFixed(0)}%</span>`;
+
+// ---------- render ----------
+function render() {
+  applyStatic();
+  const names = Object.keys(state.data);
+  $('app').hidden = !names.length;
+  $('drop').style.display = names.length ? 'none' : '';
+  if (!names.length) return;
+  if (!names.includes(state.addon)) state.addon = names[0];
+  $('addon').innerHTML = names.map(n => `<option ${n===state.addon?'selected':''}>${esc(n)}</option>`).join('');
+  $('metrics').innerHTML = METRICS.map(m => `<button data-m="${m.id}" class="${m.id===state.metric?'on':''}">${m.label}</button>`).join(' ');
+  $('ovl').className = state.overlay ? 'on' : ''; $('addon').style.display = state.overlay ? 'none' : '';
+  $('cum').className = state.cum ? 'on' : ''; $('ma').className = state.ma ? 'on' : '';
+  const multi = state.overlay && names.length > 1;
+  const vis = names.filter(n => !state.hidden.has(n));
+  const st = multi ? statsFromSeries('sum', aggSeries(vis)) : stats(state.addon);
+  $('scope').textContent = multi ? tr('scopeMulti', vis.join(' + ') || tr('none')) : state.addon;
+  $('xax').hidden = $('scl').hidden = !multi;
+  $('xax').textContent = state.rel ? tr('xRel') : tr('xDate');
+  $('scl').textContent = tr('scale') + tr(state.scale);
+  const lastWeek = st.last ? tr('cWeek', st.last.week) : '';
+  $('cards').innerHTML = [
+    [tr('cTotalInst'), fmt(st.total), tr('cUninNet', fmt(st.unin), fmt(st.net))],
+    [tr('cTotalInv'), fmt(st.inv), tr('cPerInst', st.perInstall.toFixed(2))],
+    [tr('cLast4'), fmt(st.last4), `${tr('cPrev4', fmt(st.prev4))}  ${delta(st.trend)}`],
+    [tr('cLatest'), st.last ? fmt(st.last.installs) : '–', `${lastWeek} / Invocations ${st.last ? fmt(st.last.invocations) : '–'}`],
+    [tr('cChurn'), pct(st.churn), tr('cChurnSub')],
+    [tr('cPeak'), st.peak ? fmt(st.peak.installs) : '–', st.peak ? tr('cWeek', st.peak.week) : ''],
+  ].map(([l, v, d]) => `<div class="card"><div class="l">${l}</div><div class="v">${v}</div><div class="d">${d}</div></div>`).join('');
+  const w = (multi ? vis : [state.addon]).flatMap(n => checks(n).map(x => (multi ? n + ': ' : '') + x));
+  const meta = state.meta[state.addon];
+  $('warns').innerHTML = (meta?.sync ? `<div class="note">${esc(meta.sync)} (${tr('imported')}: ${meta.imported.slice(0,16).replace('T',' ')})</div>` : '')
+    + (w.length ? `<div class="warn">${tr('warn')}<br>${w.map(esc).join('<br>')}</div>` : '');
+  drawChart();
+  renderTable();
+}
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+
+function launchWeek(n) { const f = series(n).find(x => x.installs > 0 || x.invocations > 0); return f ? f.week : null; }
+function drawChart() {
+  const names = Object.keys(state.data);
+  const multi = state.overlay && names.length > 1;
+  $('legend').innerHTML = '';
+  if (!multi) return drawChartSingle();
+  const m = METRICS.find(x => x.id === state.metric);
+  const colorOf = n => PALETTE[names.indexOf(n) % PALETTE.length];
+  $('legend').innerHTML = names.map(n => `<button data-n="${esc(n)}" style="opacity:${state.hidden.has(n)?0.4:1}"><span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:${colorOf(n)};margin-right:6px"></span>${esc(n)}</button>`).join('');
+  const vis = names.filter(n => !state.hidden.has(n));
+  // x axis: calendar weeks, or weeks since each add-on's first active week
+  let axis, label, weekOf;
+  if (state.rel) {
+    const st = {}; vis.forEach(n => st[n] = launchWeek(n));
+    const maxK = Math.max(0, ...vis.map(n => { const s = series(n); return st[n] && s.length ? Math.round((new Date(s[s.length-1].week) - new Date(st[n])) / 6048e5) : 0; }));
+    axis = [...Array(maxK + 1).keys()]; label = k => '+' + k + tr('wUnit'); weekOf = (n, k) => st[n] ? addDays(st[n], 7 * k) : null;
+  } else {
+    axis = [...new Set(names.flatMap(n => Object.keys(state.data[n])))].sort(); label = w => w.slice(2); weekOf = (n, w) => w;
+  }
+  // val = metric (cumulative / 4-week trailing average with a full window only); disp = after scale transform
+  const val = {}, disp = {};
+  for (const n of vis) {
+    let acc = 0; const win = [];
+    val[n] = axis.map(a => {
+      const x = state.data[n][weekOf(n, a)]; if (!x) return null;
+      const v = x[m.id];
+      if (state.cum) return acc += v;
+      if (state.ma) { win.push(v); if (win.length > 4) win.shift(); return win.length < 4 ? null : win.reduce((p, q) => p + q, 0) / 4; }
+      return v;
+    });
+    const mx = Math.max(1e-9, ...val[n].filter(v => v != null));
+    disp[n] = state.scale === 'norm' ? val[n].map(v => v == null ? null : v / mx * 100) : val[n];
+  }
+  const W = 1050, H = 320, L = 44, R = 12, T = 12, B = 28;
+  const gmax = Math.max(1, ...vis.flatMap(n => disp[n].filter(v => v != null)));
+  let top, f, ticks;
+  if (state.scale === 'norm') { top = 105; f = v => v / top; ticks = [0,25,50,75,100].map(v => ({ v, t:v + '%' })); }
+  else if (state.scale === 'log') { top = gmax * 1.08; f = v => Math.log1p(v) / Math.log1p(top); ticks = [0,1,3,10,30,100,300,1000,3000,10000].filter(v => v <= top).map(v => ({ v, t:String(v) })); }
+  else { top = gmax * 1.08; f = v => v / top; ticks = [0,1,2,3,4].map(k => ({ v:top*k/4, t:String(Math.round(top*k/4)) })); }
+  const X = i => L + (axis.length < 2 ? 0 : i * (W-L-R) / (axis.length-1));
+  const Y = v => T + (1 - f(v)) * (H-T-B);
+  let g = ticks.map(k => `<line x1="${L}" x2="${W-R}" y1="${Y(k.v)}" y2="${Y(k.v)}" stroke="#E3E7EE"/><text x="${L-6}" y="${Y(k.v)+4}" text-anchor="end">${k.t}</text>`).join('');
+  const step = Math.max(1, Math.ceil(axis.length / 10));
+  axis.forEach((a, i) => { if (i % step === 0) g += `<text x="${X(i)}" y="${H-8}" text-anchor="middle">${label(a)}</text>`; });
+  for (const n of vis) {
+    let d = '', pen = false;
+    disp[n].forEach((v, i) => { if (v == null) { pen = false; return; } d += `${pen?'L':'M'}${X(i).toFixed(1)},${Y(v).toFixed(1)} `; pen = true; });
+    g += `<path d="${d}" fill="none" stroke="${colorOf(n)}" stroke-width="2.2"/>`;
+  }
+  $('chart').innerHTML = `<svg viewBox="0 0 ${W} ${H}" width="100%" id="svg">${g}<line id="cur" y1="${T}" y2="${H-B}" stroke="#999" stroke-dasharray="3 3" visibility="hidden"/></svg>`;
+  const tip = $('tip');
+  $('svg').onmousemove = e => {
+    const r = $('svg').getBoundingClientRect(), px = (e.clientX - r.left) / r.width * W;
+    const i = Math.max(0, Math.min(axis.length-1, Math.round((px - L) / ((W-L-R) / Math.max(1, axis.length-1)))));
+    const cur = $('cur'); cur.setAttribute('x1', X(i)); cur.setAttribute('x2', X(i)); cur.setAttribute('visibility', 'visible');
+    tip.style.display = 'block'; tip.style.left = e.clientX + 12 + 'px'; tip.style.top = e.clientY + 12 + 'px';
+    const wk = a => state.rel ? label(a) : a;
+    tip.textContent = `${wk(axis[i])}  (${m.label}${state.cum?' '+tr('cumTip'):state.ma?' '+tr('maTip'):''})\n` + vis.map(n => {
+      const v = val[n][i]; const real = v == null ? '–' : Math.round(v*10)/10;
+      const date = state.rel && weekOf(n, axis[i]) ? ` [${weekOf(n, axis[i])}]` : '';
+      return `${n}: ${real}${state.scale==='norm' && v != null ? ` (${Math.round(disp[n][i])}%)` : ''}${date}`;
+    }).join('\n');
+  };
+  $('svg').onmouseleave = () => { tip.style.display = 'none'; $('cur').setAttribute('visibility', 'hidden'); };
+}
+
+function drawChartSingle() {
+  const s = series(state.addon), m = METRICS.find(x => x.id === state.metric);
+  let ys = s.map(x => x[m.id]);
+  if (state.cum) { let a = 0; ys = ys.map(v => a += v); }
+  const ma = state.ma && !state.cum ? ys.map((_, i) => { if (i < 3) return null; const sl = ys.slice(i-3, i+1); return sl.reduce((a,b)=>a+b,0)/sl.length; }) : null;
+  const W = 1050, H = 320, L = 44, R = 12, T = 12, B = 28;
+  const max = Math.max(1, ...ys) * 1.08;
+  const X = i => L + (s.length < 2 ? 0 : i * (W-L-R) / (s.length-1));
+  const Y = v => T + (1 - v / max) * (H-T-B);
+  let g = '';
+  for (let k = 0; k <= 4; k++) { const v = max * k / 4; g += `<line x1="${L}" x2="${W-R}" y1="${Y(v)}" y2="${Y(v)}" stroke="#E3E7EE"/><text x="${L-6}" y="${Y(v)+4}" text-anchor="end">${Math.round(v)}</text>`; }
+  const step = Math.max(1, Math.ceil(s.length / 10));
+  s.forEach((x, i) => { if (i % step === 0) g += `<text x="${X(i)}" y="${H-8}" text-anchor="middle">${x.week.slice(2)}</text>`; });
+  const path = a => { let d = '', pen = false; a.forEach((v, i) => { if (v == null) { pen = false; return; } d += `${pen?'L':'M'}${X(i).toFixed(1)},${Y(v).toFixed(1)} `; pen = true; }); return d; };
+  const area = `${path(ys)} L${X(ys.length-1)},${Y(0)} L${X(0)},${Y(0)} Z`;
+  g += `<path d="${area}" fill="${m.color}" opacity="${ma?0.10:0.12}"/>`;
+  g += `<path d="${path(ys)}" fill="none" stroke="${m.color}" stroke-width="${ma?1.2:2}" opacity="${ma?0.55:1}"/>`;
+  if (ma) g += `<path d="${path(ma)}" fill="none" stroke="${m.color}" stroke-width="2.5"/>`;
+  g += ys.map((v, i) => `<circle cx="${X(i)}" cy="${Y(v)}" r="3" fill="${m.color}" data-i="${i}"/>`).join('');
+  $('chart').innerHTML = `<svg viewBox="0 0 ${W} ${H}" width="100%" id="svg">${g}</svg>`;
+  const tip = $('tip');
+  $('svg').onmousemove = e => {
+    const r = $('svg').getBoundingClientRect(), px = (e.clientX - r.left) / r.width * W;
+    const i = Math.max(0, Math.min(s.length-1, Math.round((px - L) / ((W-L-R) / Math.max(1, s.length-1)))));
+    const x = s[i];
+    tip.style.display = 'block'; tip.style.left = e.clientX + 12 + 'px'; tip.style.top = e.clientY + 12 + 'px';
+    tip.textContent = `${x.week}\nInstalls ${x.installs}  Uninstalls ${x.uninstalls}\nInvocations ${x.invocations}` + (state.cum ? `\n${tr('cumTip')} ${ys[i]}` : '');
+  };
+  $('svg').onmouseleave = () => tip.style.display = 'none';
+}
+
+function spark(addon) {
+  const s = series(addon).slice(-26).map(x => x.installs), mx = Math.max(1, ...s);
+  const pts = s.map((v, i) => `${(i*80/Math.max(1,s.length-1)).toFixed(1)},${(22 - v/mx*20).toFixed(1)}`).join(' ');
+  return `<svg width="80" height="24"><polyline points="${pts}" fill="none" stroke="#0066FF" stroke-width="1.5"/></svg>`;
+}
+function renderTable() {
+  const cols = [['addon',tr('colAddon')],['total','Installs'],['unin','Uninstalls'],['net',tr('colNet')],['inv','Invocations'],['perInstall','Inv/Install'],['churn',tr('colChurn')],['last4',tr('colLast4')],['trend',tr('colTrend')],['weeks',tr('colWeeks')]];
+  const rows = Object.keys(state.data).map(stats);
+  const { k, dir } = state.sort;
+  rows.sort((a, b) => (typeof a[k] === 'string' ? a[k].localeCompare(b[k]) : ((a[k] ?? -Infinity) - (b[k] ?? -Infinity))) * dir);
+  const tot = { total:sum(rows,'total'), unin:sum(rows,'unin'), net:sum(rows,'net'), inv:sum(rows,'inv'), last4:sum(rows,'last4') };
+  $('tbl').innerHTML = `<thead><tr>${cols.map(([c, l]) => `<th data-k="${c}">${l}${c===k?(dir>0?' ▲':' ▼'):''}</th>`).join('')}<th>${tr('spark')}</th></tr></thead><tbody>`
+    + rows.map(r => `<tr data-a="${esc(r.addon)}" class="${r.addon===state.addon?'sel':''}"><td>${esc(r.addon)}</td><td>${fmt(r.total)}</td><td>${fmt(r.unin)}</td><td>${fmt(r.net)}</td><td>${fmt(r.inv)}</td><td>${r.perInstall.toFixed(2)}</td><td>${pct(r.churn)}</td><td>${fmt(r.last4)}</td><td>${delta(r.trend)}</td><td>${r.weeks}</td><td>${spark(r.addon)}</td></tr>`).join('')
+    + `<tr><td><b>${tr('sum')}</b></td><td>${fmt(tot.total)}</td><td>${fmt(tot.unin)}</td><td>${fmt(tot.net)}</td><td>${fmt(tot.inv)}</td><td></td><td></td><td>${fmt(tot.last4)}</td><td></td><td></td><td></td></tr></tbody>`;
+}
+
+// ---------- events ----------
+$('pick').onclick = () => $('file').click();
+$('file').onchange = e => { importFiles([...e.target.files]); e.target.value = ''; };
+document.addEventListener('dragover', e => { e.preventDefault(); $('drop').classList.add('over'); });
+document.addEventListener('dragleave', () => $('drop').classList.remove('over'));
+document.addEventListener('drop', e => { e.preventDefault(); $('drop').classList.remove('over'); importFiles([...e.dataTransfer.files].filter(f => /\.csv$/i.test(f.name))); });
+$('addon').onchange = e => { state.addon = e.target.value; render(); };
+$('metrics').onclick = e => { const m = e.target.dataset.m; if (m) { state.metric = m; render(); } };
+$('ovl').onclick = () => { state.overlay = !state.overlay; render(); };
+$('legend').onclick = e => { const n = e.target.closest('[data-n]')?.dataset.n; if (n) { state.hidden.has(n) ? state.hidden.delete(n) : state.hidden.add(n); render(); } };
+$('xax').onclick = () => { state.rel = !state.rel; render(); };
+$('scl').onclick = () => { state.scale = { linear:'log', log:'norm', norm:'linear' }[state.scale]; render(); };
+$('rst').onclick = () => { Object.assign(state, { metric:'installs', cum:false, ma:true, overlay:true, rel:false, scale:'linear' }); state.hidden.clear(); render(); };
+$('cum').onclick = () => { state.cum = !state.cum; render(); };
+$('ma').onclick = () => { state.ma = !state.ma; render(); };
+$('tbl').onclick = e => {
+  const th = e.target.closest('th[data-k]'), tr = e.target.closest('tr[data-a]');
+  if (th) { const k = th.dataset.k; state.sort = { k, dir: state.sort.k === k ? -state.sort.dir : -1 }; renderTable(); }
+  else if (tr) { state.addon = tr.dataset.a; render(); scrollTo({ top:0, behavior:'smooth' }); }
+};
+$('exp').onclick = () => {
+  const lines = ['AddonName,Week,Installs,Uninstalls,Invocations'];
+  for (const a of Object.keys(state.data)) for (const x of series(a)) lines.push([JSON.stringify(a), x.week, x.installs, x.uninstalls, x.invocations].join(','));
+  const url = URL.createObjectURL(new Blob([lines.join('\n')], { type:'text/csv' }));
+  Object.assign(document.createElement('a'), { href:url, download:'addon-analyzer-merged.csv' }).click();
+};
+$('lang').onclick = () => { lang = lang === 'ja' ? 'en' : 'ja'; localStorage.setItem(LANG_KEY, lang); $('status').textContent = ''; render(); };
+$('clr').onclick = () => { if (confirm(tr('confirmClr'))) { state.data = {}; state.meta = {}; save(); $('status').textContent = ''; render(); } };
+
+load(); render();
+</script>
+</body>
+</html>
